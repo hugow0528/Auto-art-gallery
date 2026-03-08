@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_061151",
+      "filename": "images/artwork_20260309_061151.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A vibrant pop art composition depicting diverse figures illuminated by moonlight, their silhouettes connected through glowing smartphone screens forming an intricate network of luminous pathways in emerald and deep forest green, shadows dancing across their faces as digital likes and heart icons float like fireflies between them, capturing the electrifying energy of human connection in the digital age against a rich forest-inspired backdrop.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 2093964134,
+      "created_at": "2026-03-09T06:11:51.537516+08:00"
+    },
+    {
       "id": "20260309_054822",
       "filename": "images/artwork_20260309_054822.jpg",
       "topic": "ancient traditions meeting the modern world",
