@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_182801",
+      "filename": "images/artwork_20260308_182801.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "First, the user asked for an image generation prompt about \"social media culture and human connection.\" I need to incorporate specific elements: art style (oil painting), mood (dark and dystopian), lighting (moonlight and shadows), and color palette (vibrant neon colors). The prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the prompt in English, no explanations or markdown.\n\nKey points to include:\n- Theme: social media culture and human connection. This likely involves contrasting elements like technology vs. humanity, isolation vs. connection.\n- Art style: oil painting. So, mention the texture, brushstrokes, or feel of an oil painting.\n- Mood: dark and dystopian. This suggests a bleak, futuristic, or oppressive atmosphere.\n- Lighting: moonlight and shadows. Use moonlight as the primary light source, with dramatic shadows.\n- Color palette: vibrant neon colors. Neon colors pop against dark backgrounds, fitting a dystopian vibe.\n\nStructure the prompt to paint a clear mental picture. Since it's 2-4 sentences, I'll aim for 3 sentences that flow naturally.\n\nStart by setting the scene: Describe a dystopian setting related to social media. For example, people interacting with screens or devices in a dark environment.\n\nIncorporate the elements: Use moonlight to illuminate scenes, shadows to enhance the dark mood, neon colors for accents (like from screens or signs), and specify it's an oil painting for artistic style.\n\nEnsure it's detailed and vivid: Mention specific visual elements like glowing screens, isolated figures, contrasting emotions, etc.\n\nEnd with a sentence that ties it all together, emphasizing the theme of human connection amidst social media culture.\n\nFinal output should be only the prompt, in English.\n\nDraft a prompt:\n\nSentence 1: Set the scene with oil painting style, dark dystopian mood, and moonlight lighting. For instance: \"In a dark, dyst",
+      "text_model": "deepseek",
+      "image_model": "klein-large",
+      "seed": 812990626,
+      "created_at": "2026-03-08T18:28:01.034565+08:00"
+    },
+    {
       "id": "20260308_175300",
       "filename": "images/artwork_20260308_175300.jpg",
       "topic": "sports and human physical achievement",
