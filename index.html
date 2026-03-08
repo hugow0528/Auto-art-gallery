@@ -883,6 +883,45 @@
 
     .admin-mode .card-delete-btn { display: flex; }
     .card-delete-btn:hover { background: rgba(220, 38, 38, 1); transform: scale(1.12); }
+
+    .card-edit-btn {
+      display: none;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      width: 32px;
+      height: 32px;
+      background: rgba(37, 99, 235, 0.88);
+      border: none;
+      border-radius: 50%;
+      color: white;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.95rem;
+      z-index: 5;
+      transition: background var(--transition), transform var(--transition);
+      backdrop-filter: blur(4px);
+    }
+
+    .admin-mode .card-edit-btn { display: flex; }
+    .card-edit-btn:hover { background: rgba(37, 99, 235, 1); transform: scale(1.12); }
+
+    .admin-field textarea {
+      padding: 10px 14px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 0.9rem;
+      font-family: var(--font);
+      outline: none;
+      transition: border-color var(--transition);
+      resize: vertical;
+      min-height: 140px;
+    }
+
+    .admin-field textarea:focus { border-color: var(--accent); }
   </style>
 </head>
 <body>
@@ -1015,6 +1054,26 @@
     <div class="admin-btns">
       <button class="admin-btn admin-btn-cancel" id="admin-cancel">Cancel</button>
       <button class="admin-btn admin-btn-login" id="admin-login">Login</button>
+    </div>
+  </div>
+</div>
+
+<!-- Admin Edit Modal -->
+<div class="admin-modal-overlay" id="edit-modal" role="dialog" aria-modal="true" aria-label="Edit artwork">
+  <div class="admin-modal" style="width:min(560px,92vw)">
+    <h2>✏️ Edit Artwork</h2>
+    <div class="admin-field">
+      <label for="edit-topic">Topic</label>
+      <input type="text" id="edit-topic" placeholder="Artwork topic / title" autocomplete="off" />
+    </div>
+    <div class="admin-field">
+      <label for="edit-description">Description (Prompt)</label>
+      <textarea id="edit-description" placeholder="Image generation prompt / description"></textarea>
+    </div>
+    <div class="admin-error" id="edit-error" role="alert"></div>
+    <div class="admin-btns">
+      <button class="admin-btn admin-btn-cancel" id="edit-cancel">Cancel</button>
+      <button class="admin-btn admin-btn-login" id="edit-save">Save Changes</button>
     </div>
   </div>
 </div>
@@ -1204,6 +1263,7 @@ function renderGallery() {
         <div class="card-overlay">
           <span class="overlay-view">👁 View Full Size</span>
         </div>
+        <button class="card-edit-btn" data-id="${escHtml(art.id)}" aria-label="Edit artwork description" title="Edit artwork description">✏️</button>
         <button class="card-delete-btn" data-id="${escHtml(art.id)}" aria-label="Delete artwork" title="Delete artwork">🗑</button>
       </div>
       <div class="card-info">
@@ -1229,6 +1289,14 @@ function renderGallery() {
     btn.addEventListener('click', e => {
       e.stopPropagation();
       deleteArtwork(btn.dataset.id);
+    });
+  });
+
+  // Edit button handlers (admin mode)
+  grid.querySelectorAll('.card-edit-btn').forEach(btn => {
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      editArtwork(btn.dataset.id);
     });
   });
 
@@ -1425,6 +1493,79 @@ async function deleteArtwork(artworkId) {
   }
 }
 
+let editingArtworkId = null;
+
+function editArtwork(artworkId) {
+  const art = allArtworks.find(a => a.id === artworkId);
+  if (!art) return;
+  editingArtworkId = artworkId;
+  document.getElementById('edit-topic').value = art.topic || '';
+  document.getElementById('edit-description').value = art.prompt || '';
+  document.getElementById('edit-error').textContent = '';
+  document.getElementById('edit-modal').classList.add('open');
+  document.getElementById('edit-topic').focus();
+}
+
+async function saveArtworkEdit() {
+  const topic = document.getElementById('edit-topic').value.trim();
+  const description = document.getElementById('edit-description').value.trim();
+  const errorEl = document.getElementById('edit-error');
+
+  if (!topic) {
+    errorEl.textContent = 'Topic cannot be empty.';
+    document.getElementById('edit-topic').focus();
+    return;
+  }
+
+  const saveBtn = document.getElementById('edit-save');
+  saveBtn.disabled = true;
+  saveBtn.textContent = 'Saving…';
+  errorEl.textContent = '';
+
+  const headers = { Authorization: 'Bearer ' + githubToken, 'Content-Type': 'application/json' };
+  const apiBase = 'https://api.github.com/repos/' + REPO_OWNER + '/' + REPO_NAME + '/contents/';
+
+  try {
+    // Get current gallery.json
+    const galleryResp = await fetch(apiBase + 'gallery.json', { headers });
+    if (!galleryResp.ok) throw new Error('Could not get gallery.json (HTTP ' + galleryResp.status + ')');
+    const galleryData = await galleryResp.json();
+
+    // Update the matching artwork entry
+    const rawJson = atob(galleryData.content.replace(/\n/g, ''));
+    const parsed = JSON.parse(rawJson);
+    const artEntry = (parsed.artworks || []).find(a => a.id === editingArtworkId);
+    if (!artEntry) throw new Error('Artwork not found in gallery.json');
+    artEntry.topic = topic;
+    artEntry.prompt = description;
+
+    const jsonStr = JSON.stringify(parsed, null, 2);
+    const newContent = btoa(new TextEncoder().encode(jsonStr).reduce((acc, byte) => acc + String.fromCharCode(byte), ''));
+
+    const putResp = await fetch(apiBase + 'gallery.json', {
+      method: 'PUT',
+      headers,
+      body: JSON.stringify({ message: 'Update description for artwork ' + editingArtworkId, content: newContent, sha: galleryData.sha, branch: REPO_BRANCH })
+    });
+    if (!putResp.ok) throw new Error('Failed to update gallery.json (HTTP ' + putResp.status + ')');
+
+    // Update local state and re-render
+    const localArt = allArtworks.find(a => a.id === editingArtworkId);
+    if (localArt) {
+      localArt.topic = topic;
+      localArt.prompt = description;
+    }
+    document.getElementById('edit-modal').classList.remove('open');
+    applyFilters();
+    alert('Artwork updated successfully!');
+  } catch (err) {
+    errorEl.textContent = 'Error: ' + err.message;
+  } finally {
+    saveBtn.disabled = false;
+    saveBtn.textContent = 'Save Changes';
+  }
+}
+
 // Admin modal event wiring
 document.getElementById('admin-login').addEventListener('click', loginAdmin);
 document.getElementById('admin-cancel').addEventListener('click', () => {
@@ -1439,6 +1580,17 @@ adminModalOverlay.addEventListener('click', e => {
 document.getElementById('admin-link').addEventListener('click', e => {
   e.preventDefault();
   showAdminLogin();
+});
+
+// Edit modal event wiring
+document.getElementById('edit-save').addEventListener('click', saveArtworkEdit);
+document.getElementById('edit-cancel').addEventListener('click', () => {
+  document.getElementById('edit-modal').classList.remove('open');
+});
+document.getElementById('edit-topic').addEventListener('keydown', e => { if (e.key === 'Enter') saveArtworkEdit(); });
+const editModalOverlay = document.getElementById('edit-modal');
+editModalOverlay.addEventListener('click', e => {
+  if (e.target === editModalOverlay) editModalOverlay.classList.remove('open');
 });
 </script>
 </body>
