@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_172110",
+      "filename": "images/artwork_20260308_172110.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a minimalist style, depict monumental silhouettes of diverse human figures in perpetual motion across a vast, ethereal horizon, their simplified forms evoking ancient migrations and modern nomadism as faint, elongated shadows stretch like threads of destiny under a luminous full moon. Soft pastel hues of pale lavender, mint green, and blush pink bathe the scene in moonlight's glow, casting powerful, dramatic shadows that carve stark geometric contrasts into the undulating earth, symbolizing humanity's endless global odyssey with award-winning precision and serene monumentality.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 842365040,
+      "created_at": "2026-03-08T17:21:10.049077+08:00"
+    },
+    {
       "id": "20260308_165531",
       "filename": "images/artwork_20260308_165531.jpg",
       "topic": "fashion meets technology",
