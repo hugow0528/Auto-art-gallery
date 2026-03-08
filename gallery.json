@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_132935",
+      "filename": "images/artwork_20260308_132935.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "Concept art of a colossal, bio-engineered city rising from the ruins of a forgotten metropolis, its spires woven with bioluminescent flora casting an ethereal, high-contrast black and gold glow across the desolate, reclaimed landscape. Monumental, stylized organic architecture blends seamlessly with remnants of ancient structures, conveying a mood of powerful rebirth and harmonious integration with nature. Intricate details in the city's interwoven pathways and glowing energy conduits emphasize a technologically advanced yet deeply natural post-pandemic transformation, bathed in the dramatic, award-winning lighting.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1199399804,
+      "created_at": "2026-03-08T13:29:35.113645+08:00"
+    },
+    {
       "id": "20260308_130847",
       "filename": "images/artwork_20260308_130847.jpg",
       "topic": "quantum computing and the future",
