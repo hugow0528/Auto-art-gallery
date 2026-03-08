@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_165531",
+      "filename": "images/artwork_20260308_165531.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A lone figure, their face partially obscured by shadow, stands before a holographic projection of intricate, bioluminescent circuits that weave around them like ethereal tendrils. The cinematic scene is imbued with an intimate and human mood, captured through the stark contrast of moonlight and deep shadows that sculpt the scene. Rendered in a monochromatic black and white palette, the image emphasizes the delicate interplay between organic form and futuristic technology, creating a visually stunning and award-winning composition.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 852926339,
+      "created_at": "2026-03-08T16:55:31.806642+08:00"
+    },
+    {
       "id": "20260308_161619",
       "filename": "images/artwork_20260308_161619.jpg",
       "topic": "revolution in education through technology",
