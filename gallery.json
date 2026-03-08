@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_155010",
+      "filename": "images/artwork_20260308_155010.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A close-up photorealistic portrait of street artists in Hong Kong creating layered stencil artwork on a weathered wall, their hands illuminated by dozens of glowing candles arranged in a gentle circle around them, warm amber and orange tones bathing the scene in soft, intimate light as colorful paint splashes and protest slogans transform the urban concrete into powerful visual poetry of resilience and hope.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1865831538,
+      "created_at": "2026-03-08T15:50:10.814560+08:00"
+    },
+    {
       "id": "20260308_153145",
       "filename": "images/artwork_20260308_153145.jpg",
       "topic": "Hong Kong city life and culture",
