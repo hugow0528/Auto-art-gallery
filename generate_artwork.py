@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Auto Art Gallery - Artwork Generator
-Generates AI artwork every 2 hours using Pollinations AI API.
+Generates AI artwork every 30 minutes from 4:00 AM to 11:00 PM HKT using Pollinations AI API.
 """
 
 import io
@@ -10,12 +10,14 @@ import json
 import random
 import time
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 import requests
 from PIL import Image
 
 API_KEY = os.environ.get("POLLINATIONS_API_KEY", "")
+
+HKT = timezone(timedelta(hours=8))
 API_BASE = "https://gen.pollinations.ai"
 
 # Text models to randomly choose from (with fallback order)
@@ -316,7 +318,7 @@ def main():
         raise SystemExit(1)
 
     # Save the image with JPEG optimization for smaller file size
-    timestamp = datetime.now(timezone.utc).strftime("%Y%m%d_%H%M%S")
+    timestamp = datetime.now(HKT).strftime("%Y%m%d_%H%M%S")
     filename = f"{images_dir}/artwork_{timestamp}.jpg"
     try:
         img = Image.open(io.BytesIO(image_data))
@@ -339,7 +341,7 @@ def main():
         "text_model": text_model,
         "image_model": image_model,
         "seed": used_seed,
-        "created_at": datetime.now(timezone.utc).isoformat(),
+        "created_at": datetime.now(HKT).isoformat(),
     }
     gallery["artworks"].insert(0, artwork)
     save_gallery(gallery, gallery_file)
