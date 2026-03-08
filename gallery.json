@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_214157",
+      "filename": "images/artwork_20260308_214157.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone ancient athlete, muscles subtly defined, is captured mid-pose in a serene, almost meditative yoga stance atop a sun-drenched, terracotta plateau overlooking a vast, muted landscape. Soft, diffused daylight bathes the scene, highlighting the warm earth tones and the quiet triumph of human physical achievement in a digital art style that evokes a sense of timeless peace and profound accomplishment. The image should be award-winning in its detail and breathtaking visual harmony.",
+      "text_model": "gemini-fast",
+      "image_model": "klein-large",
+      "seed": 1542769483,
+      "created_at": "2026-03-08T21:41:57.196123+08:00"
+    },
+    {
       "id": "20260308_211326",
       "filename": "images/artwork_20260308_211326.jpg",
       "topic": "renewable energy and sustainable living",
