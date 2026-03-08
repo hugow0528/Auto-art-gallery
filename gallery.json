@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_150818",
+      "filename": "images/artwork_20260308_150818.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A lone figure stands on a rooftop overlooking a sprawling cityscape reclaimed by nature, where verdant vines snake up skyscrapers and wildflowers bloom on concrete balconies, bathed in the warm, melancholic glow of golden hour sunlight. The scene is rendered in a highly detailed digital art style, emphasizing an earth-toned and terracotta color palette, evoking a profound sense of quiet reflection on humanity's intricate relationship with the revitalized planet.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 2099439035,
+      "created_at": "2026-03-08T15:08:18.131011+08:00"
+    },
+    {
       "id": "20260308_142915",
       "filename": "images/artwork_20260308_142915.jpg",
       "topic": "ocean conservation and marine life",
