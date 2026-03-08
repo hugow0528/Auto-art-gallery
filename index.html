@@ -822,6 +822,11 @@
     New artwork generated every 2 hours ·
     <a href="https://github.com/kychugo/Auto-art-gallery" target="_blank" rel="noopener">View on GitHub</a>
   </p>
+  <p style="margin-top:10px;">
+    Copyright &copy; 2026 Hugo Wong. All rights reserved.<br />
+    All AI-generated images on this gallery are the intellectual property of Hugo Wong.
+    The images were created using AI tools and the copyright belongs to Hugo Wong as the creator and curator of this gallery.
+  </p>
 </footer>
 
 <script>
@@ -1001,7 +1006,7 @@ function renderGallery() {
     card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
   });
 
-  // IntersectionObserver lazy loading: only fetch image when card scrolls into view
+  // IntersectionObserver lazy loading: start fetching images well before they scroll into view
   if (cardImgObserver) cardImgObserver.disconnect();
   cardImgObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
@@ -1014,7 +1019,7 @@ function renderGallery() {
       }
       cardImgObserver.unobserve(img);
     });
-  }, { rootMargin: '200px 0px' });
+  }, { rootMargin: '800px 0px' });
 
   grid.querySelectorAll('img[data-src]').forEach(img => cardImgObserver.observe(img));
 }
