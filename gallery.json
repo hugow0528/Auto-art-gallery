@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_074243",
+      "filename": "images/artwork_20260309_074243.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "In a dystopian cyberpunk metropolis shrouded in perpetual twilight, a lone figure, their face obscured by a holographic veil, navigates a digital labyrinth reflecting fractured psyches. Bioluminescent circuitry pulses with an intense, electric gold against the oppressive, high-contrast black, symbolizing the struggle for mental clarity amidst overwhelming data streams and societal disconnection. The scene captures a dramatic, intense mood, showcasing the vulnerability and resilience of the human mind in the hyper-connected, yet isolating, digital age.",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 286102928,
+      "created_at": "2026-03-09T07:42:43.233733+08:00"
+    },
+    {
       "id": "20260309_071947",
       "filename": "images/artwork_20260309_071947.jpg",
       "topic": "space exploration and the cosmos",
