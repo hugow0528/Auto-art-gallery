@@ -781,7 +781,7 @@
         <span id="stat-count">Loading…</span>
       </div>
       <div class="stat-badge" style="display:none" id="stat-refresh">
-        🔄 Every 2 hours
+        🔄 Every 30 minutes
       </div>
     </div>
   </div>
@@ -1067,22 +1067,23 @@ function renderGallery() {
     card.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
   });
 
-  // IntersectionObserver lazy loading: start fetching images well before they scroll into view
+  // IntersectionObserver lazy loading: observe the visible card-img-wrap container
+  // (not the img itself, which starts as display:none and would never intersect)
   if (cardImgObserver) cardImgObserver.disconnect();
   cardImgObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       if (!entry.isIntersecting) return;
-      const img = entry.target;
-      const src = img.dataset.src;
-      if (src) {
-        img.src = src;
+      const wrap = entry.target;
+      const img = wrap.querySelector('img[data-src]');
+      if (img) {
+        img.src = img.dataset.src;
         img.removeAttribute('data-src');
       }
-      cardImgObserver.unobserve(img);
+      cardImgObserver.unobserve(wrap);
     });
   }, { rootMargin: '800px 0px' });
 
-  grid.querySelectorAll('img[data-src]').forEach(img => cardImgObserver.observe(img));
+  grid.querySelectorAll('.card-img-wrap').forEach(wrap => cardImgObserver.observe(wrap));
 }
 
 /* =============================================================
