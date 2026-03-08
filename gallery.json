@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_222829",
+      "filename": "images/artwork_20260308_222829.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A monumental ancient synthesizer cathedral rises from a neon-drenched metropolis, its massive brass pipes and crystalline sound waves transforming into ethereal symphonies that ripple across the sky, while holographic musical notes and waveforms cascade through towering glass arches in a breathtaking fusion of steampunk machinery and digital transcendence, all bathed in soft diffused daylight filtering through translucent domes, with the scene rendered in a powerful cyberpunk aesthetic using a rich palette of deep cool blues, electric purples, and luminous cyan highlights that create a sense of awe-inspiring sonic evolution captured in cinematic detail.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1599599618,
+      "created_at": "2026-03-08T22:28:29.496558+08:00"
+    },
+    {
       "id": "20260308_215441",
       "filename": "images/artwork_20260308_215441.jpg",
       "topic": "cultural diversity and global harmony",
