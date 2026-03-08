@@ -76,17 +76,17 @@
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
   <link rel="manifest" href="site.webmanifest" />
-  <meta name="theme-color" content="#000000" />
+  <meta name="theme-color" content="#4d96ff" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Art Gallery" />
   <meta name="application-name" content="Auto Art Gallery" />
-  <meta name="msapplication-TileColor" content="#000000" />
+  <meta name="msapplication-TileColor" content="#4d96ff" />
   <meta name="msapplication-TileImage" content="android-chrome-192x192.png" />
 
   <style>
     /* =========================================================
-       CSS Custom Properties & Reset — Minimalist B&W
+       CSS Custom Properties & Reset
     ========================================================= */
     :root {
       --bg: #000000;
@@ -100,6 +100,8 @@
       --accent2: #aaaaaa;
       --accent3: #555555;
       --glow: rgba(255,255,255,0.08);
+      --logo-gradient: linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcb77, #4d96ff);
+      --hero-gradient: linear-gradient(135deg, #ff6b6b 0%, #ffd93d 40%, #6bcb77 70%, #4d96ff 100%);
       --card-radius: 4px;
       --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
       --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
@@ -158,7 +160,8 @@
     .logo-icon {
       font-size: 22px;
       line-height: 1;
-      filter: grayscale(1) brightness(1.2);
+      filter: none;
+      drop-shadow: 0 0 8px rgba(255, 107, 107, 0.5);
     }
 
     .logo-text {
@@ -166,7 +169,10 @@
       font-weight: 600;
       letter-spacing: 0.06em;
       text-transform: uppercase;
-      color: var(--text);
+      background: var(--logo-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
     }
 
     .header-stats {
@@ -223,7 +229,10 @@
 
     .hero h1 span {
       font-weight: 700;
-      color: var(--text);
+      background: var(--hero-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
       display: block;
     }
 
