@@ -1,1 +1,14 @@
-{"artworks": []}
+{
+  "artworks": [
+    {
+      "id": "20260308_002107",
+      "filename": "images/artwork_20260308_002107.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A photorealistic vista of a futuristic quantum computing facility perched on a desolate arctic cliff under the melancholic glow of the aurora borealis, where ethereal waves of soft pastel hues—icy blues, pale violets, mint greens, and subtle lavenders—dance across the sky, casting reflective shimmer on vast arrays of suspended qubits that pulse like entangled stars forming probabilistic circuits and decohering nebulae. In the foreground, a solitary figure in a sleek white coat gazes pensively at holographic displays of superpositioned data streams morphing into ghostly, boundary-less human forms, evoking the reflective uncertainty of tomorrow's world. Intricate details reveal frost-kissed superconducting coils, flickering quantum gates amid swirling snow, and distant cosmic horizons blending micro and macro scales in award-winning hyper-realism.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1257024636,
+      "created_at": "2026-03-08T00:21:07.651836+00:00"
+    }
+  ]
+}
