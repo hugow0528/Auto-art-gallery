@@ -10,6 +10,11 @@ on:
 permissions:
   contents: write
 
+# Prevent concurrent runs to avoid git conflicts on gallery.json
+concurrency:
+  group: generate-artwork
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -39,5 +44,15 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/ gallery.json
           git diff --staged --quiet || git commit -m "feat: add artwork $(TZ='Asia/Hong_Kong' date +'%Y-%m-%d %H:%M %Z')"
-          git pull --rebase origin "${GITHUB_REF_NAME}"
-          git push origin "${GITHUB_REF_NAME}"
+          # Retry push up to 3 times to handle any transient remote divergence
+          pushed=false
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "${GITHUB_REF_NAME}" && { pushed=true; break; } || {
+              echo "Push attempt ${attempt} failed, retrying in 10s…"
+              sleep 10
+            }
+          done
+          if [ "${pushed}" != "true" ]; then
+            echo "ERROR: All push attempts failed."
+            exit 1
+          fi
