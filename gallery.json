@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_184746",
+      "filename": "images/artwork_20260308_184746.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, clad in tattered, earth-toned and terracotta-hued armor, drifts through an abyss of shattered, ancient alien structures, their surfaces faintly illuminated by the ethereal, bioluminescent glow of cosmic flora clinging to the debris. The scene evokes a dark and dystopian mood, reminiscent of a post-apocalyptic future for humanity, rendered in a visually stunning, award-winning anime-inspired art style with sharp details and dramatic shadows. The vast, desolate cosmos stretches endlessly, punctuated by distant, dying stars that cast a faint, melancholic light.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1999992171,
+      "created_at": "2026-03-08T18:47:46.162952+08:00"
+    },
+    {
       "id": "20260308_182801",
       "filename": "images/artwork_20260308_182801.jpg",
       "topic": "social media culture and human connection",
