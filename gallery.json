@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_130847",
+      "filename": "images/artwork_20260308_130847.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "Minimalist ethereal aurora borealis light fractures through a vast, serene digital forest of impossibly fine, emerald-green crystalline structures, casting long, tranquil shadows and hinting at the peaceful yet profound power of quantum computation; the deep forest green backdrop pulses with subtle, glowing nodes of interconnected data, evoking a quiet, futuristic utopia.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 2035738500,
+      "created_at": "2026-03-08T13:08:47.392503+08:00"
+    },
+    {
       "id": "20260308_104822",
       "filename": "images/artwork_20260308_104822.jpg",
       "topic": "renewable energy and sustainable living",
