@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_103207",
+      "filename": "images/artwork_20260308_103207.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "First, the user wants an image generation prompt about biotechnology and genetic engineering. I need to incorporate specific elements: art style is watercolor, mood is whimsical and dreamlike, lighting is arctic aurora borealis, and color palette is earth tones and terracotta.\n\nThe prompt must be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. I should respond with ONLY the image prompt itself—no explanations, no titles, no markdown. And write exclusively in English.\n\nKey elements to weave in naturally:\n- Biotechnology and genetic engineering: Think of themes like DNA, genes, cellular structures, genetic manipulation, or biotech labs, but with a whimsical twist.\n- Watercolor art style: This implies soft, flowing, blended colors, typical of watercolor paintings.\n- Whimsical and dreamlike mood: So, the scene should be fantastical, magical, not realistic or harsh.\n- Lighting from arctic aurora borealis: Aurora borealis means northern lights—so vibrant, shimmering lights in the sky, often green, purple, blue, but here we need to blend it with earth tones and terracotta.\n- Color palette: Earth tones and terracotta—think browns, oranges, reds, beiges, akin to natural earthy colors.\n\nI need to combine these into a cohesive prompt. Biotechnology often involves microscopic views or futuristic labs, but for whimsical and dreamlike, I can imagine a surreal landscape or scene where biological elements are part of the environment.\n\nPossible imagery: DNA strands as trees or vines, cells as floating orbs, genetic code as patterns in the sky, etc.\n\nLighting from aurora borealis: This can be the source of light, casting ethereal glows on the scene.\n\nColor palette: Earth tones and terracotta should dominate, so perhaps the biological elements have these colors, and the aurora adds highlights.\n\nStructure the prompt in 2-4 sentences",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 825195025,
+      "created_at": "2026-03-08T10:32:07.292323+08:00"
+    },
+    {
       "id": "20260308_094305",
       "filename": "images/artwork_20260308_094305.jpg",
       "topic": "social media culture and human connection",
