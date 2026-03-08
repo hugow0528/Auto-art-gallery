@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_002806",
+      "filename": "images/artwork_20260308_002806.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A colossal学生在宏伟的圆形大厅中仰望，面前漂浮着发光的全息星图和数据流，周围环绕着悬浮的智能书卷和发光的神经网络连接，巨型透明穹顶天花投射出soft diffused daylight，整个空间充满cool blues and purples的科技光芒，学生们眼中闪烁着顿悟的光芒，digital mentorship portals在墙上闪烁，concept art风格，powerful and monumental氛围打造史诗般的学习圣殿视觉效果",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 622226024,
+      "created_at": "2026-03-08T00:28:06.834474+00:00"
+    },
+    {
       "id": "20260308_002107",
       "filename": "images/artwork_20260308_002107.jpg",
       "topic": "quantum computing and the future",
