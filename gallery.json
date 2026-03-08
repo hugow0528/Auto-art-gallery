@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_054822",
+      "filename": "images/artwork_20260309_054822.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A solitary futuristic figure in minimalist black silhouette walks through a sleek geometric plaza, their face adorned with a shimmering, intricate golden mask inspired by ancient tribal artistry, glowing with internal light. Long, dramatic shadows are cast by the low golden hour sun, creating a high-contrast landscape of sharp black shapes and blazing metallic gold highlights. In the background, faint holographic calligraphy in an ancient script floats beside stark modern architecture, symbolizing a vibrant and energetic fusion of eras.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1961727557,
+      "created_at": "2026-03-09T05:48:22.965597+08:00"
+    },
+    {
       "id": "20260309_053200",
       "filename": "images/artwork_20260309_053200.jpg",
       "topic": "revolution in education through technology",
