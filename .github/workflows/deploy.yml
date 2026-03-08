@@ -30,6 +30,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          # For workflow_run events, use the head branch so we get the latest
+          # commit pushed by the generate workflow (not the pre-push SHA).
+          ref: ${{ github.event.workflow_run.head_branch || github.ref }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
