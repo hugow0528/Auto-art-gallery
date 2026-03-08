@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_211326",
+      "filename": "images/artwork_20260308_211326.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A close-up digital painting of a young woman with dirt on her hands gently tending to a vibrant, cascading vertical garden on the exterior wall of a sun-drenched, eco-friendly dwelling, rendered in an intimate and human art style. Golden hour sunlight bathes the scene, highlighting the rich emerald and deep forest green hues of abundant foliage, with subtle glints reflecting off dew drops and the texture of recycled building materials, evoking a profound sense of connection to nature and sustainable living.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1393397407,
+      "created_at": "2026-03-08T21:13:26.798014+08:00"
+    },
+    {
       "id": "20260308_204708",
       "filename": "images/artwork_20260308_204708.jpg",
       "topic": "street food culture in Hong Kong",
