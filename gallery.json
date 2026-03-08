@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260308_153145",
+      "filename": "images/artwork_20260308_153145.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A cinematic anime-inspired dystopian scene in monochromatic Hong Kong, where towering skyscrapers etched in sharp black ink are bathed in the stark, electric glow of countless neon signs, their Chinese characters bleeding light into narrow, rain-slicked alleyways below. Shadows cling to dense bamboo scaffolding and cramped apartment windows, the entire composition rendered in high-contrast black and white with only the artificial neon glow defining the forms, creating a film noir tension of isolation within the overwhelming urban density.",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1389755956,
+      "created_at": "2026-03-08T15:31:45.206878+08:00"
+    },
+    {
       "id": "20260308_150818",
       "filename": "images/artwork_20260308_150818.jpg",
       "topic": "post-pandemic world transformation",
