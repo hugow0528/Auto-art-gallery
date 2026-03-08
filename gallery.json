@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_064603",
+      "filename": "images/artwork_20260309_064603.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A lone figure stands on the edge of a crumbling rooftop overlooking a sprawling cyberpunk metropolis, their body half-immersed in a glowing holographic interface, neurons of digital code trailing from their neural headset like ghostly tendrils as massive neon signs flicker between monochrome spectrums of pure black and white, casting dramatic shadows across abandoned buildings covered in fading advertisements while distant holographic towers pierce through smoggy skies in this award-winning concept art piece capturing the isolation and fragile hope within a dark dystopian metaverse where humanity has traded reality for digital escape",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1314276543,
+      "created_at": "2026-03-09T06:46:03.122217+08:00"
+    },
+    {
       "id": "20260309_061151",
       "filename": "images/artwork_20260309_061151.jpg",
       "topic": "social media culture and human connection",
