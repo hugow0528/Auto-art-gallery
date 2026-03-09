@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_054055",
+      "filename": "images/artwork_20260310_054055.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A cinematic, wide-angle shot captures a hidden Hong Kong alleyway adorned with vibrant, yet subtly rendered protest murals, their imagery softened by a mysterious, ethereal mist. The scene is bathed in the cool, diffused neon city glow, casting long shadows that dance with the terracotta and muted earth tones of the weathered walls, evoking a sense of quiet resilience amidst urban dynamism. Intricate details in the stencil work and the textures of the damp concrete should be apparent, creating a visually stunning and deeply evocative atmosphere.",
+      "text_model": "gemini-search",
+      "image_model": "klein-large",
+      "seed": 970148972,
+      "created_at": "2026-03-10T05:40:55.871241+08:00"
+    },
+    {
       "id": "20260310_050037",
       "filename": "images/artwork_20260310_050037.jpg",
       "topic": "virtual reality and the metaverse",
