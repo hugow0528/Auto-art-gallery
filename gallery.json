@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_050037",
+      "filename": "images/artwork_20260310_050037.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A colossal humanoid figure formed from cascading ribbons of crimson and deep red watercolor emerges from a luminous forest clearing, its body composed of shifting digital screens and floating holographic geometries, standing monumental and powerful against dappled sunlight filtering through ancient trees in rich ruby and burgundy tones, while ethereal VR tendrils cascade from its fingertips like bleeding light, merging the natural world with the infinite metaverse in a breathtaking symphony of flowing pigment and ethereal technology.",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 438830660,
+      "created_at": "2026-03-10T05:00:37.586750+08:00"
+    },
+    {
       "id": "20260310_042541",
       "filename": "images/artwork_20260310_042541.jpg",
       "topic": "traditional vs modern culture clash in Asia",
