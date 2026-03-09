@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_170757",
+      "filename": "images/artwork_20260309_170757.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A surrealist portrait of a model adorned in intricate, bio-luminescent circuitry woven into flowing garments of rich terracotta and earthy linen, her form subtly merging with an ancient, moss-covered tree. Dappled forest light filters through an impossibly serene canopy, casting ethereal glows on her tranquil expression, while delicate tendrils of light connect her to the surrounding flora in a harmonious, award-winning composition. The scene evokes a peaceful coexistence between organic life and advanced, yet graceful, technology.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1969942776,
+      "created_at": "2026-03-09T17:07:57.369328+08:00"
+    },
+    {
       "id": "20260309_163031",
       "filename": "images/artwork_20260309_163031.jpg",
       "topic": "mental health awareness in the digital age",
