@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_222916",
+      "filename": "images/artwork_20260309_222916.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "An impressionist landscape bathed in a mysterious, ethereal glow where vibrant neon colors clash and meld with soft, deep shadows reminiscent of candlelight. Swirling forms suggest the ebb and flow of renewable energy sources, with subtle hints of sustainable living elements woven into the atmospheric scene. The lighting should feel like it emanates from within the scene, creating an otherworldly ambiance that evokes wonder and intrigue.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 628573685,
+      "created_at": "2026-03-09T22:29:16.053296+08:00"
+    },
+    {
       "id": "20260309_220730",
       "filename": "images/artwork_20260309_220730.jpg",
       "topic": "renewable energy and sustainable living",
