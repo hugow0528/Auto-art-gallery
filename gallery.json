@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_182546",
+      "filename": "images/artwork_20260309_182546.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A lone cross-country skier pushes through the final stretch of a frosty arctic trail at dusk, their breath visible in the cold air as they glide forward with determined grace. Overhead, the vibrant, swirling ribbons of the aurora borealis cast an ethereal green and purple glow across the snow-dusted peaks and the skier's terracotta-toned jacket and gear, creating a dramatic contrast. The hopeful, uplifting mood is captured in the athlete's focused expression and powerful stride, illuminated by the celestial light against a landscape of deep earth tones—rich browns, burnt siennas, and dark evergreen. Every detail is rendered in stunning photorealistic clarity, from the texture of the frozen snow to the dynamic motion of the sport.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1176316744,
+      "created_at": "2026-03-09T18:25:46.939543+08:00"
+    },
+    {
       "id": "20260309_173940",
       "filename": "images/artwork_20260309_173940.jpg",
       "topic": "revolution in education through technology",
