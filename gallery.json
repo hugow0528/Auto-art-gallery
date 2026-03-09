@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_061656",
+      "filename": "images/artwork_20260310_061656.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A photorealistic vista of a futuristic urban metropolis at dusk, featuring towering crimson skyscrapers with sleek, mirrored facades and interwoven crimson lattice bridges pulsing with subtle neon veins, surrounded by lush vertical gardens cascading in deep red foliage. Dramatic studio lighting casts elongated shadows and highlights the intricate geometric architecture, evoking a peaceful, serene mood where empty pedestrian skyways and hovering transport pods glide silently amid a harmonious crimson and deep red color palette of glowing ruby spires against a twilight haze. Highly detailed, award-winning composition with razor-sharp textures on metallic surfaces, atmospheric depth, and ethereal mist for stunning visual immersion.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2093183354,
+      "created_at": "2026-03-10T06:16:56.711074+08:00"
+    },
+    {
       "id": "20260310_055627",
       "filename": "images/artwork_20260310_055627.jpg",
       "topic": "space exploration and the cosmos",
