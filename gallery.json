@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_115526",
+      "filename": "images/artwork_20260309_115526.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user specifies the task: create an image generation prompt. It must be about \"mental health awareness in the digital age.\" I need to incorporate specific elements naturally: art style (oil painting), mood (whimsical and dreamlike), lighting (soft diffused daylight), color palette (soft pastel hues). The prompt should be visually stunning, award-winning, and highly detailed, 2-4 sentences long, and written in English only. My response should be only the prompt itself—no explanations, titles, or markdown.\n\nKey points to cover:\n\n- Theme: mental health awareness in the digital age. This implies elements related to technology, digital life, and mental well-being. Ideas might include digital devices, connectivity, isolation, balance, or symbolic representations of mental health.\n\n- Art style: oil painting. So, mention that the image is an oil painting to set the style.\n\n- Mood: whimsical and dreamlike. This suggests a surreal, light, and imaginative atmosphere.\n\n- Lighting: soft diffused daylight. Describe lighting that is gentle and not harsh, like daylight filtered through something.\n\n- Color palette: soft pastel hues. Use colors that are muted and soothing, like pastels.\n\nThe prompt needs to be detailed and paint a clear mental picture. It should be 2-4 sentences long.\n\nStructure the prompt:\n\n- Start by setting the scene with the art style and mood.\n\n- Incorporate the theme of mental health awareness in the digital age.\n\n- Include lighting and color palette.\n\n- Ensure it's descriptive and vivid.\n\nExample elements for the theme: digital devices like smartphones or laptops, but in a whimsical way. Perhaps symbols of mental health like brains, neurons, or abstract representations. Since it's dreamlike, I can use metaphors.\n\nBrainstorm: A whimsical oil painting with soft diffused daylight, using soft pastel hues. Show a person interacting with digital elements in a surreal way. Maybe digital icons floating like butterflies, or a",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1956148285,
+      "created_at": "2026-03-09T11:55:26.571086+08:00"
+    },
+    {
       "id": "20260309_113541",
       "filename": "images/artwork_20260309_113541.jpg",
       "topic": "economic inequality and social justice",
