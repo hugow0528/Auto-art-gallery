@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_131850",
+      "filename": "images/artwork_20260309_131850.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, rendered in bold pop art lines with a touch of vintage illustration, gazes out of a spacecraft's viewport at a swirling nebula, their helmet reflecting the vibrant, almost tangible glow of an arctic aurora borealis, the scene bathed in the deep, warm hues of earth tones and terracotta, creating an unexpectedly intimate and human moment amidst the cosmic vastness.",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1786139557,
+      "created_at": "2026-03-09T13:18:50.694747+08:00"
+    },
+    {
       "id": "20260309_130916",
       "filename": "images/artwork_20260309_130916.jpg",
       "topic": "future of human civilization and technology",
