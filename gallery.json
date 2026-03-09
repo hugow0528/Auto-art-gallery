@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_122321",
+      "filename": "images/artwork_20260309_122321.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "An anime-inspired scene depicting a serene future where news headlines of tomorrow are presented not on screens but as floating, ethereal projections above a tranquil, mist-laden landscape. The stormy overcast light casts a soft, diffused glow, emphasizing the peaceful mood with colors rendered in a delicate palette of soft pastel hues, creating an award-winning, highly detailed, and visually stunning image.",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 708069115,
+      "created_at": "2026-03-09T12:23:21.948547+08:00"
+    },
+    {
       "id": "20260309_115526",
       "filename": "images/artwork_20260309_115526.jpg",
       "topic": "mental health awareness in the digital age",
