@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_155005",
+      "filename": "images/artwork_20260309_155005.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "An abstract expressionist cityscape unfurls in a whimsical, dreamlike haze, where emerald and deep forest green hues bleed into one another like a watercolor wash across a vast canvas. Soft, diffused daylight filters through the abstract forms, illuminating fleeting suggestions of bustling Hong Kong street food stalls with vibrant, yet indistinct, splashes of color. The composition is an all-over exploration of texture and movement, with gestural lines and painterly smudges hinting at the energetic pulse of the city without defining specific objects, creating an immersive, emotional landscape that evokes the spirit of urban life.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1236338807,
+      "created_at": "2026-03-09T15:50:05.705672+08:00"
+    },
+    {
       "id": "20260309_153411",
       "filename": "images/artwork_20260309_153411.jpg",
       "topic": "animals and nature conservation",
