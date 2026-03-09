@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_190702",
+      "filename": "images/artwork_20260309_190702.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "In a noir art style drenched in stormy overcast light, a dreamlike gathering of diverse global figures—African drummers in vibrant crimson robes, Asian dancers twirling silk scarves, Indigenous elders with feathered headdresses, and European violinists—emerges from deep red shadows on rain-slicked urban streets, their faces half-lit in whimsical harmony as they link hands around a glowing crimson orb symbolizing unity. Venetian blinds cast striped crimson patterns across their forms, distorted Dutch angles warp the rainy alleyway into an otherworldly labyrinth of angular skyscrapers bleeding deep red neon glows, evoking a moody tension between cultural clash and ethereal global embrace. Highly detailed, award-winning composition with chiaroscuro contrasts amplifying the surreal, crimson-drenched palette of blood-red mists swirling through overcast gloom.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein-large",
+      "seed": 633505988,
+      "created_at": "2026-03-09T19:07:02.368895+08:00"
+    },
+    {
       "id": "20260309_184940",
       "filename": "images/artwork_20260309_184940.jpg",
       "topic": "quantum computing and the future",
