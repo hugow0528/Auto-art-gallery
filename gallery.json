@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_135344",
+      "filename": "images/artwork_20260309_135344.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An impressionist painting of a research laboratory at golden hour, where holographic iridescent data streams and luminous, floating molecules drift through shafts of warm, melancholic sunlight. A scientist's empty lab coat hangs on a chair, reflecting the prismatic light, while delicate, glowing petri dishes and ethereal double helixes bloom like transient flowers across the canvas. The scene is a reflective, soft-focus dream of discovery, bathed in a sorrowful yet beautiful glow of breakthrough and human solitude.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 771668711,
+      "created_at": "2026-03-09T13:53:44.103513+08:00"
+    },
+    {
       "id": "20260309_134056",
       "filename": "images/artwork_20260309_134056.jpg",
       "topic": "quantum computing and the future",
