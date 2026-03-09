@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_210206",
+      "filename": "images/artwork_20260309_210206.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "An monumental abstract expressionist composition in stark monochromatic black and white, where ancient, monumental stone structures are deconstructed and reassembled with sharp, geometric lines and chaotic, energetic brushstrokes, evoking a powerful mood amidst soft, diffused daylight. The interplay of solid forms and gestural marks suggests a timeless dialogue between enduring tradition and the fragmented dynamism of the modern world. This image should feel like a raw, emotionally charged vision that commands attention.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 2109081528,
+      "created_at": "2026-03-09T21:02:06.108534+08:00"
+    },
+    {
       "id": "20260309_195401",
       "filename": "images/artwork_20260309_195401.jpg",
       "topic": "post-pandemic world transformation",
