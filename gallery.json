@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260309_144714",
+      "filename": "images/artwork_20260309_144714.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "Cinematic, intimate portrait bathed in warm golden hour sunlight, a young woman with a thoughtful expression tends to a rooftop garden overflowing with bioluminescent, vibrant neon-hued plants, her silhouette framed by the soft glow as the city hums with sustainable energy infrastructure, evoking a profound sense of hope and quiet connection to nature.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1632644321,
+      "created_at": "2026-03-09T14:47:14.845386+08:00"
+    },
+    {
       "id": "20260309_143657",
       "filename": "images/artwork_20260309_143657.jpg",
       "topic": "traditional vs modern culture clash in Asia",
