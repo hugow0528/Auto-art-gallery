@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_160014",
+      "filename": "images/artwork_20260310_160014.jpg",
+      "topic": "artificial intelligence reshaping society",
+      "prompt": "In a lush, enchanted forest bathed in dappled sunlight filtering through vibrant neon canopy leaves glowing in electric blues, hot pinks, and pulsing greens, towering holographic AI neural networks weave through ancient trees, reshaping society into a dynamic utopia. Diverse humans—engineers, artists, and communities—collaborate energetically with floating robotic companions and emergent digital interfaces, constructing neon-lit smart cities from vines and code, symbols of innovation blooming like bioluminescent flowers. Concept art style, award-winning highly detailed masterpiece, vibrant and energetic mood, intricate textures on bark circuits and iridescent fog, cinematic composition with dramatic depth and motion blur.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein-large",
+      "seed": 478558006,
+      "created_at": "2026-03-10T16:00:14.670459+08:00"
+    },
+    {
       "id": "20260310_154124",
       "filename": "images/artwork_20260310_154124.jpg",
       "topic": "Hong Kong protest art and resilience",
