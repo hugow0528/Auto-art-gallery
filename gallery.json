@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_053651",
+      "filename": "images/artwork_20260311_053651.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A monumental pop art vista of the metaverse, where colossal VR avatars in crimson armor stride through infinite crimson-red digital coliseums adorned with bold, high-contrast outlines and explosive halftone patterns, evoking unyielding power and futuristic dominion. Flickering candlelight ambiance casts dramatic, elongated shadows across towering virtual sculptures and interactive neon portals pulsing in deep reds and fiery crimsons, illuminating heroic figures wielding holographic brushes that paint boundless 3D realms. Highly detailed, award-winning composition with sharp edges, vibrant textures, and epic scale, blending retro comic boldness with immersive virtual grandeur.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 147721782,
+      "created_at": "2026-03-11T05:36:51.675894+08:00"
+    },
+    {
       "id": "20260311_045951",
       "filename": "images/artwork_20260311_045951.jpg",
       "topic": "global climate crisis and environmental solutions",
