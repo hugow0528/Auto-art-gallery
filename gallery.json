@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_233021",
+      "filename": "images/artwork_20260310_233021.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A cyberpunk cityscape, reclaimed by nature, where towering, intricate chrome structures are draped in lush, bioluminescent vines, and advanced drones flit through the canopy like digital fireflies. Dappled forest light filters through holographic leaves, casting ethereal patterns on moss-covered, angular architecture that suggests a hopeful rebirth after a global transformation. The monochromatic black and white palette emphasizes the stark contrast between the organic and the artificial, creating a visually stunning and deeply atmospheric scene of post-pandemic renewal.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1453331379,
+      "created_at": "2026-03-10T23:30:21.491575+08:00"
+    },
+    {
       "id": "20260310_225259",
       "filename": "images/artwork_20260310_225259.jpg",
       "topic": "artificial intelligence reshaping society",
