@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_220317",
+      "filename": "images/artwork_20260310_220317.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A whimsical, dreamlike scene of Hong Kong street food stalls bathed in soft pastel bioluminescent glow, with steaming dim sum dumplings and sizzling wonton noodles emitting ethereal blue-green light against midnight purple skies, intricate neon signage flickering with kanji and Cantonese characters, floating holographic food characters drifting above busy stalls, cyberpunk skyscrapers looming in pastel-tinted mist, tiny flying vehicles trailing pastel vapor trails, wet pavement reflecting dreamlike illumination, stylized in hyper-detailed cinematic rendering with subtle film grain and soft bokeh lights.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 245311266,
+      "created_at": "2026-03-10T22:03:17.163830+08:00"
+    },
+    {
       "id": "20260310_214158",
       "filename": "images/artwork_20260310_214158.jpg",
       "topic": "virtual reality and the metaverse",
