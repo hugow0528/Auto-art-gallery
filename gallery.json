@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_055258",
+      "filename": "images/artwork_20260311_055258.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "A sprawling futuristic megacity rendered in ethereal concept art style, where sleek skyscrapers with organic, flowing architecture blend seamlessly with lush gardens and interconnected walkways bathed in soft moonlight. The scene is painted in a dreamy palette of lavender, soft silver, pale cyan, and rose gold hues, with deep shadows creating mysterious pockets of intrigue between towering structures and elevated platforms. Flying vehicles glide silently through the air like graceful creatures, their bioluminescent trails casting gentle ethereal glows across the nocturnal landscape. Advanced wearable technology and holographic interfaces flicker subtly throughout the cityscape, while nature and cutting-edge innovation coexist in perfect harmony, evoking a sense of wonder, tranquility, and boundless human potential.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1461375982,
+      "created_at": "2026-03-11T05:52:58.928796+08:00"
+    },
+    {
       "id": "20260311_053651",
       "filename": "images/artwork_20260311_053651.jpg",
       "topic": "virtual reality and the metaverse",
