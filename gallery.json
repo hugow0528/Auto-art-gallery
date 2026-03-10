@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_193540",
+      "filename": "images/artwork_20260310_193540.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A bustling Hong Kong street scene unfolds in a whimsical watercolor, where vibrant silks and dragon motifs are rendered in high-contrast black and shimmering gold, bathed in the ethereal, dappled light reminiscent of a secret forest glade, creating a dreamlike atmosphere of ancient traditions meeting modern mystique. Intricate details of steaming dim sum baskets, hovering paper lanterns casting a warm glow, and stylized, hurried figures become almost magical under this unique, luminous effect, evoking a sense of wonder and artistic storytelling.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1323265103,
+      "created_at": "2026-03-10T19:35:40.235094+08:00"
+    },
+    {
       "id": "20260310_190457",
       "filename": "images/artwork_20260310_190457.jpg",
       "topic": "cultural diversity and global harmony",
