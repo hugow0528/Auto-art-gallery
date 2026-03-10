@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_173551",
+      "filename": "images/artwork_20260310_173551.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A dark dystopian post-pandemic world depicted in impressionist style, empty city streets with crumbling architecture and abandoned buildings where nature reclaims urban spaces through vines growing through cracked concrete, ghostly figures wearing masks walking alone in the misty ruins, rendered with visible brushstrokes and soft blending characteristic of impressionism. Warm candlelight flickers from scattered windows and improvised torches, casting pools of amber and orange illumination that pierce through deep violet and charcoal shadows, creating dramatic contrast between intimate golden light and vast emptiness. The mood is haunting and melancholic yet strangely beautiful, with atmospheric fog and smoke diffusing the warm tones across the desolate landscape, capturing both the sorrow of loss and the fragile resilience of humanity emerging into a transformed world.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1622858263,
+      "created_at": "2026-03-10T17:35:51.172356+08:00"
+    },
+    {
       "id": "20260310_170828",
       "filename": "images/artwork_20260310_170828.jpg",
       "topic": "fashion meets technology",
