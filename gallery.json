@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_122128",
+      "filename": "images/artwork_20260310_122128.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "First, the task is to create an image generation prompt that incorporates specific elements: abstract expressionist art style, intimate and human mood, dramatic studio lighting, and a color palette of cool blues and purples. The theme is Hong Kong city life and culture.\n\nI need to ensure the prompt is descriptive, rich in visual detail, and includes all required elements naturally. It should be 2-4 sentences long, written in English only, and without any explanations, titles, or markdown.\n\nKey points from the user's query:\n- Art style: abstract expressionist – so I should mention this style in the prompt.\n- Mood: intimate and human – focus on personal, emotional aspects of city life.\n- Lighting: dramatic studio lighting – imply controlled, intense lighting effects.\n- Color palette: cool blues and purples – use these colors to dominate the scene.\n- Theme: Hong Kong city life and culture – include elements like bustling streets, neon signs, crowded markets, or traditional aspects.\n\nThe prompt should paint a clear mental picture and be visually stunning, award-winning, and highly detailed.\n\nStructure the prompt in 2-4 sentences:\n1. Start with the setting and mood.\n2. Incorporate lighting and color palette.\n3. Describe specific visual elements with the art style.\n4. Ensure it flows naturally and is engaging.\n\nBrainstorm some Hong Kong elements: Victoria Harbour, neon-lit streets, dim sum restaurants, crowded markets like Temple Street, skyscrapers, traditional temples, etc. But since it's abstract expressionist, I can focus on emotional and human aspects rather than realistic depictions.\n\nAbstract expressionism often involves spontaneous, subconscious creation, with emphasis on color, texture, and form to convey emotions. So, the prompt should evoke feelings through abstract elements.\n\nDramatic studio lighting suggests sharp contrasts, highlights, and shadows, which can enhance the intimate mood.\n\nCool blues and purples give a serene, melancholic, or mysterious tone, which can contrast with the",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 845665665,
+      "created_at": "2026-03-10T12:21:28.500314+08:00"
+    },
+    {
       "id": "20260310_121430",
       "filename": "images/artwork_20260310_121430.jpg",
       "topic": "animals and nature conservation",
