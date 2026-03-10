@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_140836",
+      "filename": "images/artwork_20260310_140836.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A vibrant digital art masterpiece depicting a decentralized future where towering golden blockchain nodes pulse with energetic light, interconnected by shimmering black threads forming an infinite web across a futuristic cityscape of floating smart contracts and holographic NFTs, evoking boundless innovation and empowerment. Soft diffused daylight filters through ethereal data clouds, casting dynamic glows on intricate cryptographic patterns etched in gold leaf against deep void-black expanses, rendered in high-contrast black and gold palette for award-winning visual depth and stunning detail. Energetic figures of diverse avatars exchange glowing tokens in a bustling peer-to-peer nexus, symbolizing liberated global connectivity in this highly detailed, immersive vision of blockchain utopia.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1835751372,
+      "created_at": "2026-03-10T14:08:36.382041+08:00"
+    },
+    {
       "id": "20260310_134123",
       "filename": "images/artwork_20260310_134123.jpg",
       "topic": "artificial intelligence reshaping society",
