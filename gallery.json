@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_124659",
+      "filename": "images/artwork_20260310_124659.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A vibrant pop art illustration of diverse hands holding glowing smartphones and digital devices, their screens displaying soft, warm symbols of mental wellness—hearts, meditation circles, and supportive messages—rendered in earthy terracotta, sage green, and warm ochre tones against a clean white background. Soft diffused daylight bathes the scene with gentle luminosity, creating intimate shadows that emphasize human connection despite digital separation, while bold graphic lines and halftone dots characteristic of pop art style frame vulnerable, expressive faces in the device screens showing genuine emotion and openness. The composition balances the clinical geometry of technology with organic, flowing human figures, capturing the paradox of seeking mental health support in an increasingly digital world—a contemporary commentary on vulnerability, resilience, and the quiet courage of reaching out online.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 51390515,
+      "created_at": "2026-03-10T12:46:59.839697+08:00"
+    },
+    {
       "id": "20260310_122128",
       "filename": "images/artwork_20260310_122128.jpg",
       "topic": "Hong Kong city life and culture",
