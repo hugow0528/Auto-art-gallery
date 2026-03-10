@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_154124",
+      "filename": "images/artwork_20260310_154124.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "In a monumental digital art masterpiece, towering sculptures of yellow umbrellas and resilient protesters emerge from a lush urban forest clearing, their forms intertwined with vibrant Lennon Walls cascading in soft pastel hues of mint green, blush pink, lavender, and sky blue, symbolizing unyielding Hong Kong protest spirit. Dappled forest light filters through dense canopy leaves, casting ethereal glows and dramatic shadows that amplify the powerful resilience of masked figures holding banners of \"Hong Kong Withstand,\" with intricate origami details and post-it mosaics evoking unity and defiance. Highly detailed textures on rain-slicked fabrics, dew-kissed foliage, and glowing neon protest signs create an award-winning vista of hope amidst adversity, in a cinematic composition blending surreal symbolism and hyper-realistic depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein-large",
+      "seed": 1885626265,
+      "created_at": "2026-03-10T15:41:24.150386+08:00"
+    },
+    {
       "id": "20260310_152458",
       "filename": "images/artwork_20260310_152458.jpg",
       "topic": "sports and human physical achievement",
