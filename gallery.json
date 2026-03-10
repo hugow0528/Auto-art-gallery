@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_095852",
+      "filename": "images/artwork_20260310_095852.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "First, the user wants a unique, detailed image generation prompt about urban architecture of the future. I need to incorporate specific elements: art style is cinematic, mood is whimsical and dreamlike, lighting is arctic aurora borealis, and color palette is crimson and deep red.\n\nThe prompt should be visually stunning, award-winning, and highly detailed. It must be 2-4 sentences long and paint a clear mental picture. I must respond with ONLY the image prompt itself—no explanations, no titles, no markdown. And write exclusively in English.\n\nI need to craft a prompt that naturally integrates all these elements. Let me brainstorm:\n\n- **Urban architecture of the future**: Think futuristic buildings, maybe with sleek designs, organic shapes, or high-tech elements.\n\n- **Art style: cinematic**: This suggests a scene that looks like it's from a movie, with dramatic angles and composition.\n\n- **Mood: whimsical and dreamlike**: So, it should feel playful, surreal, and ethereal, not harsh or grim.\n\n- **Lighting: arctic aurora borealis**: This means lighting like the Northern Lights—shimmering, flowing, colorful lights in the sky. But the color palette is crimson and deep red, so I need to adapt the aurora to these colors. Typically, auroras are green or purple, but here it should be red.\n\n- **Color palette: crimson and deep red**: Dominant colors should be shades of red.\n\nI need to combine these into a coherent scene. For example, futuristic urban architecture under a sky with crimson aurora borealis lighting, creating a whimsical and dreamlike atmosphere in a cinematic style.\n\nStructure the prompt in 2-4 sentences. Make it descriptive and vivid.\n\nStart by setting the scene: Describe the futuristic architecture. Then, incorporate the lighting and mood. Finally, ensure the color palette is emphasized.\n\nDraft a prompt:\n\n\"In a cinematic scene, futuristic urban architecture",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 466643578,
+      "created_at": "2026-03-10T09:58:52.597696+08:00"
+    },
+    {
       "id": "20260310_074737",
       "filename": "images/artwork_20260310_074737.jpg",
       "topic": "blockchain and decentralized future",
