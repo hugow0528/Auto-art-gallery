@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_152458",
+      "filename": "images/artwork_20260310_152458.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A determined athlete clad in sleek cybernetic enhancements sprints through a futuristic stadium track, bathed in the warm, golden-hour sunlight that casts long, dynamic shadows. The scene explodes with vibrant neon colors—magenta, electric blue, and lime green—radiating from the runner's gear and the holographic starting line, creating a digital art masterpiece of energy and motion. Their focused expression and the cheering, blurred crowd in the background evoke a powerfully hopeful and uplifting mood, celebrating the pinnacle of human physical achievement.",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1957738710,
+      "created_at": "2026-03-10T15:24:58.268880+08:00"
+    },
+    {
       "id": "20260310_143505",
       "filename": "images/artwork_20260310_143505.jpg",
       "topic": "blockchain and decentralized future",
