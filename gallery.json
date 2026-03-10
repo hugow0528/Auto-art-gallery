@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260310_221139",
+      "filename": "images/artwork_20260310_221139.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "In a cyberpunk metaverse realm bathed in the warm, ethereal glow of golden hour sunlight filtering through neon-veined virtual canopies, a lone human figure with a sleek VR headset tenderly reaches out to connect with a glowing emerald avatar companion, their intimate embrace blurring the line between flesh and code. Deep forest greens dominate the color palette, weaving through towering holographic skyscrapers overgrown with bioluminescent vines and flickering data streams, evoking a moody fusion of raw humanity and digital intimacy. Highly detailed, award-winning cyberpunk artistry with intricate neural circuits pulsing on skin, soft god rays piercing misty atmospheres, and subtle glitch artifacts enhancing the stunning, otherworldly realism.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 2130161593,
+      "created_at": "2026-03-10T22:11:39.100043+08:00"
+    },
+    {
       "id": "20260310_220317",
       "filename": "images/artwork_20260310_220317.jpg",
       "topic": "street food culture in Hong Kong",
