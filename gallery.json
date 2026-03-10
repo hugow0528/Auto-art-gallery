@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_074711",
+      "filename": "images/artwork_20260311_074711.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A sprawling, rain-slicked metropolis rendered in a gritty pop-art style, its towering, dilapidated skyscrapers adorned with flickering, vibrant neon signs that cast an oppressive, colorful glow onto the dark, dystopian streets below. A stormy, overcast sky looms ominously, pierced by jagged bolts of lightning that momentarily illuminate the chaotic scene, emphasizing a mood of unease and technological decay. The color palette is dominated by electric blues, searing magentas, toxic greens, and acid yellows, creating a stark contrast against the deep, shadowy urban landscape, symbolizing the fractured promise of a decentralized future.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1944267667,
+      "created_at": "2026-03-11T07:47:11.682698+08:00"
+    },
+    {
       "id": "20260311_072431",
       "filename": "images/artwork_20260311_072431.jpg",
       "topic": "street food culture in Hong Kong",
