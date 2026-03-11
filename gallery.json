@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_061640",
+      "filename": "images/artwork_20260312_061640.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In a vibrant **pop art** style, a majestic pod of dolphins and colorful coral reefs leaps triumphantly from swirling ocean waves toward a radiant horizon, symbolizing renewal and marine revival, with diverse sea turtles, seahorses, and fish encircling a glowing hands-off-Earth emblem that pulses with protective energy. The composition bursts in **high contrast black and gold** tones, bold outlines and explosive patterns evoking hope and collective action for ocean conservation, illuminated by the warm, flickering **candlelight ambiance** that casts ethereal golden glows and dramatic shadows across the underwater wonders. Award-winning, ultra-detailed, visually stunning masterpiece with dynamic movement and uplifting optimism.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 679182377,
+      "created_at": "2026-03-12T06:16:40.994811+08:00"
+    },
+    {
       "id": "20260312_055658",
       "filename": "images/artwork_20260312_055658.jpg",
       "topic": "social media culture and human connection",
