@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_140842",
+      "filename": "images/artwork_20260311_140842.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A surrealist vision of a towering, crystalline tree of knowledge, its branches morphing into glowing fiber optic cables and digital streams, cradling students in transparent, levitating pods. Soft, diffused daylight illuminates the scene, casting long, elegant shadows that highlight the stark contrast of deep blacks and shimmering golds, evoking a hopeful and uplifting mood of intellectual blossoming. Award-winning detail, hyperrealistic textures, ultra-detailed, 8k.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1526709115,
+      "created_at": "2026-03-11T14:08:42.978144+08:00"
+    },
+    {
       "id": "20260311_134353",
       "filename": "images/artwork_20260311_134353.jpg",
       "topic": "renewable energy and sustainable living",
