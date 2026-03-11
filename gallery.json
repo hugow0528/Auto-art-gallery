@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_154331",
+      "filename": "images/artwork_20260311_154331.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A lone figure, cloaked in holographic iridescent fabrics that shimmer with every subtle shift, walks through a deserted, overgrown metropolis at golden hour.  The sunlight, a warm, melancholic amber, casts long shadows across crumbling cyberpunk architecture, reflecting in pools of water on shattered neon-lit streets, evoking a profound sense of post-pandemic reflection.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 325472914,
+      "created_at": "2026-03-11T15:43:32.015971+08:00"
+    },
+    {
       "id": "20260311_152741",
       "filename": "images/artwork_20260311_152741.jpg",
       "topic": "space exploration and the cosmos",
