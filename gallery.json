@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_195433",
+      "filename": "images/artwork_20260311_195433.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "In a pop art style, visualize a mysterious and ethereal blockchain network pulsating with deep crimson and red light, emanating a soft candlelight ambiance. Intricate, glowing nodes interconnected by ethereal crimson threads weave through a dark, velvety background, hinting at a decentralized future shrouded in enigma. This award-winning, highly detailed artwork should capture the profound, almost mystical essence of digital autonomy, with subtle, shimmering details that draw the viewer into its complex, yet beautiful, abstract realm.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2068194669,
+      "created_at": "2026-03-11T19:54:33.490622+08:00"
+    },
+    {
       "id": "20260311_193434",
       "filename": "images/artwork_20260311_193434.jpg",
       "topic": "revolution in education through technology",
