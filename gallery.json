@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_220721",
+      "filename": "images/artwork_20260311_220721.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A serene metaverse sanctuary rendered in neo-noir aesthetic, where a solitary figure stands within an emerald and deep forest green digital landscape, soft diffused daylight filtering through crystalline code structures that dissolve into atmospheric mist, creating an ethereal fusion of virtual architecture and natural tranquility, cinematic in composition with stark contrasts between luminous pathways and shadowed recesses, the scene evoking both the introspective mystery of film noir and the peaceful introspection of a digital refuge suspended between worlds.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 352934222,
+      "created_at": "2026-03-11T22:07:21.619458+08:00"
+    },
+    {
       "id": "20260311_214211",
       "filename": "images/artwork_20260311_214211.jpg",
       "topic": "animals and nature conservation",
