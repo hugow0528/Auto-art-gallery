@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_095902",
+      "filename": "images/artwork_20260311_095902.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "A colossal, stylized emerald green cityscape erupts from a desolate, shadowy landscape under a colossal, hyper-real moon, its pop art aesthetic rendered in bold outlines and vibrant gradients. Monumental, abstract structures pierce the deep forest green night sky, casting dramatic moonlight and elongated shadows that hint at a powerful, post-pandemic resurgence. This award-winning composition vibrates with a sense of awe and defiant rebirth, its colors a rich tapestry of emerald and dark forest green against the stark lunar glow.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1732724197,
+      "created_at": "2026-03-11T09:59:02.536197+08:00"
+    },
+    {
       "id": "20260311_074711",
       "filename": "images/artwork_20260311_074711.jpg",
       "topic": "blockchain and decentralized future",
