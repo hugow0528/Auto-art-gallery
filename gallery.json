@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_180831",
+      "filename": "images/artwork_20260311_180831.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A photorealistic image of a poised female model striding confidently through a rain-slicked futuristic cityscape under stormy overcast skies, her avant-garde crimson gown seamlessly fused with glowing deep red holographic circuits, embedded LED veins pulsing like living technology across translucent fabric panels that shift from matte silk to iridescent smart textiles. Holographic data streams and neural interface jewelry in vibrant crimson accents orbit her form, symbolizing innovation's triumph over chaos, with dramatic diffused lighting piercing the clouds to cast hopeful golden rims on raindrops and neon reflections, evoking an uplifting mood of human ingenuity prevailing. Ultra-detailed textures capture every thread, droplet, and circuit glow in award-winning cinematic realism, using a rich palette of crimson reds, deep scarlet shadows, and subtle metallic warms.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2112674085,
+      "created_at": "2026-03-11T18:08:31.081388+08:00"
+    },
+    {
       "id": "20260311_173433",
       "filename": "images/artwork_20260311_173433.jpg",
       "topic": "sports and human physical achievement",
