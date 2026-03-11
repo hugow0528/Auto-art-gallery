@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_064634",
+      "filename": "images/artwork_20260312_064634.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A stark, minimalist landscape rendered in monochromatic black and white, depicting a dystopian future where the skeletal remains of decaying industrial structures pierce a moonlit, shadow-drenched sky. Jagged, abstract forms representing environmental collapse loom in the foreground, hinting at solutions like vertical farms or renewable energy structures, all rendered with sharp, graphic lines and a sense of profound desolation. The overall mood is dark and foreboding, emphasizing the critical need for change through an award-winning, visually stunning composition.",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1623867124,
+      "created_at": "2026-03-12T06:46:34.780524+08:00"
+    },
+    {
       "id": "20260312_061640",
       "filename": "images/artwork_20260312_061640.jpg",
       "topic": "ocean conservation and marine life",
