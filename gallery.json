@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_113807",
+      "filename": "images/artwork_20260311_113807.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "In an anime-inspired vista of humanity's technological future, a colossal megacity sprawls under a massive full moon, its towering spires and hovering drones casting elongated shadows across neon-veined streets where cybernetically enhanced figures stand in dramatic confrontation amid holographic data storms and quantum energy fields. Soft pastel hues of lavender, mint, and rose illuminate the intense scene, with moonlight piercing through swirling mist to highlight intricate cybernetic limbs, glowing neural implants, and crumbling ancient ruins overtaken by sleek arcologies, evoking a tense fusion of human resilience and machine dominion. Highly detailed, award-winning composition with dynamic poses, volumetric lighting, and epic depth of field.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 735467023,
+      "created_at": "2026-03-11T11:38:07.617204+08:00"
+    },
+    {
       "id": "20260311_112800",
       "filename": "images/artwork_20260311_112800.jpg",
       "topic": "animals and nature conservation",
