@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_160042",
+      "filename": "images/artwork_20260311_160042.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, adrift in the silent expanse of the cosmos, gazes towards a colossal, swirling nebula that dominates the monochromatic sky. Dramatic studio lighting sculpts the astronaut's visor, reflecting a universe of unfathomable depth and mystery, while the stark contrast of black and white amplifies the dramatic and intense mood of this cinematic scene. Award-winning, hyper-detailed, this image captures the sheer awe and terrifying beauty of humanity's cosmic journey.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 300898835,
+      "created_at": "2026-03-11T16:00:42.867764+08:00"
+    },
+    {
       "id": "20260311_154331",
       "filename": "images/artwork_20260311_154331.jpg",
       "topic": "post-pandemic world transformation",
