@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_231225",
+      "filename": "images/artwork_20260311_231225.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A surrealist dreamscape where a translucent figure floats through an infinite library of floating crystalline screens, their body частично dissolving into swirling nebulas of terracotta and amber light, while pale moonlight streams through impossible windows casting long shadows across floating islands of ancient stone and digital fractals, the entire scene bathed in warm earth tones with deep burnt sienna undertones creating a whimsical, dreamlike atmosphere where technology and organic matter blur into one ethereal landscape",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1533069191,
+      "created_at": "2026-03-11T23:12:25.496079+08:00"
+    },
+    {
       "id": "20260311_225021",
       "filename": "images/artwork_20260311_225021.jpg",
       "topic": "human migration and global nomadism",
