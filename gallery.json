@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_055658",
+      "filename": "images/artwork_20260312_055658.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A lone figure, adorned in holographic cyberpunk attire that shimmers with intricate circuitry, stands bathed in dramatic studio lighting, their silhouette stark against a void of high-contrast black and gold. Tendrils of ethereal, glowing data streams weave around them, morphing into abstract, whimsical shapes that suggest fleeting digital connections and dreams within the vast social media landscape. The scene evokes a mood that is both melancholic and enchanting, capturing the ephemeral nature of online interaction with stunning, award-winning detail.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 111394368,
+      "created_at": "2026-03-12T05:56:58.827508+08:00"
+    },
+    {
       "id": "20260312_054136",
       "filename": "images/artwork_20260312_054136.jpg",
       "topic": "space exploration and the cosmos",
