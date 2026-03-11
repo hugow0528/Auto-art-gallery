@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_225021",
+      "filename": "images/artwork_20260311_225021.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A futuristic caravan of nomadic travelers moves across a sprawling cyberpunk cityscape in ruins, their portable pods and hover-vehicles silhouetted against the warm golden hour sun that bleeds through the polluted haze, while pop art-inspired bold outlines and exaggerated proportions contrast with the bleak dystopian atmosphere as towering skyscrapers cast long shadows over the migrating masses, rendered in striking cool blues and deep purples that create an eerie yet mesmerizing tension between the hopeful warm light and the cold technological desperation of displacement.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1510792878,
+      "created_at": "2026-03-11T22:50:21.985219+08:00"
+    },
+    {
       "id": "20260311_221526",
       "filename": "images/artwork_20260311_221526.jpg",
       "topic": "human migration and global nomadism",
