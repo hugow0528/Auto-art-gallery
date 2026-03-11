@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_122114",
+      "filename": "images/artwork_20260311_122114.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "In a quiet, sun-dappled forest clearing, a family huddles intimately around a floating, translucent holographic screen displaying tomorrow's headlines, their faces etched with hope and reflection under the gentle, speckled light filtering through ancient trees. Rendered as a breathtaking digital art piece in a rich monochromatic black and white palette, the scene captures the warmth of human connection amidst the cool glow of future technology, with every strand of hair, leaf vein, and soft light ray rendered in exquisite, emotional detail.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 754671836,
+      "created_at": "2026-03-11T12:21:14.924702+08:00"
+    },
+    {
       "id": "20260311_121444",
       "filename": "images/artwork_20260311_121444.jpg",
       "topic": "revolution in education through technology",
