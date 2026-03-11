@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_184412",
+      "filename": "images/artwork_20260311_184412.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A monumental, monolithic structure of interwoven digital code, rendered in stark monochromatic black and white with the dramatic studio lighting of a surrealist masterpiece, casts immense shadows across an ethereal, fragmented landscape.  This colossal edifice, pulsing with unseen energy and hinting at a decentralized future, evokes a powerful, awe-inspiring sense of digital rebirth and boundless potential.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 223676500,
+      "created_at": "2026-03-11T18:44:12.947466+08:00"
+    },
+    {
       "id": "20260311_180831",
       "filename": "images/artwork_20260311_180831.jpg",
       "topic": "fashion meets technology",
