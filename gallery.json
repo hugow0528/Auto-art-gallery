@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260311_170709",
+      "filename": "images/artwork_20260311_170709.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "First, the user wants a single, vivid, detailed image generation prompt. The topic is \"fashion meets technology.\" I need to incorporate specific elements naturally: photorealistic art style, whimsical and dreamlike mood, soft diffused daylight lighting, and a vibrant neon color palette.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt itself, no explanations, titles, or markdown. Also, write exclusively in English.\n\nI need to paint a clear mental picture. So, I'll start by setting the scene: a fashion context merged with technology.\n\nIncorporate the elements:\n\n- Photorealistic art style: This means the image should look like a real photograph, so I'll use descriptive language that implies realism.\n\n- Whimsical and dreamlike mood: This suggests a playful, surreal, or enchanting atmosphere. Maybe elements that defy normal reality but in a gentle way.\n\n- Soft diffused daylight lighting: This is gentle, even light without harsh shadows, like on a cloudy day or through a soft filter.\n\n- Vibrant neon colors: Bright, glowing colors like neon signs, often associated with technology and nightlife, but since it's daylight, I need to blend it with soft lighting.\n\nCombine fashion and technology: Think of wearable tech, smart fabrics, holographic elements, or futuristic accessories.\n\nStructure the prompt in 2-4 sentences. Keep it concise but descriptive.\n\nStart with the main subject: perhaps a model wearing tech-infused fashion.\n\nDescribe the setting, lighting, mood, and colors naturally.\n\nEnd with details that make it award-winning and visually stunning.\n\nCraft the prompt:\n\nSentence 1: Introduce the scene with fashion and technology, mentioning the mood and lighting.\n\nSentence 2: Describe the visual elements, including colors and details.\n\nSentence 3: Add more specifics to enhance the dreamlike and whimsical aspects.\n\nSentence 4: If needed,",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 793590213,
+      "created_at": "2026-03-11T17:07:09.323912+08:00"
+    },
+    {
       "id": "20260311_162611",
       "filename": "images/artwork_20260311_162611.jpg",
       "topic": "news headlines of tomorrow",
