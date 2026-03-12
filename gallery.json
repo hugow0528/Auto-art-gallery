@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_130507",
+      "filename": "images/artwork_20260312_130507.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "In an anime-inspired vista of stark economic inequality, a towering skyscraper of opulent wealth pierces the smog-choked sky, its pinnacle crowned by masked elites in lavish attire hoarding glowing treasures, while below, a sprawling slum teems with ragged protesters wielding protest signs and chains, their faces etched with defiant fury as they clash against barricades. The scene unfolds in dramatic, intense mood under bioluminescent glow from fractured symbols of justice—like a radiant scales tipping toward the poor and ethereal fists shattering money bags—casting haunting shadows across a **monochromatic black and white** palette of deep inky voids and piercing luminous whites. Highly detailed, award-winning composition with intricate linework, dynamic motion blur in the riots, volumetric god rays from the glow, and epic wide-angle framing evoking social revolution's raw power.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 174063852,
+      "created_at": "2026-03-12T13:05:07.516238+08:00"
+    },
+    {
       "id": "20260312_125229",
       "filename": "images/artwork_20260312_125229.jpg",
       "topic": "news headlines of tomorrow",
