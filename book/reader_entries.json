@@ -203,6 +203,18 @@
       "image_model": "gptimage",
       "seed": 875321921,
       "created_at": "2026-03-13T00:14:23.333737+08:00"
+    },
+    {
+      "id": "20260313_001837",
+      "offset_start": 1577,
+      "offset_end": 1656,
+      "text": "這所宅子的第三進才是居家住人的地方。雪白的院牆上畫着松鶴延年的圖畫。牆\n內住着梁先生、梁太太、秋園和她的兩個哥哥秋成、秋平，還有梁先生的舅舅以\n及四個夥計。",
+      "prompt": "A serene traditional Chinese siheyuan courtyard in the third wing of a grand family residence, featuring snow-white enclosing walls vividly painted with elegant pine trees and long-lived cranes symbolizing longevity, under soft golden afternoon sunlight filtering through overhanging tiled roofs with intricate dougong brackets. The extended family gathers harmoniously: dignified Mr. Liang and Mrs. Liang in flowing silk robes stand beside their daughter Qiuyuan and sons Qiucheng and Qiuping, with Mr. Liang's elderly uncle seated nearby and four young clerks attending respectfully, all amid symmetrical wooden architecture aligned on a north-south axis. Render in a realistic yet painterly style inspired by classical Chinese ink wash paintings with vibrant color accents, evoking a mood of familial warmth, prosperity, and timeless harmony.",
+      "image": "reader_images/reader_20260313_001837.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 355283471,
+      "created_at": "2026-03-13T00:18:37.773354+08:00"
     }
   ],
   "book_total_chars": 92814,
