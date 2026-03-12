@@ -479,6 +479,18 @@
       "image_model": "flux",
       "seed": 2098390270,
       "created_at": "2026-03-13T02:09:53.176006+08:00"
+    },
+    {
+      "id": "20260313_023143",
+      "offset_start": 3460,
+      "offset_end": 3530,
+      "text": "二嫂的母親很有\n幾分姿色，土匪見了哪裡肯放過？二嫂的母親怎麼也不肯從，這麼折騰一陣，土\n匪不耐煩了，掏出槍來一槍打在她胸口上，人當場就沒了。",
+      "prompt": "A photorealistic historical scene in a dusty rural courtyard at dusk. A young woman in traditional Qing-era clothing clutches her chest, her expression of fierce defiance turning to shock as a bandit in tattered military garb points a smoking pistol at her. The atmosphere is grim and chaotic, with muted earth tones and dramatic, low-angle lighting casting long shadows.",
+      "image": "reader_images/reader_20260313_023143.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1137797851,
+      "created_at": "2026-03-13T02:31:43.791501+08:00"
     }
   ],
   "book_total_chars": 92814,
