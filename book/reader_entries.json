@@ -119,6 +119,18 @@
       "image_model": "gptimage",
       "seed": 1450130596,
       "created_at": "2026-03-12T23:38:20.606795+08:00"
+    },
+    {
+      "id": "20260312_234044",
+      "offset_start": 894,
+      "offset_end": 968,
+      "text": "我知道自己寫出的故事如同一滴水，最終將匯入人類歷史的長河。\n\n2\n\n\f第一章 洛陽 南京\n\n3\n\n\f一\n下了幾天的雨，洛陽市安良街的屋檐下滿是積水。",
+      "prompt": "A rain-slicked street in Luoyang, China, with deep puddles reflecting the overcast sky beneath the eaves of traditional tiled roofs. The atmosphere is damp and somber, with a sense of quiet introspection. Subtle Chinese ink wash painting style, muted color palette, soft diffused lighting.",
+      "image": "reader_images/reader_20260312_234044.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 244526484,
+      "created_at": "2026-03-12T23:40:44.152458+08:00"
     }
   ],
   "book_total_chars": 92814,
