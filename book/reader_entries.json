@@ -875,6 +875,18 @@
       "image_model": "gptimage",
       "seed": 783244030,
       "created_at": "2026-03-13T05:36:30.906548+08:00"
+    },
+    {
+      "id": "20260313_054208",
+      "offset_start": 5991,
+      "offset_end": 6058,
+      "text": "11\n\n\f此人是當時國民政府的一位校級官員。他患有偏頭痛，經常去葆和藥店看病，秋\n成開的方子有緩解之功，一來二往，倆人便成了朋友。",
+      "prompt": "A middle-aged Chinese Nationalist government official with a pained expression, clutching his temple, stands in a traditional Chinese pharmacy. Warm, dim lighting from paper lanterns illuminates shelves filled with antique medicinal jars and dried herbs, creating a nostalgic, slightly melancholic atmosphere. The style is reminiscent of early 20th-century Chinese realist painting, with a focus on subtle emotional detail and historical accuracy.",
+      "image": "reader_images/reader_20260313_054208.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 255324937,
+      "created_at": "2026-03-13T05:42:08.732603+08:00"
     }
   ],
   "book_total_chars": 92814,
