@@ -395,6 +395,18 @@
       "image_model": "imagen-4",
       "seed": 268395602,
       "created_at": "2026-03-13T01:37:28.689882+08:00"
+    },
+    {
+      "id": "20260313_014224",
+      "offset_start": 2875,
+      "offset_end": 2962,
+      "text": "梁先生是個跟得上形勢的人。現如今都\n流行上洋學堂，也不興裹腳了。秋園裹了一半的腳被放開，那雙解放腳以後就跟\n了她一輩子。\n\n6\n\n\f二\n隔了些年，大哥秋成十九歲，準備娶親了。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about Mr. Liang, who keeps up with trends, mentioning that it's now popular to attend Western schools and foot-binding is no longer in fashion. Qiu Yuan's half-bound feet were released, and those \"liberated feet\" stayed with her for life. Then, it skips some years to when her brother Qiu Cheng is nineteen and preparing to marry.\n\nI need to craft a vivid, detailed English prompt for image generation. The prompt should capture the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. Respond only with the prompt in English—no explanations, translations, or markdown.\n\nThe passage has two parts: one about Qiu Yuan's feet and another about Qiu Cheng's marriage. But the user says \"Describe a specific visual scene,\" so I should focus on one scene. The passage implies a transition from old to new customs, so I can pick a scene that represents this.\n\nKey elements from the passage:\n- Mr. Liang is modern, following trends.\n- Foot-binding being abandoned: Qiu Yuan's half-bound feet are released.\n- Time skip: Qiu Cheng at nineteen, preparing to marry.\n\nFor a specific visual scene, I could focus on Qiu Yuan's moment of having her feet released, or a scene with Qiu Cheng's marriage preparations. Since the passage mentions both, but the",
+      "image": "reader_images/reader_20260313_014224.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1146659568,
+      "created_at": "2026-03-13T01:42:24.425761+08:00"
     }
   ],
   "book_total_chars": 92814,
