@@ -95,6 +95,18 @@
       "image_model": "flux",
       "seed": 929616687,
       "created_at": "2026-03-12T23:32:19.676370+08:00"
+    },
+    {
+      "id": "20260312_233657",
+      "offset_start": 762,
+      "offset_end": 830,
+      "text": "這些普通人的經歷不寫出來，就註定會被深埋。\n我一遍又一遍地重寫這個故事，稿紙積累了厚厚一摞。出於好奇心，我稱過它們\n的重量——足足八斤。",
+      "prompt": "A writer's desk in a dimly lit room, piled high with stacks of manuscript paper, some of which are visibly heavy, casting long shadows. The atmosphere is one of intense dedication and perhaps a touch of melancholic isolation. A single, warm desk lamp illuminates the scene, highlighting the texture of the paper and the focused, unseen presence of the writer. The style is chiaroscuro, emphasizing the struggle and hidden significance of these ordinary people's stories.",
+      "image": "reader_images/reader_20260312_233657.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 966941677,
+      "created_at": "2026-03-12T23:36:57.460037+08:00"
     }
   ],
   "book_total_chars": 92814,
