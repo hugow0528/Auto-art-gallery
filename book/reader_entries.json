@@ -323,6 +323,18 @@
       "image_model": "zimage",
       "seed": 734662333,
       "created_at": "2026-03-13T01:10:48.170583+08:00"
+    },
+    {
+      "id": "20260313_011336",
+      "offset_start": 2342,
+      "offset_end": 2435,
+      "text": "這事當然瞞不過梁太太。當晚秋園便被她喝令跪在地上，挨了頓重板子。梁太太\n邊打、邊罵、邊哭，可哭歸哭，手上的勁卻一點不松。\n經過一段時間錐心刺骨的疼痛，秋園原本漂亮的腳便失了原來的形狀。",
+      "prompt": "A dimly lit, traditional Chinese courtyard at night, with a single lantern casting long shadows. A stern, middle-aged woman in elegant but severe traditional clothing, her face streaked with tears yet resolute, stands over a young woman kneeling on the cold stone floor. The young woman, dressed in simple servant attire, is recoiling in pain, her once delicate feet visibly misshapen and bruised. The atmosphere is heavy with sorrow, fear, and the stark reality of punishment. Artistic style: Realistic oil painting with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_011336.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 930129620,
+      "created_at": "2026-03-13T01:13:36.341215+08:00"
     }
   ],
   "book_total_chars": 92814,
