@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Book Reader — Auto Art Gallery</title>
+  <meta name="description" content="Read a Chinese literary memoir illustrated with AI-generated artwork, one passage at a time." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Reset & variables ─────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #f5f0e8;
+      --surface:   #fffdf7;
+      --border:    #e0d8c8;
+      --text:      #2c2416;
+      --text-muted:#7a6a52;
+      --accent:    #8b5e3c;
+      --accent-2:  #c89b6e;
+      --progress:  #8b5e3c;
+      --shadow:    rgba(44,36,22,.10);
+      --radius:    12px;
+    }
+
+    [data-theme="dark"] {
+      --bg:        #1a1610;
+      --surface:   #231f18;
+      --border:    #3a3228;
+      --text:      #e8dcc8;
+      --text-muted:#8a7a62;
+      --accent:    #c89b6e;
+      --accent-2:  #8b5e3c;
+      --progress:  #c89b6e;
+      --shadow:    rgba(0,0,0,.30);
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', Georgia, serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      transition: background .3s, color .3s;
+    }
+
+    /* ── Top bar ────────────────────────────────────────────────── */
+    #topbar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      box-shadow: 0 2px 12px var(--shadow);
+      padding: 0 clamp(1rem, 4vw, 3rem);
+    }
+
+    .topbar-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      height: 60px;
+    }
+
+    .site-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+
+    .site-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .divider { color: var(--border); font-size: 1.2rem; }
+
+    .page-title {
+      font-size: 1.0rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* progress bar */
+    .progress-wrap {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      gap: .7rem;
+      min-width: 0;
+    }
+
+    .progress-bar-bg {
+      flex: 1;
+      height: 6px;
+      background: var(--border);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+
+    .progress-bar-fill {
+      height: 100%;
+      background: var(--progress);
+      border-radius: 99px;
+      transition: width .6s ease;
+    }
+
+    .progress-text {
+      font-family: 'Inter', sans-serif;
+      font-size: .75rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    /* theme toggle */
+    #theme-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      padding: .3rem .7rem;
+      font-size: .8rem;
+      cursor: pointer;
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+      transition: border-color .2s, color .2s;
+    }
+    #theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    /* ── Hero ───────────────────────────────────────────────────── */
+    #hero {
+      max-width: 720px;
+      margin: 3rem auto 0;
+      padding: 0 clamp(1rem, 4vw, 2rem);
+      text-align: center;
+    }
+
+    #hero h1 {
+      font-size: clamp(1.6rem, 4vw, 2.4rem);
+      font-weight: 600;
+      color: var(--accent);
+      line-height: 1.3;
+    }
+
+    #hero p {
+      margin-top: .8rem;
+      font-size: 1rem;
+      color: var(--text-muted);
+      line-height: 1.7;
+    }
+
+    .completed-badge {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: .4rem 1.2rem;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 99px;
+      font-size: .85rem;
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ── Entry feed ─────────────────────────────────────────────── */
+    #feed {
+      max-width: 1100px;
+      margin: 3rem auto 4rem;
+      padding: 0 clamp(1rem, 4vw, 2rem);
+      display: flex;
+      flex-direction: column;
+      gap: 4rem;
+    }
+
+    /* individual entry */
+    .entry {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      box-shadow: 0 4px 24px var(--shadow);
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      min-height: 380px;
+    }
+
+    /* alternate image left / right */
+    .entry:nth-child(even) .entry-image { order: -1; }
+
+    .entry-text {
+      padding: clamp(1.5rem, 4vw, 2.5rem);
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .entry-meta {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      flex-wrap: wrap;
+    }
+
+    .entry-num {
+      font-family: 'Inter', sans-serif;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 12%, transparent);
+      padding: .2rem .7rem;
+      border-radius: 99px;
+    }
+
+    .entry-date {
+      font-family: 'Inter', sans-serif;
+      font-size: .75rem;
+      color: var(--text-muted);
+    }
+
+    .entry-passage {
+      font-size: clamp(.95rem, 1.8vw, 1.1rem);
+      line-height: 2;
+      color: var(--text);
+      flex: 1;
+    }
+
+    .entry-caption {
+      font-family: 'Inter', sans-serif;
+      font-size: .78rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      padding-top: .8rem;
+      line-height: 1.5;
+    }
+
+    .entry-image {
+      position: relative;
+      overflow: hidden;
+      background: var(--border);
+      min-height: 300px;
+    }
+
+    .entry-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform .4s ease;
+    }
+
+    .entry:hover .entry-image img { transform: scale(1.03); }
+
+    /* lightbox overlay on image click */
+    .entry-image img { cursor: zoom-in; }
+
+    /* ── Loading / empty states ─────────────────────────────────── */
+    #status {
+      max-width: 480px;
+      margin: 5rem auto;
+      text-align: center;
+      font-family: 'Inter', sans-serif;
+      color: var(--text-muted);
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Footer ─────────────────────────────────────────────────── */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-family: 'Inter', sans-serif;
+      font-size: .8rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+    }
+
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── Lightbox ───────────────────────────────────────────────── */
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 999;
+      background: rgba(0,0,0,.85);
+      align-items: center;
+      justify-content: center;
+      cursor: zoom-out;
+    }
+
+    #lightbox.open { display: flex; }
+
+    #lightbox img {
+      max-width: 90vw;
+      max-height: 90vh;
+      border-radius: 8px;
+      box-shadow: 0 8px 40px rgba(0,0,0,.6);
+    }
+
+    /* ── Responsive ─────────────────────────────────────────────── */
+    @media (max-width: 700px) {
+      .entry {
+        grid-template-columns: 1fr;
+      }
+
+      .entry:nth-child(even) .entry-image { order: unset; }
+
+      .entry-image { min-height: 220px; }
+
+      .progress-wrap { display: none; }
+
+      .page-title { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Top navigation bar ──────────────────────────────────────── -->
+<nav id="topbar">
+  <div class="topbar-inner">
+    <span class="site-title"><a href="index.html">🎨 Auto Art Gallery</a></span>
+    <span class="divider">›</span>
+    <span class="page-title">Book Reader</span>
+    <div class="progress-wrap">
+      <div class="progress-bar-bg">
+        <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
+      </div>
+      <span class="progress-text" id="progress-label">Loading…</span>
+    </div>
+    <button id="theme-btn" aria-label="Toggle dark mode">🌙 Dark</button>
+  </div>
+</nav>
+
+<!-- ── Hero header ─────────────────────────────────────────────── -->
+<header id="hero">
+  <h1 id="book-title">秋园 · 文字与画</h1>
+  <p id="book-subtitle">Every five minutes a new passage from the book is illustrated by AI.<br />Scroll down to read the story so far.</p>
+  <span class="completed-badge" id="completed-badge" style="display:none">📖 Book Complete</span>
+</header>
+
+<!-- ── Loading state ───────────────────────────────────────────── -->
+<div id="status">
+  <div class="spinner"></div>
+  <p>Loading entries…</p>
+</div>
+
+<!-- ── Entry feed ──────────────────────────────────────────────── -->
+<main id="feed" style="display:none" aria-label="Book passages with illustrations"></main>
+
+<!-- ── Footer ─────────────────────────────────────────────────── -->
+<footer>
+  <p>
+    Illustrated by <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a>
+    &nbsp;·&nbsp;
+    <a href="index.html">← Back to Art Gallery</a>
+    &nbsp;·&nbsp;
+    Updated automatically every 5 minutes
+  </p>
+</footer>
+
+<!-- ── Lightbox ────────────────────────────────────────────────── -->
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+  <img id="lightbox-img" src="" alt="" />
+</div>
+
+<script>
+  /* ── Theme toggle ──────────────────────────────────────────────── */
+  const themeBtn = document.getElementById('theme-btn');
+  const root = document.documentElement;
+
+  function applyTheme(dark) {
+    root.dataset.theme = dark ? 'dark' : 'light';
+    themeBtn.textContent = dark ? '☀️ Light' : '🌙 Dark';
+    localStorage.setItem('reader-theme', dark ? 'dark' : 'light');
+  }
+
+  // Initialize from stored preference or system preference
+  const stored = localStorage.getItem('reader-theme');
+  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(stored ? stored === 'dark' : prefersDark);
+
+  themeBtn.addEventListener('click', () => {
+    applyTheme(root.dataset.theme !== 'dark');
+  });
+
+  /* ── Lightbox ──────────────────────────────────────────────────── */
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+
+  function openLightbox(src, alt) {
+    lightboxImg.src = src;
+    lightboxImg.alt = alt || '';
+    lightbox.classList.add('open');
+    document.body.style.overflow = 'hidden';
+  }
+
+  lightbox.addEventListener('click', () => {
+    lightbox.classList.remove('open');
+    document.body.style.overflow = '';
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      lightbox.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+  });
+
+  /* ── Helpers ───────────────────────────────────────────────────── */
+  function formatDate(iso) {
+    try {
+      return new Date(iso).toLocaleString('zh-CN', {
+        year: 'numeric', month: 'long', day: 'numeric',
+        hour: '2-digit', minute: '2-digit'
+      });
+    } catch (_) { return iso; }
+  }
+
+  function escapeHtml(str) {
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  /* ── Render ────────────────────────────────────────────────────── */
+  function renderEntries(data) {
+    const feed = document.getElementById('feed');
+    const status = document.getElementById('status');
+    const progressFill = document.getElementById('progress-fill');
+    const progressLabel = document.getElementById('progress-label');
+    const completedBadge = document.getElementById('completed-badge');
+
+    const entries = data.entries || [];
+    const total = data.book_total_chars || 0;
+    const completed = data.completed || false;
+
+    // Progress bar
+    if (total > 0 && entries.length > 0) {
+      const lastOffset = entries[entries.length - 1].offset_end || 0;
+      const pct = Math.min(100, Math.round((lastOffset / total) * 100));
+      progressFill.style.width = pct + '%';
+      progressLabel.textContent = `${pct}% · ${entries.length} passages`;
+    } else {
+      progressFill.style.width = '0%';
+      progressLabel.textContent = 'No passages yet';
+    }
+
+    // Completed badge
+    if (completed) {
+      completedBadge.style.display = 'inline-block';
+    }
+
+    if (entries.length === 0) {
+      status.innerHTML = '<p>No passages generated yet.<br>Check back in a few minutes!</p>';
+      return;
+    }
+
+    status.style.display = 'none';
+    feed.style.display = 'flex';
+
+    feed.innerHTML = '';
+
+    entries.forEach((entry, idx) => {
+      const num = idx + 1;
+      const article = document.createElement('article');
+      article.className = 'entry';
+      article.id = `entry-${num}`;
+
+      const textSide = `
+        <div class="entry-text">
+          <div class="entry-meta">
+            <span class="entry-num">第 ${num} 段</span>
+            <span class="entry-date">${formatDate(entry.created_at)}</span>
+          </div>
+          <p class="entry-passage">${escapeHtml(entry.text).replace(/\n/g, '<br />')}</p>
+          <p class="entry-caption">
+            🎨 ${escapeHtml(entry.prompt || '')}
+          </p>
+        </div>`;
+
+      const imgSrc = escapeHtml(entry.image || '');
+      const imgAlt = `Illustration for passage ${num}`;
+      const imageSide = `
+        <div class="entry-image">
+          <img src="${imgSrc}" alt="${imgAlt}" loading="lazy"
+               data-src="${imgSrc}" data-alt="${imgAlt}" />
+        </div>`;
+
+      article.innerHTML = textSide + imageSide;
+
+      // Lightbox on image click
+      const img = article.querySelector('.entry-image img');
+      img.addEventListener('click', () => openLightbox(entry.image, imgAlt));
+
+      feed.appendChild(article);
+    });
+  }
+
+  /* ── Fetch data ────────────────────────────────────────────────── */
+  async function loadData() {
+    try {
+      const res = await fetch('reader_entries.json?_=' + Date.now());
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      renderEntries(data);
+    } catch (err) {
+      document.getElementById('status').innerHTML =
+        `<p>Could not load entries.<br><small>${err.message}</small></p>`;
+    }
+  }
+
+  loadData();
+
+  // Auto-refresh every 5 minutes so readers see new content without reloading
+  setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>
