@@ -803,6 +803,18 @@
       "image_model": "grok-imagine",
       "seed": 1973736469,
       "created_at": "2026-03-13T04:59:23.705777+08:00"
+    },
+    {
+      "id": "20260313_050055",
+      "offset_start": 5514,
+      "offset_end": 5604,
+      "text": "家人只得把這\n些光洋挖出來，由着秋成抽了一段時間大煙。\n這麼着坐喫山空，家裡只剩了個空殼子。眼見一家人生計都要沒了着落，秋成不\n得不重新掛起葆和藥店的招牌，一邊替人看病，一邊戒煙。",
+      "prompt": "A weathered traditional Chinese pharmacy storefront with a wooden sign reading \"Baohe Pharmacy\" hanging slightly askew, morning light filtering through worn shutters onto empty shelves barely stocked with medicine drawers, a thin man in a long gown stands at the counter preparing herbal remedies, weary but determined expression, the faded exterior showing signs of past prosperity now",
+      "image": "reader_images/reader_20260313_050055.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1161043436,
+      "created_at": "2026-03-13T05:00:55.565572+08:00"
     }
   ],
   "book_total_chars": 92814,
