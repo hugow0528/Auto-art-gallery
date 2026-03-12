@@ -551,6 +551,18 @@
       "image_model": "zimage",
       "seed": 1832715936,
       "created_at": "2026-03-13T03:09:49.450402+08:00"
+    },
+    {
+      "id": "20260313_031250",
+      "offset_start": 3926,
+      "offset_end": 3998,
+      "text": "齊歡唱！\n齊歡唱！\n\n8\n\n\f三\n秋園十二歲那年的春天，來得很是蹊蹺。前兩日還需穿棉袍夾襖，隔天氣溫就升\n至二三十度，太陽底下恨不得着單褂了。",
+      "prompt": "A sudden, dramatic temperature spike in early spring in a rural Chinese setting, with a young girl, Qiu Yuan, about twelve years old, experiencing the unseasonable warmth. The scene is bathed in bright, almost harsh sunlight, highlighting the stark contrast between the lingering chill and the intense heat, with a hint of new green growth on the trees. The mood is one of surprising, almost bewildering, transition.",
+      "image": "reader_images/reader_20260313_031250.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1515897502,
+      "created_at": "2026-03-13T03:12:50.079297+08:00"
     }
   ],
   "book_total_chars": 92814,
