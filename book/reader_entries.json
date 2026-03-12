@@ -563,6 +563,18 @@
       "image_model": "flux",
       "seed": 1515897502,
       "created_at": "2026-03-13T03:12:50.079297+08:00"
+    },
+    {
+      "id": "20260313_031400",
+      "offset_start": 3998,
+      "offset_end": 4086,
+      "text": "天井裡的一叢迎春，仿佛不經蓓蕾孕育\n就直接爆出花朵。葆和藥店門前那株垂柳，數月來乾枯失色，卻似乎一夜之間便\n抽出細嫩葉芽，陽光照耀下如淡綠的碎金，在早來的春風裡無知無覺地飄蕩。",
+      "prompt": "In a serene traditional Chinese courtyard garden at dawn, a vibrant cluster of forsythia bursts forth with golden-yellow flowers directly from slender branches, skipping buds entirely, surrounded by weathered stone walls and a nearby pharmacy shop entrance marked \"葆和藥店\" in elegant calligraphy. In the foreground, a once-withered weeping willow tree now sprouts delicate pale-green leaf buds shimmering like scattered gold fragments under soft spring sunlight, swaying gently in a light early breeze. Render in the style of classical Chinese ink wash painting with subtle watercolor accents, evoking renewal and quiet harmony, with warm golden light filtering through hazy mist and intricate shadow play on mossy ground.",
+      "image": "reader_images/reader_20260313_031400.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1426044613,
+      "created_at": "2026-03-13T03:14:00.263351+08:00"
     }
   ],
   "book_total_chars": 92814,
