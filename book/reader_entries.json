@@ -515,6 +515,18 @@
       "image_model": "zimage",
       "seed": 1554396512,
       "created_at": "2026-03-13T02:34:56.266427+08:00"
+    },
+    {
+      "id": "20260313_024425",
+      "offset_start": 3678,
+      "offset_end": 3775,
+      "text": "7\n\n\f二嫂眉眼修長，嘴巴小巧，皮膚白裡透紅，除了有點胖，模樣着實好看，人也特\n別善良、厚道。不過，二嫂幼時沒包過腳，也沒大嫂能幹，又因娘家姓李，大嫂\n就經常喊二嫂「李大腳」，有些瞧不上她。",
+      "prompt": "A graceful Chinese woman with elegantly arched brows, delicate features, fair porcelain skin with a rosy flush, and a fuller figure stands in a modest early 20th-century household interior. Her kind, gentle expression and simple traditional clothing convey warmth and goodness, while a subtle sadness flickers in her eyes—hinting at the quiet dismissal she endures from family members who mock her unbound feet and call her \"Big-Footed Li.\" The scene is rendered in soft, realistic oil painting style with warm amber lamplight filtering through paper windows, creating an atmosphere of intimate domestic life tinged with understated melancholy and social tension.",
+      "image": "reader_images/reader_20260313_024425.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1897113864,
+      "created_at": "2026-03-13T02:44:25.206044+08:00"
     }
   ],
   "book_total_chars": 92814,
