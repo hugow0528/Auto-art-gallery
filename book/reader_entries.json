@@ -467,6 +467,18 @@
       "image_model": "grok-imagine",
       "seed": 913010976,
       "created_at": "2026-03-13T02:06:55.197129+08:00"
+    },
+    {
+      "id": "20260313_020953",
+      "offset_start": 3396,
+      "offset_end": 3460,
+      "text": "二嫂家在開封封丘鄉下。父親跑碼頭做生意，賺了些錢。封丘鄉下時有土匪出\n沒。一天晚上，家裡來了一夥土匪搶錢，碰巧男主人出門在外。",
+      "prompt": "A dimly lit, rustic courtyard in rural China, circa early 20th century. The atmosphere is tense and fearful as rough-looking bandits, armed with crude weapons, burst in, their faces harsh in the flickering lantern light. A woman, representing \"二嫂,\" clutches a child, her expression a mixture of terror and defiance. The artistic style should be reminiscent of traditional Chinese ink wash painting, with a dramatic chiaroscuro effect.",
+      "image": "reader_images/reader_20260313_020953.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 2098390270,
+      "created_at": "2026-03-13T02:09:53.176006+08:00"
     }
   ],
   "book_total_chars": 92814,
