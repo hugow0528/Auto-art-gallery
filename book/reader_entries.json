@@ -743,6 +743,18 @@
       "image_model": "flux",
       "seed": 487239993,
       "created_at": "2026-03-13T04:39:38.915427+08:00"
+    },
+    {
+      "id": "20260313_044854",
+      "offset_start": 5141,
+      "offset_end": 5212,
+      "text": "親手送走自己的親人，這只是開頭。在以後的漫長歲月中，秋園生下五個孩子，\n帶活三個，夭折兩個。四十六歲，她埋葬了丈夫。秋園自己活到了八十九歲。",
+      "prompt": "A weathered, stoic elderly woman, \"Qiuyuan,\" with deeply lined features and silver hair pulled back, stands beside a small, simple gravestone in a serene, sun-dappled rural cemetery. The atmosphere is one of quiet melancholy and enduring resilience, with muted earth tones dominating the scene and soft, golden afternoon light casting long shadows. The style should be reminiscent of traditional Chinese ink wash painting with a touch of photorealism, emphasizing the textures of aged wood, weathered stone, and the woman's worn clothing.",
+      "image": "reader_images/reader_20260313_044854.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2097146430,
+      "created_at": "2026-03-13T04:48:54.534783+08:00"
     }
   ],
   "book_total_chars": 92814,
