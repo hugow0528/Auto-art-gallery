@@ -671,6 +671,18 @@
       "image_model": "grok-imagine",
       "seed": 133633595,
       "created_at": "2026-03-13T03:54:52.936820+08:00"
+    },
+    {
+      "id": "20260313_035635",
+      "offset_start": 4690,
+      "offset_end": 4755,
+      "text": "秋園回到家，發現葆和藥店那兩扇朱紅大門大白天破天荒地緊閉着。門前圍着一\n堆人，隔壁金店的掌柜也不做生意了，布店的掌柜也跑出來了。",
+      "prompt": "A bustling daytime street scene in old Shanghai, where the grand vermilion double doors of the Baohua Pharmacy stand unusually closed, drawing a curious crowd of townsfolk including the idle gold shop owner in embroidered robes and the cloth shop proprietor peering from his doorway. Traditional Ming-Qing architecture with black tiles, white walls, red pillars, and upturned eaves frames the anomaly, under a clear blue sky with subtle dust motes in the air, evoking tension and intrigue amid vibrant red lanterns hanging dormant. Render in realistic digital art style like a cinematic photograph by Gregory Crewdson, with dramatic midday lighting casting long shadows and sharp contrasts on the crowd's anxious faces.",
+      "image": "reader_images/reader_20260313_035635.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 654428204,
+      "created_at": "2026-03-13T03:56:35.612189+08:00"
     }
   ],
   "book_total_chars": 92814,
