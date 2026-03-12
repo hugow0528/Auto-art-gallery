@@ -1151,6 +1151,18 @@
       "image_model": "flux",
       "seed": 1961362431,
       "created_at": "2026-03-13T07:38:06.173236+08:00"
+    },
+    {
+      "id": "20260313_074408",
+      "offset_start": 7872,
+      "offset_end": 7952,
+      "text": "雖然\n飛機飛得很低，但日軍既沒遭到防空炮火阻擊，也沒遭到軍用飛機攔截，有時連\n防空警報都沒響。更可笑的是，一些南京市民竟然在街上擺了桌子，拿根長竹竿\n去戳飛機。",
+      "prompt": "In the bustling streets of 1930s Nanjing during a Japanese air raid, a low-flying military airplane buzzes overhead amid clear blue skies with no anti-aircraft fire or alarms, while astonished civilians gather around a makeshift wooden table, one man boldly poking at the plane with a long bamboo pole. The atmosphere blends surreal absurdity and tense defiance, with period clothing like cheongsams and military uniforms, scattered market stalls, and wide-eyed onlookers in the foreground. Render in hyper-realistic digital art style inspired by historical war photography, dramatic midday lighting with sharp shadows, wide-angle composition capturing chaos and humor.[1][2][3]",
+      "image": "reader_images/reader_20260313_074408.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1059238471,
+      "created_at": "2026-03-13T07:44:08.963813+08:00"
     }
   ],
   "book_total_chars": 92814,
