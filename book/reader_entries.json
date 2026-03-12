@@ -263,6 +263,18 @@
       "image_model": "gptimage",
       "seed": 408109448,
       "created_at": "2026-03-13T00:42:08.054184+08:00"
+    },
+    {
+      "id": "20260313_004409",
+      "offset_start": 1917,
+      "offset_end": 2006,
+      "text": "裹腳是件大事，一般都由母親來完成。女孩裹完腳後，有的母親會把女兒抱上一\n張大桌子，讓她站好，然後一把推下桌子；有的母親會拿着鞭子抽打女兒，小女\n孩疼得厲害了就跑，一跑就摔倒了。",
+      "prompt": "A dimly lit, sparse room in a traditional Chinese home. A young girl, her face contorted in pain, is being forced to stand on a large wooden table by her stern mother, who is poised to push her off. The atmosphere is heavy with a sense of dread and suffering, captured in a dramatic, chiaroscuro style reminiscent of historical oil paintings.",
+      "image": "reader_images/reader_20260313_004409.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1604949556,
+      "created_at": "2026-03-13T00:44:09.250586+08:00"
     }
   ],
   "book_total_chars": 92814,
