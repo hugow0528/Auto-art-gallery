@@ -24,9 +24,10 @@ HKT = timezone(timedelta(hours=8))
 API_BASE = "https://gen.pollinations.ai"
 
 BOOK_FILE = "book/source.txt"
-PROGRESS_FILE = "reader_progress.json"
-ENTRIES_FILE = "reader_entries.json"
-IMAGES_DIR = "reader_images"
+PROGRESS_FILE = "book/reader_progress.json"
+ENTRIES_FILE = "book/reader_entries.json"
+IMAGES_DIR = "book/reader_images"        # filesystem path for saving images
+IMAGES_WEB_PREFIX = "reader_images"      # path relative to book/reader.html for use in HTML
 
 # ~20 Chinese words ≈ 40-80 characters; we read at least this many chars then
 # advance to the next sentence-ending punctuation mark.
@@ -283,17 +284,19 @@ def main():
     # Save the image with JPEG optimisation
     os.makedirs(IMAGES_DIR, exist_ok=True)
     timestamp = datetime.now(HKT).strftime("%Y%m%d_%H%M%S")
-    filename = f"{IMAGES_DIR}/reader_{timestamp}.jpg"
+    img_filename = f"reader_{timestamp}.jpg"
+    fs_filename = f"{IMAGES_DIR}/{img_filename}"      # filesystem path for saving
+    web_filename = f"{IMAGES_WEB_PREFIX}/{img_filename}"  # relative path for HTML (relative to book/)
     try:
         img = Image.open(io.BytesIO(image_data))
-        img.save(filename, format="JPEG", quality=85, optimize=True)
-        saved_size = os.path.getsize(filename)
+        img.save(fs_filename, format="JPEG", quality=85, optimize=True)
+        saved_size = os.path.getsize(fs_filename)
     except Exception as exc:
         print(f"  Warning: Pillow optimisation failed ({exc}), saving raw bytes")
-        with open(filename, "wb") as f:
+        with open(fs_filename, "wb") as f:
             f.write(image_data)
         saved_size = len(image_data)
-    print(f"\nSaved image: {filename} ({saved_size:,} bytes)")
+    print(f"\nSaved image: {fs_filename} ({saved_size:,} bytes)")
 
     # Update entries file
     entries = load_entries()
@@ -307,7 +310,7 @@ def main():
             "offset_end": new_offset,
             "text": segment,
             "prompt": prompt,
-            "image": filename,
+            "image": web_filename,
             "text_model": text_model,
             "image_model": image_model,
             "seed": used_seed,
