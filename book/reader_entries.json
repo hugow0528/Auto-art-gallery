@@ -419,6 +419,18 @@
       "image_model": "flux",
       "seed": 472186369,
       "created_at": "2026-03-13T01:51:04.491455+08:00"
+    },
+    {
+      "id": "20260313_015814",
+      "offset_start": 3035,
+      "offset_end": 3151,
+      "text": "有大姑娘的人家尤其不得安生，時不時就會\n傳出哪個村的大姑娘被路過的兵奸了，第二天跳進門前水塘淹死的消息。\n離洛陽城不遠有個餘家村，一戶人家有五個女兒，家人整天都提着心，就怕閨女\n的名節毀在兵士手上，到處託人說媒，想把閨女早日嫁出去。",
+      "prompt": "A somber village scene in ancient China, near Luoyang. Five young women, their faces etched with anxiety, huddle together in a dimly lit courtyard. Their parents, gaunt with worry, consult with a matchmaker under the pale moonlight, a stark contrast to the looming threat of passing soldiers. The atmosphere is heavy with fear and desperation, rendered in the style of traditional Chinese ink wash painting with muted colors and dramatic chiaroscuro.",
+      "image": "reader_images/reader_20260313_015814.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1487946040,
+      "created_at": "2026-03-13T01:58:14.036047+08:00"
     }
   ],
   "book_total_chars": 92814,
