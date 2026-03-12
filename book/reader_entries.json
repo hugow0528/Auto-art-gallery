@@ -899,6 +899,18 @@
       "image_model": "flux-2-dev",
       "seed": 11759455,
       "created_at": "2026-03-13T05:48:02.640352+08:00"
+    },
+    {
+      "id": "20260313_054904",
+      "offset_start": 6125,
+      "offset_end": 6214,
+      "text": "」\n僅隔了兩天，葆和藥店就迎來了國民政府參軍處祕書長的夫人。這位董太太三十\n來歲，長相漂亮，衣着華貴，穿金戴銀。她不看病，而是直接找到梁太太，把她\n拉到一邊，倆人嘀嘀咕咕了許久。",
+      "prompt": "In a dimly lit traditional Chinese pharmacy \"葆和藥店\" from the Republican era, elegant Mrs. Dong, a beautiful 30-something woman in luxurious silk qipao adorned with gold jewelry and silver ornaments, pulls Mrs. Liang aside for a secretive whisper near wooden herb cabinets filled with ceramic pots and labeled drawers of medicinal herbs. The atmosphere is hushed and conspiratorial, with warm lantern light casting soft shadows on antique apothecary shelves brimming with dried roots and bundles, evoking intrigue amid the scent of ancient remedies. Render in realistic 1930s Chinese ink-wash style blended with photorealism, high detail, moody golden-hour glow, cinematic composition focusing on their intense, close-up faces and ornate attire.",
+      "image": "reader_images/reader_20260313_054904.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 253408128,
+      "created_at": "2026-03-13T05:49:04.992272+08:00"
     }
   ],
   "book_total_chars": 92814,
