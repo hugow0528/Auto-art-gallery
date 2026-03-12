@@ -731,6 +731,18 @@
       "image_model": "imagen-4",
       "seed": 521168583,
       "created_at": "2026-03-13T04:19:39.813257+08:00"
+    },
+    {
+      "id": "20260313_043938",
+      "offset_start": 5068,
+      "offset_end": 5141,
+      "text": "病名無從查考，病因倒可想而知：半個多月裏，失妻喪父，連辦三場喪\n事，這年輕人撐不住了。\n秋園的童年時代結束於十二歲——那年春天，她失去了三位親人。",
+      "prompt": "A young man, visibly gaunt and weary, stands amidst the somber beauty of an autumnal garden, the air heavy with unspoken grief. His shoulders are slumped, eyes downcast, reflecting the immense loss of his wife and father within a short span. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with muted colors, soft focus, and a melancholic atmosphere, evoking a profound sense of sorrow and the fragility of life, like a delicate blossom touched by frost.",
+      "image": "reader_images/reader_20260313_043938.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 487239993,
+      "created_at": "2026-03-13T04:39:38.915427+08:00"
     }
   ],
   "book_total_chars": 92814,
