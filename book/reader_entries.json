@@ -587,6 +587,18 @@
       "image_model": "gptimage",
       "seed": 326392308,
       "created_at": "2026-03-13T03:24:17.393435+08:00"
+    },
+    {
+      "id": "20260313_032808",
+      "offset_start": 4172,
+      "offset_end": 4244,
+      "text": "」\n清婉是大嫂，清揚是二嫂。這兩個名字是她們嫁進梁家後，梁先生替她們起的。\n此次遊園會在報上張揚有些時日了，請的都是城中官員、名流或富紳的女眷。",
+      "prompt": "A lavish garden party is underway with elegantly dressed women in traditional Chinese attire, possibly Qipao or Hanfu, mingling amidst ornate pavilions and blooming flora. The atmosphere is sophisticated and lively, with soft, natural sunlight filtering through the foliage, casting gentle shadows. The scene should evoke a sense of refined leisure and social gathering from a bygone era, rendered in a detailed, painterly style.",
+      "image": "reader_images/reader_20260313_032808.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1371732209,
+      "created_at": "2026-03-13T03:28:08.729847+08:00"
     }
   ],
   "book_total_chars": 92814,
