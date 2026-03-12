@@ -983,6 +983,18 @@
       "image_model": "zimage",
       "seed": 78883263,
       "created_at": "2026-03-13T06:02:06.624862+08:00"
+    },
+    {
+      "id": "20260313_061232",
+      "offset_start": 6704,
+      "offset_end": 6812,
+      "text": "小方桌是從喜店租來的，專門用於送訂婚大禮，桌子\n由竹子編成，邊長一尺五寸，中央安一個碗口大的竹圓箍。桌面上鋪着紅綢布，\n聘禮就放在紅綢上，計有四件旗袍、一對金戒指、一對秋葉金耳環、一雙金鐲\n子，還有四雙緞面平底布鞋。",
+      "prompt": "A humble, rented square bamboo table, draped in vibrant red silk, is laden with betrothal gifts: four silk qipaos, a pair of gold rings, ornate gold earrings shaped like autumn leaves, a pair of delicate gold bracelets, and four pairs of satin flat shoes. The scene is bathed in warm, celebratory lantern light, evoking a mood of hopeful anticipation and traditional courtship. Rendered in the style of traditional Chinese ink wash painting, with delicate brushstrokes and a focus on texture and color.",
+      "image": "reader_images/reader_20260313_061232.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1013038538,
+      "created_at": "2026-03-13T06:12:32.828171+08:00"
     }
   ],
   "book_total_chars": 92814,
