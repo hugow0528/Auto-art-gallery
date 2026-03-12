@@ -935,6 +935,18 @@
       "image_model": "imagen-4",
       "seed": 1091076526,
       "created_at": "2026-03-13T05:56:20.287454+08:00"
+    },
+    {
+      "id": "20260313_055714",
+      "offset_start": 6388,
+      "offset_end": 6454,
+      "text": "他\n是湖南長沙人，今年二十六歲，家裡只有一個老父親，有田有屋，是個小康之\n家。」\n梁太太問秋園同不同意這門親事，秋園不答，再問就哭。",
+      "prompt": "A young woman in traditional Chinese qipao sitting quietly in a modest but comfortable 1920s Hunan parlor, tears streaming down her face as she lowers her head in quiet resignation, a middle-aged matchmaker lady standing nearby with an expectant expression. Soft golden afternoon light streams through paper windows, illuminating dust motes in the air, while simple wooden furniture and",
+      "image": "reader_images/reader_20260313_055714.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 160006008,
+      "created_at": "2026-03-13T05:57:14.634554+08:00"
     }
   ],
   "book_total_chars": 92814,
