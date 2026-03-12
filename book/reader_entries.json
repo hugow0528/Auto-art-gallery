@@ -59,6 +59,18 @@
       "image_model": "flux-2-dev",
       "seed": 536599876,
       "created_at": "2026-03-12T22:38:50.652331+08:00"
+    },
+    {
+      "id": "20260312_231005",
+      "offset_start": 433,
+      "offset_end": 517,
+      "text": "然而，自從寫作的念頭浮現，就再也沒法按壓下去。洗淨的青菜晾在籃子裡，竈\n頭燉着肉，在等湯滾沸的間隙，在抽油煙機的轟鳴聲中，我隨時坐下來，讓手中\n的筆在稿紙上快速移動。",
+      "prompt": "A cozy, cluttered modern Chinese home kitchen bathed in warm steam-filled glow from a simmering pot on the stove, with freshly washed green vegetables glistening in a bamboo basket nearby and a roaring range hood fan overhead creating hazy motion blur. In the foreground, a focused female writer sits at a small wooden table amid the chaos, her hand swiftly guiding a pen across sheets of white manuscript paper, capturing an irresistible surge of creative inspiration. Render in realistic digital art style with soft volumetric lighting, intimate atmosphere blending domestic warmth and urgent literary passion, high detail on textures like damp veggies, bubbling broth, and ink scratches.",
+      "image": "reader_images/reader_20260312_231005.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1675707180,
+      "created_at": "2026-03-12T23:10:05.381859+08:00"
     }
   ],
   "book_total_chars": 92814,
