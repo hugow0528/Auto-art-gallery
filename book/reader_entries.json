@@ -971,6 +971,18 @@
       "image_model": "imagen-4",
       "seed": 1578584171,
       "created_at": "2026-03-13T06:00:12.239569+08:00"
+    },
+    {
+      "id": "20260313_060206",
+      "offset_start": 6617,
+      "offset_end": 6704,
+      "text": "」\n梁太太點點頭，秋園終於也點了頭，這樁婚事就算應允下來了。\n\n12\n\n\f五\n秋園未及與楊參謀謀面，董太太就領着四個人送來了聘禮，他們每人頭頂一張小\n方桌，魚貫走入葆和藥店。",
+      "prompt": "A solemn procession in a traditional Chinese herbal pharmacy: Dong Tai-tai leads four bearers, each balancing a small square table laden with betrothal gifts on their head, walking single file past walls of wooden drawers and shelves lined with ceramic jars. The atmosphere is formal and historical, rendered in the style of a realistic Chinese period drama with soft, diffused lighting.",
+      "image": "reader_images/reader_20260313_060206.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 78883263,
+      "created_at": "2026-03-13T06:02:06.624862+08:00"
     }
   ],
   "book_total_chars": 92814,
