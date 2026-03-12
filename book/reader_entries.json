@@ -599,6 +599,18 @@
       "image_model": "gptimage",
       "seed": 1371732209,
       "created_at": "2026-03-13T03:28:08.729847+08:00"
+    },
+    {
+      "id": "20260313_032846",
+      "offset_start": 4244,
+      "offset_end": 4314,
+      "text": "這\n種事在這個保守的古城算是首次。藥店雖說生意不錯，可說到底梁先生也不過是\n個郎中，按理說是拿不到票子的。此次意外得票兩張，他不由滿心歡喜。",
+      "prompt": "In a dimly lit traditional Chinese apothecary shop within the high-walled, conservative ancient city, middle-aged Mr. Liang, dressed in a simple gray robe and round cap, stands behind a wooden counter cluttered with porcelain jars of herbs, silk scrolls, and flickering oil lamps, clutching two precious red tickets in his trembling hands with an expression of uncontainable joy and disbelief. The scene captures the intimate courtyard beyond the open lattice window, framed by symmetrical tiled roofs with upturned eaves, misty twilight filtering through latticed screens to evoke a serene yet momentous atmosphere of rare fortune breaking conservative norms. Render in the style of classical Chinese ink wash painting with realistic details, soft golden lighting, and intricate architectural symmetry inspired by siheyuan courtyards.[1][2][3]",
+      "image": "reader_images/reader_20260313_032846.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1065077277,
+      "created_at": "2026-03-13T03:28:46.220025+08:00"
     }
   ],
   "book_total_chars": 92814,
