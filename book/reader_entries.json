@@ -683,6 +683,18 @@
       "image_model": "grok-imagine",
       "seed": 654428204,
       "created_at": "2026-03-13T03:56:35.612189+08:00"
+    },
+    {
+      "id": "20260313_035820",
+      "offset_start": 4755,
+      "offset_end": 4823,
+      "text": "看見秋園，他們\n9\n\n\f都轉過身來。\n「船沉了。」在一張張翕動的嘴裡，秋園聽明白了這三個字。\n洛河裡那條畫舫遊船幾乎是在一眨眼間沉沒的。",
+      "prompt": "A dramatic, cinematic scene unfolds on the Luo River at autumn's peak. A grand, ornate pleasure boat, moments before a vibrant spectacle, is now submerged beneath the choppy, jade-green waters, its demise indicated by a few disturbed ripples and debris. The atmosphere is one of sudden, shocking stillness and loss, with a somber, overcast sky casting a muted, cool light upon the scene. The artistic style is realistic with a touch of painterly drama, emphasizing the contrast between the river's chaotic surface and the implied tragedy below.",
+      "image": "reader_images/reader_20260313_035820.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 996853077,
+      "created_at": "2026-03-13T03:58:20.950690+08:00"
     }
   ],
   "book_total_chars": 92814,
