@@ -47,6 +47,18 @@
       "image_model": "flux-2-dev",
       "seed": 533970811,
       "created_at": "2026-03-12T22:21:55.158671+08:00"
+    },
+    {
+      "id": "20260312_223850",
+      "offset_start": 328,
+      "offset_end": 433,
+      "text": "這一生我都在爲生存掙\n扎、奮鬥，做過許多活計：種田、切草藥、當工人、做汽車零配件生意……從未\n與文學有過交集。迄今我也並未擺脫生活的重負：老伴年事已高，有糖尿病和輕\n微的老年失憶症狀，我必須像個護士一樣伺候他。",
+      "prompt": "First, the user has provided a Chinese literary passage. I need to create an image-generation prompt based on this passage. The passage translates to: \"In this life, I have been struggling and fighting for survival, doing many jobs: farming, cutting herbs, working as a laborer, doing auto parts business... never had any intersection with literature. So far, I have not shaken off the burden of life: my wife is old, has diabetes and mild senile dementia symptoms, I must serve her like a nurse.\"\n\nThe user specifies: \"Describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, any characters present, and artistic style. 2–4 sentences only. English only.\"\n\nMy response should be ONLY the image prompt in English — no explanations, no translations, no markdown.\n\nSo, I need to craft a vivid, detailed prompt that captures the essence of the passage. The passage talks about a life of struggle, various jobs, and now caring for an elderly spouse with health issues. The scene should reflect this.\n\nKey elements from the passage:\n\n- The narrator has done many jobs: farming, cutting herbs, working as a laborer, auto parts business.\n\n- Currently, caring for an elderly spouse with diabetes and mild dementia.\n\n- The atmosphere is likely somber, burdened, but perhaps with a sense of duty or resilience.\n\nI need to focus on a specific visual scene. Since the passage mentions current caregiving, I can",
+      "image": "reader_images/reader_20260312_223850.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 536599876,
+      "created_at": "2026-03-12T22:38:50.652331+08:00"
     }
   ],
   "book_total_chars": 92814,
