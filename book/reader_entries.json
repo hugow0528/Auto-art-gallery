@@ -815,6 +815,18 @@
       "image_model": "zimage",
       "seed": 1161043436,
       "created_at": "2026-03-13T05:00:55.565572+08:00"
+    },
+    {
+      "id": "20260313_050256",
+      "offset_start": 5604,
+      "offset_end": 5686,
+      "text": "託梁先生原先的口\n碑，病人倒也絡繹不絕。秋平不曾學醫，便掌管藥店雜務。兄弟齊心合力，藥店\n一時間蠻有起色。\n梁先生去世後，梁太太就讓秋園停了學，留在家裡學做針線活。",
+      "prompt": "A warm, softly lit interior of a traditional Chinese pharmacy, where a diligent young woman named Qiuping carefully arranges herbs behind a wooden counter lined with countless small drawers. The atmosphere is one of quiet diligence and modest livelihood, rendered in a style of warm realism with gentle, cinematic lighting.",
+      "image": "reader_images/reader_20260313_050256.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2141330764,
+      "created_at": "2026-03-13T05:02:56.420949+08:00"
     }
   ],
   "book_total_chars": 92814,
