@@ -863,6 +863,18 @@
       "image_model": "gptimage",
       "seed": 160529607,
       "created_at": "2026-03-13T05:20:22.754896+08:00"
+    },
+    {
+      "id": "20260313_053630",
+      "offset_start": 5903,
+      "offset_end": 5991,
+      "text": "這些東西用竹子和紙\n紮成，擺滿了兩條街，上山時讓叫花子舉着、抬着，到了山上再一把火全部燒\n掉。\n秋園在人羣中看了一會兒，就朝家中走去，渾然不覺看熱鬧的人裏有個人一直注\n視着她。",
+      "prompt": "A bustling Chinese night street festival during Lantern Festival, crowded with people carrying and lifting elaborate bamboo-and-paper lanterns in vibrant shapes of animals and mythical figures, filling two entire streets under a starry sky illuminated by warm lantern glow and distant fireworks. In the midst of the throng, a young woman named Qiuyuan in traditional flowing hanfu pauses thoughtfully before turning toward home, unaware of a shadowy figure intently watching her from the crowd. Render in cinematic realism with dramatic chiaroscuro lighting, misty autumn atmosphere, rich reds and golds, in the style of Studio Ghibli meets classical Chinese ink painting.",
+      "image": "reader_images/reader_20260313_053630.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 783244030,
+      "created_at": "2026-03-13T05:36:30.906548+08:00"
     }
   ],
   "book_total_chars": 92814,
