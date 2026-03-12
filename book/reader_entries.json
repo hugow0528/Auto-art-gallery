@@ -575,6 +575,18 @@
       "image_model": "zimage",
       "seed": 1426044613,
       "created_at": "2026-03-13T03:14:00.263351+08:00"
+    },
+    {
+      "id": "20260313_032417",
+      "offset_start": 4086,
+      "offset_end": 4172,
+      "text": "那日梁先生診完一個病人，踱進內室，手裡舉着兩張票子，一臉高興的神氣，對\n女眷們說：\n「剛才來看病的客人在市政廳做官，送了兩張遊園會的票子答謝我，我看就讓清\n婉和清揚去吧。",
+      "prompt": "A warm, intimate scene in a traditional Chinese interior with carved wooden furniture and soft lantern light. A middle-aged man in a scholar's robe holds up two ornate tickets, smiling warmly as he addresses two elegantly dressed young women seated nearby, capturing a moment of gentle celebration in the style of a classical Chinese genre painting.",
+      "image": "reader_images/reader_20260313_032417.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 326392308,
+      "created_at": "2026-03-13T03:24:17.393435+08:00"
     }
   ],
   "book_total_chars": 92814,
