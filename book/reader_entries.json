@@ -779,6 +779,18 @@
       "image_model": "flux-2-dev",
       "seed": 890216031,
       "created_at": "2026-03-13T04:52:56.698515+08:00"
+    },
+    {
+      "id": "20260313_045344",
+      "offset_start": 5349,
+      "offset_end": 5426,
+      "text": "這個朋友本\n來抽大煙，就讓秋成抽了一口，說是提提神採。\n秋成接過對方遞來的煙槍，連抽了好幾口，頓覺精神振奮、飄飄欲仙，渾身一陣\n輕鬆，病魔似乎已離他而去。",
+      "prompt": "In a dimly lit, traditional Chinese opium den with flickering lantern light casting warm amber glows and swirling tendrils of thick, ethereal smoke filling the hazy air, a gaunt man named Qiucheng reclines on a worn bamboo mat, his face illuminated with euphoric bliss as he exhales deeply from an ornate opium pipe passed by his friend. His eyes are half-closed in transcendent relief, body relaxed and light as if freed from illness, surrounded by antique wooden furnishings, scattered paraphernalia, and faint shadows evoking early 20th-century realism. Render in the style of vintage Chinese ink wash painting blended with photorealistic oil textures, moody and intoxicating atmosphere, high detail on smoke wisps and serene expressions.",
+      "image": "reader_images/reader_20260313_045344.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 2111920729,
+      "created_at": "2026-03-13T04:53:44.630674+08:00"
     }
   ],
   "book_total_chars": 92814,
