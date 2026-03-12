@@ -335,6 +335,18 @@
       "image_model": "grok-imagine",
       "seed": 930129620,
       "created_at": "2026-03-13T01:13:36.341215+08:00"
+    },
+    {
+      "id": "20260313_011558",
+      "offset_start": 2435,
+      "offset_end": 2528,
+      "text": "過兩年，秋園被送到一個私塾發蒙。老師是東街的一個秀才，六十多歲，戴一副\n老花鏡，留着山羊鬍子，穿一件深灰色長袍。教室是一個大房間，一頭放一張四\n方桌子，桌上放着筆墨紙硯，還有一塊竹板。",
+      "prompt": "A dimly lit, traditional Chinese classroom from the late Qing Dynasty. An elderly scholar, with a wispy goatee and spectacles perched on his nose, wears a deep grey robe and stands beside a square table laden with calligraphy tools. Sunlight streams through a window, illuminating dust motes dancing in the air. Style: Traditional Chinese ink wash painting with a touch of photorealism.",
+      "image": "reader_images/reader_20260313_011558.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 670912546,
+      "created_at": "2026-03-13T01:15:58.903150+08:00"
     }
   ],
   "book_total_chars": 92814,
