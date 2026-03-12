@@ -719,6 +719,18 @@
       "image_model": "flux",
       "seed": 1567193443,
       "created_at": "2026-03-13T04:04:28.384835+08:00"
+    },
+    {
+      "id": "20260313_041939",
+      "offset_start": 4992,
+      "offset_end": 5068,
+      "text": "梁先生纏綿病榻的半月間，一直是秋園的大哥秋成陪牀。他在父親身側搭了個小\n榻，衣不解帶地伺候。辦完父親的喪事，秋成便得了怪病——全身乏力，顫抖個\n不停。",
+      "prompt": "In a dimly lit traditional Chinese bedroom heavy with the scent of incense and medicinal herbs, Qiucheng kneels exhausted beside his father's sickbed, his body trembling uncontrollably with fatigue and a mysterious illness, pale face etched with grief and unwashed devotion after half a month of sleepless vigil on a small adjacent cot. Mr. Liang lies frail and pallid on the bed, wrapped in simple bedding, eyes half-closed in lingering weakness, surrounded by flickering candlelight and scattered apothecary vials casting long shadows. Render in somber realism like a 19th-century ink wash painting by Qi Baishi, with muted earth tones, soft volumetric lighting evoking quiet despair and filial piety.",
+      "image": "reader_images/reader_20260313_041939.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 521168583,
+      "created_at": "2026-03-13T04:19:39.813257+08:00"
     }
   ],
   "book_total_chars": 92814,
