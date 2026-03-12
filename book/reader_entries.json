@@ -959,6 +959,18 @@
       "image_model": "grok-imagine",
       "seed": 83731734,
       "created_at": "2026-03-13T05:58:36.581295+08:00"
+    },
+    {
+      "id": "20260313_060012",
+      "offset_start": 6535,
+      "offset_end": 6617,
+      "text": "」\n第二天，董太太來了，梁太太轉告了秋園的意思。\n第三天一大早，董太太就來了，喜形於色地對梁太太說：\n「楊參謀不但願意送小姐讀書，還打算將老父接來洛陽，買房子安家。",
+      "prompt": "Two middle-aged women in traditional 1930s Chinese attire share tea in a sunlit traditional sitting room, one leaning forward with an animated, joyful expression as she delivers news. Warm morning light filters through wooden lattice windows, casting soft shadows on porcelain cups and simple furnishings, rendered in a classical Chinese ink painting style with gentle watercolor tones.",
+      "image": "reader_images/reader_20260313_060012.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1578584171,
+      "created_at": "2026-03-13T06:00:12.239569+08:00"
     }
   ],
   "book_total_chars": 92814,
