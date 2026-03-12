@@ -923,6 +923,18 @@
       "image_model": "flux-2-dev",
       "seed": 1803668539,
       "created_at": "2026-03-13T05:51:23.172513+08:00"
+    },
+    {
+      "id": "20260313_055620",
+      "offset_start": 6279,
+      "offset_end": 6388,
+      "text": "她給秋園買了兩雙高級皮鞋，還再三\n交代梁太太別給秋園裹腳。雖未點破，可秋園心裡明白，董太太是來給自己做媒\n的。\n兩個月後的一天，梁太太忽然對秋園說：\n「小妞呀，董太太是來給你說媒的，說的是國民政府參軍處上校參謀楊仁受。",
+      "prompt": "A young woman, Qiuyuan, stands thoughtfully in a dimly lit, traditional Chinese courtyard garden in autumn. Sunlight filters through sparse, golden leaves, casting long shadows. Her expression is a mixture of apprehension and understanding as she considers the unspoken offer of a marriage proposal from a well-dressed, matronly figure, Mrs. Dong, who sits gracefully on a wooden bench. The atmosphere is melancholic and expectant, rendered in the style of a classical Chinese ink wash painting with subtle color accents.",
+      "image": "reader_images/reader_20260313_055620.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1091076526,
+      "created_at": "2026-03-13T05:56:20.287454+08:00"
     }
   ],
   "book_total_chars": 92814,
