@@ -491,6 +491,18 @@
       "image_model": "flux-2-dev",
       "seed": 1137797851,
       "created_at": "2026-03-13T02:31:43.791501+08:00"
+    },
+    {
+      "id": "20260313_023231",
+      "offset_start": 3530,
+      "offset_end": 3617,
+      "text": "當時二嫂十三歲，還有一個八個月大的弟弟。弟弟見母親躺在地上，哭叫着爬過\n去，到她胸前找奶喝，吸不出奶就號啕大哭。\n梁先生的一位老病號認識二嫂一家，某次閒談時聊起這家的遭遇。",
+      "prompt": "First, the user provides a Chinese literary passage. I need to create an image-generation prompt based on this passage. The passage translates to: \"At that time, the second sister-in-law was thirteen years old, and there was also an eight-month-old baby brother. The baby brother saw his mother lying on the ground, cried and crawled over, looking for milk at her chest, and when he couldn't suck milk, he wailed loudly. One of Mr. Liang's old patients knew the second sister-in-law's family, and during a casual conversation, he talked about this family's misfortune.\"\n\nBut the user specifies: \"Describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, any characters present, and artistic style. 2–4 sentences only. English only.\" And in the system prompt, it says: \"Respond ONLY with the image prompt in English — no explanations, no translations, no markdown.\"\n\nSo, I need to focus on the visual scene from the passage. The passage has two parts: one is a scene with the baby and the mother, and the other is a conversation about the family. For the image prompt, I should pick a specific visual scene. The most vivid part is the scene with the baby and the mother.\n\nKey elements from the passage:\n- A baby (eight months old) crawling towards his mother who is lying on the ground.\n- The mother is on the ground, presumably incapacitated or dead since",
+      "image": "reader_images/reader_20260313_023231.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 18968525,
+      "created_at": "2026-03-13T02:32:31.178084+08:00"
     }
   ],
   "book_total_chars": 92814,
