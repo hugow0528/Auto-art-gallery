@@ -17,6 +17,7 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 from PIL import Image
+import zhconv
 
 API_KEY = os.environ.get("POLLINATIONS_API_KEY", "")
 
@@ -261,6 +262,11 @@ def main():
         save_entries(entries)
         save_progress(new_offset, completed=True)
         return
+
+    # Convert Simplified Chinese → Traditional Chinese for display.
+    # This affects both the text stored in reader_entries.json and the
+    # image prompt that is generated from it in the next step.
+    segment = zhconv.convert(segment, "zh-hant")
 
     seg_len = new_offset - offset
     print(f"\nExtracted segment ({seg_len} chars):")

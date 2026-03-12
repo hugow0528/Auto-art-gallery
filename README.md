@@ -1,6 +1,6 @@
 # 🎨 Auto Art Gallery
 
-> An autonomous AI-powered art gallery that generates a brand-new artwork every **2 hours** and publishes it to a beautiful GitHub Pages website — automatically.
+> An autonomous AI-powered art gallery that generates brand-new artworks throughout the day and publishes them to a beautiful GitHub Pages website — automatically.
 
 [![Generate Artwork](https://github.com/kychugo/Auto-art-gallery/actions/workflows/generate.yml/badge.svg)](https://github.com/kychugo/Auto-art-gallery/actions/workflows/generate.yml)
 [![Deploy to GitHub Pages](https://github.com/kychugo/Auto-art-gallery/actions/workflows/deploy.yml/badge.svg)](https://github.com/kychugo/Auto-art-gallery/actions/workflows/deploy.yml)
@@ -11,7 +11,7 @@
 
 | Feature | Detail |
 |---|---|
-| ⏰ Auto-generation | New artwork every **2 hours** via GitHub Actions |
+| ⏰ Auto-generation | New artwork at scheduled times daily via GitHub Actions |
 | 🎲 Always unique | Random topic, art style, mood, lighting & seed every time |
 | 🤖 Multi-model AI | Randomly picks from **6 text models** + **8 image models** with auto-fallback |
 | 🌍 Diverse topics | 30+ topics: AI, Hong Kong, global news, climate, health, culture … |
@@ -59,7 +59,7 @@ That's it. The Pages deploy workflow will trigger automatically whenever new art
 
 ### Step 3 — Trigger Your First Artwork (Manual)
 
-You don't have to wait 2 hours for the first image!
+You don't have to wait for the next scheduled run!
 
 1. Go to the **Actions** tab in your repository.
 2. Click **Generate Artwork** in the left sidebar.
@@ -83,7 +83,7 @@ https://<your-github-username>.github.io/Auto-art-gallery/
 ## 🔄 How It Works
 
 ```
-Every 2 hours (or on-demand)
+At scheduled times (or on-demand)
         │
         ▼
 ┌───────────────────────────┐
@@ -150,12 +150,14 @@ Auto-art-gallery/
 ├── .github/
 │   └── workflows/
 │       ├── generate.yml    # Scheduled + manual artwork generation
+│       ├── reader.yml      # Scheduled + manual book reader generation
 │       └── deploy.yml      # Auto-deploys to GitHub Pages on push to main
 ├── images/                 # Generated artwork images (auto-populated)
+├── book/                   # Book reader files (see Book section below)
 ├── index.html              # Gallery web page (GitHub Pages)
 ├── gallery.json            # Artwork metadata (auto-updated)
-├── generate_artwork.py     # Core generation script
-├── APIDOCS.md              # Pollinations AI API reference
+├── generate_artwork.py     # Core artwork generation script
+├── generate_reader.py      # Book reader generation script
 └── README.md               # This file
 ```
 
@@ -173,10 +175,10 @@ TOPICS = [
 ```
 
 ### Change the generation schedule
-Edit `.github/workflows/generate.yml`:
+Edit `.github/workflows/generate.yml` and add or remove cron entries:
 ```yaml
 schedule:
-  - cron: '0 */2 * * *'   # currently every 2 hours — adjust to taste
+  - cron: '0 20 * * *'   # 4:00 AM HKT — add or remove lines to taste
 ```
 Use [crontab.guru](https://crontab.guru) to build a cron expression.
 
@@ -199,6 +201,110 @@ f"?model={model}&width=1024&height=1024&seed={seed}&nologo=true"
 
 ---
 
+---
+
+# 📖 Book Reader
+
+> An AI-illustrated reading experience that publishes a new passage from a Chinese literary memoir on a daily schedule, each paired with an AI-generated illustration.
+
+[![Book Reader Generator](https://github.com/kychugo/Auto-art-gallery/actions/workflows/reader.yml/badge.svg)](https://github.com/kychugo/Auto-art-gallery/actions/workflows/reader.yml)
+
+The Book Reader is available at:
+```
+https://<your-github-username>.github.io/Auto-art-gallery/book/reader.html
+```
+
+The interface is in **Traditional Chinese (繁體中文)**.
+
+---
+
+## ✨ Book Reader Features
+
+| Feature | Detail |
+|---|---|
+| ⏰ Auto-generation | New illustrated passage **every 5 minutes**, all day |
+| 📚 Sequential reading | Passages are extracted in order from `book/source.txt` |
+| 🎨 AI illustrations | Each passage is paired with a matching AI-generated image |
+| 📊 Progress tracking | Reading progress bar shows how far through the book you are |
+| 🌙 Dark / light mode | Theme toggle stored in browser preferences |
+| 🔁 Manual trigger | Run generation on-demand from the Actions tab |
+
+---
+
+## 🔄 How It Works
+
+```
+Every 5 minutes (or on-demand)
+        │
+        ▼
+┌───────────────────────────────┐
+│   Book Reader Generator CI    │
+│                               │
+│  1. Read next ~60-char        │
+│     segment from source.txt   │
+│  2. Convert Simplified →      │
+│     Traditional Chinese       │
+│  3. Generate English image    │
+│     prompt via text model     │
+│  4. Generate illustration     │
+│     via image model           │
+│  5. Save image to             │
+│     book/reader_images/       │
+│  6. Append to                 │
+│     reader_entries.json       │
+│  7. Update reader_progress    │
+│  8. Commit & push → main      │
+└───────────┬───────────────────┘
+            │ push to main triggers
+            ▼
+┌───────────────────────────────┐
+│   Deploy to Pages CI          │
+│                               │
+│  Deploys entire repo to       │
+│  GitHub Pages                 │
+└───────────────────────────────┘
+```
+
+---
+
+## 📁 Book Structure
+
+```
+book/
+├── source.txt              # Full book text in Simplified Chinese (UTF-8)
+├── reader.html             # Reader web page (Traditional Chinese UI)
+├── reader_entries.json     # All generated passages + image metadata (Traditional Chinese)
+├── reader_progress.json    # Current reading offset
+└── reader_images/          # AI-generated illustrations (auto-populated)
+```
+
+---
+
+## ⚙️ Customisation
+
+### Change the book source
+Replace `book/source.txt` with any UTF-8 text file and reset the progress:
+```bash
+echo '{"offset": 0, "completed": false}' > book/reader_progress.json
+echo '{"entries": [], "book_total_chars": 0, "completed": false}' > book/reader_entries.json
+```
+
+### Change the generation schedule
+Edit `.github/workflows/reader.yml`:
+```yaml
+schedule:
+  - cron: '*/5 * * * *'   # currently every 5 minutes — adjust to taste
+```
+
+### Change passage length
+In `generate_reader.py`, adjust the `TARGET_CHARS` constant:
+```python
+TARGET_CHARS = 60   # target number of Chinese characters per passage
+```
+
+---
+
 ## 📄 License
 
 MIT — do whatever you like with it.
+

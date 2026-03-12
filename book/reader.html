@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-TW">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Book Reader — Auto Art Gallery</title>
-  <meta name="description" content="Read a Chinese literary memoir illustrated with AI-generated artwork, one passage at a time." />
+  <title>書籍閱讀器 — 自動藝術圖庫</title>
+  <meta name="description" content="閱讀由 AI 插圖配搭的中文文學回憶錄，每次一段文字。" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
@@ -336,46 +336,46 @@
   <div class="topbar-inner">
     <span class="site-title"><a href="../index.html">🎨 Auto Art Gallery</a></span>
     <span class="divider">›</span>
-    <span class="page-title">Book Reader</span>
+    <span class="page-title">書籍閱讀器</span>
     <div class="progress-wrap">
       <div class="progress-bar-bg">
         <div class="progress-bar-fill" id="progress-fill" style="width:0%"></div>
       </div>
-      <span class="progress-text" id="progress-label">Loading…</span>
+      <span class="progress-text" id="progress-label">載入中…</span>
     </div>
-    <button id="theme-btn" aria-label="Toggle dark mode">🌙 Dark</button>
+    <button id="theme-btn" aria-label="切換深色模式">🌙 深色</button>
   </div>
 </nav>
 
 <!-- ── Hero header ─────────────────────────────────────────────── -->
 <header id="hero">
   <h1 id="book-title">秋园 · 文字与画</h1>
-  <p id="book-subtitle">Every five minutes a new passage from the book is illustrated by AI.<br />Scroll down to read the story so far.</p>
-  <span class="completed-badge" id="completed-badge" style="display:none">📖 Book Complete</span>
+  <p id="book-subtitle">每五分鐘從書中擷取一段新文字，配上 AI 生成的插圖。<br />向下捲動，閱讀目前的故事。</p>
+  <span class="completed-badge" id="completed-badge" style="display:none">📖 全書完</span>
 </header>
 
 <!-- ── Loading state ───────────────────────────────────────────── -->
 <div id="status">
   <div class="spinner"></div>
-  <p>Loading entries…</p>
+  <p>載入段落中…</p>
 </div>
 
 <!-- ── Entry feed ──────────────────────────────────────────────── -->
-<main id="feed" style="display:none" aria-label="Book passages with illustrations"></main>
+<main id="feed" style="display:none" aria-label="書中段落與插圖"></main>
 
 <!-- ── Footer ─────────────────────────────────────────────────── -->
 <footer>
   <p>
-    Illustrated by <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a>
+    插圖由 <a href="https://pollinations.ai" target="_blank" rel="noopener">Pollinations AI</a> 生成
     &nbsp;·&nbsp;
-    <a href="../index.html">← Back to Art Gallery</a>
+    <a href="../index.html">← 返回藝術圖庫</a>
     &nbsp;·&nbsp;
-    Updated automatically every 5 minutes
+    每五分鐘自動更新
   </p>
 </footer>
 
 <!-- ── Lightbox ────────────────────────────────────────────────── -->
-<div id="lightbox" role="dialog" aria-modal="true" aria-label="Image viewer">
+<div id="lightbox" role="dialog" aria-modal="true" aria-label="圖片檢視器">
   <img id="lightbox-img" src="" alt="" />
 </div>
 
@@ -386,7 +386,7 @@
 
   function applyTheme(dark) {
     root.dataset.theme = dark ? 'dark' : 'light';
-    themeBtn.textContent = dark ? '☀️ Light' : '🌙 Dark';
+    themeBtn.textContent = dark ? '☀️ 淺色' : '🌙 深色';
     localStorage.setItem('reader-theme', dark ? 'dark' : 'light');
   }
 
@@ -425,7 +425,7 @@
   /* ── Helpers ───────────────────────────────────────────────────── */
   function formatDate(iso) {
     try {
-      return new Date(iso).toLocaleString('zh-CN', {
+      return new Date(iso).toLocaleString('zh-TW', {
         year: 'numeric', month: 'long', day: 'numeric',
         hour: '2-digit', minute: '2-digit'
       });
@@ -457,10 +457,10 @@
       const lastOffset = entries[entries.length - 1].offset_end || 0;
       const pct = Math.min(100, Math.round((lastOffset / total) * 100));
       progressFill.style.width = pct + '%';
-      progressLabel.textContent = `${pct}% · ${entries.length} passages`;
+      progressLabel.textContent = `${pct}% · ${entries.length} 段`;
     } else {
       progressFill.style.width = '0%';
-      progressLabel.textContent = 'No passages yet';
+      progressLabel.textContent = '尚無段落';
     }
 
     // Completed badge
@@ -469,7 +469,7 @@
     }
 
     if (entries.length === 0) {
-      status.innerHTML = '<p>No passages generated yet.<br>Check back in a few minutes!</p>';
+      status.innerHTML = '<p>尚未生成任何段落。<br>請稍後再查看！</p>';
       return;
     }
 
@@ -497,7 +497,7 @@
         </div>`;
 
       const imgSrc = escapeHtml(entry.image || '');
-      const imgAlt = `Illustration for passage ${num}`;
+      const imgAlt = `第 ${num} 段插圖`;
       const imageSide = `
         <div class="entry-image">
           <img src="${imgSrc}" alt="${imgAlt}" loading="lazy"
@@ -523,7 +523,7 @@
       renderEntries(data);
     } catch (err) {
       document.getElementById('status').innerHTML =
-        `<p>Could not load entries.<br><small>${err.message}</small></p>`;
+        `<p>無法載入段落。<br><small>${err.message}</small></p>`;
     }
   }
 
