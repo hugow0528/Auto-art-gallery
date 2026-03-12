@@ -791,6 +791,18 @@
       "image_model": "gptimage",
       "seed": 2111920729,
       "created_at": "2026-03-13T04:53:44.630674+08:00"
+    },
+    {
+      "id": "20260313_045923",
+      "offset_start": 5426,
+      "offset_end": 5514,
+      "text": "他一下子好了許多，居然能下地走路，也有了食\n欲。只是把個大煙抽上了癮。\n光洋，銀圓的一種，民國時期主要流通貨幣之一。\n梁家家底算得殷實，光洋 用兩個大缸子埋在屋檐腳下的水溝旁。",
+      "prompt": "A weak but recovering man sits on a wooden stool in a dim traditional Chinese courtyard, smoking a long opium pipe with half-closed eyes, his gaunt face showing both relief and addiction. Behind him, a modest but well-built peasant house with tiled roof and white walls stands quietly, under whose eaves beside a gutter two clay jars hide buried silver coins, visible only by the slight disturbance of earth. The scene is rendered in a nostalgic pre-war Chinese ink painting style, with soft morning light filtering through sparse clouds,",
+      "image": "reader_images/reader_20260313_045923.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1973736469,
+      "created_at": "2026-03-13T04:59:23.705777+08:00"
     }
   ],
   "book_total_chars": 92814,
