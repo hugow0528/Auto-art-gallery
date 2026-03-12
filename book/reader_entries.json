@@ -215,6 +215,18 @@
       "image_model": "flux",
       "seed": 355283471,
       "created_at": "2026-03-13T00:18:37.773354+08:00"
+    },
+    {
+      "id": "20260313_003343",
+      "offset_start": 1656,
+      "offset_end": 1717,
+      "text": "算是個大家庭。\n梁太太把秋園帶進房間，二話沒說，一把將她按在椅子上，拿出一塊約莫四寸\n寬、五尺長的白布，立馬要給女兒裹腳。",
+      "prompt": "In a dimly lit traditional Chinese room with wooden furniture and silk screens, a stern middle-aged woman in a qipao firmly presses a young girl onto a carved chair, holding a long white cloth strip about four inches wide and five feet long poised to bind her feet. The girl's face shows wide-eyed apprehension, her small hands gripping the chair arms, while the mother's expression is resolute and urgent, evoking a tense atmosphere of familial duty and historical custom. Render in realistic style with warm lantern light casting dramatic shadows, intricate details on embroidered clothing and antique decor, in the vein of 19th-century Chinese genre painting.",
+      "image": "reader_images/reader_20260313_003343.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1758303807,
+      "created_at": "2026-03-13T00:33:43.501638+08:00"
     }
   ],
   "book_total_chars": 92814,
