@@ -71,6 +71,18 @@
       "image_model": "imagen-4",
       "seed": 1675707180,
       "created_at": "2026-03-12T23:10:05.381859+08:00"
+    },
+    {
+      "id": "20260312_231413",
+      "offset_start": 517,
+      "offset_end": 628,
+      "text": "在寫完這本書之前，我總覺得有件事沒完成，再不做怕\n是來不及了。\n常常才寫幾行，淚水就模糊了眼睛。遙遠的記憶被喚起，一些消失了的人與事紛\n至沓來，原本零星散亂、隱隱約約的回憶，在動筆之後互相串聯，又喚醒和連接\n起更多的故事。",
+      "prompt": "A solitary figure sits at an old wooden desk in a softly lit study, handwriting in a worn journal with tears streaming down their face, while translucent ghostly figures and fading photographs of loved ones float and swirl around them like memories being woven together, captured in a romantic Impressionistic style with warm amber candlelight, muted earth tones, and a dreamlike blur where past meets present.",
+      "image": "reader_images/reader_20260312_231413.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 829837657,
+      "created_at": "2026-03-12T23:14:13.142857+08:00"
     }
   ],
   "book_total_chars": 92814,
