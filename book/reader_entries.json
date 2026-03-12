@@ -275,6 +275,18 @@
       "image_model": "flux",
       "seed": 1604949556,
       "created_at": "2026-03-13T00:44:09.250586+08:00"
+    },
+    {
+      "id": "20260313_005414",
+      "offset_start": 2006,
+      "offset_end": 2092,
+      "text": "這樣做是爲了讓足骨摔碎，變成畸形。也有\n少數鄉下姑娘小時候沒裹腳，及至長大去相親時，就像做了什麼見不得人的事，\n一雙腳不知往哪裡放好，只能穿很長的褲子罩着或用曳地長裙蓋着。",
+      "prompt": "A young woman in a rural Chinese village, circa early 20th century, stands with her head bowed and hands clasped nervously, her face etched with shame. She wears an overly long, drab peasant dress that trails on the dusty ground, obscuring her feet entirely. The atmosphere is somber and oppressive, captured in a muted, sepia-toned photograph style with soft, diffused light.",
+      "image": "reader_images/reader_20260313_005414.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 770759872,
+      "created_at": "2026-03-13T00:54:14.210932+08:00"
     }
   ],
   "book_total_chars": 92814,
