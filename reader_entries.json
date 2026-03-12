@@ -11,6 +11,18 @@
       "image_model": "gptimage",
       "seed": 1250255953,
       "created_at": "2026-03-12T21:22:07.385463+08:00"
+    },
+    {
+      "id": "20260312_212452",
+      "offset_start": 90,
+      "offset_end": 178,
+      "text": "那年，我的母亲——也就是书中的秋园，她的真名是梁秋芳——去世了。我被巨\n大的悲伤冲击，身心几乎难以复原。我意识到：如果没人记下一些事情，妈妈在\n这个世界上的痕迹将迅速被抹去。",
+      "prompt": "A grieving daughter sits alone in a dim, sparse Chinese bedroom, surrounded by empty shelves and a neatly made bed where her mother once slept, soft morning light filtering through dusty windows, casting long shadows across worn wooden floors, photographic realism with muted sepia tones, capturing profound sorrow and emptiness.",
+      "image": "reader_images/reader_20260312_212452.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 912284793,
+      "created_at": "2026-03-12T21:24:52.627230+08:00"
     }
   ],
   "book_total_chars": 92814,
