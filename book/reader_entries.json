@@ -707,6 +707,18 @@
       "image_model": "flux-2-dev",
       "seed": 1707535278,
       "created_at": "2026-03-13T04:03:04.942535+08:00"
+    },
+    {
+      "id": "20260313_040428",
+      "offset_start": 4901,
+      "offset_end": 4992,
+      "text": "辦完兩位兒媳的喪事，梁先生就病倒了。身體受了早春的風寒，邪毒入侵。身病\n加心病，終至一病不起，不過短短半個月就病故了。可憐梁先生一生幹的都是懸\n壺濟世的事，卻沒料到自己會英年早逝。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. I need to craft a vivid, detailed prompt in English that captures the scene, atmosphere, characters, and visual essence. The prompt should be 2–4 sentences only, in English, with no explanations, translations, or markdown.\n\nThe passage is about Mr. Liang falling ill after his daughters-in-law's funerals, suffering from early spring chill and illness, and dying young despite being a healer. Key elements: after funerals, illness, early spring, tragic death, he was a healer.\n\nI need to describe a specific visual scene. What scene from the passage? Probably when Mr. Liang is ill or after his death. The passage mentions he fell ill, was bedridden, and died within half a month.\n\nSet the scene: Mr. Liang in his sickbed, in a traditional Chinese setting. Atmosphere should be somber, tragic, with a sense of early spring chill.\n\nCharacters: Mr. Liang, possibly alone or with others? The passage doesn't specify others present, but since he's ill, he might be in his room alone.\n\nArtistic style: Since it's a literary passage, perhaps a style reminiscent of classical Chinese painting or realistic illustration.\n\nVisual elements: Sickbed, early spring elements like cold light, perhaps herbal medicines around since he's a healer.\n\nStructure the prompt: Include setting, atmosphere, characters, artistic style in 2–4 sentences.",
+      "image": "reader_images/reader_20260313_040428.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1567193443,
+      "created_at": "2026-03-13T04:04:28.384835+08:00"
     }
   ],
   "book_total_chars": 92814,
