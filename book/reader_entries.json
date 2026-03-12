@@ -767,6 +767,18 @@
       "image_model": "zimage",
       "seed": 952146393,
       "created_at": "2026-03-13T04:49:59.708812+08:00"
+    },
+    {
+      "id": "20260313_045256",
+      "offset_start": 5282,
+      "offset_end": 5349,
+      "text": "一天，一個早年結盟的朋友從信陽過來看望梁先生，才知他已經走了。朋友好一\n陣傷心，大哭了一場。又看到梁先生的大公子病成這樣，嘆息不已。",
+      "prompt": "An elderly man in traditional Chinese clothing stands in a dim, humble room, tears streaming down his face as he holds a grief letter, surrounded by white funeral drapery. In the background, a pale, frail young man lies weakly",
+      "image": "reader_images/reader_20260313_045256.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 890216031,
+      "created_at": "2026-03-13T04:52:56.698515+08:00"
     }
   ],
   "book_total_chars": 92814,
