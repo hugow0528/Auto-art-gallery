@@ -107,6 +107,18 @@
       "image_model": "imagen-4",
       "seed": 966941677,
       "created_at": "2026-03-12T23:36:57.460037+08:00"
+    },
+    {
+      "id": "20260312_233820",
+      "offset_start": 830,
+      "offset_end": 894,
+      "text": "書寫的過程，溫暖了我心底深處的悲涼。\n\n1\n\n\f人到晚年，我卻像一趟踏上徵途的列車，一種前所未有的動力推着我轟隆轟隆向\n前趕去。",
+      "prompt": "An elderly writer sits at a wooden desk by a warm window in a quiet room, pen in hand, face illuminated by soft golden lamplight as snow falls silently outside; the scene captures the quiet dignity of age, with steam rising from a teacup and stacks of weathered manuscripts, conveying deep emotional warmth and contemplative solitude in a painterly, realist style with rich earth tones and soft chiaroscuro lighting.",
+      "image": "reader_images/reader_20260312_233820.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1450130596,
+      "created_at": "2026-03-12T23:38:20.606795+08:00"
     }
   ],
   "book_total_chars": 92814,
