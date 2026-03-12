@@ -995,6 +995,18 @@
       "image_model": "flux-2-dev",
       "seed": 1013038538,
       "created_at": "2026-03-13T06:12:32.828171+08:00"
+    },
+    {
+      "id": "20260313_062908",
+      "offset_start": 6812,
+      "offset_end": 6891,
+      "text": "秋園出嫁那天，看熱鬧的人山人海。送親的和迎親的分乘八頂藍色大轎，這叫雙\n娶雙送。新娘子坐一頂花轎，吹鼓手在一旁奏樂，這種出嫁場面當時在洛陽算得\n上高規格了。",
+      "prompt": "First, the user wants me to create an image-generation prompt based on a Chinese literary passage. The passage describes the wedding day of Qiuyuan (秋園). It says: on the day of the wedding, there were crowds of people watching. The bride's family and groom's family each rode in eight blue sedan chairs, which is called \"double marrying and double sending.\" The bride sits in a flower-decorated sedan chair, and musicians play music nearby. This kind of wedding scene was considered high-standard in Luoyang at that time.\n\nI need to extract the key visual elements from this passage to craft a prompt in English. The prompt should be vivid, detailed, and suitable for AI image generation. It should include setting, atmosphere, characters, and artistic style. The response must be only the image prompt in English, no explanations, translations, or markdown.\n\nKey elements from the passage:\n\n- Setting: Wedding day, possibly in a historical Chinese context, specifically in Luoyang.\n\n- Atmosphere: Crowded, lively, festive, high-standard.\n\n- Characters: Bride (Qiuyuan) in a flower-decorated sedan chair, musicians (吹鼓手), people watching (crowds), and those involved in the wedding procession (送親的和迎親的) in blue sedan chairs.\n\n- Visual details: Eight blue sedan chairs for each side, making it \"double marrying and double sending.\" The bride's sedan is flower-decorated. Musicians playing music",
+      "image": "reader_images/reader_20260313_062908.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 23523405,
+      "created_at": "2026-03-13T06:29:08.679364+08:00"
     }
   ],
   "book_total_chars": 92814,
