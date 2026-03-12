@@ -1019,6 +1019,18 @@
       "image_model": "flux",
       "seed": 474317070,
       "created_at": "2026-03-13T06:31:07.924414+08:00"
+    },
+    {
+      "id": "20260313_064412",
+      "offset_start": 6990,
+      "offset_end": 7066,
+      "text": "新郎一副文官打扮：頭戴禮帽，腳蹬\n圓口皮鞋，胸前戴朵大紅花，國字臉白白淨淨，面相誠篤忠厚。此時此刻，秋園\n才算放了心。\n仁受在洛陽安家的承諾卻沒有兌現。",
+      "prompt": "A solemn groom, dressed as a civil official in a formal hat and round-toed leather shoes, a large red flower pinned to his chest, stands with a clean, honest, and sincere square-faced expression. He is in an autumnal garden setting, bathed in soft, hopeful late afternoon sunlight. The atmosphere is one of quiet relief and a touch of wistful uncertainty.",
+      "image": "reader_images/reader_20260313_064412.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1065339369,
+      "created_at": "2026-03-13T06:44:12.935945+08:00"
     }
   ],
   "book_total_chars": 92814,
