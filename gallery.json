@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_131425",
+      "filename": "images/artwork_20260312_131425.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A minimalist night scene of Hong Kong street food vendors under soft moonlight, with charcoal roasters selling chestnuts and sweet potatoes in paper bags, their smoke wisping through narrow alleyways lined with dai pai dong stalls, rendered in delicate pastel yellows, silvers, and muted teals that create an ethereal glow against deep indigo shadows. The composition features simplified silhouettes of street hawkers and hungry locals gathered around steaming bowls of congee and curry fishballs, with warm lantern light reflecting softly on wet pavement, capturing a hopeful moment of community connection and culinary tradition. Ink-wash minimalist art style with gentle brushstrokes, emphasizing negative space and the poetic dance between light and shadow, evoking nostalgia and quiet joy despite the urban chaos suggested by layered architectural forms barely visible in the background.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 775674087,
+      "created_at": "2026-03-12T13:14:25.579891+08:00"
+    },
+    {
       "id": "20260312_130507",
       "filename": "images/artwork_20260312_130507.jpg",
       "topic": "economic inequality and social justice",
