@@ -167,6 +167,18 @@
       "image_model": "zimage",
       "seed": 1949465035,
       "created_at": "2026-03-12T23:53:14.577236+08:00"
+    },
+    {
+      "id": "20260313_000613",
+      "offset_start": 1306,
+      "offset_end": 1384,
+      "text": "秋園的父親梁先生是個能幹人，四十來歲，醫術在當地口碑甚好。店鋪牆上掛滿\n了「華佗再世」「妙手回春」之類的匾牌。難得的是，病人不管有錢沒錢，他都\n一視同仁。",
+      "prompt": "A dignified Chinese physician in his forties, wearing a traditional的长衫袍, stands in his well-lit clinic surrounded by wooden display cabinets filled with herbal medicines and scroll cases. The walls are covered with elegant calligraphy plaques bearing phrases like \"Hua Tuo Reborn\" and \"Miracle Hands Restore Spring,\" while a patient sits respectfully on a wooden bench, receiving his attentive care. Soft golden afternoon light streams through paper windows, creating a warm, reverent atmosphere that captures his noble dedication to healing all patients regardless of means.",
+      "image": "reader_images/reader_20260313_000613.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1053208800,
+      "created_at": "2026-03-13T00:06:13.230277+08:00"
     }
   ],
   "book_total_chars": 92814,
