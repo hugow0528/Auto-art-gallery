@@ -227,6 +227,18 @@
       "image_model": "flux-2-dev",
       "seed": 1758303807,
       "created_at": "2026-03-13T00:33:43.501638+08:00"
+    },
+    {
+      "id": "20260313_003520",
+      "offset_start": 1717,
+      "offset_end": 1780,
+      "text": "秋園又蹦又跳，哭鬧着不肯答應。梁太\n太惡狠狠地朝着她的小屁股啪啪啪幾巴掌，邊說：「不裹腳怎麼行？長成一雙大\n腳，嫁都嫁不出去！",
+      "prompt": "A distressed young girl in a traditional Qing dynasty interior, struggling against an older woman binding her feet with white cloth, tear-streaked face illuminated by dim lantern light. The mother's stern expression and raised hand mid-strike, with scattered binding materials on wooden floorboards, rendered in realistic oil painting style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_003520.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 831110943,
+      "created_at": "2026-03-13T00:35:20.612138+08:00"
     }
   ],
   "book_total_chars": 92814,
