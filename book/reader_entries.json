@@ -539,6 +539,18 @@
       "image_model": "imagen-4",
       "seed": 242811949,
       "created_at": "2026-03-13T03:07:28.096048+08:00"
+    },
+    {
+      "id": "20260313_030949",
+      "offset_start": 3862,
+      "offset_end": 3926,
+      "text": "洋學堂的學生舉着小旗，夾道歡迎，和戰士一起唱着歌：\n打倒列強！\n打倒列強！\n除軍閥！\n除軍閥！\n國民革命成功！\n國民革命成功！",
+      "prompt": "Students in period-appropriate uniforms stand along a dusty road holding small flags, cheering and singing alongside uniformed soldiers in early 20th century China, with banners displaying revolutionary slogans visible in the crowd, warm afternoon light casting long shadows, vintage documentary photograph style with muted sepia tones capturing the hopeful energy of the national revolutionary movement.",
+      "image": "reader_images/reader_20260313_030949.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1832715936,
+      "created_at": "2026-03-13T03:09:49.450402+08:00"
     }
   ],
   "book_total_chars": 92814,
