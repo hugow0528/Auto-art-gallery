@@ -35,6 +35,18 @@
       "image_model": "flux-2-dev",
       "seed": 843550578,
       "created_at": "2026-03-12T22:12:12.865553+08:00"
+    },
+    {
+      "id": "20260312_222155",
+      "offset_start": 250,
+      "offset_end": 328,
+      "text": "那一年，我六十來歲，人生似乎已不再需要目標與方向，只需順天應命。但我開\n始幹一件從未乾過的事情：寫作。\n我一生都渴望讀書學習，這個心願始終沒能很好地實現。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. The passage is about a person who is sixty years old, feeling that life no longer needs goals or directions, just going with the flow. But they start doing something they've never done before: writing. They've always longed to study and learn, but this wish was never well fulfilled.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. It should include setting, atmosphere, characters present, and artistic style. The response should be 2–4 sentences only, and in English only. I must respond ONLY with the image prompt—no explanations, no translations, no markdown.\n\nThe key elements from the passage: an elderly person (around sixty), starting to write, with a sense of reflection and unfulfilled longing for learning. The atmosphere should convey introspection, quiet determination, and perhaps a touch of nostalgia or serenity.\n\nSetting: Probably a quiet, personal space like a study, desk, or room with books. Since they mention writing, it could be at a desk with writing materials.\n\nAtmosphere: Calm, reflective, slightly melancholic but hopeful. The lighting might be soft, like from a lamp or window, suggesting warmth or twilight.\n\nCharacters: The main character, an elderly person, likely alone, engaged in writing.\n\nArtistic style: To match the literary and introspective tone, perhaps a realistic or impressionistic style, with attention to detail",
+      "image": "reader_images/reader_20260312_222155.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 533970811,
+      "created_at": "2026-03-12T22:21:55.158671+08:00"
     }
   ],
   "book_total_chars": 92814,
