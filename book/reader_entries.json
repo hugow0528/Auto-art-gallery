@@ -359,6 +359,18 @@
       "image_model": "imagen-4",
       "seed": 910784290,
       "created_at": "2026-03-13T01:27:46.932422+08:00"
+    },
+    {
+      "id": "20260313_012926",
+      "offset_start": 2612,
+      "offset_end": 2687,
+      "text": "如果學生打架、罵人，老師就用這塊竹板打屁股。如果學生上課講話或背不出書\n來，老師就用竹板打手心。在這裡讀書的學生個個規規矩矩，走不搖身，行不亂\n步。",
+      "prompt": "A traditional Chinese private schoolroom with wooden desks and benches, students sitting perfectly upright in traditional robes, hands folded, as a stern teacher in a long袍 holds a bamboo disciplining board, soft morning light streaming through paper windows, detailed period-accurate Qing Dynasty educational setting, classical Chinese ink painting style with realistic details.",
+      "image": "reader_images/reader_20260313_012926.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1965933753,
+      "created_at": "2026-03-13T01:29:26.078935+08:00"
     }
   ],
   "book_total_chars": 92814,
