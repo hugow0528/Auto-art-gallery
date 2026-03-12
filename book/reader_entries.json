@@ -827,6 +827,18 @@
       "image_model": "grok-imagine",
       "seed": 2141330764,
       "created_at": "2026-03-13T05:02:56.420949+08:00"
+    },
+    {
+      "id": "20260313_050552",
+      "offset_start": 5686,
+      "offset_end": 5761,
+      "text": "秋園心裡不樂\n意，但當時家中那個景況，她實在不忍忤逆母親。何況，家裡漸漸也拿不出錢來\n供她上學了。\n一九三一年，「九一八」事變爆發，日軍侵佔東北三省。",
+      "prompt": "A young Chinese woman in a simple qipao stands in a modest, dimly lit room of a 1930s rural home, her face showing quiet resignation as she looks at worn textbooks on a wooden table. Through the window, pale autumn light illuminates bare walls and minimal furniture, conveying economic hardship. The scene is rendered in a nostalgic, slightly muted palette reminiscent of 1930s Chinese ink wash paintings combined with realistic detail, capturing the poignant moment of a daughter choosing family duty over her own",
+      "image": "reader_images/reader_20260313_050552.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1970833581,
+      "created_at": "2026-03-13T05:05:52.570360+08:00"
     }
   ],
   "book_total_chars": 92814,
