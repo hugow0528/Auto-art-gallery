@@ -455,6 +455,18 @@
       "image_model": "gptimage",
       "seed": 2033371688,
       "created_at": "2026-03-13T02:06:10.194583+08:00"
+    },
+    {
+      "id": "20260313_020655",
+      "offset_start": 3327,
+      "offset_end": 3396,
+      "text": "這小腳大嫂極其能幹，粗細能做，\n繡出的花兒就像活的一樣，擀出的麵條又細又長，很是討人喜歡。小夫妻倆也十\n分恩愛。\n不久，二哥秋平也娶了親。",
+      "prompt": "A young Chinese couple in a sunlit traditional courtyard, the woman sits at a wooden table meticulously doing embroidery with colorful thread, delicate flowers emerging from her skilled hands, while her husband watches with adoring eyes beside a bowl of thin hand-pulled noodles. Soft morning light filters through bamboo curtains, warm earthy tones, intimate domestic atmosphere, classical Chinese realist painting style with fine detail.",
+      "image": "reader_images/reader_20260313_020655.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 913010976,
+      "created_at": "2026-03-13T02:06:55.197129+08:00"
     }
   ],
   "book_total_chars": 92814,
