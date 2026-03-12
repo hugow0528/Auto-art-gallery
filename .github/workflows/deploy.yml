@@ -7,7 +7,7 @@ on:
       - main
   workflow_dispatch:
   workflow_run:
-    workflows: ["Generate Artwork"]
+    workflows: ["Generate Artwork", "Book Reader Generator"]
     types:
       - completed
 
