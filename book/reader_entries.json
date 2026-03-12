@@ -1055,6 +1055,18 @@
       "image_model": "grok-imagine",
       "seed": 116391973,
       "created_at": "2026-03-13T06:48:47.269207+08:00"
+    },
+    {
+      "id": "20260313_065342",
+      "offset_start": 7236,
+      "offset_end": 7319,
+      "text": "兩個人生活很是節儉，每天早上\n一人一個燒餅、一個雞蛋，再加一壺開水。飯後就各幹各的，仁受上班，秋園去\n婦女補習班。晚上，仁受教秋園寫字、讀書、念詩，待她就像個小妹妹。",
+      "prompt": "Two people, a man and a woman, sit at a simple wooden table in a sparsely furnished room, bathed in the soft, warm light of early morning. They are eating plain sesame flatbreads and hard-boiled eggs, with steaming cups of water, embodying a life of frugality and quiet companionship. The atmosphere is one of gentle domesticity and shared learning, perhaps in a traditional Chinese ink wash painting style with delicate brushstrokes.",
+      "image": "reader_images/reader_20260313_065342.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1043351022,
+      "created_at": "2026-03-13T06:53:42.319344+08:00"
     }
   ],
   "book_total_chars": 92814,
