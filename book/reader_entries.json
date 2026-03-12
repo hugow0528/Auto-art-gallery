@@ -371,6 +371,18 @@
       "image_model": "zimage",
       "seed": 1965933753,
       "created_at": "2026-03-13T01:29:26.078935+08:00"
+    },
+    {
+      "id": "20260313_013504",
+      "offset_start": 2687,
+      "offset_end": 2756,
+      "text": "女學生讀《三字經》《女兒經》《百家姓》，男學生讀的是《孟子》《幼學》\n《增廣賢文》。老師念一句，學生念一句；學生念熟了，老師便講解文意。",
+      "prompt": "In a traditional Chinese classroom bathed in warm lantern light, a stern yet scholarly teacher in flowing hanfu stands at a wooden lectern, reciting from an ancient scroll of the Three Character Classic, while rows of young female students in simple qipao uniforms and male students in tunics sit attentively at low desks, chorusing the lines back in unison before leaning forward eagerly for the teacher's explanation of the text's meaning. Dust motes dance in the soft sunlight filtering through paper-screened windows, evoking a serene atmosphere of disciplined rote learning and Confucian reverence, with scrolls of Mengzi, Baijiaxing, and Zengguang Xianwen adorning the walls amid ink brushes and abacuses. Render in the intricate style of Ming dynasty ink wash painting blended with cinematic realism, highly detailed, atmospheric depth, earthy tones with golden highlights.",
+      "image": "reader_images/reader_20260313_013504.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 981309,
+      "created_at": "2026-03-13T01:35:04.840782+08:00"
     }
   ],
   "book_total_chars": 92814,
