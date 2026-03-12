@@ -503,6 +503,18 @@
       "image_model": "flux",
       "seed": 18968525,
       "created_at": "2026-03-13T02:32:31.178084+08:00"
+    },
+    {
+      "id": "20260313_023456",
+      "offset_start": 3617,
+      "offset_end": 3678,
+      "text": "梁先生聽罷自\n是一番感嘆，當即表示要將小女孩帶到家中來，認作乾女兒。\n幾年後，這女孩長大了，跟秋平很是投緣，便結成了夫妻。",
+      "prompt": "A compassionate elder gentleman, Mr. Liang, adopts a young, bright-eyed girl as his goddaughter in a scene evoking traditional Chinese ink wash painting, bathed in soft, warm, late afternoon sunlight filtering through a paper screen. Years later, the now grown girl, vibrant and joyful, shares a deep, warm connection with a young man named Qiu Ping, their faces alight with mutual affection and the promise of a shared future, painted in the style of a romantic historical drama.",
+      "image": "reader_images/reader_20260313_023456.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1554396512,
+      "created_at": "2026-03-13T02:34:56.266427+08:00"
     }
   ],
   "book_total_chars": 92814,
