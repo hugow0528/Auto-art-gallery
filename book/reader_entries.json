@@ -251,6 +251,18 @@
       "image_model": "gptimage",
       "seed": 1552957262,
       "created_at": "2026-03-13T00:38:03.319145+08:00"
+    },
+    {
+      "id": "20260313_004208",
+      "offset_start": 1848,
+      "offset_end": 1917,
+      "text": "周圍的女人都\n是裹腳的，腳越小越美。最標準的小腳可以放進升筒 裏打轉轉，謂之三寸金\n蓮。那些小腳女人走路像麻雀、像小雞，在地上一躍一躍的。",
+      "prompt": "A group of Qing Dynasty women in traditional Hanfu standing in a courtyard, their tiny bound feet visible beneath flowing skirts. The smallest feet are impossibly small, deformed into crescent shapes, as they move with a distinctive hopping gait like sparrows, their movements delicate and restrained. Soft natural lighting illuminates the scene, rendered in the style of classical Chinese ink painting with subtle realism, capturing the cultural context and the visual contrast between their normal bodies and their severely bound feet.",
+      "image": "reader_images/reader_20260313_004208.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 408109448,
+      "created_at": "2026-03-13T00:42:08.054184+08:00"
     }
   ],
   "book_total_chars": 92814,
