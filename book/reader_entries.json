@@ -659,6 +659,18 @@
       "image_model": "flux-2-dev",
       "seed": 1348344565,
       "created_at": "2026-03-13T03:50:13.371996+08:00"
+    },
+    {
+      "id": "20260313_035452",
+      "offset_start": 4612,
+      "offset_end": 4690,
+      "text": "下午三點從學堂回家的路上，秋園感覺城裡有點奇怪。店堂裏的人都從店裡出來\n了，三五成羣地聚在門口議論紛紛。路上行人神色間自帶一番倉皇，似乎發生了\n什麼大事。",
+      "prompt": "A cinematic scene of 1950s Taiwan: clusters of anxious shopkeepers and pedestrians gathered on a shaded street, whispering urgently under the warm, late afternoon sun, their faces etched with worry and uncertainty, rendered in a style of dramatic realism with muted colors and deep shadows.",
+      "image": "reader_images/reader_20260313_035452.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 133633595,
+      "created_at": "2026-03-13T03:54:52.936820+08:00"
     }
   ],
   "book_total_chars": 92814,
