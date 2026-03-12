@@ -635,6 +635,18 @@
       "image_model": "zimage",
       "seed": 838557460,
       "created_at": "2026-03-13T03:45:58.170169+08:00"
+    },
+    {
+      "id": "20260313_034856",
+      "offset_start": 4454,
+      "offset_end": 4544,
+      "text": "去遊園的太太小姐，怕不都是小\n腳……」大嫂立刻被說服了。\n遊園會那天一大早，清婉、清揚就起來打扮：臉上胭脂水粉一樣不缺，身上套着\n自己最好的織錦緞夾袍，高高的立領把脖子撐得長長的。",
+      "prompt": "Two young women in ornate brocade robes with high mandarin collars meticulously apply makeup by a softly lit dressing table in a traditional Chinese room, their reflections glowing in an antique mirror, rendered in the style of classical Chinese figure painting with soft morning light and delicate textures.",
+      "image": "reader_images/reader_20260313_034856.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1214334481,
+      "created_at": "2026-03-13T03:48:56.862313+08:00"
     }
   ],
   "book_total_chars": 92814,
