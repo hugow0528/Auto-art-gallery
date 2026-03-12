@@ -623,6 +623,18 @@
       "image_model": "imagen-4",
       "seed": 1425326171,
       "created_at": "2026-03-13T03:33:02.547350+08:00"
+    },
+    {
+      "id": "20260313_034558",
+      "offset_start": 4377,
+      "offset_end": 4454,
+      "text": "她馬上笑嘻嘻地站起\n身，從家公手中接過票。\n大嫂清婉擔心自己那雙小腳，神色間不免有些扭捏。清揚馬上說：「姐姐，這整\n個洛陽城，還能找得出幾雙我這樣的大腳？",
+      "prompt": "A warm, intimate domestic scene in historical China: two young women in traditional hanfu stand together indoors, one shyly clutching theater tickets while the other smiles confidently, glancing down at their contrasting feet—one pair bound in delicate shoes, the other naturally unbound. Soft lantern light, detailed textile patterns, and a sense of affectionate sisterly rivalry, rendered in a realistic style with gentle brushwork reminiscent of classical Chinese painting.",
+      "image": "reader_images/reader_20260313_034558.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 838557460,
+      "created_at": "2026-03-13T03:45:58.170169+08:00"
     }
   ],
   "book_total_chars": 92814,
