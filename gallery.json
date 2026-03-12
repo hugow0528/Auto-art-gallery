@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_125229",
+      "filename": "images/artwork_20260312_125229.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A vibrant pop art masterpiece depicting tomorrow's news headlines unfurling like intimate whispers from a crumpled newspaper clutched in a human hand under the ethereal glow of arctic aurora borealis, with high-contrast black shadows and shimmering gold accents illuminating bold, fragmented headlines like \"Quantum Leap in AI Hearts\" and \"Aurora Peace Accord Signed\" in explosive, layered typography. The mood is deeply human and confessional, evoking a solitary figure's awe-struck gaze amid swirling northern lights that bleed into glossy newsprint edges, rendered in Andy Warhol-inspired bold outlines, saturated halftone dots, and dynamic repetitions for an award-winning, visually stunning composition that pulses with futuristic urgency and emotional closeness.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1026005042,
+      "created_at": "2026-03-12T12:52:29.099004+08:00"
+    },
+    {
       "id": "20260312_122537",
       "filename": "images/artwork_20260312_122537.jpg",
       "topic": "artificial intelligence reshaping society",
