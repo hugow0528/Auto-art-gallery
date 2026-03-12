@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "id": "20260312_212207",
+      "offset_start": 0,
+      "offset_end": 90,
+      "text": "自序厨房里的写作\n厨房大概四平米，水池、灶台和冰箱占据了大部分空间，再也放不下一张桌子。\n我坐在一张矮凳上，以另一张略高的凳子为桌，在一叠方格稿纸上开始动笔写我\n们一家人的故事。",
+      "prompt": "A cramped, approximately 4-square-meter kitchen in a realistic, slightly melancholic style. A person sits on a low stool, using a slightly taller stool as a makeshift desk, meticulously writing on a stack of grid paper. The scene is illuminated by a single, dim overhead light, casting long shadows and emphasizing the confined, utilitarian atmosphere.",
+      "image": "reader_images/reader_20260312_212207.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1250255953,
+      "created_at": "2026-03-12T21:22:07.385463+08:00"
+    }
+  ],
+  "book_total_chars": 92814,
+  "completed": false
+}
