@@ -155,6 +155,18 @@
       "image_model": "gptimage",
       "seed": 1921583670,
       "created_at": "2026-03-12T23:45:02.764674+08:00"
+    },
+    {
+      "id": "20260312_235314",
+      "offset_start": 1130,
+      "offset_end": 1306,
+      "text": "進\n得門去，光線驟然一暗，裡面是個頗大的店堂：四壁都是醬色木櫃，一格格密密\n麻麻的小抽屜上貼着細辛、白芷、黃芩、辛夷、羌活、麻黃、牛蒡子、夜交藤、\n紫花地丁等各類中草藥名稱；一排半人高的櫃檯正對大門，夥計在櫃檯後面接待\n按方抓藥的顧客；櫃檯左邊一扇烏金屏風隔出一塊地方，裡面一方紅木大書桌，\n桌上擱着毛筆、硯臺，那是藥店掌柜梁先生給病人把脈診病的地方。",
+      "prompt": "Inside a dimly lit traditional Chinese medicine shop, rows of dark wood cabinets filled with tiny drawers line the walls, each labeled with names of various herbs like Xin Yi and Huang Qin. A counter runs across the space where a shop assistant dispenses remedies to customers. To the left, a dark gold screen partitions off a corner with a large, dark wood desk, a brush, and an inkstone, set up for the shopkeeper to examine patients. The atmosphere is hushed and aromatic, with soft, warm lighting highlighting the wooden elements and the detailed labels on the drawers. Artistic style: Realistic with a touch of historical atmosphere, reminiscent of traditional Chinese ink wash paintings.",
+      "image": "reader_images/reader_20260312_235314.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1949465035,
+      "created_at": "2026-03-12T23:53:14.577236+08:00"
     }
   ],
   "book_total_chars": 92814,
