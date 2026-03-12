@@ -647,6 +647,18 @@
       "image_model": "flux",
       "seed": 1214334481,
       "created_at": "2026-03-13T03:48:56.862313+08:00"
+    },
+    {
+      "id": "20260313_035013",
+      "offset_start": 4544,
+      "offset_end": 4612,
+      "text": "袍子的腰身特別緊窄，\n二嫂有點胖，邊穿邊吸氣，嘴裡直叫「哎喲」。秋園在一旁眼巴巴地看着她們，\n羨慕了一番她們的漂亮衣裳，就照常上學去了。",
+      "prompt": "A young woman, Qiu Yuan, with an envious gaze, watches two other women struggle to don intricately embroidered silk robes with tightly cinched waists. One woman, slightly plump, inhales sharply, exclaiming \"Aiyo!\" as she pulls on her garment. The scene is set in a sun-dappled traditional Chinese courtyard, rendered in the style of a classical Chinese ink wash painting with a touch of vibrant color.",
+      "image": "reader_images/reader_20260313_035013.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1348344565,
+      "created_at": "2026-03-13T03:50:13.371996+08:00"
     }
   ],
   "book_total_chars": 92814,
