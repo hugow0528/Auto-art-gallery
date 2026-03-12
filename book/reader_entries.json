@@ -131,6 +131,18 @@
       "image_model": "grok-imagine",
       "seed": 244526484,
       "created_at": "2026-03-12T23:40:44.152458+08:00"
+    },
+    {
+      "id": "20260312_234215",
+      "offset_start": 968,
+      "offset_end": 1063,
+      "text": "一個五歲的小女孩光着腳丫，\n褲管卷得老高，轉着圈踩水玩。水花四處飛濺，女孩一門心思戲水，母親走近\n了，她還全然不知。\n婦人火冒三丈道：「你男不男女不女，打起個赤腳玩水，回去非得給你包腳\n去！",
+      "prompt": "A playful, barefoot five-year-old girl twirls joyfully in shallow water, splashing with abandon, oblivious to her approaching mother. Her trouser legs are rolled up high. The mother stands nearby, her face contorted in anger, a stern, traditional expression. The scene is rendered in a slightly desaturated, painterly style reminiscent of traditional Chinese ink wash painting, with soft, diffused sunlight highlighting the water droplets.",
+      "image": "reader_images/reader_20260312_234215.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 2115429990,
+      "created_at": "2026-03-12T23:42:15.062535+08:00"
     }
   ],
   "book_total_chars": 92814,
