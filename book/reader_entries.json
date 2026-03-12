@@ -611,6 +611,18 @@
       "image_model": "flux",
       "seed": 1065077277,
       "created_at": "2026-03-13T03:28:46.220025+08:00"
+    },
+    {
+      "id": "20260313_033302",
+      "offset_start": 4314,
+      "offset_end": 4377,
+      "text": "二嫂清揚還是小孩心性，活潑愛玩。平日裡她除了縫縫繡繡，就是幫着切藥、晾\n藥、配藥，除了家裡那幾個人，誰都見不到，悶都悶死了。",
+      "prompt": "First, the task is to create an image-generation prompt based on a Chinese literary passage. The passage is about \"二嫂清揚\" (Second Sister Qingyang), who has a childlike nature, is lively and loves to play. She usually does sewing, embroidery, cutting medicine, drying medicine, and mixing medicine. She only sees the few people at home and feels bored to death.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. Respond ONLY with the image prompt in English — no explanations, no translations, no markdown.\n\nKey elements from the passage:\n- Character: Second Sister Qingyang, childlike, lively, loves to play.\n- Activities: Sewing, embroidery, cutting medicine, drying medicine, mixing medicine.\n- Setting: At home, with only a few people around, feeling闷 (bored or stifled).\n- Atmosphere: Probably a mix of mundane domestic life with a sense of confinement or boredom, but with her lively nature peeking through.\n\nI need to describe a specific visual scene. Since the passage mentions her activities, I can focus on one of those moments. Perhaps a scene where she is engaged in one of these tasks but showing her restlessness or childlike energy.\n\nArtistic style: I should choose a style that fits literary or historical Chinese settings. Maybe something like \"traditional Chinese painting style\" or \"realistic",
+      "image": "reader_images/reader_20260313_033302.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1425326171,
+      "created_at": "2026-03-13T03:33:02.547350+08:00"
     }
   ],
   "book_total_chars": 92814,
