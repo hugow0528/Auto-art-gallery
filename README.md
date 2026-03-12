@@ -1,6 +1,6 @@
 # 🎨 Auto Art Gallery
 
-> An autonomous AI-powered art gallery that generates a brand-new artwork every day and publishes it to a beautiful GitHub Pages website — automatically.
+> An autonomous AI-powered art gallery that generates brand-new artworks throughout the day and publishes them to a beautiful GitHub Pages website — automatically.
 
 [![Generate Artwork](https://github.com/kychugo/Auto-art-gallery/actions/workflows/generate.yml/badge.svg)](https://github.com/kychugo/Auto-art-gallery/actions/workflows/generate.yml)
 [![Deploy to GitHub Pages](https://github.com/kychugo/Auto-art-gallery/actions/workflows/deploy.yml/badge.svg)](https://github.com/kychugo/Auto-art-gallery/actions/workflows/deploy.yml)
@@ -222,7 +222,7 @@ The interface is in **Traditional Chinese (繁體中文)**.
 
 | Feature | Detail |
 |---|---|
-| ⏰ Auto-generation | New illustrated passage at scheduled times each day |
+| ⏰ Auto-generation | New illustrated passage **every 5 minutes**, all day |
 | 📚 Sequential reading | Passages are extracted in order from `book/source.txt` |
 | 🎨 AI illustrations | Each passage is paired with a matching AI-generated image |
 | 📊 Progress tracking | Reading progress bar shows how far through the book you are |
@@ -234,7 +234,7 @@ The interface is in **Traditional Chinese (繁體中文)**.
 ## 🔄 How It Works
 
 ```
-At scheduled times (or on-demand)
+Every 5 minutes (or on-demand)
         │
         ▼
 ┌───────────────────────────────┐
@@ -242,16 +242,18 @@ At scheduled times (or on-demand)
 │                               │
 │  1. Read next ~60-char        │
 │     segment from source.txt   │
-│  2. Generate English image    │
+│  2. Convert Simplified →      │
+│     Traditional Chinese       │
+│  3. Generate English image    │
 │     prompt via text model     │
-│  3. Generate illustration     │
+│  4. Generate illustration     │
 │     via image model           │
-│  4. Save image to             │
+│  5. Save image to             │
 │     book/reader_images/       │
-│  5. Append to                 │
+│  6. Append to                 │
 │     reader_entries.json       │
-│  6. Update reader_progress    │
-│  7. Commit & push → main      │
+│  7. Update reader_progress    │
+│  8. Commit & push → main      │
 └───────────┬───────────────────┘
             │ push to main triggers
             ▼
@@ -269,9 +271,9 @@ At scheduled times (or on-demand)
 
 ```
 book/
-├── source.txt              # Full book text (UTF-8)
+├── source.txt              # Full book text in Simplified Chinese (UTF-8)
 ├── reader.html             # Reader web page (Traditional Chinese UI)
-├── reader_entries.json     # All generated passages + image metadata
+├── reader_entries.json     # All generated passages + image metadata (Traditional Chinese)
 ├── reader_progress.json    # Current reading offset
 └── reader_images/          # AI-generated illustrations (auto-populated)
 ```
@@ -288,10 +290,10 @@ echo '{"entries": [], "book_total_chars": 0, "completed": false}' > book/reader_
 ```
 
 ### Change the generation schedule
-Edit `.github/workflows/reader.yml` and add or remove cron entries:
+Edit `.github/workflows/reader.yml`:
 ```yaml
 schedule:
-  - cron: '0 20 * * *'   # 4:00 AM HKT — add or remove lines to taste
+  - cron: '*/5 * * * *'   # currently every 5 minutes — adjust to taste
 ```
 
 ### Change passage length
