@@ -299,6 +299,18 @@
       "image_model": "imagen-4",
       "seed": 466235064,
       "created_at": "2026-03-13T01:00:35.448769+08:00"
+    },
+    {
+      "id": "20260313_010913",
+      "offset_start": 2184,
+      "offset_end": 2267,
+      "text": "梁太太擠了一陣後，用右手抓住女兒\n的五個腳趾使勁捏攏，左手將準備好的白布一道道纏上去，纏緊後又用針線密密\n麻麻地縫上。秋園又哭又叫，梁太太也流淚了，手上卻一點沒鬆勁。",
+      "prompt": "A young girl, Qiu Yuan, cries out in pain as her mother, Mrs. Liang, tightly bandages her toes with white cloth, stitching it meticulously. The atmosphere is somber and tense, with a hint of maternal sorrow visible on Mrs. Liang's face. Rendered in a realistic, slightly muted oil painting style with dramatic chiaroscuro lighting emphasizing the hands and faces.",
+      "image": "reader_images/reader_20260313_010913.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 606521142,
+      "created_at": "2026-03-13T01:09:13.697561+08:00"
     }
   ],
   "book_total_chars": 92814,
