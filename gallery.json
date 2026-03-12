@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_184141",
+      "filename": "images/artwork_20260312_184141.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "An oil painting masterpiece of Hong Kong street food culture, rendered with powerful, monumental scale. Under the intense neon city glow, bustling dai pai dong stalls are awash in a dramatic palette of emerald and deep forest green, their steam mingling with the electric haze. The scene is rich with glistening roasted meats, vibrant plastic stools, and stoic, focused vendors framed by towering, rain-slicked buildings and glowing signage.",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 990870530,
+      "created_at": "2026-03-12T18:41:41.381428+08:00"
+    },
+    {
       "id": "20260312_180905",
       "filename": "images/artwork_20260312_180905.jpg",
       "topic": "news headlines of tomorrow",
