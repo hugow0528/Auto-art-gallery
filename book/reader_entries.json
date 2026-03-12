@@ -695,6 +695,18 @@
       "image_model": "gptimage",
       "seed": 996853077,
       "created_at": "2026-03-13T03:58:20.950690+08:00"
+    },
+    {
+      "id": "20260313_040304",
+      "offset_start": 4823,
+      "offset_end": 4901,
+      "text": "那些小姐太太擁擠在一處，在人\n們反應過來之前，遊船迅速失衡，一頭扎進水中，飛快地消失了。清婉和清揚都\n在那艘船上。她們裹着她們的織錦緞窄袍，喪生在洛河裡面。",
+      "prompt": "A dramatic classical Chinese painting scene of a ornate wooden pleasure boat capsizing violently in the turbulent, dark waters of the Luo River. Elegant women in narrow, embroidered brocade robes are shown amidst the chaotic splash, their expressions frozen in shock and despair as they are pulled under. The mood is tragic and atmospheric, rendered with the meticulous detail and flowing ink washes of a historical handscroll, under a stormy, twilight sky.",
+      "image": "reader_images/reader_20260313_040304.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1707535278,
+      "created_at": "2026-03-13T04:03:04.942535+08:00"
     }
   ],
   "book_total_chars": 92814,
