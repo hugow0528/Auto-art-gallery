@@ -407,6 +407,18 @@
       "image_model": "flux-2-dev",
       "seed": 1146659568,
       "created_at": "2026-03-13T01:42:24.425761+08:00"
+    },
+    {
+      "id": "20260313_015104",
+      "offset_start": 2962,
+      "offset_end": 3035,
+      "text": "秋成從小就跟着父親學醫，預備子承\n父業。\n天下不太平，張作霖、閻錫山、吳佩孚打來打去。今天北邊的軍隊走了，明天南\n邊的軍隊來了，日子過得提心弔膽。",
+      "prompt": "A young Chinese boy, Qiucheng, stands anxiously beside his father in a dimly lit traditional apothecary shop filled with herbs, porcelain jars, and medical scrolls, their faces tense as distant cannon smoke rises over a war-torn village skyline where marching soldiers from rival warlord armies clash on muddy roads. The atmosphere is one of precarious unease and perpetual dread, with flickering lantern light casting long shadows on worried villagers peering from doorways amid scattered banners of Zhang Zuolin, Yan Xishan, and Wu Peifu. Render in a realistic 1920s Chinese ink-wash style blended with dramatic cinematic lighting, evoking the chaos of the Warlord Era in muted earth tones and subtle red accents for blood and banners.",
+      "image": "reader_images/reader_20260313_015104.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 472186369,
+      "created_at": "2026-03-13T01:51:04.491455+08:00"
     }
   ],
   "book_total_chars": 92814,
