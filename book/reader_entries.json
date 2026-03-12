@@ -443,6 +443,18 @@
       "image_model": "grok-imagine",
       "seed": 705596812,
       "created_at": "2026-03-13T02:02:04.108067+08:00"
+    },
+    {
+      "id": "20260313_020610",
+      "offset_start": 3233,
+      "offset_end": 3327,
+      "text": "那姑娘就成了秋園的大嫂。牛車上堆滿了紅薯藤，大嫂\n就躲在薯藤裏來到了梁家。\n大嫂長得不很漂亮，只那雙腳是名副其實的三寸金蓮，穿一雙綠緞子繡花鞋，鞋\n面用紅絲線繡着牡丹花，走起路來顫顫悠悠。",
+      "prompt": "A rustic autumn rural scene in traditional Chinese ink wash painting style, with a wooden ox cart piled high with lush green sweet potato vines under a golden harvest sunset, evoking a warm, secretive, and traditional atmosphere of arrival and anticipation. The young bride, modestly dressed in a simple qipao, peeks shyly from hiding within the vines, her delicate face framed by dark hair, emphasizing her bound **three-inch golden lotus feet** clad in exquisite green satin embroidered shoes adorned with vibrant red peony flowers. Soft diffused lighting casts trembling shadows as she takes a tentative, swaying step forward upon arrival at the Liang family courtyard, surrounded by thatched roofs and distant misty mountains, in a highly detailed, poetic realism with earthy tones and subtle symbolic depth.",
+      "image": "reader_images/reader_20260313_020610.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 2033371688,
+      "created_at": "2026-03-13T02:06:10.194583+08:00"
     }
   ],
   "book_total_chars": 92814,
