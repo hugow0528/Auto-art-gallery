@@ -311,6 +311,18 @@
       "image_model": "flux-2-dev",
       "seed": 606521142,
       "created_at": "2026-03-13T01:09:13.697561+08:00"
+    },
+    {
+      "id": "20260313_011048",
+      "offset_start": 2267,
+      "offset_end": 2342,
+      "text": "第二天，趁着女客來訪，梁太太不在跟前，秋園偷偷尋出剪子，把腳上的線拆\n了。解開白布後，四個往腳心收攏的腳趾一點點彈開……那雙腳兀自顫動，抖個\n不停。",
+      "prompt": "A young woman, Qiu Yuan, secretly removes bandages from her feet in a dimly lit, private room. The atmosphere is tense and expectant as her toes, previously compressed, begin to unfurl. The style is realistic with a touch of dramatic chiaroscuro lighting, emphasizing the texture of the cloth and the delicate, trembling skin.",
+      "image": "reader_images/reader_20260313_011048.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 734662333,
+      "created_at": "2026-03-13T01:10:48.170583+08:00"
     }
   ],
   "book_total_chars": 92814,
