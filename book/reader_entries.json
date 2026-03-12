@@ -431,6 +431,18 @@
       "image_model": "grok-imagine",
       "seed": 1487946040,
       "created_at": "2026-03-13T01:58:14.036047+08:00"
+    },
+    {
+      "id": "20260313_020204",
+      "offset_start": 3151,
+      "offset_end": 3233,
+      "text": "不知怎麼七彎八繞\n就說到梁先生這兒來，要將其中一個女兒給秋成做媳婦。\n梁先生是爽快人，說救人一命勝造七級浮屠。一天晚上，一輛牛車偷偷摸摸地從\n餘家村拉來了一個姑娘。",
+      "prompt": "The passage describes a clandestine arrival and a sense of hidden dealings. Therefore, a suitable image prompt would be: A dimly lit, rustic village scene at night, with a dilapidated ox cart partially obscured by shadows as it cautiously enters a narrow, winding path. The atmosphere is secretive and slightly foreboding, with a single lantern on the cart casting a faint, flickering glow. The artistic style should be reminiscent of traditional Chinese ink wash paintings, emphasizing atmosphere and subdued tones.",
+      "image": "reader_images/reader_20260313_020204.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 705596812,
+      "created_at": "2026-03-13T02:02:04.108067+08:00"
     }
   ],
   "book_total_chars": 92814,
