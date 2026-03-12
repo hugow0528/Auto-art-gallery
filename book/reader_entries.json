@@ -1163,6 +1163,18 @@
       "image_model": "zimage",
       "seed": 1059238471,
       "created_at": "2026-03-13T07:44:08.963813+08:00"
+    },
+    {
+      "id": "20260313_074441",
+      "offset_start": 7952,
+      "offset_end": 8046,
+      "text": "數月之後，南京大屠殺發生了。\n\n14\n\n\f六\n一九三七年深秋，一艘輪船停泊在漢口碼頭上等待靠岸。濃霧籠罩着寬闊的江\n面，看不到江水和天空，也看不到不遠處的其他船隻，天地之間只剩濃白的霧。",
+      "prompt": "A steamship sits moored at the Hankou docks in late autumn 1937, moments before the Nanjing Massacre, suspended in an oppressive thick white fog that obscures the water, sky, and distant vessels. The atmosphere is haunting and ominous, with muted earth tones—grays, blacks, and pale whites—creating a sense of impending doom and historical tragedy. The ship's silhouette emerges faintly from the mist, its form ghostly and undefined, while the fog presses in suffocatingly, isolating the vessel in a liminal space between earth and sky. The mood is somber and cinematic, rendered in a style reminiscent of historical documentary photography mixed with impressionistic brushwork, capturing the weight of history and the quiet before catastrophe.",
+      "image": "reader_images/reader_20260313_074441.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2140493347,
+      "created_at": "2026-03-13T07:44:41.151469+08:00"
     }
   ],
   "book_total_chars": 92814,
