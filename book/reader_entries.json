@@ -191,6 +191,18 @@
       "image_model": "grok-imagine",
       "seed": 1215706282,
       "created_at": "2026-03-13T00:09:43.651156+08:00"
+    },
+    {
+      "id": "20260313_001423",
+      "offset_start": 1473,
+      "offset_end": 1577,
+      "text": "園中有口\n深井，井上架着轆轤。花園兩旁有數間平房，一間是燒火做飯的廚房，一間專門\n用來加工中藥，還有一間是接待女客處。這些女病人不是大家閨秀就是小家碧\n玉，有些難以啓齒的婦人病就和太太講，再由太太告訴掌柜的。",
+      "prompt": "A serene, sun-dappled courtyard garden with a deep well at its center, a wooden winch (lu lu) resting over its opening. To the sides, humble, single-story structures, one with wisps of smoke suggesting cooking, another hinting at medicinal preparation. Elegant, demure women, perhaps in traditional Qing dynasty attire, are the focal point, conveying an atmosphere of quiet domesticity and veiled ailments. The style should be a blend of traditional Chinese ink wash painting with a touch of photorealistic detail, emphasizing soft, diffused natural light.",
+      "image": "reader_images/reader_20260313_001423.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 875321921,
+      "created_at": "2026-03-13T00:14:23.333737+08:00"
     }
   ],
   "book_total_chars": 92814,
