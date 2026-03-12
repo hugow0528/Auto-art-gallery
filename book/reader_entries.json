@@ -1007,6 +1007,18 @@
       "image_model": "grok-imagine",
       "seed": 23523405,
       "created_at": "2026-03-13T06:29:08.679364+08:00"
+    },
+    {
+      "id": "20260313_063107",
+      "offset_start": 6891,
+      "offset_end": 6990,
+      "text": "結婚典禮在河洛飯店舉行。主婚人是國民政府參軍處的參軍。國民\n政府主席林森送了賀喜對聯。\n秋園躲在紅綢布後面，對外面的熱鬧心不在焉，只是迫不及待想看看自己的丈夫\n到底是怎樣一個人，便偷偷地掀起蓋頭來。",
+      "prompt": "A traditional Chinese wedding in an elegant hotel hall adorned with red lanterns and",
+      "image": "reader_images/reader_20260313_063107.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 474317070,
+      "created_at": "2026-03-13T06:31:07.924414+08:00"
     }
   ],
   "book_total_chars": 92814,
