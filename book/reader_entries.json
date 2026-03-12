@@ -143,6 +143,18 @@
       "image_model": "grok-imagine",
       "seed": 2115429990,
       "created_at": "2026-03-12T23:42:15.062535+08:00"
+    },
+    {
+      "id": "20260312_234502",
+      "offset_start": 1063,
+      "offset_end": 1130,
+      "text": "」邊罵邊拽過女孩的胳膊帶回家去。\n這是一九一九年，女孩名叫秋園。\n她們的家是一個藥店。朱紅色大圓門上方嵌着鬥大的燙金大字「葆和藥店」。",
+      "prompt": "A stern woman gripping a young girl's arm, dragging her through the red-painted round gate of an early 20th century Chinese pharmacy in 1919. The grand vermillion gate features ornate golden characters \"葆和藥店\" embossed above, with traditional wooden storefront panels and hanging red lanterns framing the entrance. Soft afternoon light",
+      "image": "reader_images/reader_20260312_234502.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1921583670,
+      "created_at": "2026-03-12T23:45:02.764674+08:00"
     }
   ],
   "book_total_chars": 92814,
