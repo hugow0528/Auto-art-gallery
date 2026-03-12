@@ -383,6 +383,18 @@
       "image_model": "zimage",
       "seed": 981309,
       "created_at": "2026-03-13T01:35:04.840782+08:00"
+    },
+    {
+      "id": "20260313_013728",
+      "offset_start": 2756,
+      "offset_end": 2875,
+      "text": "此\n外，還教毛筆字、教打算盤。學生抄字、背書時，老師便坐在桌邊抽煙、喝茶。\n學生上課期間是不休息的，直到飯點才準回家。\n\n5\n\n\f秋園在私塾讀了一年，學了點「女兒經，仔細聽，早早起，出閨門，燒茶湯，敬\n雙親」之類，便被梁先生送去了洋學堂。",
+      "prompt": "In a dimly lit traditional Chinese private塾 with wooden desks and ink-stained tables, a stern teacher in Qing-era robes sits relaxed at the front, puffing on a long pipe while sipping tea from a porcelain cup, as young students like Qiu Yuan diligently copy characters with brush pens and abacuses under warm lantern light. The atmosphere is one of quiet discipline and rote focus, with no breaks until mealtime, scrolls of Confucian texts like \"Nü'er Jing\" unrolled nearby. Render in realistic ink wash painting style with earthy tones, soft golden hour glow filtering through paper windows, evoking serene yet austere scholarly tradition.",
+      "image": "reader_images/reader_20260313_013728.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 268395602,
+      "created_at": "2026-03-13T01:37:28.689882+08:00"
     }
   ],
   "book_total_chars": 92814,
