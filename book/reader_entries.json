@@ -287,6 +287,18 @@
       "image_model": "gptimage",
       "seed": 770759872,
       "created_at": "2026-03-13T00:54:14.210932+08:00"
+    },
+    {
+      "id": "20260313_010035",
+      "offset_start": 2092,
+      "offset_end": 2184,
+      "text": "可怕的裹腳落到了秋園頭上。好在梁太太既沒有將她推下桌子，也沒有追打她。\n梁太太左手抓住秋園腳前掌，右手抓住腳後跟，雙手同時用力朝中間擠……光這\n功夫就夠秋園哭得聲嘶力竭，喉嚨都啞了。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage describes a scene about foot-binding, specifically involving a character named Qiu Yuan and a woman referred to as Mrs. Liang. The key elements are: Mrs. Liang is performing foot-binding on Qiu Yuan, who is crying intensely. The setting seems to be indoors, possibly in a traditional Chinese room.\n\nI need to describe a specific visual scene in English for AI image generation. It should include setting, atmosphere, characters, and artistic style. The response must be 2–4 sentences only, and in English only. No explanations, translations, or markdown.\n\nBreak down the passage:\n- Event: Foot-binding of Qiu Yuan by Mrs. Liang.\n- Actions: Mrs. Liang holds Qiu Yuan's foot, squeezing it, causing Qiu Yuan to cry.\n- Atmosphere: Painful, distressing, intense.\n\nNow, craft a prompt:\n- Setting: Indoors, likely a dimly lit room with traditional Chinese furnishings to emphasize the historical context.\n- Characters: Qiu Yuan, a young girl in pain, and Mrs. Liang, an older woman performing the act.\n- Atmosphere: Tense, sorrowful, with a focus on the agony and the grim reality of foot-binding.\n- Artistic style: Perhaps in a realistic or historical painting style to convey the gravity. Maybe specify something like \"in the style of traditional Chinese ink painting\" or \"realistic oil painting\" to add visual",
+      "image": "reader_images/reader_20260313_010035.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 466235064,
+      "created_at": "2026-03-13T01:00:35.448769+08:00"
     }
   ],
   "book_total_chars": 92814,
