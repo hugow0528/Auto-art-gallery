@@ -755,6 +755,18 @@
       "image_model": "zimage",
       "seed": 2097146430,
       "created_at": "2026-03-13T04:48:54.534783+08:00"
+    },
+    {
+      "id": "20260313_044959",
+      "offset_start": 5212,
+      "offset_end": 5282,
+      "text": "去\n世前那幾年，她常說的話是：「不是日子不好過，是不耐煩活了。」\n-（Free書f享更多搜雅書）-\n\n10\n\n\f四\n秋成這一病便是整整三年。",
+      "prompt": "A solitary, elderly woman sits by a window in a dimly lit, sparsely furnished room, her gaze distant and weary, reflecting a profound sense of ennui. Autumn leaves drift past the windowpane, casting long, melancholic shadows across the wooden floor. The scene evokes a feeling of quiet resignation and the passage of time, rendered in the style of a traditional Chinese ink wash painting with a muted, sepia-toned palette.",
+      "image": "reader_images/reader_20260313_044959.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 952146393,
+      "created_at": "2026-03-13T04:49:59.708812+08:00"
     }
   ],
   "book_total_chars": 92814,
