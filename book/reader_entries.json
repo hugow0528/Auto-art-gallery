@@ -1199,6 +1199,18 @@
       "image_model": "flux-2-dev",
       "seed": 1374763936,
       "created_at": "2026-03-13T07:50:20.430456+08:00"
+    },
+    {
+      "id": "20260313_075402",
+      "offset_start": 8202,
+      "offset_end": 8264,
+      "text": "仁受像頭困獸，一會兒到甲板上加入同仁對時局的議論，一會兒在艙室裏心神不\n寧地踱來踱去。戰事越打越艱難，這一去就很難回頭了。",
+      "prompt": "A tense 1940s warship cabin interior, a man in period naval uniform mid-pace, silhouetted by harsh chiaroscuro lighting from a solitary porthole revealing a distant battleship; his face is etched with anxiety and restless energy, cinematic noir style, dramatic shadows, atmosphere of impending doom.",
+      "image": "reader_images/reader_20260313_075402.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1184240445,
+      "created_at": "2026-03-13T07:54:02.100874+08:00"
     }
   ],
   "book_total_chars": 92814,
