@@ -887,6 +887,18 @@
       "image_model": "flux",
       "seed": 255324937,
       "created_at": "2026-03-13T05:42:08.732603+08:00"
+    },
+    {
+      "id": "20260313_054802",
+      "offset_start": 6058,
+      "offset_end": 6125,
+      "text": "見秋園走進藥店大門，過\n了一會兒，他也踱了進去，問別人剛才那個留長辮子的姑娘是少梁先生的什麼\n人。\n店裡的人回答：「是少梁先生的妹妹。",
+      "prompt": "Inside a dimly lit traditional Chinese pharmacy with wooden counters and shelves of herbal jars, a man in early 20th-century attire leans in to quietly ask a question of the shopkeeper. The atmosphere is hushed and slightly mysterious, lit",
+      "image": "reader_images/reader_20260313_054802.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 11759455,
+      "created_at": "2026-03-13T05:48:02.640352+08:00"
     }
   ],
   "book_total_chars": 92814,
