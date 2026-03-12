@@ -179,6 +179,18 @@
       "image_model": "flux-2-dev",
       "seed": 1053208800,
       "created_at": "2026-03-13T00:06:13.230277+08:00"
+    },
+    {
+      "id": "20260313_000943",
+      "offset_start": 1384,
+      "offset_end": 1473,
+      "text": "梁先生還從老家南陽將自己當眼科醫生的舅舅接了來。這位舅舅除了\n給人看眼病外，還自製中藥眼藥水，如撥霧散、一滴清等。\n穿過店堂，又是一朱紅大圓門，進去是個大園子，種有各類花卉草木。",
+      "prompt": "A serene traditional Chinese courtyard garden viewed through an ornate vermillion circular door frame, with lush花卉草木 including peonies, bamboo, and ancient trees visible in the soft afternoon light, the red door's intricate carvings glowing warmly, in a style reminiscent of classical Chinese ink wash painting blended with realistic detail.",
+      "image": "reader_images/reader_20260313_000943.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1215706282,
+      "created_at": "2026-03-13T00:09:43.651156+08:00"
     }
   ],
   "book_total_chars": 92814,
