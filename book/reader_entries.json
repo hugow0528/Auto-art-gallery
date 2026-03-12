@@ -1187,6 +1187,18 @@
       "image_model": "zimage",
       "seed": 1527615143,
       "created_at": "2026-03-13T07:46:14.823600+08:00"
+    },
+    {
+      "id": "20260313_075020",
+      "offset_start": 8123,
+      "offset_end": 8202,
+      "text": "仁受、秋園和他們五歲的兒子子恆正在這條船上，船將開往重慶。自十月國民政\n府決定遷都重慶，將其作爲戰時陪都起，國民政府大小官員便陸續撤往重慶，仁\n受也在其中。",
+      "prompt": "Aboard a rustic wooden boat on a wide, mist-shrouded river, Ren Shou, Qiu Yuan, and their young son Zi Heng, aged five, prepare for a journey towards Chongqing. The atmosphere is somber yet hopeful, with a sense of displacement due to the government's wartime relocation. The scene should be rendered in a traditional Chinese ink wash painting style, with muted colors, soft lighting filtering through the mist, and a focus on the emotional weight of the departing figures against the vast, uncertain landscape.",
+      "image": "reader_images/reader_20260313_075020.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1374763936,
+      "created_at": "2026-03-13T07:50:20.430456+08:00"
     }
   ],
   "book_total_chars": 92814,
