@@ -347,6 +347,18 @@
       "image_model": "gptimage",
       "seed": 670912546,
       "created_at": "2026-03-13T01:15:58.903150+08:00"
+    },
+    {
+      "id": "20260313_012746",
+      "offset_start": 2528,
+      "offset_end": 2612,
+      "text": "竹板一面紅、一面綠，一頭寬、一\n頭窄，窄的一頭用來捏握。通常，竹板綠色的一面朝上。如果學生要上廁所，就\n走到桌前將竹板翻個面，讓紅色朝上，等從廁所回來，再將竹板翻過來。",
+      "prompt": "A traditional Chinese classroom from the Qing dynasty era, with worn wooden desks arranged in rows. On one desk sits a bamboo signaling board, one side painted green facing up, the other side red hidden beneath. The dim room has soft morning light filtering through paper windows, with a chalkboard or blackboard behind a wooden podium. The scene evokes a quiet, nostalgic educational atmosphere with muted earth tones and traditional Chinese architectural elements.",
+      "image": "reader_images/reader_20260313_012746.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 910784290,
+      "created_at": "2026-03-13T01:27:46.932422+08:00"
     }
   ],
   "book_total_chars": 92814,
