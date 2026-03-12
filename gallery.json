@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_154647",
+      "filename": "images/artwork_20260312_154647.jpg",
+      "topic": "street food culture in Hong Kong",
+      "prompt": "A serene nighttime scene in Hong Kong, where an anime-inspired food stall glows under the dappled light filtering through the leaves of a giant banyan tree. A vendor with soft, stylized features gently tends to bamboo steamers releasing plumes of fragrant smoke, illuminated by the cool blues and purples of neon signs and twilight. The mood is deeply peaceful, with a color palette of lavender, deep indigo, and teal washing over steaming bowls of noodles and delicate paper lanterns swaying in a gentle breeze.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 237094387,
+      "created_at": "2026-03-12T15:46:47.981406+08:00"
+    },
+    {
       "id": "20260312_153004",
       "filename": "images/artwork_20260312_153004.jpg",
       "topic": "global climate crisis and environmental solutions",
