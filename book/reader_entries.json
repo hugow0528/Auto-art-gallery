@@ -23,6 +23,18 @@
       "image_model": "grok-imagine",
       "seed": 912284793,
       "created_at": "2026-03-12T21:24:52.627230+08:00"
+    },
+    {
+      "id": "20260312_221212",
+      "offset_start": 178,
+      "offset_end": 250,
+      "text": "在不算遥远的那一天，我自己在这世界上的痕\n迹也将被抹去，就像一层薄薄的灰尘被岁月吹散。我真的来过这个世界吗？经历\n过的那些艰辛困苦什么都不算吗？",
+      "prompt": "A solitary figure stands in a vast, windswept desert landscape at twilight, their silhouette gradually fading into swirling dust and mist that dissolves into the darkening sky. Thin layers of golden dust particles float through the air, caught in the last rays of sunset, creating an ethereal, ephemeral quality. The atmosphere is contemplative and melancholic, with muted earth tones—ochre, amber, and gray—dominating the composition. Painted in a soft, impressionistic style with atmospheric perspective, the figure becomes increasingly translucent toward the edges, suggesting the passage of time and the impermanence of human existence against the vastness of nature.",
+      "image": "reader_images/reader_20260312_221212.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 843550578,
+      "created_at": "2026-03-12T22:12:12.865553+08:00"
     }
   ],
   "book_total_chars": 92814,
