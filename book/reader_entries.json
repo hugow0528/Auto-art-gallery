@@ -1031,6 +1031,18 @@
       "image_model": "zimage",
       "seed": 1065339369,
       "created_at": "2026-03-13T06:44:12.935945+08:00"
+    },
+    {
+      "id": "20260313_064650",
+      "offset_start": 7066,
+      "offset_end": 7146,
+      "text": "一九三二年底，國民政府回都南京，秋園也\n跟着仁受到了南京。\n秋園一心想讀書。那時正值陰曆十月，沒什麼學校可考，她就參加了婦女職業補\n習班，學習縫紉、刺繡、編織。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage describes a scene from 1932, when the National Government moved back to Nanjing, and a character named Qiuyuan follows Ren to Nanjing. Qiuyuan wants to study, but since it's the tenth month of the lunar calendar with no schools to take exams, she joins a women's vocational补习班 to learn sewing, embroidery, and weaving.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. The prompt should include artistic style, mood, lighting, and specific visual elements. I must respond ONLY with the image prompt in English—no explanations, no translations, no markdown. Also, keep it to 2–4 sentences as specified.\n\nKey elements from the passage:\n- Setting: Nanjing, 1932, during the tenth month of the lunar calendar (which is around autumn or early winter).\n- Characters: Qiuyang, presumably a young woman, focused on studying.\n- Activity: Attending a women's vocational补习班, learning sewing, embroidery, weaving.\n- Atmosphere: Probably serious, studious, perhaps with a sense of determination or quiet learning.\n\nNow, translate this into a visual scene:\n- Setting: A classroom or workshop in Nanjing, 1932. Since it's a vocational补习班, it might be a simple room with tables, sewing machines, fabrics, etc.\n- Atmosphere: Calm",
+      "image": "reader_images/reader_20260313_064650.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 277272342,
+      "created_at": "2026-03-13T06:46:50.840668+08:00"
     }
   ],
   "book_total_chars": 92814,
