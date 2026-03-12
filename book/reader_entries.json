@@ -527,6 +527,18 @@
       "image_model": "zimage",
       "seed": 1897113864,
       "created_at": "2026-03-13T02:44:25.206044+08:00"
+    },
+    {
+      "id": "20260313_030728",
+      "offset_start": 3775,
+      "offset_end": 3862,
+      "text": "不久，北伐軍進駐洛陽。隊伍軍紀嚴明，從大街上經過時從不擾民。秋園跟着兩\n位嫂子及街坊鄰居站在大街上看熱鬧，只見軍人頭戴大檐帽，身背步槍，腿扎綁\n腿，邁着整齊的步伐列隊經過。",
+      "prompt": "A solemn procession of Northern Expeditionary Army soldiers marches down a broad, sun-drenched street in Luoyang during autumn. They wear peaked caps, carry rifles, and have gaiters tied around their calves, their disciplined steps creating a unified rhythm. A young girl named Qiu Yuan, accompanied by two older women and neighbors, watches from the bustling sidewalk, a mixture of awe and curiosity on their faces. The scene is rendered in a realistic, cinematic style, with warm, golden autumn light casting long shadows and highlighting the dust kicked up by the marching feet.",
+      "image": "reader_images/reader_20260313_030728.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 242811949,
+      "created_at": "2026-03-13T03:07:28.096048+08:00"
     }
   ],
   "book_total_chars": 92814,
