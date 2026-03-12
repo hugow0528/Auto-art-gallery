@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_141123",
+      "filename": "images/artwork_20260312_141123.jpg",
+      "topic": "future of human civilization and technology",
+      "prompt": "In an oil painting masterpiece, a solitary human figure gazes intimately into a shimmering holographic orb cradling the future of civilization, their face tenderly illuminated by dramatic studio lighting with sharp Rembrandt shadows and golden rim light outlining their contemplative expression against a void-black expanse. Futuristic neural implants pulse with intricate golden circuitry along their skin, merging organic humanity with towering megastructures of crystalline spires and orbiting AI constellations in the orb's vision, all rendered in high-contrast black and gold palette where luminous golds erupt from abyssal darkness. The mood evokes profound human connection amid technological transcendence, with hyper-detailed textures of weathered skin, iridescent tech veins, and ethereal glows evoking an award-winning fusion of Renaissance intimacy and cybernetic sublime.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 657782774,
+      "created_at": "2026-03-12T14:11:23.804406+08:00"
+    },
+    {
       "id": "20260312_134642",
       "filename": "images/artwork_20260312_134642.jpg",
       "topic": "news headlines of tomorrow",
