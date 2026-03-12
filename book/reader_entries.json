@@ -839,6 +839,18 @@
       "image_model": "flux-2-dev",
       "seed": 1970833581,
       "created_at": "2026-03-13T05:05:52.570360+08:00"
+    },
+    {
+      "id": "20260313_051847",
+      "offset_start": 5761,
+      "offset_end": 5840,
+      "text": "一九三二年，「一·二\n八」事變直接威脅到南京，國民政府遷都洛陽，洛陽成了戰時行都。於是，葆和\n藥店便常有一些身着戎裝的軍人或戴禮帽、穿長衫的大小官吏前來看病。",
+      "prompt": "In a dimly lit, traditional Chinese pharmacy in wartime Luoyang, a stoic military officer in uniform and a somber official in a long gown await their consultations, the air thick with tension and the scent of medicinal herbs. The scene is rendered in a classic, slightly desaturated realist oil painting style, evoking a sense of historical gravity and quiet urgency. Soft, directional light from a single overhead lamp casts long shadows, highlighting the worn wooden counters and the anxious expressions of the patients.",
+      "image": "reader_images/reader_20260313_051847.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 2082208343,
+      "created_at": "2026-03-13T05:18:47.660711+08:00"
     }
   ],
   "book_total_chars": 92814,
