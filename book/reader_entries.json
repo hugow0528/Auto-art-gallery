@@ -851,6 +851,18 @@
       "image_model": "grok-imagine",
       "seed": 2082208343,
       "created_at": "2026-03-13T05:18:47.660711+08:00"
+    },
+    {
+      "id": "20260313_052022",
+      "offset_start": 5840,
+      "offset_end": 5903,
+      "text": "一天，安良街上一個姓扣的人家出殯。秋園也跟着梁太太出門去看熱鬧。扣姓人\n家很有錢，所有活人在陽世上用的東西，死人也樣樣不少。",
+      "prompt": "A bustling early 20th century Chinese street scene, muted colors, a lavish funeral procession for a wealthy family. Elaborate paper effigies of houses, cars, and servants are carried alongside the coffin. In the foreground, a young woman and an older lady observe from the crowd, a mix of solemnity and spectacle in the overcast afternoon light, realistic style with cinematic lighting.",
+      "image": "reader_images/reader_20260313_052022.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 160529607,
+      "created_at": "2026-03-13T05:20:22.754896+08:00"
     }
   ],
   "book_total_chars": 92814,
