@@ -1079,6 +1079,18 @@
       "image_model": "flux-2-dev",
       "seed": 1621605525,
       "created_at": "2026-03-13T06:54:50.846506+08:00"
+    },
+    {
+      "id": "20260313_065731",
+      "offset_start": 7383,
+      "offset_end": 7466,
+      "text": "仁受是湖南鄉下人，幼時母親即過世，父親做點小本生意——挑着貨郎擔子走村\n串巷，賣些罈罈罐罐之類的窯貨養家糊口。由於四十多歲才得仁受這一子，父親\n下決心要送兒子讀書。",
+      "prompt": "A humble, dusty village lane in rural Hunan, China, circa early 20th century. A determined middle-aged man, his face weathered from carrying a merchant's pole laden with pottery jars and ceramics, walks alongside his young son, Ren Shou. The father's gaze is fixed on his son with hopeful resolve, suggesting a profound desire for the boy's education amidst their modest life. The scene should be rendered in a traditional Chinese ink wash painting style, with soft, atmospheric lighting and a muted color palette emphasizing the earnestness of their journey.",
+      "image": "reader_images/reader_20260313_065731.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1158475089,
+      "created_at": "2026-03-13T06:57:31.404608+08:00"
     }
   ],
   "book_total_chars": 92814,
