@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_143926",
+      "filename": "images/artwork_20260312_143926.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A dystopian concept art scene of a vast, abandoned classroom transformed into a neon-drenched server farm, where monolithic data servers pulse with emerald and deep forest green light, casting a sickly neon city glow over rows of vacant desks. Students sit motionless, their faces illuminated by flickering holographic interfaces, with biomechanical implants visibly connecting their spines to the central network. The mood is one of oppressive technological control, with tendrils of glowing code snaking through the air, replacing books and teachers in this dark revolution of education.",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1671482952,
+      "created_at": "2026-03-12T14:39:26.924190+08:00"
+    },
+    {
       "id": "20260312_141123",
       "filename": "images/artwork_20260312_141123.jpg",
       "topic": "future of human civilization and technology",
