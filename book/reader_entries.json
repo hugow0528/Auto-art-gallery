@@ -1115,6 +1115,18 @@
       "image_model": "gptimage",
       "seed": 553213012,
       "created_at": "2026-03-13T07:02:35.107969+08:00"
+    },
+    {
+      "id": "20260313_072210",
+      "offset_start": 7648,
+      "offset_end": 7717,
+      "text": "不久，由堂弟楊均良護\n送，七十多歲的仁受父親來到了南京。老人家已雙目失明，仁受請了個保姆專門\n侍奉他。儘管仁受百般孝敬，父親還是想回老家。",
+      "prompt": "A visually striking, cinematic scene set in Nanjing, China. An elderly, blind father, around seventy, with a frail yet dignified presence, is being tenderly cared for by his filial son, Renshou. The atmosphere is somber and poignant, with soft, diffused lighting that emphasizes the emotional weight of the scene, perhaps set in a traditional Chinese courtyard or a modest, respectfully arranged room. The artistic style should be reminiscent of classic Chinese ink wash paintings with a touch of photorealism, focusing on the subtle interplay of light and shadow to convey unspoken emotions.",
+      "image": "reader_images/reader_20260313_072210.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2098865453,
+      "created_at": "2026-03-13T07:22:10.688084+08:00"
     }
   ],
   "book_total_chars": 92814,
