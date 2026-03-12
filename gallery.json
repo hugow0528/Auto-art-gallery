@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260312_180905",
+      "filename": "images/artwork_20260312_180905.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A futuristic newspaper kiosk glowing in golden hour sunlight, its display showing vibrant holographic headlines about peaceful space exploration, clean energy breakthroughs, and global unity, rendered in rich oil painting style with warm terracotta and amber earth tones, hopeful citizens reading with optimistic expressions, soft cinematic light streaming through ancient olive trees in the background, creating a beautiful contrast between timeless newspaper tradition and tomorrow's hopeful news.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1244587868,
+      "created_at": "2026-03-12T18:09:05.511824+08:00"
+    },
+    {
       "id": "20260312_173505",
       "filename": "images/artwork_20260312_173505.jpg",
       "topic": "renewable energy and sustainable living",
