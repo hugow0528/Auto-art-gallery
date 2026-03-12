@@ -1127,6 +1127,18 @@
       "image_model": "flux",
       "seed": 2098865453,
       "created_at": "2026-03-13T07:22:10.688084+08:00"
+    },
+    {
+      "id": "20260313_072357",
+      "offset_start": 7717,
+      "offset_end": 7804,
+      "text": "老人家天天哭，怕自己死在城\n裏，說要死在鄉下、要睡棺材、要埋在山上。仁受萬般無奈，只得又寫信請堂弟\n來把父親接回老家，並讓父親寄住在堂弟家裡，每月給堂弟三塊大洋作爲生活\n費。",
+      "prompt": "A desolate, dimly lit room in a traditional Chinese city. An elderly man, face etched with sorrow, weeps uncontrollably, his thin frame hunched over. The atmosphere is heavy with despair and a longing for the countryside, a stark contrast to the urban confinement. Realistic, melancholic painting, chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_072357.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1887635330,
+      "created_at": "2026-03-13T07:23:57.158185+08:00"
     }
   ],
   "book_total_chars": 92814,
