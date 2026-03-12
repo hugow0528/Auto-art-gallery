@@ -1043,6 +1043,18 @@
       "image_model": "grok-imagine",
       "seed": 277272342,
       "created_at": "2026-03-13T06:46:50.840668+08:00"
+    },
+    {
+      "id": "20260313_064847",
+      "offset_start": 7146,
+      "offset_end": 7236,
+      "text": "周圍同學多半是結了婚的婦人，其中最大的有三\n十歲，秋園年齡最小。\n仁受在南京大沙帽巷租了兩間住房。他的薪水並不高，每月九十塊銀圓，碰上國\n難當頭，薪水九折，每月實際還領不到九十塊。",
+      "prompt": "In a dimly lit classroom in early 20th-century Nanjing, young Qiuyuan, the smallest and youngest student with a slender, innocent face, sits attentively at a wooden desk surrounded by mostly married women classmates, the eldest around thirty with subtle signs of maturity like simple hairpins and worn cheongsams. Nearby, in a cramped rental room on Dashamao Alley, Renyou counts meager silver yuan coins under a flickering oil lamp, his modest salary reduced by national crisis, evoking an atmosphere of quiet hardship and resilience amid Republican-era decor with peeling walls and sparse furnishings. Render in a realistic ink-wash style inspired by Chinese literary aesthetics, with soft yijing mood of contemplative melancholy, warm golden lighting contrasting cool shadows, high detail on fabrics and expressions.[1][7]",
+      "image": "reader_images/reader_20260313_064847.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 116391973,
+      "created_at": "2026-03-13T06:48:47.269207+08:00"
     }
   ],
   "book_total_chars": 92814,
