@@ -1091,6 +1091,18 @@
       "image_model": "grok-imagine",
       "seed": 1158475089,
       "created_at": "2026-03-13T06:57:31.404608+08:00"
+    },
+    {
+      "id": "20260313_065933",
+      "offset_start": 7466,
+      "offset_end": 7585,
+      "text": "仁受很快顯出聰慧資質，吟詩作對都有模有樣，還寫得一手好字。教書先生叫李\n經輿，是地方上有名的文人，頗喜歡仁受。李先生有很多學生在外當官，待仁受\n13\n\n\f長成少年，李先生便讓一個在國民政府做官的門生將他帶了出去，以免鄉下地方\n埋沒人才。",
+      "prompt": "A young boy, Ren Shou, with bright, intelligent eyes and an ink-stained sleeve, sits at a wooden desk in a sun-dappled study. He meticulously practices calligraphy, his brushstrokes fluid and confident. Beside him stands a wise, elderly scholar, Teacher Li, with a kind smile, observing the boy's progress with pride. The scene is rendered in the style of traditional Chinese ink wash painting, evoking a sense of quiet dedication and burgeoning talent.",
+      "image": "reader_images/reader_20260313_065933.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 601875206,
+      "created_at": "2026-03-13T06:59:33.916634+08:00"
     }
   ],
   "book_total_chars": 92814,
