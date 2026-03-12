@@ -83,6 +83,18 @@
       "image_model": "flux",
       "seed": 829837657,
       "created_at": "2026-03-12T23:14:13.142857+08:00"
+    },
+    {
+      "id": "20260312_233219",
+      "offset_start": 628,
+      "offset_end": 762,
+      "text": "我也感到奇怪：只要提起筆，過去那些日子就湧到筆尖，搶着要\n被訴說出來。我就像是用筆趕路，重新走了一遍長長的人生。\n我寫了我的母親梁秋芳女士——一位普通中國女性——一生的故事，寫了我們一\n家人如何像水中的浮木般隨波逐流、掙扎求生，也寫了中南腹地那些鄉間人物的\n生生死死。",
+      "prompt": "A contemplative scene in a dimly lit, traditional Chinese courtyard, with rain gently falling on moss-covered stones. An elderly woman with kind eyes, dressed in simple rural attire, is the central figure, her hands clasped as if in memory or prayer. The atmosphere is one of poignant nostalgia and resilience, rendered in the style of a classical Chinese ink wash painting with subtle, muted colors and soft, diffused lighting.",
+      "image": "reader_images/reader_20260312_233219.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 929616687,
+      "created_at": "2026-03-12T23:32:19.676370+08:00"
     }
   ],
   "book_total_chars": 92814,
