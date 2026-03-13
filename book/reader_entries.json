@@ -2447,6 +2447,18 @@
       "image_model": "gptimage",
       "seed": 2125968503,
       "created_at": "2026-03-13T18:05:10.342362+08:00"
+    },
+    {
+      "id": "20260313_180622",
+      "offset_start": 15860,
+      "offset_end": 15924,
+      "text": "大家都叫她徐娭毑 ，不過自嫁到徐家，她並沒有享過一天福。\n徐家長子叫徐正明，生得瘦長，眼睛天生近視，看起書來臉幾乎要貼到紙上。",
+      "prompt": "In a dimly lit, traditional Chinese courtyard, a woman referred to as \"Aunt Xu\" (徐娭毑) sits hunched over a worn wooden table, her face etched with the hardships of her marriage into the Xu family, illuminated by a single, flickering oil lamp. Nearby, her eldest son, Xu Zhengming (徐正明), a thin, tall young man with naturally nearsighted eyes, leans so close to a book that his nose nearly touches the page. The atmosphere is one of quiet melancholy and perseverance, rendered in a realistic, painterly style reminiscent of traditional Chinese ink wash paintings but with the depth and texture of oil.",
+      "image": "reader_images/reader_20260313_180622.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1743421763,
+      "created_at": "2026-03-13T18:06:22.121034+08:00"
     }
   ],
   "book_total_chars": 92814,
