@@ -3599,6 +3599,18 @@
       "image_model": "zimage",
       "seed": 2037156504,
       "created_at": "2026-03-14T02:01:44.041703+08:00"
+    },
+    {
+      "id": "20260314_020421",
+      "offset_start": 22331,
+      "offset_end": 22442,
+      "text": "他們對\n人王極感興趣，開口就出五百大洋。\n\n39\n\n\f小泉說：「你們就算拿座金山銀山來，我也不賣給你們。」\n他們又講了許多好話，說是讓人王喫好的、穿好的、住好的，不用做事，只不過\n讓人參觀參觀，看又看不壞，也不累，幾多好！",
+      "prompt": "A tense negotiation unfolds in a dimly lit, ornate study. A wealthy, Western-dressed individual, representing an unknown group, gestures emphatically towards a small, intricately carved wooden statue of a king, illuminated by a single, dramatic spotlight. Opposite them, a stern Japanese man, clad in traditional attire, sits with crossed arms, exuding an aura of resolute refusal, the air thick with unspoken tension and the scent of aged wood and ink. The scene is rendered in the style of a dramatic chiaroscuro oil painting, evoking a sense of historical intrigue and unspoken power dynamics.",
+      "image": "reader_images/reader_20260314_020421.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 483409418,
+      "created_at": "2026-03-14T02:04:21.956707+08:00"
     }
   ],
   "book_total_chars": 92814,
