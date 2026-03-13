@@ -3191,6 +3191,18 @@
       "image_model": "klein",
       "seed": 194891820,
       "created_at": "2026-03-13T23:27:33.827991+08:00"
+    },
+    {
+      "id": "20260313_232841",
+      "offset_start": 19908,
+      "offset_end": 19983,
+      "text": "」\n一天，貴嬸對秋園說，他們會領一個十歲的細妹子來家做童養媳。秋園說：「你\n們境況這麼窘，領什麼童養媳呢。」貴嬸說：「不是我們要領，也是沒辦法的\n事。",
+      "prompt": "A weary middle-aged woman speaks quietly with a troubled younger woman inside a sparse, dimly lit rural Chinese home from a bygone era. The atmosphere is heavy with reluctant resolve and poverty, shown through worn clothing, simple wooden furniture, and soft, gloomy light filtering through a paper window. Realistic style, muted colors, social realism mood.",
+      "image": "reader_images/reader_20260313_232841.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 869932764,
+      "created_at": "2026-03-13T23:28:41.940997+08:00"
     }
   ],
   "book_total_chars": 92814,
