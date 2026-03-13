@@ -4199,6 +4199,18 @@
       "image_model": "gptimage",
       "seed": 1358704572,
       "created_at": "2026-03-14T06:01:25.734073+08:00"
+    },
+    {
+      "id": "20260314_060332",
+      "offset_start": 25791,
+      "offset_end": 25870,
+      "text": "45\n\n\f二\n仁受明知自己不行，種田的決心卻不改當初。他總是避着秋園，企圖下田學做\n事。一次，他悄悄去田裡學耘禾——他們的田已包給滿老倌種，無須親自耘禾。",
+      "prompt": "A determined but clumsy farmer, aware of his limitations, secretly ventures into a communal field to learn how to weed, though the field is already leased out. The scene is set in a rustic, sun-drenched rural landscape, rendered in a slightly hazy, impressionistic style to evoke a sense of quiet longing and effort. The mood is one of hopeful struggle against the backdrop of familiar agricultural labor.",
+      "image": "reader_images/reader_20260314_060332.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1787394300,
+      "created_at": "2026-03-14T06:03:32.294865+08:00"
     }
   ],
   "book_total_chars": 92814,
