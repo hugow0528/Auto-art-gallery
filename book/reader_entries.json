@@ -4223,6 +4223,18 @@
       "image_model": "flux",
       "seed": 1938147653,
       "created_at": "2026-03-14T06:16:17.303788+08:00"
+    },
+    {
+      "id": "20260314_063053",
+      "offset_start": 25964,
+      "offset_end": 26025,
+      "text": "之驊好\n容易把螞蟥捉出來，仁受腳趾縫裡的血還在不停地流。之驊把所有怨恨都發泄在\n這兩條螞蟥身上，拿塊石頭把它們砸成了肉醬。",
+      "prompt": "First, the user provides a Chinese literary passage: \"之驊好不容易把螞蟥捉出來，仁受腳趾縫裡的血還在不停地流。之驊把所有怨恨都發泄在這兩條螞蟥身上，拿塊石頭把它們砸成了肉醬。\" I need to create an image-generation prompt based on this.\n\nThe key elements from the passage:\n- Characters: 之驊 (Zhihua) and 仁受 (Renshou). From context, 之驊 is likely the one acting, and 仁受 is the one with the injury.\n- Action: 之驊 removes leeches (螞蟥) from 仁受's toe, blood is flowing, and then 之驊 vents anger by smashing the leeches with a stone into a pulp.\n- Setting: Implied to be outdoors, possibly near water or damp area where leeches are common.\n- Atmosphere: Tense, emotional, with a sense of relief after removing the leeches but then violent发泄 of anger.\n\nI need to describe a specific visual scene in English for AI image generation. Include setting, atmosphere, characters present, and artistic style. Keep it to 2–4 sentences only, and in English only.\n\nStructure the prompt:\n- Start with the scene: Describe where it's happening.\n- Mention the characters and their actions.\n- Convey the atmosphere and mood.\n- Suggest an artistic style to",
+      "image": "reader_images/reader_20260314_063053.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1529805291,
+      "created_at": "2026-03-14T06:30:53.650902+08:00"
     }
   ],
   "book_total_chars": 92814,
