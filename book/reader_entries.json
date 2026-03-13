@@ -3659,6 +3659,18 @@
       "image_model": "flux",
       "seed": 856384528,
       "created_at": "2026-03-14T02:33:42.979127+08:00"
+    },
+    {
+      "id": "20260314_025829",
+      "offset_start": 22672,
+      "offset_end": 22737,
+      "text": "小泉自己也知道家裡髒，不好意思喊人坐，更不會泡豆子芝麻茶給人喝，只管低\n頭做衣。按湘陰的風俗，不泡茶給客人喝，是最不賢惠的女人。",
+      "prompt": "First, the user provides a Chinese literary passage: \"小泉自己也知道家裡髒，不好意思喊人坐，更不會泡豆子芝麻茶給人喝，只管低頭做衣。按湘陰的風俗，不泡茶給客人喝，是最不賢惠的女人。\" I need to translate and understand this for creating an image prompt.\n\nTranslation: \"Xiaoquan herself also knows that her home is dirty, she's embarrassed to invite people to sit, and even less likely to make bean and sesame tea for them to drink, she just lowers her head and sews clothes. According to the custom in Xiangyin, not making tea for guests is considered the most unvirtuous woman.\"\n\nKey elements:\n- Setting: A home that is dirty, implying a humble or messy interior.\n- Character: Xiaoquan, a woman who is sewing clothes and feels embarrassed about her home.\n- Atmosphere: Shame, isolation, focus on work, cultural pressure.\n- Cultural context: In Xiangyin, not offering tea to guests is seen as unvirtuous.\n\nI need to craft a vivid English image-generation prompt. The prompt should capture the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nThe response must be ONLY the image prompt in English — no explanations, no translations, no markdown. So, I'll write a concise prompt in 2–4 sentences.\n\nStructure the prompt:\n- Describe",
+      "image": "reader_images/reader_20260314_025829.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 362873652,
+      "created_at": "2026-03-14T02:58:29.526950+08:00"
     }
   ],
   "book_total_chars": 92814,
