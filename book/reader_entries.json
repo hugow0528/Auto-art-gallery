@@ -1559,6 +1559,18 @@
       "image_model": "gptimage",
       "seed": 1674135930,
       "created_at": "2026-03-13T12:27:29.397652+08:00"
+    },
+    {
+      "id": "20260313_125048",
+      "offset_start": 10488,
+      "offset_end": 10561,
+      "text": "均良擺出一副無辜狀，表示他毫不知情。\n仁受的積蓄至此被榨得乾乾淨淨。好在他還有一份由國民政府支付的薪水——每\n月憑一個綠色小本去銀行領九十塊銀圓。",
+      "prompt": "A worn, dimly lit Chinese bank interior during the Republican era. A middle-aged man, Junliang, with a comically innocent and slightly bewildered expression, stands before a stern-faced bank teller. The teller holds a small, faded green booklet, signifying the last of the man's savings are being withdrawn, hinting at a somber, yet subtly absurd, atmosphere. The style should be reminiscent of classic Chinese ink wash paintings with a touch of cinematic realism, emphasizing muted tones and soft, directional lighting.",
+      "image": "reader_images/reader_20260313_125048.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1792040239,
+      "created_at": "2026-03-13T12:50:48.385360+08:00"
     }
   ],
   "book_total_chars": 92814,
