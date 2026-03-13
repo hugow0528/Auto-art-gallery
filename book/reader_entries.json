@@ -1691,6 +1691,18 @@
       "image_model": "grok-imagine",
       "seed": 1030353326,
       "created_at": "2026-03-13T13:11:06.511919+08:00"
+    },
+    {
+      "id": "20260313_131658",
+      "offset_start": 11377,
+      "offset_end": 11451,
+      "text": "家裡幾丘薄田全靠二崽種。如今二崽抽了壯丁，叫我們如何是\n好？」\n範麻子說：「出二十擔谷買個壯丁。」\n農民說：「就算我不喫一粒谷，也出不起二十擔谷啊。",
+      "prompt": "A weathered farmer in threadbare blue cloth kneels desperate in a sun-scorched rice field, hands clasped in anguish, as another man in a worn shirt stands nearby pointing toward the village. Golden afternoon light casts harsh shadows on their sunburned faces and calloused hands. The background shows modest terraced paddies and a distant humble farmhouse under a hazy sky. Style: early 20th century Chinese social realist oil painting, grainy texture, dramatic chiaroscuro, documentary realism with emotional depth.",
+      "image": "reader_images/reader_20260313_131658.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 268528466,
+      "created_at": "2026-03-13T13:16:58.679507+08:00"
     }
   ],
   "book_total_chars": 92814,
