@@ -4283,6 +4283,18 @@
       "image_model": "grok-imagine",
       "seed": 986305660,
       "created_at": "2026-03-14T06:47:03.428542+08:00"
+    },
+    {
+      "id": "20260314_064851",
+      "offset_start": 26242,
+      "offset_end": 26305,
+      "text": "」秋園心想：後背菜地裏根本沒有草，該不是把那\n塊韭菜割掉了？趕緊跑到菜地去看，地裏的韭菜果然讓仁受鏟得乾乾淨淨，一根\n也不剩。",
+      "prompt": "A Chinese woman in a blue cotton jacket rushes across a small vegetable garden behind a modest rural house, her face showing concern as she surveys the freshly cleared plot where chives once grew. The afternoon light casts long shadows over the orderly rows of soil, now empty except for the bare earth where green chives stood yesterday. The scene captures a humble farmhouse kitchen garden in rural China during autumn, with dried corn hanging on the walls and bamboo poles leaning against the whitewashed walls. Style: realistic oil painting with soft natural lighting, warm earth tones, capturing the quiet domestic drama of rural Chinese life in the mid-20th century.",
+      "image": "reader_images/reader_20260314_064851.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1869540705,
+      "created_at": "2026-03-14T06:48:51.542099+08:00"
     }
   ],
   "book_total_chars": 92814,
