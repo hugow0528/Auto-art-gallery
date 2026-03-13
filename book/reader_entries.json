@@ -1547,6 +1547,18 @@
       "image_model": "flux-2-dev",
       "seed": 2052256488,
       "created_at": "2026-03-13T12:25:51.828433+08:00"
+    },
+    {
+      "id": "20260313_122729",
+      "offset_start": 10415,
+      "offset_end": 10488,
+      "text": "仁受一直把均良當自家兄弟，從未起過疑。仁\n受幾次去看屋，兩個賭徒都提前設計好時間，設法避開屋主，統統由那兒子接\n待。拿了這筆錢，那兒子就遠走他鄉。",
+      "prompt": "The passage describes a scene of deception and departure. A man named Ren Shou, who saw Jun Liang as a brother, is unaware of the betrayal. Jun Liang, along with another gambler, arranged for their son to show prospective buyers around a house, specifically avoiding the owner. After receiving the money, the son flees to a distant land.\n\nPrompt: A dimly lit, dusty room in a traditional Chinese house, with sunlight streaming through a grimy window, illuminating motes of dust. A young man, dressed in simple, travel-worn clothes, stands by a packed bag, his expression a mix of furtive relief and a hint of sadness as he glances back towards the doorway. The atmosphere is heavy with unspoken secrets and impending departure, rendered in the style of a realistic ink wash painting with a touch of cinematic drama.",
+      "image": "reader_images/reader_20260313_122729.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1674135930,
+      "created_at": "2026-03-13T12:27:29.397652+08:00"
     }
   ],
   "book_total_chars": 92814,
