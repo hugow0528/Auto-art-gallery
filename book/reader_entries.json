@@ -3443,6 +3443,18 @@
       "image_model": "imagen-4",
       "seed": 884592099,
       "created_at": "2026-03-14T01:04:34.789124+08:00"
+    },
+    {
+      "id": "20260314_010837",
+      "offset_start": 21490,
+      "offset_end": 21560,
+      "text": "帶嘛，就只怕帶不活……這事誰也不能怪。」\n\n38\n\n\f貴嬸鬆了口氣，望着子文的眼神裏有了點柔柔的光。她說：「平常家裡的事你都\n不管，隨着我。",
+      "prompt": "A warm, softly lit interior scene where an older woman looks tenderly at a man with a relieved expression, her eyes holding a gentle light. Domestic realism style, intimate mood with subtle emotional depth, focused on their quiet interaction.",
+      "image": "reader_images/reader_20260314_010837.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 237695783,
+      "created_at": "2026-03-14T01:08:37.510294+08:00"
     }
   ],
   "book_total_chars": 92814,
