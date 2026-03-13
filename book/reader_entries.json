@@ -1823,6 +1823,18 @@
       "image_model": "flux",
       "seed": 2070288346,
       "created_at": "2026-03-13T13:53:06.920411+08:00"
+    },
+    {
+      "id": "20260313_135938",
+      "offset_start": 12248,
+      "offset_end": 12315,
+      "text": "」\n一句話講得那人眼淚巴巴。他告訴仁受，堂客久病在牀，家裡能賣的東西都賣\n了，病也不見好。家裡幾天沒米下鍋了，三個細伢子餓得東倒西歪。",
+      "prompt": "A gaunt woman lies pale and emaciated on a tattered bed in a dim, crumbling rural Chinese cottage, her hollow eyes gazing at nothing. Three young children, ribs visible through threadbare clothes, collapse against the dirt floor, too weak to stand. Muted afternoon light filters through a broken window, illuminating scattered empty bowls and the skeletal frame of a sold-out home. Style: Realistic, documentary-style, muted sepia and earth tones, emotional depth.",
+      "image": "reader_images/reader_20260313_135938.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1508892410,
+      "created_at": "2026-03-13T13:59:38.717618+08:00"
     }
   ],
   "book_total_chars": 92814,
