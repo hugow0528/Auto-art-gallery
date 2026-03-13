@@ -1595,6 +1595,18 @@
       "image_model": "zimage",
       "seed": 30107707,
       "created_at": "2026-03-13T12:54:28.500652+08:00"
+    },
+    {
+      "id": "20260313_125652",
+      "offset_start": 10699,
+      "offset_end": 10764,
+      "text": "山起\n臺是個大行政鄉，附近的花屋裡、黃泥衝、賜福山等村子都隸屬於這個鄉。仁受\n全家搬到了鄉公所附近的一個場屋居住，房子是別人家的。",
+      "prompt": "A humble weathered field house with a thatched roof, nestled near simple rural administrative buildings in a vast, misty mountain landscape. A family is seen carrying modest belongings inside under a soft, overcast sky, rendered in a muted, realistic style with gentle watercolor textures, evoking a quiet sense of transition and humble rural life.",
+      "image": "reader_images/reader_20260313_125652.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 538389337,
+      "created_at": "2026-03-13T12:56:52.118531+08:00"
     }
   ],
   "book_total_chars": 92814,
