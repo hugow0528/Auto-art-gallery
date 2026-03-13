@@ -1931,6 +1931,18 @@
       "image_model": "zimage",
       "seed": 542949471,
       "created_at": "2026-03-13T14:59:50.960331+08:00"
+    },
+    {
+      "id": "20260313_150046",
+      "offset_start": 12932,
+      "offset_end": 12995,
+      "text": "那熱力仿佛隨時\n可以點燃大地。山丘幾乎要冒煙。水田裡的泥巴都曬白了，橫七豎八地裂着寸把\n長的口子，如龜背一般。莊稼也都枯死了。",
+      "prompt": "An intense, oppressive heatwave has baked the land, causing the earth to crack and smoke as if it could ignite. Water fields are sun-bleached, their mud split into a mosaic of inch-long fissures resembling turtle shells, and all crops have withered and died. The artistic style should be hyperrealistic, with a dramatic, high-contrast lighting to emphasize the desolation and extreme dryness, evoking a mood of despair and environmental devastation.",
+      "image": "reader_images/reader_20260313_150046.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 2096574556,
+      "created_at": "2026-03-13T15:00:46.032392+08:00"
     }
   ],
   "book_total_chars": 92814,
