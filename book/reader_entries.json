@@ -3815,6 +3815,18 @@
       "image_model": "gptimage",
       "seed": 320323840,
       "created_at": "2026-03-14T03:41:53.625350+08:00"
+    },
+    {
+      "id": "20260314_034320",
+      "offset_start": 23642,
+      "offset_end": 23717,
+      "text": "」\n秋園說：「除了喫個月餅就是飯菜。」\n仁受又轉向之驊：「今天有冇帶夕瑩到山上摘麼裏野菜、路邊果子喫？」\n之驊說：「今天一天都冇上山，冇喫外面的東西。",
+      "prompt": "A Chinese family in a modest village kitchen during Mid-Autumn Festival, warm candlelight illuminating weathered wooden furniture, an elderly couple discussing mooncakes and mountain foraging with a young girl, while steam rises from simple ceramic bowls on a low table, rendered in the style of Chinese realist folk painting with soft golden hour lighting and intimate domestic atmosphere.",
+      "image": "reader_images/reader_20260314_034320.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 163072059,
+      "created_at": "2026-03-14T03:43:20.875069+08:00"
     }
   ],
   "book_total_chars": 92814,
