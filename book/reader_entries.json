@@ -1451,6 +1451,18 @@
       "image_model": "flux",
       "seed": 781848311,
       "created_at": "2026-03-13T11:56:57.195179+08:00"
+    },
+    {
+      "id": "20260313_115837",
+      "offset_start": 9829,
+      "offset_end": 9912,
+      "text": "仁受上樓查看，那三十擔\n谷果然都消失了，只剩下堆成小山的穀殼。\n十六歲便離開鄉下的仁受對農事不太了解，當真以爲是鼠患。後來有人告訴他，\n那些穀子是均良一個晚上輸掉的。",
+      "prompt": "A dimly lit, rustic barn interior. Scattered, dusty piles of golden husks are all that remain of thirty bundles of grain, a small mountain of evidence. A young man, perhaps sixteen, with a bewildered expression stands amidst the debris, his hands in his pockets. The scene is rendered in the style of traditional Chinese ink wash painting, with a somber and slightly melancholic mood, emphasizing the emptiness and loss.",
+      "image": "reader_images/reader_20260313_115837.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1033548701,
+      "created_at": "2026-03-13T11:58:37.838127+08:00"
     }
   ],
   "book_total_chars": 92814,
