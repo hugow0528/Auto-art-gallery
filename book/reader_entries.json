@@ -2675,6 +2675,18 @@
       "image_model": "grok-imagine",
       "seed": 115166131,
       "created_at": "2026-03-13T19:45:27.647678+08:00"
+    },
+    {
+      "id": "20260313_194545",
+      "offset_start": 17040,
+      "offset_end": 17128,
+      "text": "兵\n桃能喫上這種魚，就算美味佳餚了。他眼睛放光，死死盯着魚碗，只要爹爹稍有\n疏忽，一條魚便飛快塞進嘴裡。也有失算的時候，魚還沒夾穩，筷子就被爹爹的\n筷子壓住了：「少喫點，太鹹。",
+      "prompt": "A young boy with wide, eager eyes stares intensely at a steaming bowl of fish, his chopsticks poised to snatch a piece. His stern father, with equally firm chopsticks, gently but decisively presses down on his son's to prevent him from taking too much. The scene is set in a humble, dimly lit dining area, evoking a warm, familial atmosphere with a touch of gentle discipline, rendered in a realistic, slightly painterly style.",
+      "image": "reader_images/reader_20260313_194545.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 91693967,
+      "created_at": "2026-03-13T19:45:45.392391+08:00"
     }
   ],
   "book_total_chars": 92814,
