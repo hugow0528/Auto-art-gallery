@@ -2567,6 +2567,18 @@
       "image_model": "flux-2-dev",
       "seed": 499719805,
       "created_at": "2026-03-13T19:00:56.278220+08:00"
+    },
+    {
+      "id": "20260313_190214",
+      "offset_start": 16546,
+      "offset_end": 16629,
+      "text": "兩條精瘦腿上的血管好比盤纏的蚯蚓，\n挑起擔來步伐倉促，十分喫力，草鞋上也不知是水還是汗，走在路上一步一個腳\n印。汗水將眼睛模糊了，才停下來，用手掌一抹，繼續挑擔趕路。",
+      "prompt": "A weathered laborer with gaunt, sun-darkened legs featuring prominent bulging veins trudges along a dusty path, balancing a heavy pole across his shoulders with worn straw sandals. His muscular back is bent from strain, sweat streaming down his face as he pauses to wipe his blurred eyes with a calloused palm, leaving wet footprints in the cracked earth. Photorealistic documentary style, golden hour lighting, warm earthy tones, gritty realism capturing the hardship of manual labor.",
+      "image": "reader_images/reader_20260313_190214.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1563429987,
+      "created_at": "2026-03-13T19:02:14.056371+08:00"
     }
   ],
   "book_total_chars": 92814,
