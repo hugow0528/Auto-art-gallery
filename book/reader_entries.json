@@ -4319,6 +4319,18 @@
       "image_model": "zimage",
       "seed": 1921492751,
       "created_at": "2026-03-14T06:54:30.482362+08:00"
+    },
+    {
+      "id": "20260314_065745",
+      "offset_start": 26373,
+      "offset_end": 26443,
+      "text": "只要秋園\n和之驊稍不留神，仁受就往牆上撞，要麼就飛快地往門前塘裏跑，只想儘快結束\n這生不如死的痛苦。\n之驊和秋園只能在一旁陪着哭，毫無辦法。",
+      "prompt": "A sorrowful scene in a humble Chinese courtyard at dusk: a distressed man stumbles near a stone wall while two grieving figures— a woman and a young man— stand helplessly beside him, tears streaming down their faces. The fading light casts long shadows across the worn ground, and a small pond glimmers in the background. The atmosphere is heavy with despair and tender melancholy, rendered in the style of traditional Chinese ink wash painting with muted earth tones and a mood of profound human suffering.",
+      "image": "reader_images/reader_20260314_065745.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 766411599,
+      "created_at": "2026-03-14T06:57:45.820274+08:00"
     }
   ],
   "book_total_chars": 92814,
