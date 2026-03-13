@@ -3503,6 +3503,18 @@
       "image_model": "zimage",
       "seed": 2013328296,
       "created_at": "2026-03-14T01:27:28.595143+08:00"
+    },
+    {
+      "id": "20260314_013927",
+      "offset_start": 21834,
+      "offset_end": 21900,
+      "text": "日子不知不覺過去了，小泉也長大了。自從人王出生後，貴嬸就在自己房裡\n給小泉另外搭了張鋪，到小泉十七歲這年，邱家就讓國臣正式娶了小泉。",
+      "prompt": "The passage describes a traditional Chinese wedding ceremony for a young woman named Xiao Quan, who is marrying Guo Chen. The scene is set within a traditional Chinese courtyard home (Siheyuan), with emphasis on the solemnity and customs of the occasion. The artistic style should be reminiscent of traditional Chinese ink wash paintings, with soft, diffused lighting that casts gentle shadows, evoking a mood of quiet reverence and familial tradition. The focus is on the moment of the union, with the bride and groom in traditional wedding attire, surrounded by their families in the central courtyard.",
+      "image": "reader_images/reader_20260314_013927.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 17553671,
+      "created_at": "2026-03-14T01:39:27.952462+08:00"
     }
   ],
   "book_total_chars": 92814,
