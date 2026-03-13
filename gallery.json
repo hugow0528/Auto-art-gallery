@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_045847",
+      "filename": "images/artwork_20260314_045847.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A dramatic digital art masterpiece depicts the evolution of sound as a colossal terracotta timeline unfurling under a haunting moonlight sky, casting elongated shadows across ancient bone flutes morphing into glowing vinyl records, cassette tapes unraveling like serpents, and digital waveforms exploding into holographic AI synthesizers and streaming nodes, all intertwined with ethereal sound waves pulsing through earthy canyons. Intense shadows carve deep contrasts in the terracotta and ochre color palette of rust reds, warm browns, and shadowed umbers, evoking a visceral tension of technological rebirth amid prehistoric echoes. Highly detailed textures reveal cracked clay instruments yielding to shimmering pixelated circuits, with moonlight piercing through evolving forms like a cosmic crescendo, award-winning composition brimming with dynamic energy and profound narrative depth.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1154880423,
+      "created_at": "2026-03-14T04:58:47.397966+08:00"
+    },
+    {
       "id": "20260314_043515",
       "filename": "images/artwork_20260314_043515.jpg",
       "topic": "social media culture and human connection",
