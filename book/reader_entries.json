@@ -1715,6 +1715,18 @@
       "image_model": "zimage",
       "seed": 1462627402,
       "created_at": "2026-03-13T13:17:31.562085+08:00"
+    },
+    {
+      "id": "20260313_131820",
+      "offset_start": 11539,
+      "offset_end": 11618,
+      "text": "美國飛機有時會空投一些罐頭、餅乾、衣服之類。\n那日秋園去鄉公所，正碰上大家在清點東西。幾個鄉丁借着由頭，硬要開瓶罐頭\n招待秋園，仁受選了瓶最小的讓鄉丁開了。",
+      "prompt": "A hushed, dusty rural office in post-war China, sunlight streaming through grimy windows, illuminating a pile of scavenged goods – cans, biscuits, clothing. A young woman, Qiu Yuan, is being offered a small can of food by a group of uniformed, slightly shifty-looking village officials. The atmosphere is one of wary politeness and underlying tension, rendered in a realistic, slightly desaturated, oil painting style.",
+      "image": "reader_images/reader_20260313_131820.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 18941447,
+      "created_at": "2026-03-13T13:18:20.416496+08:00"
     }
   ],
   "book_total_chars": 92814,
