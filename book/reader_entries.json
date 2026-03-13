@@ -2387,6 +2387,18 @@
       "image_model": "flux-2-dev",
       "seed": 159785682,
       "created_at": "2026-03-13T17:55:12.522461+08:00"
+    },
+    {
+      "id": "20260313_175649",
+      "offset_start": 15549,
+      "offset_end": 15613,
+      "text": "仁受便說：「好好走路，你們看，把我\n的鞋子弄髒了。」\n「爸爸，有故事嗎？」夕瑩仰着臉問仁受。\n「有。」\n「有多少？」\n「一肚子。",
+      "prompt": "A gentle father walks with his young daughter on a dusty country path, looking down at his soiled shoes with playful annoyance while she gazes up at him with wide, curious eyes, her small hand reaching toward his arm. The warm afternoon light bathes them in golden hues as he crouches to her level, about to share a story. The scene captures a tender domestic moment in a traditional Chinese rural setting, rendered in a soft, illustrative style reminiscent of classic Chinese ink paintings with warm watercolor tones.",
+      "image": "reader_images/reader_20260313_175649.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 868707581,
+      "created_at": "2026-03-13T17:56:49.812739+08:00"
     }
   ],
   "book_total_chars": 92814,
