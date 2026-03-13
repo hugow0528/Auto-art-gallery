@@ -2111,6 +2111,18 @@
       "image_model": "flux-2-dev",
       "seed": 1928368867,
       "created_at": "2026-03-13T15:55:42.306504+08:00"
+    },
+    {
+      "id": "20260313_155803",
+      "offset_start": 13954,
+      "offset_end": 14024,
+      "text": "秋園\n和這四個男人邊喫邊聊，他們告訴秋園，小學只有一個班，但包括四個年級，先\n生只有一個，還是比較辛苦的。\n秋園喝了幾口燒酒，臉上紅撲撲的。",
+      "prompt": "In a rustic Chinese autumn garden with scattered yellow-orange foliage and distant mountains under a soft twilight sky, Qiuyuan—a young man with flushed rosy cheeks from rice wine—sits at a low wooden table sharing burned wine and simple food with four weathered rural men, their faces animated in earnest conversation about village school hardships.[1][6] The warm, intimate atmosphere glows with golden lantern light casting long shadows on traditional attire and humble stone benches, evoking serene camaraderie amid falling leaves. Rendered in the meticulous ink-and-color style of Yuan dynasty literati painting by Zhao Mengfu, with delicate brushwork, layered autumn hues, and a tranquil, nostalgic mood.[1][5]",
+      "image": "reader_images/reader_20260313_155803.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1359304974,
+      "created_at": "2026-03-13T15:58:03.154310+08:00"
     }
   ],
   "book_total_chars": 92814,
