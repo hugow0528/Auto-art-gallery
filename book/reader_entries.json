@@ -1943,6 +1943,18 @@
       "image_model": "grok-imagine",
       "seed": 2096574556,
       "created_at": "2026-03-13T15:00:46.032392+08:00"
+    },
+    {
+      "id": "20260313_151048",
+      "offset_start": 12995,
+      "offset_end": 13070,
+      "text": "農民面黃肌瘦，衣衫襤褸。\n仁受無錢寄回，只有信還照常來。秋園坐在牀沿看信，邊看邊流淚。隨後，她起\n身去開牀頭那隻樟木箱子的鎖，從裡面翻出裝錢的皮夾子。",
+      "prompt": "In a dimly lit, humble rural Chinese bedroom with worn wooden walls and a simple kang bed, an elderly woman named Qiuyuan sits on the bed's edge, her face etched with sorrow as tears stream down her weathered cheeks while reading a letter. She rises to unlock a carved camphor wood chest at the bedside, pulling out a worn leather wallet stuffed with meager savings, her tattered clothes hanging loosely on her frail frame amid an atmosphere of poignant poverty and quiet despair. Rendered in realistic style inspired by traditional Chinese ink wash painting with soft, muted earth tones, warm candlelight casting long shadows to evoke melancholy and resilience.",
+      "image": "reader_images/reader_20260313_151048.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1628836438,
+      "created_at": "2026-03-13T15:10:48.496447+08:00"
     }
   ],
   "book_total_chars": 92814,
