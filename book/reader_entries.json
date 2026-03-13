@@ -1295,6 +1295,18 @@
       "image_model": "flux",
       "seed": 1543267573,
       "created_at": "2026-03-13T10:27:59.800241+08:00"
+    },
+    {
+      "id": "20260313_105049",
+      "offset_start": 8811,
+      "offset_end": 8896,
+      "text": "船隻鳴響汽\n笛，小心地向岸邊靠去。\n15\n\n\f這艘船隻是中途停靠武漢，下船的只有仁受一家。仁受拎着皮箱走在前面，秋園\n牽着子恆跟在後面，兩名勤務兵挑着四個大箱子尾隨其後。",
+      "prompt": "A steamship horn sounds as a vessel cautiously approaches a dock in Wuhan. A family disembarks: a man named Renshou leads with a leather suitcase, a woman named Qiuyuan holds a child's hand, and two orderlies follow, carrying four large trunks. The scene is rendered in a realistic, slightly nostalgic style, with soft, diffused daylight illuminating the bustling, yet orderly, riverfront.",
+      "image": "reader_images/reader_20260313_105049.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 953149546,
+      "created_at": "2026-03-13T10:50:49.746784+08:00"
     }
   ],
   "book_total_chars": 92814,
