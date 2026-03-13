@@ -3239,6 +3239,18 @@
       "image_model": "flux-2-dev",
       "seed": 1977123455,
       "created_at": "2026-03-13T23:51:25.696163+08:00"
+    },
+    {
+      "id": "20260313_235427",
+      "offset_start": 20238,
+      "offset_end": 20301,
+      "text": "小泉四歲那年，油菜花開得到處一片金黃，只要走出門，滿鼻子都是油菜花的香\n味。成羣的野蜂子在油菜田裡飛來飛去，發出嗡嗡的叫聲。",
+      "prompt": "A vibrant golden sea of blooming rapeseed flowers stretches endlessly across a rural Chinese countryside under a bright spring sun, with clusters of wild bees buzzing dynamically in the air, their wings catching the light. In the foreground, a curious four-year-old Japanese boy named Koizumi stands at the edge of the field just outside his simple wooden door, eyes wide with wonder, inhaling the fragrant breeze, his traditional clothing fluttering gently. Rendered in a luminous impressionist style like Monet's landscapes, with warm golden hour lighting, soft hazy atmosphere evoking childhood nostalgia and serene natural abundance.",
+      "image": "reader_images/reader_20260313_235427.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 660309440,
+      "created_at": "2026-03-13T23:54:27.522455+08:00"
     }
   ],
   "book_total_chars": 92814,
