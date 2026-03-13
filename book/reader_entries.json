@@ -3359,6 +3359,18 @@
       "image_model": "grok-imagine",
       "seed": 1911883815,
       "created_at": "2026-03-14T00:32:08.392784+08:00"
+    },
+    {
+      "id": "20260314_004331",
+      "offset_start": 21014,
+      "offset_end": 21100,
+      "text": "」隨即雙手捂臉，倒在牀上大哭起來，直把身子哭得一抽一抽\n的。\n貴嬸氣得像根木頭樣戳在那裡，可這氣又不好往哪裡出。這事不好怪哪個，要怪\n就怪自己不該讓兩個細伢子睡在一張牀上。",
+      "prompt": "First, the user asks for an image-generation prompt based on a Chinese literary passage. The passage describes a scene where someone is crying on a bed, and another character, Gui Shen (貴嬸), is standing there angrily like a wooden stake, blaming herself for letting two children sleep in one bed.\n\nI need to extract the key elements for the visual scene:\n\n- Characters: Someone crying on a bed, and Gui Shen standing there.\n\n- Actions: The person is crying intensely, with body shaking. Gui Shen is standing stiffly, angry but unable to vent.\n\n- Setting: Likely a bedroom, since it mentions a bed and children sleeping.\n\n- Atmosphere: Emotional distress, anger, frustration, and regret.\n\n- Artistic style: Not specified in the passage, so I should infer a style that fits the mood. Perhaps realistic or dramatic to convey the emotions.\n\nThe prompt should be in English, 2-4 sentences only, and include setting, atmosphere, characters, and artistic style.\n\nStructure the prompt:\n\n1. Describe the scene: A bedroom with someone crying on a bed and Gui Shen standing rigidly.\n\n2. Include the atmosphere: Tense, emotional, with a sense of helpless anger.\n\n3. Mention artistic style: For example, realistic painting style to capture the raw emotions.\n\nEnsure it's concise and only the prompt, no explanations.\n\nDraft a prompt:\n\n\"In a dimly lit bedroom, a person lies sobbing on a bed, their body shaking",
+      "image": "reader_images/reader_20260314_004331.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1173219950,
+      "created_at": "2026-03-14T00:43:31.867960+08:00"
     }
   ],
   "book_total_chars": 92814,
