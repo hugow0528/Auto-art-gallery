@@ -3071,6 +3071,18 @@
       "image_model": "imagen-4",
       "seed": 953065776,
       "created_at": "2026-03-13T22:34:08.740915+08:00"
+    },
+    {
+      "id": "20260313_223751",
+      "offset_start": 19093,
+      "offset_end": 19171,
+      "text": "秋園說：「這一\n家人到哪裡去？才過完年就出門了。」\n說話間，那家人已經走到面前，停下來問秋園：「這是不是徐屬文老先生家？」\n秋園說：「是呀，你們是他家親戚？",
+      "prompt": "A snowy Chinese courtyard after Lunar New Year, an elderly woman in traditional padded jacket stands at a wooden gate, speaking to a family of travelers bundled in winter clothes, their breath visible in the cold air. Soft winter light filters through bare trees onto the snow-covered roof of a traditional house, creating a mood of quiet melancholy and hopeful reunion. Realistic oil painting style with muted winter colors and subtle textures.",
+      "image": "reader_images/reader_20260313_223751.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 180378053,
+      "created_at": "2026-03-13T22:37:51.405694+08:00"
     }
   ],
   "book_total_chars": 92814,
