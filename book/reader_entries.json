@@ -3779,6 +3779,18 @@
       "image_model": "flux",
       "seed": 1707097243,
       "created_at": "2026-03-14T03:22:50.765220+08:00"
+    },
+    {
+      "id": "20260314_032541",
+      "offset_start": 23416,
+      "offset_end": 23477,
+      "text": "最後到大門口去張望，路上連人影子都沒有。秋園有些不安。\n農曆八月半，天氣少雨，陽光的照耀卻恰如其分，亮亮暖暖的，很是宜人。",
+      "prompt": "A Chinese woman in a simple blue dress stands at the entrance of a rustic courtyard gate, peering down an empty country road at dusk. The mid-autumn afternoon sun casts warm golden light across the dusty path, with dry autumn fields stretching into the distance. The scene captures a mood of quiet solitude and gentle unease, rendered in a traditional Chinese ink-wash painting style with soft atmospheric lighting.",
+      "image": "reader_images/reader_20260314_032541.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 827169318,
+      "created_at": "2026-03-14T03:25:41.267606+08:00"
     }
   ],
   "book_total_chars": 92814,
