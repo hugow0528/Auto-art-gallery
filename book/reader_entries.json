@@ -2819,6 +2819,18 @@
       "image_model": "flux-2-dev",
       "seed": 331782611,
       "created_at": "2026-03-13T21:23:08.952197+08:00"
+    },
+    {
+      "id": "20260313_213452",
+      "offset_start": 17872,
+      "offset_end": 17963,
+      "text": "他就靠着這條牛，平安\n地度過了一個個冬天。\n冬天，兵桃一雙赤腳，全靠撿別人的舊鞋子才能過。撿的鞋子大都沒了後跟，只\n能趿拉着，整個冬天腳後跟裸露在外，裂着大口，鮮紅的血從裡面滲出來。",
+      "prompt": "A destitute man named Bingtao stands barefoot in a harsh, snowy Chinese rural winter landscape at dusk, wearing tattered oversized shoes with missing heels that expose his cracked, blood-oozing heels in vivid red against the pale snow. He leans wearily against his loyal ox, its breath steaming in the freezing air, amid barren fields blanketed in thick snow under a leaden sky, evoking isolation and endurance. Render in hyper-realistic style like a somber oil painting by Andrew Wyeth, with dramatic cold blue lighting, stark shadows, and a melancholic, gritty atmosphere.",
+      "image": "reader_images/reader_20260313_213452.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 339938196,
+      "created_at": "2026-03-13T21:34:53.020615+08:00"
     }
   ],
   "book_total_chars": 92814,
