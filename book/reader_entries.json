@@ -3743,6 +3743,18 @@
       "image_model": "zimage",
       "seed": 410202260,
       "created_at": "2026-03-14T03:08:51.236154+08:00"
+    },
+    {
+      "id": "20260314_031955",
+      "offset_start": 23211,
+      "offset_end": 23286,
+      "text": "」\n秋園說：「現在禾都收過了，哪裡還有湖北討飯婆？」之驊和妹妹連忙做手勢，\n讓秋園莫那麼大聲，然後附着耳朵告訴她，剛才貓洞裡親眼看到的，有小腳過\n去！",
+      "prompt": "A tense rural Chinese household scene at dusk: three women huddle near a low wooden door, two young girls urgently gesturing for silence while whispering into an elder woman's ear. Dim candlelight reveals weathered walls and sparse furnishings. Through a small hole in the door frame, the shadow of tiny bound feet glides past silently. The mood is secretive and alert, rendered in a naturalistic Chinese ink",
+      "image": "reader_images/reader_20260314_031955.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 367857231,
+      "created_at": "2026-03-14T03:19:55.223202+08:00"
     }
   ],
   "book_total_chars": 92814,
