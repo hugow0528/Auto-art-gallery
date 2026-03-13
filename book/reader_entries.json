@@ -4463,6 +4463,18 @@
       "image_model": "imagen-4",
       "seed": 107674468,
       "created_at": "2026-03-14T07:56:27.088174+08:00"
+    },
+    {
+      "id": "20260314_075701",
+      "offset_start": 27153,
+      "offset_end": 27231,
+      "text": "寶生長得脣紅齒白，秀氣得像個\n女娃，聲音也尖尖細細，人卻十分頑劣。他原先在黃泥衝讀小學，後來黃泥衝的\n學堂合併到新民小學裡，讀五年級的寶生就到了秋園的班上。",
+      "prompt": "A mischievous 10-year-old Chinese boy named Baosheng, with fair skin, rosy red lips, white teeth, delicate feminine features like a pretty girl, and a slender build, sits rebelliously at a wooden desk in a rustic rural classroom at Xinmin Primary School, surrounded by other attentive fifth-grade students and a stern teacher at the blackboard. He smirks slyly with sharp, narrow eyes and a high-pitched voice implied through his playful posture, knocking over an inkwell amid dusty sunlight filtering through bamboo windows, evoking a lively yet tense atmosphere of traditional early 20th-century Chinese village life. Render in detailed ink wash painting style with gongbi precision, warm golden hour lighting, vibrant yet subdued colors, high contrast shadows, and a whimsical realistic mood capturing youthful naughtiness.[1][2][5]",
+      "image": "reader_images/reader_20260314_075701.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1315536128,
+      "created_at": "2026-03-14T07:57:01.756042+08:00"
     }
   ],
   "book_total_chars": 92814,
