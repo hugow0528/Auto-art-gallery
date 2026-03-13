@@ -2783,6 +2783,18 @@
       "image_model": "flux",
       "seed": 1337193929,
       "created_at": "2026-03-13T20:27:04.911414+08:00"
+    },
+    {
+      "id": "20260313_210603",
+      "offset_start": 17661,
+      "offset_end": 17724,
+      "text": "兵桃白天餵牛，晚上和牛睡覺。他的牀就做在牛欄上方——用幾根硬樹棍頂着牛\n欄兩頭的牆壁形成一塊牀板，鋪上稻草，再加一牀爛棉絮。",
+      "prompt": "A young boy sleeps peacefully on a makeshift bed of wooden poles and straw above a rustic cattle pen, a worn quilt covering him, while the shapes of resting cattle are barely visible in the soft, dim glow of a single lantern below; realistic style, intimate and humble atmosphere, warm low-light, rural simplicity.",
+      "image": "reader_images/reader_20260313_210603.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 432140850,
+      "created_at": "2026-03-13T21:06:03.656422+08:00"
     }
   ],
   "book_total_chars": 92814,
