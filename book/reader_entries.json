@@ -3803,6 +3803,18 @@
       "image_model": "gptimage",
       "seed": 49320229,
       "created_at": "2026-03-14T03:38:36.166376+08:00"
+    },
+    {
+      "id": "20260314_034153",
+      "offset_start": 23552,
+      "offset_end": 23642,
+      "text": "過一會兒，秋園摸到牀褥溼漉漉的，是夕瑩撒的尿。秋園瞬間慌了手\n腳。夕瑩從小就不尿牀的，莫不是病得大小便失了禁？\n\n41\n\n\f從武昌廟趕回家過節的仁受問：「今天都給夕瑩喫了麼裏東西？",
+      "prompt": "First, the user wants me to create an image-generation prompt based on a Chinese literary passage. I must respond only with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is about a scene where Qiuyuan finds the bed wet from Xiying's urine, panics, and then Renshou returns home and asks what Xiying ate today. It's a domestic, tense moment.\n\nKey elements from the passage:\n\n- Setting: A bedroom, likely at home, with a bed.\n\n- Characters: Qiuyuan, Xiying (who is sick and might have wet the bed), and Renshou who just returned home.\n\n- Atmosphere: Panic, concern, domestic tension. Qiuyuan is慌手慌腳 (panicked), and Renshou is inquiring about what Xiying ate.\n\n- Time: Possibly evening or night, since it mentions returning home for a holiday, but the passage doesn't specify. I need to infer from context.\n\nI need to describe a visual scene in English, suitable for AI image generation. Include setting, atmosphere, characters, and artistic style. Keep it to 2–4 sentences.\n\nArtistic style: Since it's a literary passage, I should choose a style that matches the mood. Perhaps realistic, somber, or evocative. Think of styles like realistic painting, chiaroscuro for lighting, or something that conveys emotion.\n\nStructure the prompt:\n\n- Start with the setting: A",
+      "image": "reader_images/reader_20260314_034153.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 320323840,
+      "created_at": "2026-03-14T03:41:53.625350+08:00"
     }
   ],
   "book_total_chars": 92814,
