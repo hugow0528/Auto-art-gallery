@@ -3131,6 +3131,18 @@
       "image_model": "zimage",
       "seed": 2021366854,
       "created_at": "2026-03-13T23:03:45.837321+08:00"
+    },
+    {
+      "id": "20260313_230816",
+      "offset_start": 19465,
+      "offset_end": 19614,
+      "text": "指手畫腳了一陣，愛梅自顧自回家了。\n這是兩間並排的茅屋，除了堆放稻草外，一些破破爛爛的家具也塞在裡面。新來\n的一家人合力把稻草等雜物挪到別的棚子裡，把兩間茅屋打掃得乾乾淨淨——小\n小的窗戶糊上了黃表紙，屋子角落裡用泥磚砌了個小小的竈，竈上放一口小鐵\n鍋，又利用屋裡的舊家具攤開兩張牀，一間屋子一張。",
+      "prompt": "A humble, two-roomed thatched-roof dwelling in a rural setting is meticulously cleaned and prepared for a new family. The small windows are covered with yellow paper, and a simple mud-brick stove with a small iron pot is built in a corner. Old furniture is repurposed to create two beds, one for each room, evoking a sense of simple, resourceful living. The overall atmosphere is one of quiet domesticity and hopeful beginnings, rendered in a soft, naturalistic painting style with gentle, diffused lighting.",
+      "image": "reader_images/reader_20260313_230816.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2106079707,
+      "created_at": "2026-03-13T23:08:16.277701+08:00"
     }
   ],
   "book_total_chars": 92814,
