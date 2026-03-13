@@ -1319,6 +1319,18 @@
       "image_model": "gptimage",
       "seed": 1731796201,
       "created_at": "2026-03-13T11:09:29.498646+08:00"
+    },
+    {
+      "id": "20260313_111121",
+      "offset_start": 8982,
+      "offset_end": 9055,
+      "text": "求親時說什麼有田有屋的小康人家，其實他\n在湘陰連個像樣的家都沒有。\n深秋的鄉村很是蕭瑟。草色枯黃，沿途都是起伏的丘陵，水田裡殘留着積水與稻\n草茬。",
+      "prompt": "A desolate deep autumn rural landscape in Xiangyin, China, with undulating yellowed hills and withered grass under a pale, overcast sky, featuring waterlogged paddy fields dotted with rice stubble and sparse, barren villages lacking sturdy homes. In the foreground, a humble rural man in worn traditional clothing trudges along a muddy path, his face etched with quiet disappointment, evoking irony and desolation. Render in the style of Chinese ink wash painting with muted earth tones, soft diffused lighting, and a melancholic, windswept atmosphere.",
+      "image": "reader_images/reader_20260313_111121.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 275190525,
+      "created_at": "2026-03-13T11:11:21.227885+08:00"
     }
   ],
   "book_total_chars": 92814,
