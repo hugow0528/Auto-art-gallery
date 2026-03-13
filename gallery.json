@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_160219",
+      "filename": "images/artwork_20260313_160219.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "A photorealistic close-up portrait of a young woman's serene face in an intimate, dimly lit bedroom, her eyes reflecting a high-contrast black and gold digital matrix of swirling binary code, padlocks, and encrypted shields that morph into protective bioluminescent tendrils glowing softly from her skin like veins of golden light piercing the enveloping darkness. Subtle streams of data flow from her fingertips toward a hovering holographic privacy vault, symbolizing cybersecurity's embrace of human vulnerability in the digital world, with intricate details in her expressive gaze conveying quiet determination and trust. Award-winning composition with razor-sharp focus, dramatic chiaroscuro lighting from the bioluminescent glow, and a luxurious palette of deep inky blacks contrasted against radiant metallic golds for a visually stunning, emotionally resonant masterpiece.",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 790164743,
+      "created_at": "2026-03-13T16:02:19.172048+08:00"
+    },
+    {
       "id": "20260312_194836",
       "filename": "images/artwork_20260312_194836.jpg",
       "topic": "traditional vs modern culture clash in Asia",
