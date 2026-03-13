@@ -4343,6 +4343,18 @@
       "image_model": "imagen-4",
       "seed": 226486401,
       "created_at": "2026-03-14T07:00:20.710666+08:00"
+    },
+    {
+      "id": "20260314_070246",
+      "offset_start": 26522,
+      "offset_end": 26609,
+      "text": "每痛一次都要脫層皮。秋園總擔心仁受有一天會痛死。於是再苦再累，秋園也不\n讓仁受做重活，砍柴、扒柴、挑水、挖土、種菜這等事從不讓他幫忙，儘可能讓\n他多躺在牀上，免得氣往下墜。",
+      "prompt": "A devoted Chinese woman in a plain blue blouse gently arranges a thin blanket over her frail husband lying on a simple wooden bed in a dim, humble rural room. Her weathered hands show years of hard work, her face marked by worry and exhaustion. Soft morning light filters through a small window onto the couple, capturing the quiet intimacy of unconditional care. Traditional Chinese",
+      "image": "reader_images/reader_20260314_070246.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 908065048,
+      "created_at": "2026-03-14T07:02:46.270706+08:00"
     }
   ],
   "book_total_chars": 92814,
