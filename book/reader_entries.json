@@ -2603,6 +2603,18 @@
       "image_model": "flux-2-dev",
       "seed": 400985087,
       "created_at": "2026-03-13T19:07:36.726563+08:00"
+    },
+    {
+      "id": "20260313_191832",
+      "offset_start": 16698,
+      "offset_end": 16770,
+      "text": "一到夏天，之驊就疰夏，整天不喫飯，光喫點豆腐花，還偏要喫一種野芹菜，人\n瘦得皮包骨。每每看到四老倌和兵桃喫出一片響聲，之驊的食慾就被勾了起來。",
+      "prompt": "A frail young woman, Zhihua, with skin stretched taut over bone, sits listlessly by a wooden table in a simple, sun-drenched room. She stares at a bowl of cooling tofu pudding, a single sprig of wild celery beside it, her appetite nonexistent. The air is thick with summer heat, and the faint aroma of food from an unseen source elsewhere in the house, a tantalizing contrast to her own hunger. Style: Traditional Chinese ink wash painting with subtle hints of realism, conveying a mood of languid summer melancholy.",
+      "image": "reader_images/reader_20260313_191832.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1692663711,
+      "created_at": "2026-03-13T19:18:32.820360+08:00"
     }
   ],
   "book_total_chars": 92814,
