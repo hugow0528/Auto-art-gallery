@@ -3275,6 +3275,18 @@
       "image_model": "grok-imagine",
       "seed": 992222998,
       "created_at": "2026-03-13T23:59:57.871319+08:00"
+    },
+    {
+      "id": "20260314_000127",
+      "offset_start": 20452,
+      "offset_end": 20537,
+      "text": "小泉媽鏟累\n了，直起腰來想休息片刻。就在這時，一條瘋狗伸出長長的舌頭，夾着尾巴朝她\n跑過來。小泉媽趕快滑到田裡，爛泥齊了小腿，還沒來得及蹲下，瘋狗就在她大\n腿上咬了一口。",
+      "prompt": "A middle-aged Chinese woman, Xiao Quan's mother, is covered in mud up to her shins, having stumbled into a rice paddy. A rabid dog with a lolling tongue and tucked tail lunges at her, its teeth sinking into her thigh. The scene is depicted in a gritty, realistic style with a somber, desperate atmosphere, illuminated by harsh, overcast daylight.",
+      "image": "reader_images/reader_20260314_000127.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 432157673,
+      "created_at": "2026-03-14T00:01:27.110970+08:00"
     }
   ],
   "book_total_chars": 92814,
