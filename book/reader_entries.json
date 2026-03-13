@@ -3347,6 +3347,18 @@
       "image_model": "flux",
       "seed": 1532392190,
       "created_at": "2026-03-14T00:21:41.588134+08:00"
+    },
+    {
+      "id": "20260314_003208",
+      "offset_start": 20949,
+      "offset_end": 21014,
+      "text": "貴嬸拿着褲子走到窗戶邊，婆媳倆頭挨頭地看\n那東西。看着看着，兩人着實喫了一驚。小泉當即嚇白了臉，脫口說：「我怎麼\n會生只老鼠出來？",
+      "prompt": "An interior scene in a humble, slightly dim room with a single window casting soft, diffused light. A middle-aged woman, Gui Shen, and a younger woman, her daughter-in-law Xiao Quan, lean closely together, heads touching, looking intently at a pair of trousers held between them. Xiao Quan's face is ashen, her eyes wide with shock and disbelief, as if she has just seen a ghost. The atmosphere is one of startled surprise and unease, rendered in a realistic, almost melancholic style with subtle chiaroscuro.",
+      "image": "reader_images/reader_20260314_003208.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1911883815,
+      "created_at": "2026-03-14T00:32:08.392784+08:00"
     }
   ],
   "book_total_chars": 92814,
