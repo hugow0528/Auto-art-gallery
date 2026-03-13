@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_062925",
+      "filename": "images/artwork_20260314_062925.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "A bustling neo-traditional marketplace where ancient, carved wooden stalls laden with vibrant spices and woven textiles stand beneath shimmering holographic advertisements; a cybernetically enhanced artisan with glowing augmented reality eyes meticulously crafts pottery using a futuristic, laser-guided wheel. The scene is bathed in the warm, diffused glow of golden hour sunlight, casting long shadows and illuminating dust motes, while a color palette dominated by rich earth tones, deep terracotta, and subtle neon accents from the tech creates a mood of vibrant, energetic fusion. Rendered in a hyper-detailed cyberpunk art style, emphasizing intricate textures and dynamic motion, capturing the electrifying collision of timeless craft and cutting-edge innovation.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1780552786,
+      "created_at": "2026-03-14T06:29:25.710812+08:00"
+    },
+    {
       "id": "20260314_055307",
       "filename": "images/artwork_20260314_055307.jpg",
       "topic": "music and the evolution of sound",
