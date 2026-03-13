@@ -3767,6 +3767,18 @@
       "image_model": "klein",
       "seed": 1307239793,
       "created_at": "2026-03-14T03:20:18.882803+08:00"
+    },
+    {
+      "id": "20260314_032250",
+      "offset_start": 23355,
+      "offset_end": 23416,
+      "text": "再則\n她剛從外面進來，怎麼沒看見呢？\n秋園出門跑到徐老先生家去問有沒有湖北討飯婆來，答說沒有。又到貴嬸家去\n問，也說沒有。",
+      "prompt": "A Chinese woman in a faded blue cotton jacket stands in a modest rural courtyard, looking toward a weathered wooden door of a simple earthen house. The village is quiet with mud",
+      "image": "reader_images/reader_20260314_032250.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1707097243,
+      "created_at": "2026-03-14T03:22:50.765220+08:00"
     }
   ],
   "book_total_chars": 92814,
