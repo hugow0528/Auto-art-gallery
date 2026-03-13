@@ -1283,6 +1283,18 @@
       "image_model": "imagen-4",
       "seed": 941304013,
       "created_at": "2026-03-13T10:23:40.537240+08:00"
+    },
+    {
+      "id": "20260313_102759",
+      "offset_start": 8734,
+      "offset_end": 8811,
+      "text": "既然天意如此，不妨遵從。\n仁受回到艙室，匆匆對秋園說：「把東西都收拾好，船一靠岸我們就下去。」\n船在大霧中等待了三個小時，濃霧在陽光的驅趕下總算漸漸散去。",
+      "prompt": "A traditional Chinese wooden boat emerges from thick morning mist, pale winter sunlight filtering through dissolving fog; a man stands at the cabin doorway while a woman inside begins gathering bundled belongings, misty river landscape in soft watercolour style with muted blues and warm amber light.",
+      "image": "reader_images/reader_20260313_102759.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1543267573,
+      "created_at": "2026-03-13T10:27:59.800241+08:00"
     }
   ],
   "book_total_chars": 92814,
