@@ -3887,6 +3887,18 @@
       "image_model": "flux-2-dev",
       "seed": 1155129434,
       "created_at": "2026-03-14T03:59:14.026467+08:00"
+    },
+    {
+      "id": "20260314_035943",
+      "offset_start": 23984,
+      "offset_end": 24068,
+      "text": "之驊的喉嚨哭痛了，連話都講不出來，只死死地抱着秋園，一家\n人哭成一團。\n黑夜漸漸退去，天終於亮了。邱家和徐家聽到哭聲都過來了，誰都不相信活蹦亂\n跳的夕瑩一個夜晚就死了。",
+      "prompt": "A grief-stricken family collapses together in a humble room at dawn, their faces raw with despair as neighbors stand shocked in the doorway; somber morning light filters through a window, rendered in a realistic style with muted, sorrowful colors.",
+      "image": "reader_images/reader_20260314_035943.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 177022671,
+      "created_at": "2026-03-14T03:59:43.279562+08:00"
     }
   ],
   "book_total_chars": 92814,
