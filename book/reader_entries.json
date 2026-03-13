@@ -4127,6 +4127,18 @@
       "image_model": "imagen-4",
       "seed": 1060576151,
       "created_at": "2026-03-14T05:49:15.031822+08:00"
+    },
+    {
+      "id": "20260314_055038",
+      "offset_start": 25410,
+      "offset_end": 25478,
+      "text": "不要說犁田、耙田這些技術活，仁受因有疝氣痛，不能站久，一般的手腳\n功夫都做不了。\n秋園曾經包過小腳，子恆在讀初中，田是怎麼也沒辦法做的。",
+      "prompt": "An elderly Chinese farmer with a painful hernia bends uncomfortably over muddy rice paddies, his weathered face contorted with strain as he tries to work but cannot stand straight. His wife beside him has bound feet, standing helplessly at the field's edge, her small deformed feet barely visible beneath her hem, watching her son - a teenage student in worn clothing - return from school while the unworked paddies wait. Soft golden late-afternoon light illuminates their threadbare clothes and the simple rural landscape of mud, water, and distant hills, capturing the poignant hardship of a poor farming family in mid-century rural China struggling against physical limitations.",
+      "image": "reader_images/reader_20260314_055038.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1372225321,
+      "created_at": "2026-03-14T05:50:38.612105+08:00"
     }
   ],
   "book_total_chars": 92814,
