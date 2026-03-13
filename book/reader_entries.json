@@ -4151,6 +4151,18 @@
       "image_model": "grok-imagine",
       "seed": 612063399,
       "created_at": "2026-03-14T05:51:07.477887+08:00"
+    },
+    {
+      "id": "20260314_055626",
+      "offset_start": 25478,
+      "offset_end": 25551,
+      "text": "無奈何，只好將田\n包給了鄰居滿老倌種。把自己的田包給別人家種，是最最下策的事。別人不會誠\n心替你種好，而從播種到收割，講好給多少谷，一粒也不能少。",
+      "prompt": "An elderly Chinese farmer with weathered skin and worn clothing stands in a golden rice paddy field, hand extended in a gesture of reluctant resignation as he hands a worn lease document to a neighboring peasant. The autumn sunset casts warm amber light across terraced fields, with bent rice stalks ready for harvest, while two water buffalo graze peacefully in the background. The scene carries a mood of humble desperation and quiet dignity, rendered in a traditional Chinese ink painting style with subtle watercolor wash, capturing the quiet tragedy of a proud farmer forced to surrender his ancestral land.",
+      "image": "reader_images/reader_20260314_055626.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1164166715,
+      "created_at": "2026-03-14T05:56:26.077587+08:00"
     }
   ],
   "book_total_chars": 92814,
