@@ -1403,6 +1403,18 @@
       "image_model": "grok-imagine",
       "seed": 1618699971,
       "created_at": "2026-03-13T11:33:00.765049+08:00"
+    },
+    {
+      "id": "20260313_113657",
+      "offset_start": 9518,
+      "offset_end": 9594,
+      "text": "悠揚的湘陰方言在她耳裏只是一片嘰裏呱啦的\n聲音。她也無法適應硬邦邦的米飯粒和辛辣無比的菜餚。別人喫得熱火朝天，她\n卻幾乎不敢舉箸，只能用白開水泡點飯喫。",
+      "prompt": "A young woman sits at a simple wooden table in a dimly lit, sparsely furnished room, looking uncomfortable and out of place. Before her is a bowl of plain white rice, with only a small cup of clear water beside it, contrasting with the implied spicy, hearty food others are enjoying off-screen. The atmosphere is one of quiet isolation and a subtle struggle to adapt, rendered in a realistic, slightly melancholic oil painting style with soft, diffused lighting.",
+      "image": "reader_images/reader_20260313_113657.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1187888646,
+      "created_at": "2026-03-13T11:36:57.290116+08:00"
     }
   ],
   "book_total_chars": 92814,
