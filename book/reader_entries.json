@@ -3179,6 +3179,18 @@
       "image_model": "gptimage",
       "seed": 1006947065,
       "created_at": "2026-03-13T23:26:29.608181+08:00"
+    },
+    {
+      "id": "20260313_232733",
+      "offset_start": 19819,
+      "offset_end": 19908,
+      "text": "兩個老人連氣帶病地先後過世，子文父親四十多歲時也走了，\n留下一身債，輪到子文來還。沒有辦法，子文只好出來替人做長工。秋園說：\n「我也覺得這家人通情達理，對人好，國臣還十分會念書。",
+      "prompt": "A melancholic, dusty rural courtyard in autumn, bathed in the soft, fading light of late afternoon. An elderly woman with a kind, worn face sits on a worn wooden bench, her hands clasped in her lap, gazing thoughtfully into the distance. Nearby, a young man with a determined yet weary expression stands, his shoulders slightly slumped, hinting at unspoken burdens. The scene evokes a sense of quiet resignation and the weight of familial duty, rendered in the style of a traditional Chinese ink wash painting with subtle, muted colors.",
+      "image": "reader_images/reader_20260313_232733.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 194891820,
+      "created_at": "2026-03-13T23:27:33.827991+08:00"
     }
   ],
   "book_total_chars": 92814,
