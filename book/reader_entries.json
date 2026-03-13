@@ -1895,6 +1895,18 @@
       "image_model": "flux",
       "seed": 303556944,
       "created_at": "2026-03-13T14:30:26.788249+08:00"
+    },
+    {
+      "id": "20260313_143409",
+      "offset_start": 12676,
+      "offset_end": 12759,
+      "text": "冰凍三尺，非一日之\n寒。仁受單打鼓、獨划船，也無法扭轉這種局面。日子久了，他幹得也不舒坦，\n遂辭去職務，賦閒在家。\n不久，一位鄉黨介紹仁受去安化擔任當地田糧局的局長。",
+      "prompt": "A weary middle-aged Chinese scholar named Ren Shou, dressed in simple traditional robes, stands pensively on the wooden dock of a misty rural river in ancient China, having just stepped off a solitary wooden boat amid frozen waters symbolizing deep-rooted chill—\"ice three feet thick from no single day's cold.\" His face shows quiet resignation and discomfort after futile struggles like beating a lone drum, with distant snow-capped mountains, barren willows, and a heavy fog-shrouded village evoking an atmosphere of inescapable stagnation and transition toward idle home life. Rendered in traditional Chinese shanshui ink wash style on silk scroll, monochromatic with subtle blue-green hues, bird's-eye perspective emphasizing vast emptiness, yin-yang harmony of rigid peaks and fluid streams, soft diffused winter light, and ethereal mist for a contemplative, Daoist mood of withdrawal and renewal.",
+      "image": "reader_images/reader_20260313_143409.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 999667361,
+      "created_at": "2026-03-13T14:34:09.391666+08:00"
     }
   ],
   "book_total_chars": 92814,
