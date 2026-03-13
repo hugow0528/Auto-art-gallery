@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_052934",
+      "filename": "images/artwork_20260314_052934.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "A lone figure stands on a windswept, overgrown hill, silhouetted against a vast, monochromatic black and white sky during golden hour. The soft, diffused light catches the delicate details of decaying wind turbines and solar panels, now reclaimed by nature, evoking a melancholic and reflective mood. This digital art masterpiece, rendered with breathtaking detail, captures a poignant moment of silent contemplation on the transient nature of human ambition and the enduring power of the earth.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 489287853,
+      "created_at": "2026-03-14T05:29:34.707413+08:00"
+    },
+    {
       "id": "20260314_045847",
       "filename": "images/artwork_20260314_045847.jpg",
       "topic": "music and the evolution of sound",
