@@ -1667,6 +1667,18 @@
       "image_model": "flux",
       "seed": 978056292,
       "created_at": "2026-03-13T13:06:52.379689+08:00"
+    },
+    {
+      "id": "20260313_131017",
+      "offset_start": 11244,
+      "offset_end": 11307,
+      "text": "一日，仁受帶了幾個鄉丁去鄉下催壯丁，半路上遇到一個五十多歲的農民，他撲\n通一下跪倒在轎子前。\n範麻子厲聲喝道：「你要幹什麼？",
+      "prompt": "A middle-aged peasant in tattered robes collapses to his knees before an ornate sedan chair on a dusty rural path, his weathered face contorted with desperation and fear, while a stern official with a scarred visage (范麻子) leans forward menacingly from within the chair, his voice cutting through the oppressive afternoon heat. The scene is rendered in classical Chinese ink-wash painting style with muted earth tones—dusty browns, pale greens, and soft grays—capturing the hierarchical tension between the powerful authority figure and the powerless commoner. Accompanying guards stand rigidly in the background along the narrow country road lined with sparse trees and distant hills shrouded in mist. The composition emphasizes the moment of confrontation with dramatic spatial contrast, evoking the melancholic atmosphere of dynastic-era rural oppression and social injustice.",
+      "image": "reader_images/reader_20260313_131017.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 781219306,
+      "created_at": "2026-03-13T13:10:17.584312+08:00"
     }
   ],
   "book_total_chars": 92814,
