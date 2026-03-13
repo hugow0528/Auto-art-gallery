@@ -2579,6 +2579,18 @@
       "image_model": "zimage",
       "seed": 1563429987,
       "created_at": "2026-03-13T19:02:14.056371+08:00"
+    },
+    {
+      "id": "20260313_190656",
+      "offset_start": 16629,
+      "offset_end": 16698,
+      "text": "冬天，他下穿\n短褲，上穿打着補丁的長袍，胸前由於飯菜長期浸潤而無比光滑。\n兵桃比之驊大一歲，之驊經常進出兵桃家，看爺孫倆做事，看他們喫飯。",
+      "prompt": "A boy in a patched long robe and short pants stands near an earthen stove, his clothes worn smooth from use, while steam rises from a simple meal; another boy watches from the doorway, the interior warm and humble against the winter chill outside, rendered in a realistic oil painting style with soft, dim lighting.",
+      "image": "reader_images/reader_20260313_190656.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 495709409,
+      "created_at": "2026-03-13T19:06:56.158018+08:00"
     }
   ],
   "book_total_chars": 92814,
