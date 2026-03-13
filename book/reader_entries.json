@@ -1499,6 +1499,18 @@
       "image_model": "imagen-4",
       "seed": 1374067067,
       "created_at": "2026-03-13T12:20:14.014886+08:00"
+    },
+    {
+      "id": "20260313_122123",
+      "offset_start": 10135,
+      "offset_end": 10199,
+      "text": "一日，均良告訴仁受，他打聽到一處閒置的好屋，屋主的兒子在外做官，聽說楊\n先生想買屋，願意折點本出售。均良說，這個機會千載難逢。",
+      "prompt": "Two men in traditional Chinese robes converse intimately in a softly lit study, one leaning forward with urgent news. Warm lantern light casts deep shadows on wooden shelves and scrolls, capturing a moment of confidential opportunity in a realistic oil painting style with muted earth tones.",
+      "image": "reader_images/reader_20260313_122123.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1923212442,
+      "created_at": "2026-03-13T12:21:23.255919+08:00"
     }
   ],
   "book_total_chars": 92814,
