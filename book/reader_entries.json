@@ -4367,6 +4367,18 @@
       "image_model": "flux",
       "seed": 1989464256,
       "created_at": "2026-03-14T07:22:15.666689+08:00"
+    },
+    {
+      "id": "20260314_072356",
+      "offset_start": 26675,
+      "offset_end": 26760,
+      "text": "自從搬過來，滿娭毑每天總要來串一兩次門。她一進門，秋\n園就趕緊燒茶，豆子、芝麻還不敢放少了。滿娭毑喫了一碗又一碗，不喫上四五\n碗，把個肚皮撐得鼓鼓的急着要去屙尿就不走人。",
+      "prompt": "An elderly woman with a round, satisfied belly, wearing simple, traditional Chinese clothing, sits contentedly in a humble, sun-drenched courtyard. She's mid-way through devouring multiple bowls of steaming tea, her face etched with a gentle warmth and a slight urgency. The atmosphere is one of cozy domesticity and overflowing hospitality, rendered in the warm, naturalistic style of traditional Chinese ink wash painting with soft, diffused sunlight.",
+      "image": "reader_images/reader_20260314_072356.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1933337808,
+      "created_at": "2026-03-14T07:23:56.118224+08:00"
     }
   ],
   "book_total_chars": 92814,
