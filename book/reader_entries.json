@@ -2927,6 +2927,18 @@
       "image_model": "flux-2-dev",
       "seed": 534099370,
       "created_at": "2026-03-13T21:50:09.097800+08:00"
+    },
+    {
+      "id": "20260313_215619",
+      "offset_start": 18395,
+      "offset_end": 18498,
+      "text": "」\n兵桃聽了秋園的話，高興地還上麻繩回去了。\n四老倌有三大丘湖洋田，年年要兵桃用鋤頭一鋤一鋤翻轉，才能插上秧。兵桃站\n到湖洋田裡，爛泥齊了腰子，臉上濺滿了泥巴，簡直成了一個泥人，剛能看到那\n雙眼睛還在轉動。",
+      "prompt": "A lone farmer, identified as Bingtao, is submerged up to his waist in thick, viscous mud within a vast, flooded paddy field. His face is splattered with mud, with only his eyes visible, conveying a sense of struggle and exhaustion. The atmosphere is heavy and damp, under a muted, overcast sky. The style should be reminiscent of traditional Chinese ink wash painting, with a focus on conveying the texture of the mud and the stark reality of the labor.",
+      "image": "reader_images/reader_20260313_215619.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 450032430,
+      "created_at": "2026-03-13T21:56:19.799485+08:00"
     }
   ],
   "book_total_chars": 92814,
