@@ -1427,6 +1427,18 @@
       "image_model": "flux-2-dev",
       "seed": 549910740,
       "created_at": "2026-03-13T11:38:55.441470+08:00"
+    },
+    {
+      "id": "20260313_114251",
+      "offset_start": 9663,
+      "offset_end": 9726,
+      "text": "買了屋就有\n自己的房子住，叫花子都有個頓棍處，和堂弟住在一起畢竟不是長久之計。仁受\n把這些話都當成耳邊風，還說自己不想當財主。",
+      "prompt": "A weary elderly man, dressed in patched, simple robes, sits on a worn wooden stool outside a humble, thatched-roof dwelling. He ignores the chatter of a younger man, perhaps his nephew, gesturing emphatically nearby. The scene is set in a dusty, sun-drenched village alleyway, conveying a mood of quiet resignation and simple living, rendered in the style of a traditional Chinese ink wash painting with soft, diffused sunlight.",
+      "image": "reader_images/reader_20260313_114251.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 778100131,
+      "created_at": "2026-03-13T11:42:51.142034+08:00"
     }
   ],
   "book_total_chars": 92814,
