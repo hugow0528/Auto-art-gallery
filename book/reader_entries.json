@@ -3251,6 +3251,18 @@
       "image_model": "flux",
       "seed": 660309440,
       "created_at": "2026-03-13T23:54:27.522455+08:00"
+    },
+    {
+      "id": "20260313_235749",
+      "offset_start": 20301,
+      "offset_end": 20385,
+      "text": "油菜開花時，瘋狗最\n多。據說狗在油菜地裏伸出舌頭時被野蜂蜇了，就會瘋。天晴時，狗最喜歡在油\n菜田裡耍瘋、追逐、打架，玩累了就趴在地上伸出長長的舌頭喘氣，口水直往下\n淌。",
+      "prompt": "A golden canola flower field stretching under bright sunny sky, with several dogs scattered throughout—some mid-chase in playful frenzy, others lying exhausted on the ground with long tongues hanging and drool pooling, captured in a cinematic, slightly surreal realism style with warm golden-hour lighting and a dreamlike quality.",
+      "image": "reader_images/reader_20260313_235749.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1802758592,
+      "created_at": "2026-03-13T23:57:49.913666+08:00"
     }
   ],
   "book_total_chars": 92814,
