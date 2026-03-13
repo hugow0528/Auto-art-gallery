@@ -2063,6 +2063,18 @@
       "image_model": "flux-2-dev",
       "seed": 556389498,
       "created_at": "2026-03-13T15:37:10.835091+08:00"
+    },
+    {
+      "id": "20260313_154943",
+      "offset_start": 13717,
+      "offset_end": 13781,
+      "text": "初次見面，一起喫餐飯是\n應該的。」\n四人對望了一眼，道：「好好，恭敬不如從命，就在梁先生這裡喫飯。事情辦好\n了，我們也就放心了。",
+      "prompt": "A dimly lit, traditional Chinese restaurant interior with a round table where four people are seated, glancing at each other with a mixture of politeness and apprehension. The atmosphere is formal yet subtly tense, with steam gently rising from unseen dishes on the table, hinting at a shared meal. The style should evoke a classic Chinese ink painting with subtle Western cinematic lighting.",
+      "image": "reader_images/reader_20260313_154943.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 536729540,
+      "created_at": "2026-03-13T15:49:43.694069+08:00"
     }
   ],
   "book_total_chars": 92814,
