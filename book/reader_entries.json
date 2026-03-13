@@ -2147,6 +2147,18 @@
       "image_model": "zimage",
       "seed": 374441672,
       "created_at": "2026-03-13T16:01:06.897957+08:00"
+    },
+    {
+      "id": "20260313_160340",
+      "offset_start": 14090,
+      "offset_end": 14155,
+      "text": "快開學\n了，還請梁先生早些準備。三天後，我們派人來接您。」\n秋園說：「我的行李很簡單，只有兩三口皮箱，加上被子鋪蓋，隨時都可以走。",
+      "prompt": "A Chinese woman in a simple cotton dress stands in a modest, sunlit bedroom of an old wooden house, two worn leather suitcases and a neatly folded quilt beside her. Pale morning light streams through a paper window, casting",
+      "image": "reader_images/reader_20260313_160340.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1023964248,
+      "created_at": "2026-03-13T16:03:40.787542+08:00"
     }
   ],
   "book_total_chars": 92814,
