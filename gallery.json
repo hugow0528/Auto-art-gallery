@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_071938",
+      "filename": "images/artwork_20260314_071938.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "In a dark, dystopian abstract expressionist landscape, swirling, iridescent holographic forms represent the ceaseless, fragmented journeys of global nomads, their pathways dissolving and reforming under a soft, diffused daylight that casts long, melancholic shadows. Jagged, overlapping planes of color in shifting, spectral hues evoke the disorientation and ephemeral nature of constant movement, with subtle, almost imperceptible human silhouettes lost within the chaotic beauty. The overall mood is one of profound isolation and anxious transience, rendered with gestural energy and a deep, unsettling resonance.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 516907593,
+      "created_at": "2026-03-14T07:19:38.718426+08:00"
+    },
+    {
       "id": "20260314_065029",
       "filename": "images/artwork_20260314_065029.jpg",
       "topic": "virtual reality and the metaverse",
