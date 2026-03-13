@@ -3563,6 +3563,18 @@
       "image_model": "zimage",
       "seed": 2015438104,
       "created_at": "2026-03-14T01:53:42.015163+08:00"
+    },
+    {
+      "id": "20260314_015426",
+      "offset_start": 22113,
+      "offset_end": 22197,
+      "text": "一家人在飯桌上決定了，讓小泉去跟正凱學裁縫。\n小泉只學了一年裁縫，正凱就活了這最後一年。鄉裏人衣服簡單，男的對襟衣，\n女的大襟褂，都着抄頭褲，一式的便裝，全用手工縫。",
+      "prompt": "A warm, dimly lit rural Chinese dining room at evening, with a large round wooden table crowded by a multi-generational family—elders at the head seat facing the door, parents, and a young boy named Xiao Quan—sharing simple dishes like steamed rice, vegetables, and braised meats on a lazy Susan, chopsticks poised mid-air as the patriarch gestures decisively toward the boy, conveying a moment of familial decision about his apprenticeship. In the background, faint hints of sewing tools on a shelf allude to tailor Zheng Kai's craft, with villagers' simple attire like men's duijin shirts, women's dagjin jackets, and chaotou pants draped nearby, evoking a poignant atmosphere of unity, tradition, and quiet anticipation of life's transience. Render in realistic style inspired by Chinese ink wash painting with soft golden lantern light casting long shadows, earthy tones, and intricate textile details for a nostalgic, heartfelt mood.",
+      "image": "reader_images/reader_20260314_015426.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 519057591,
+      "created_at": "2026-03-14T01:54:26.211359+08:00"
     }
   ],
   "book_total_chars": 92814,
