@@ -2639,6 +2639,18 @@
       "image_model": "flux",
       "seed": 1148669588,
       "created_at": "2026-03-13T19:24:21.325804+08:00"
+    },
+    {
+      "id": "20260313_192538",
+      "offset_start": 16858,
+      "offset_end": 16933,
+      "text": "秋園常讓之驊端着飯和他們一起喫或換碗雜糧飯喫。之驊學着他們\n喫飯的樣子，他們扒一口，之驊也扒一口，然後使勁嚼，最後咕咚一聲，一口飯\n就咽到肚子裡去了。",
+      "prompt": "A humble, sun-dappled autumn courtyard filled with the scent of roasted grain. Several weathered, elderly Chinese farmers in simple cotton tunics sit on upturned buckets and wooden crates, sharing a meal from communal bowls. A young boy, no older than seven, sits amongst them, mimicking their earnest eating with wide eyes and a determined chew, his small hands clutching a wooden spoon. The scene is rendered in a warm, slightly impressionistic style, evoking a sense of rustic simplicity and shared humanity, with soft, golden afternoon light filtering through the sparse branches of a nearby persimmon tree.",
+      "image": "reader_images/reader_20260313_192538.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 820444825,
+      "created_at": "2026-03-13T19:25:38.299588+08:00"
     }
   ],
   "book_total_chars": 92814,
