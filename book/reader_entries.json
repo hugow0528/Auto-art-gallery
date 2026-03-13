@@ -4403,6 +4403,18 @@
       "image_model": "gptimage",
       "seed": 698854617,
       "created_at": "2026-03-14T07:39:27.265000+08:00"
+    },
+    {
+      "id": "20260314_074428",
+      "offset_start": 26842,
+      "offset_end": 26941,
+      "text": "咯，方言，這、這麼。\n因喫飯都成問題，家裡有時沒有豆子、芝麻。滿娭毑來了，要是沒喫上豆子芝麻\n茶，一副臉瞬間拉得老長，邁出門檻就開始罵人：「冇看過咯 樣不賢惠的堂\n客，到她屋裡坐，連茶都冇一杯喝。",
+      "prompt": "In a dimly lit, humble rural Chinese home cluttered with everyday poverty—empty bowls on a scarred wooden table, no sesame or beans in sight—an elderly grandmother with a deeply wrinkled face suddenly scowls fiercely, her thin lips pursed in fury as she stands abruptly from a low stool. Her faded floral jacket and bound feet emphasize her traditional stature, while the sparse room's cracked walls and flickering oil lamp cast harsh shadows amplifying the tense, humiliated atmosphere of failed hospitality. Render in realistic cinematic style like a Liu Xiaodong painting, with dramatic chiaroscuro lighting, earthy tones of gray-brown and faded red, evoking raw emotional intensity and cultural shame.",
+      "image": "reader_images/reader_20260314_074428.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1052584241,
+      "created_at": "2026-03-14T07:44:28.758110+08:00"
     }
   ],
   "book_total_chars": 92814,
