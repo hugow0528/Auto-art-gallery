@@ -1463,6 +1463,18 @@
       "image_model": "zimage",
       "seed": 1033548701,
       "created_at": "2026-03-13T11:58:37.838127+08:00"
+    },
+    {
+      "id": "20260313_120018",
+      "offset_start": 9912,
+      "offset_end": 9987,
+      "text": "均良好賭，且賭技不佳，每賭必輸。自仁受來\n了後，均良更是大大咧咧，對輸贏毫不在意，滿以爲堂哥是個大富翁。於是，他\n越賭越厲害，竟把三十擔谷輸了個精光。",
+      "prompt": "Two men sit at a worn wooden table in a dimly lit rural Chinese room, one confidently throwing dice while wooden grain measures and scattered coins surround them. The older man in traditional hanfu looks carefree and arrogant, while the younger one watches with growing concern as empty grain sacks",
+      "image": "reader_images/reader_20260313_120018.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 114971129,
+      "created_at": "2026-03-13T12:00:18.548002+08:00"
     }
   ],
   "book_total_chars": 92814,
