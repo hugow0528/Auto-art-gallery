@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_195014",
+      "filename": "images/artwork_20260313_195014.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "First, the user asks me to create an image generation prompt about \"blockchain and decentralized future.\" I need to incorporate specific elements: surrealist art style, intimate and human mood, dramatic studio lighting, and a color palette of cool blues and purples.\n\nI must ensure the prompt is unique, detailed, visually stunning, award-winning, and highly detailed. It should be 2-4 sentences long and paint a clear mental picture. My response should be ONLY the image prompt itself, in English, with no explanations, titles, or markdown.\n\nKey elements to weave in naturally:\n- Surrealist art style: This means the image should have dreamlike, fantastical elements that defy reality but are symbolic or meaningful.\n- Intimate and human mood: The scene should feel personal, emotional, and centered on human experiences, even though it's about technology.\n- Dramatic studio lighting: This suggests controlled, high-contrast lighting that emphasizes shapes and emotions, like in portrait photography or cinematic shots.\n- Color palette: Cool blues and purples – these colors should dominate the image, creating a serene, futuristic, or mystical atmosphere.\n\nThe theme is blockchain and decentralized future. I need to visualize this concept. Blockchain is often associated with networks, nodes, chains, transparency, and decentralization. A decentralized future might imply interconnected communities, shared power, and human-centric technology.\n\nI should avoid being too technical. Instead, use metaphors and symbolic imagery. For example, representing blockchain as a glowing network or chains transforming into something organic.\n\nCrafting the prompt:\n- Start with a vivid scene description.\n- Incorporate surreal elements: perhaps humans interacting with abstract blockchain structures.\n- Emphasize the intimate mood by focusing on human expressions or connections.\n- Use dramatic lighting to highlight key elements and create depth.\n- Describe colors explicitly: cool blues and purples.\n- Ensure it's detailed and award-winning by using specific, evocative language.\n\nStructure the prompt into 2-4 sentences. Here",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1365146788,
+      "created_at": "2026-03-13T19:50:14.969246+08:00"
+    },
+    {
       "id": "20260313_193247",
       "filename": "images/artwork_20260313_193247.jpg",
       "topic": "human migration and global nomadism",
