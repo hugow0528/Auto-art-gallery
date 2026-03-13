@@ -4355,6 +4355,18 @@
       "image_model": "klein",
       "seed": 908065048,
       "created_at": "2026-03-14T07:02:46.270706+08:00"
+    },
+    {
+      "id": "20260314_072215",
+      "offset_start": 26609,
+      "offset_end": 26675,
+      "text": "46\n\n\f一九五一年，秋園又生了個男孩。仁受替他起了個小名，叫田四，以此紀念他們\n家有了田。\n\n47\n\n\f三\n滿娭毑喜歡坐人家。",
+      "prompt": "A tired young mother lies on a simple wooden bed in a modest rural Chinese house, holding a newborn wrapped in cloth, with a middle-aged father kneeling beside her, both gazing at the baby with exhausted joy.",
+      "image": "reader_images/reader_20260314_072215.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1989464256,
+      "created_at": "2026-03-14T07:22:15.666689+08:00"
     }
   ],
   "book_total_chars": 92814,
