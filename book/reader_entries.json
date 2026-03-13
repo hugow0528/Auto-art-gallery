@@ -1535,6 +1535,18 @@
       "image_model": "zimage",
       "seed": 566307907,
       "created_at": "2026-03-13T12:23:36.560325+08:00"
+    },
+    {
+      "id": "20260313_122551",
+      "offset_start": 10350,
+      "offset_end": 10415,
+      "text": "大屋主人壓根沒有賣屋之意，\n其間上躥下跳的是主人一個不成器的兒子。那兒子是均良的賭友，因爲欠了一屁\n股賭債，就與均良合夥設了個局。",
+      "prompt": "A dimly lit, smoke-filled back room of a traditional Chinese gambling den. A desperate, disheveled young man, the son of a wealthy homeowner, nervously paces amidst overflowing ashtrays and scattered playing cards. He is visibly indebted, his expression a mix of anxiety and calculation, as he plots with a grim-faced companion. The scene should evoke a sense of impending doom and moral decay, rendered in a gritty, neo-noir artistic style with harsh chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_122551.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2052256488,
+      "created_at": "2026-03-13T12:25:51.828433+08:00"
     }
   ],
   "book_total_chars": 92814,
