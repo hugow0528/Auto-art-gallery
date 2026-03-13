@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_220204",
+      "filename": "images/artwork_20260313_220204.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In a baroque masterpiece brimming with vibrant energy and dramatic movement, majestic sea creatures like swirling dolphins, iridescent coral reefs, and ethereal jellyfish spiral outward in ornate, trompe l'oeil splendor from a central vortex of ocean conservation symbols—entwined nets transforming into protective seashells and blooming sea flowers—evoking infinity beneath a stormy overcast sky where chiaroscuro light pierces turbulent waves. Rendered in soft pastel hues of lavender blues, mint greens, blush pinks, and creamy golds, the scene pulses with sensual richness, emotional exuberance, and intricate detailing of fantastical marine motifs, blurring the boundaries of painting, sculpture, and architecture in an award-winning tableau of hope for marine life.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1825235949,
+      "created_at": "2026-03-13T22:02:04.895260+08:00"
+    },
+    {
       "id": "20260313_213845",
       "filename": "images/artwork_20260313_213845.jpg",
       "topic": "biotechnology and genetic engineering",
