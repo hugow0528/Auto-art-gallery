@@ -2183,6 +2183,18 @@
       "image_model": "flux-2-dev",
       "seed": 1774441677,
       "created_at": "2026-03-13T16:22:34.666760+08:00"
+    },
+    {
+      "id": "20260313_162349",
+      "offset_start": 14312,
+      "offset_end": 14400,
+      "text": "」\n酒足飯飽之後，四個人歡歡喜喜地告辭了。\n\n25\n\n\f秋園站在門口目送，等客人走遠便返身進了屋。她一把攬過之驊和夕瑩，激動地\n說：「真是天無絕人之路，如今不愁生活沒有着落了。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I am to respond ONLY with the prompt in English—no explanations, no translations, no markdown.\n\nThe passage is about \"秋園\" (Qiu Yuan) standing at the door after guests leave, then turning back into the house and hugging her children, excited about a new hope for life.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. Keep it to 2–4 sentences.\n\nKey elements from the passage:\n\n- Setting: After a meal, guests have left. Qiu Yuan is at the door, then inside the house.\n\n- Characters: Qiu Yuan, and her children (之驊 and 夕瑩, which I assume are names, so I'll refer to them as her children or by their names if needed, but for the prompt, I can use generic terms like \"a woman and her two children\").\n\n- Action: Standing at the door, watching guests leave, then turning back, hugging the children, expressing excitement.\n\n- Atmosphere: Joyful, hopeful, emotional. The passage says \"歡歡喜喜地\" (joyfully) for the guests leaving, and \"激動地\" (excitedly) for Qiu Yuan.\n\n- Visual essence: A domestic scene, perhaps in a humble home, with a sense",
+      "image": "reader_images/reader_20260313_162349.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1665538128,
+      "created_at": "2026-03-13T16:23:49.165102+08:00"
     }
   ],
   "book_total_chars": 92814,
