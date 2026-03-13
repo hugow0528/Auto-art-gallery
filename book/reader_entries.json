@@ -3431,6 +3431,18 @@
       "image_model": "grok-imagine",
       "seed": 2108305917,
       "created_at": "2026-03-14T01:01:04.722270+08:00"
+    },
+    {
+      "id": "20260314_010434",
+      "offset_start": 21423,
+      "offset_end": 21490,
+      "text": "」她屏住呼吸，大氣都不敢出，只\n等子文發落這個細妹子。\n半天，子文開口了：「丟是不能丟的，這是前世造的孽，活該生個怪東西來丟人\n現眼。",
+      "prompt": "A tense, dimly lit interior of a traditional Chinese home. A worried woman, hands clasped tightly, watches a stern-faced man, Ziwen, who looks down at a small, hidden bundle with a mixture of resignation and anger. The atmosphere is heavy with unspoken judgment and the weight of a perceived burden. Artistic style: realism with subtle chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_010434.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 884592099,
+      "created_at": "2026-03-14T01:04:34.789124+08:00"
     }
   ],
   "book_total_chars": 92814,
