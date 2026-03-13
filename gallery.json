@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_221034",
+      "filename": "images/artwork_20260313_221034.jpg",
+      "topic": "cultural diversity and global harmony",
+      "prompt": "A serene anime-inspired scene depicting figures from diverse global cultures seated in a circle around softly glowing candlelight, their silhouettes rendered with expressive, contemplative faces and delicate linework characteristic of Studio Ghibli's aesthetic. The entire composition shimmers with holographic iridescent hues—soft purples, teals, and rose golds—that dance across flowing fabrics, traditional clothing, and the translucent air between them, creating an ethereal, dreamlike quality. Candlelight casts warm amber and golden shadows that blend melancholically with the cool iridescent tones, evoking a profound sense of reflection, connection, and quiet understanding despite cultural differences. The art style merges traditional hand-drawn anime techniques with luminous, otherworldly color gradients, capturing both the fragility and resilience of human harmony in a world seeking unity.",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1788838209,
+      "created_at": "2026-03-13T22:10:34.469262+08:00"
+    },
+    {
       "id": "20260313_220204",
       "filename": "images/artwork_20260313_220204.jpg",
       "topic": "ocean conservation and marine life",
