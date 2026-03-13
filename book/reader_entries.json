@@ -3947,6 +3947,18 @@
       "image_model": "klein",
       "seed": 739856274,
       "created_at": "2026-03-14T04:38:31.331636+08:00"
+    },
+    {
+      "id": "20260314_044931",
+      "offset_start": 24319,
+      "offset_end": 24385,
+      "text": "42\n\n\f第四章 黃泥衝\n\n43\n\n\f一\n轉眼到了一九四九年，新中國成立了，人民翻身做主人。\n接着是土改。打倒地主惡霸，分田地。",
+      "prompt": "In a rural Chinese village in 1949, joyful peasants in simple cotton clothes gather around a wooden table piled with freshly distributed land deeds and farming tools, their faces beaming with triumphant hope under a bright dawn sky, as defeated landlords cower nearby amid overturned carts of grain. Red banners proclaiming \"New China\" and \"Land to the Tillers\" flutter in the wind, evoking revolutionary fervor and communal unity in a style blending Soviet realist propaganda posters with vibrant ink wash painting, dramatic golden lighting casting long heroic shadows over muddy fields and thatched huts.[1][2]",
+      "image": "reader_images/reader_20260314_044931.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 368564714,
+      "created_at": "2026-03-14T04:49:31.931427+08:00"
     }
   ],
   "book_total_chars": 92814,
