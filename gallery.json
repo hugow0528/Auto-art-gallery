@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_211511",
+      "filename": "images/artwork_20260313_211511.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "Abstract expressionist masterpiece depicting the chaotic, electrifying dance of quantum computation, rendered in a stark monochromatic black and white palette. Streaks of brilliant, bioluminescent light, pulsating with dramatic intensity, weave through impossibly complex geometric forms and ethereal, fractured planes, evoking a sense of profound, unfolding future. The scene should feel both intensely intellectual and viscerally powerful, as if witnessing the birth of a new reality in pure energy and form.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 620219500,
+      "created_at": "2026-03-13T21:15:11.326403+08:00"
+    },
+    {
       "id": "20260313_195014",
       "filename": "images/artwork_20260313_195014.jpg",
       "topic": "blockchain and decentralized future",
