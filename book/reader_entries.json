@@ -1391,6 +1391,18 @@
       "image_model": "flux-2-dev",
       "seed": 954926677,
       "created_at": "2026-03-13T11:22:58.811801+08:00"
+    },
+    {
+      "id": "20260313_113300",
+      "offset_start": 9449,
+      "offset_end": 9518,
+      "text": "熟人帶熟人，一下子把均良家弄得門庭若市，有\n時一天要開三四桌席。仁受整日和人吟詩作對、論古談今，好不熱鬧。\n秋園言語不通，融不進這番熱鬧。",
+      "prompt": "A bustling traditional Chinese courtyard house transformed into a lively banquet hall, with multiple round wooden tables crowded around a central lazy Susan spinning with steaming hot dishes like roast duck, jellyfish salad, and longevity noodles, surrounded by 20-30 boisterous guests in elegant Qing dynasty robes raising porcelain cups in toasts amid laughter and animated discussions on poetry and history. At the foremost table, the host Junliang and his lively companion Ren enthusiastically gesture while reciting poems, their faces flushed with excitement under warm lantern light, while in the shadowed periphery, the isolated figure Qiuyuan stands apart near a wooden pillar, his expression melancholic and distant, unable to join the harmonious revelry. Render in the intricate style of classical Chinese ink wash painting blended with vibrant realism, evoking a festive yet poignant autumn atmosphere with golden twilight filtering through paper windows, dramatic chiaroscuro lighting highlighting joy and solitude.",
+      "image": "reader_images/reader_20260313_113300.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1618699971,
+      "created_at": "2026-03-13T11:33:00.765049+08:00"
     }
   ],
   "book_total_chars": 92814,
