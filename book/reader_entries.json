@@ -2723,6 +2723,18 @@
       "image_model": "imagen-4",
       "seed": 2140909156,
       "created_at": "2026-03-13T19:52:31.407816+08:00"
+    },
+    {
+      "id": "20260313_195323",
+      "offset_start": 17297,
+      "offset_end": 17359,
+      "text": "」\n冬天，四老倌開始串門。長齊腳踝的舊棉袍下，一雙爬滿青筋的瘦腳套着無跟的\n爛棉鞋，烏黑的腳後跟裸露在外，粗糙得像老槐樹皮。",
+      "prompt": "A harsh winter scene of an elderly man in a tattered, ankle-length quilted robe, his gaunt feet in heel-less ragged cotton shoes revealing dark, bark-like heels against the frozen earth, rendered in stark realism with cold, natural light and a somber atmosphere.",
+      "image": "reader_images/reader_20260313_195323.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1151082656,
+      "created_at": "2026-03-13T19:53:23.586942+08:00"
     }
   ],
   "book_total_chars": 92814,
