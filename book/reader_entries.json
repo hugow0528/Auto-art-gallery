@@ -2075,6 +2075,18 @@
       "image_model": "flux",
       "seed": 536729540,
       "created_at": "2026-03-13T15:49:43.694069+08:00"
+    },
+    {
+      "id": "20260313_155011",
+      "offset_start": 13717,
+      "offset_end": 13781,
+      "text": "初次見面，一起喫餐飯是\n應該的。」\n四人對望了一眼，道：「好好，恭敬不如從命，就在梁先生這裡喫飯。事情辦好\n了，我們也就放心了。",
+      "prompt": "In a traditional Chinese restaurant's grand dining room, four middle-aged men in modern suits exchange knowing glances across a large round table draped in red silk, topped with a gleaming lazy Susan holding porcelain teacups, chopsticks, and steaming appetizers like pickled vegetables and smoked meats. Warm golden lantern light casts a harmonious glow on mahogany chairs, bamboo-paneled walls adorned with murals of ancient warriors and the Great Wall, and a majestic golden crane sculpture by the entryway, evoking unity and relief after a successful deal at Mr. Liang's establishment. Render in rich, ornate imperial Chinese style with vibrant reds and golds, intricate wood lattice details, and a convivial atmosphere of shared camaraderie.",
+      "image": "reader_images/reader_20260313_155011.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 870121454,
+      "created_at": "2026-03-13T15:50:11.284193+08:00"
     }
   ],
   "book_total_chars": 92814,
