@@ -2255,6 +2255,18 @@
       "image_model": "flux",
       "seed": 1689811437,
       "created_at": "2026-03-13T16:58:59.739513+08:00"
+    },
+    {
+      "id": "20260313_170007",
+      "offset_start": 14838,
+      "offset_end": 14916,
+      "text": "角落裡有口水井，圓\n圓的井面凸出地面尺把高，彎腰便能看到裡面黝黑的水和人的影子。井上架着個\n軸輪，打水時雙手搖着把手，伴着咿咿呀呀的聲音，一桶水就吊上來了。",
+      "prompt": "A traditional Chinese village well, made of weathered stone, protrudes slightly from the earth, its circular opening revealing dark water and faint reflections. A wooden windlass mechanism is mounted on the well's edge, with a bucket suspended by a rope, suggesting recent use. The scene is rendered in a style reminiscent of classic Chinese ink wash painting, with a soft, diffused light and a serene, slightly melancholic atmosphere.",
+      "image": "reader_images/reader_20260313_170007.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 653548424,
+      "created_at": "2026-03-13T17:00:07.711965+08:00"
     }
   ],
   "book_total_chars": 92814,
