@@ -3671,6 +3671,18 @@
       "image_model": "zimage",
       "seed": 362873652,
       "created_at": "2026-03-14T02:58:29.526950+08:00"
+    },
+    {
+      "id": "20260314_025954",
+      "offset_start": 22737,
+      "offset_end": 22836,
+      "text": "加之小泉平常講\n話直來直去，久而久之，地方上的人就有些不喜歡她。她苦做苦摳，幾年一過，\n也有了些積蓄，便買了兩畝田。\n\n40\n\n\f七\n一九四八年中秋，白日裡，學生放假，整個學校寂靜無聲，大門緊關着。",
+      "prompt": "A solitary, weathered woman with calloused hands stands beside two small plots of newly purchased farmland, her expression a mixture of quiet determination and slight weariness under a pale afternoon sun. The surrounding village is hushed, with the closed gates of a schoolhouse visible in the background, hinting at a midday lull. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with a muted color palette and a focus on conveying a sense of simple, rural life and quiet perseverance.",
+      "image": "reader_images/reader_20260314_025954.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1749078284,
+      "created_at": "2026-03-14T02:59:54.776242+08:00"
     }
   ],
   "book_total_chars": 92814,
