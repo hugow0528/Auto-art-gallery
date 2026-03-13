@@ -1787,6 +1787,18 @@
       "image_model": "flux-2-dev",
       "seed": 584692028,
       "created_at": "2026-03-13T13:38:15.740946+08:00"
+    },
+    {
+      "id": "20260313_134144",
+      "offset_start": 12009,
+      "offset_end": 12072,
+      "text": "鄉下每家都有個大水缸，靠牆埋在地下用來盛水。水缸高出地面三十公分左右，\n缸邊釘着一根木棍，棍子上掛一個帶把兒的竹筒用來舀水。",
+      "prompt": "A weathered, large ceramic water缸 (water vat) is half-buried in the earth beside a rustic, aged wooden house in a quiet Chinese countryside. A rough wooden stick is nailed to the side of the vat, with a lidded bamboo scoop hanging from it, ready for use. The scene is bathed in the soft, diffused light of a late afternoon, evoking a sense of peaceful, everyday rural life. The artistic style should be reminiscent of traditional Chinese ink wash paintings, emphasizing natural textures and a serene atmosphere.",
+      "image": "reader_images/reader_20260313_134144.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 2145843932,
+      "created_at": "2026-03-13T13:41:44.309883+08:00"
     }
   ],
   "book_total_chars": 92814,
