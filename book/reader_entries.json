@@ -3899,6 +3899,18 @@
       "image_model": "flux",
       "seed": 177022671,
       "created_at": "2026-03-14T03:59:43.279562+08:00"
+    },
+    {
+      "id": "20260314_040207",
+      "offset_start": 24068,
+      "offset_end": 24150,
+      "text": "子文好容易掰開仁受的手，一邊勸說，一邊把夕瑩放在一塊門板上。秋園哭着給\n夕瑩換上了最好的衣裳。門板由兩人抬到山上，從此，山上便有了一座小小的新\n墳，是夕瑩的新家。",
+      "prompt": "A somber, dimly lit scene in a traditional Chinese village, with two figures gently laying a small wooden plank, carrying a figure dressed in fine white robes, towards a desolate, windswept hillside. The atmosphere is one of profound sorrow and quiet resignation, rendered in the style of traditional Chinese ink wash painting, emphasizing muted tones and soft, diffused moonlight. A small, freshly made mound is visible on the hill, marking the final resting place.",
+      "image": "reader_images/reader_20260314_040207.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1682294174,
+      "created_at": "2026-03-14T04:02:07.418815+08:00"
     }
   ],
   "book_total_chars": 92814,
