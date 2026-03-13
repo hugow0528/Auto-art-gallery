@@ -4007,6 +4007,18 @@
       "image_model": "zimage",
       "seed": 137119779,
       "created_at": "2026-03-14T04:59:12.433625+08:00"
+    },
+    {
+      "id": "20260314_050157",
+      "offset_start": 24691,
+      "offset_end": 24758,
+      "text": "接下來是分房子。仁受的舉動也頗爲怪異。\n徐老先生趕在土改前過世了，徐娭毑和徐正明一家被掃地出門，還是邱子文勻了\n兩間茅草房給他們住。",
+      "prompt": "In a misty rural Chinese village during the land reform era, Qiu Ziwen, a kind-hearted middle-aged man in faded Mao jacket, humbly hands over keys to two dilapidated thatched-roof huts to the displaced Xu family: elderly widow Xu Nainai with stooped posture and tear-streaked face, clutching a bundle, accompanied by her son Xu Zhengming and his somber wife and children laden with meager belongings, all standing amid dusty village paths lined with wooden homes and terraced fields under overcast skies. The tense atmosphere of upheaval and reluctant charity pervades, with villagers watching from afar, evoking a somber mood of poverty and communal strife in realistic oil painting style by Norman Rockwell, soft diffused lighting casting long shadows on weathered茅草 roofs and earthen ground.",
+      "image": "reader_images/reader_20260314_050157.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1623725202,
+      "created_at": "2026-03-14T05:01:57.325086+08:00"
     }
   ],
   "book_total_chars": 92814,
