@@ -1475,6 +1475,18 @@
       "image_model": "grok-imagine",
       "seed": 114971129,
       "created_at": "2026-03-13T12:00:18.548002+08:00"
+    },
+    {
+      "id": "20260313_120838",
+      "offset_start": 9987,
+      "offset_end": 10052,
+      "text": "這如何交代呢？他便連夜擔了許多空谷\n殼放在樓上，謊稱老鼠喫空了穀子。\n\n19\n\n\f二\n仁受住在均良家，兩家人都要靠他那點積蓄供養。",
+      "prompt": "First, the user has provided a Chinese literary passage. I need to create an image-generation prompt in English based on this passage. The passage is about a character who, to cover up something, carries empty grain husks upstairs at night and claims that rats ate the grain. Then, it mentions another character, Ren Shou, living with Jun Liang's family, and both families relying on his savings.\n\nI must respond ONLY with the image prompt in English — no explanations, no translations, no markdown. The prompt should be 2–4 sentences only, describing a specific visual scene suitable for AI image generation, including setting, atmosphere, characters, and artistic style.\n\nKey elements from the passage:\n\n1. First part: A character carrying empty grain husks upstairs at night,谎称老鼠喫空了穀子 (lying that rats ate the grain). This suggests a scene of deception, possibly in a rural or old Chinese setting, with a house or building, nighttime, and grain-related items.\n\n2. Second part: Ren Shou住在均良家 (living with Jun Liang's family), and both families depend on his savings. This implies a domestic setting, perhaps a household with multiple families, focusing on financial strain or reliance.\n\nSince the passage has two parts, I need to combine them into a coherent visual scene. The main action seems to be the first part: carrying empty husks upstairs at night. The second part adds context about the characters and their situation.\n\nI should",
+      "image": "reader_images/reader_20260313_120838.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1705010219,
+      "created_at": "2026-03-13T12:08:38.534103+08:00"
     }
   ],
   "book_total_chars": 92814,
