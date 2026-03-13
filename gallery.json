@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_173745",
+      "filename": "images/artwork_20260313_173745.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "An impressionist masterpiece depicting a vibrant and energetic breakthrough in medical science, bathed in dramatic studio lighting. Emerald and deep forest green hues dominate the scene, swirling around a stylized, luminous DNA helix radiating golden energy, symbolizing discovery and hope. Delicate brushstrokes capture the dynamic interplay of scientific exploration and the vital force of life, evoking a sense of profound positive change.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1248113853,
+      "created_at": "2026-03-13T17:37:45.405704+08:00"
+    },
+    {
       "id": "20260313_170822",
       "filename": "images/artwork_20260313_170822.jpg",
       "topic": "traditional vs modern culture clash in Asia",
