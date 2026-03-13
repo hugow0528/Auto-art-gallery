@@ -2651,6 +2651,18 @@
       "image_model": "imagen-4",
       "seed": 820444825,
       "created_at": "2026-03-13T19:25:38.299588+08:00"
+    },
+    {
+      "id": "20260313_194016",
+      "offset_start": 16933,
+      "offset_end": 17040,
+      "text": "四老倌他們炒菜，只須用塊豬肉在鍋底抹一抹，炒出來的菜偏偏好喫。之驊就喜\n歡喫他們的菜。特別是用瓦片烤的小鹹魚，兩寸多長，不洗，放在一塊蓋屋用的\n瓦上，把瓦片放在煮好飯後的餘火上，過一陣，小魚被烤得金黃，嘣脆噴香。",
+      "prompt": "In a rustic Chinese countryside kitchen bathed in warm, flickering glow from the dying embers of a traditional stove after rice cooking, four elderly men with weathered faces and simple cloth garments huddle around a curved roof tile placed over the residual fire. Tiny salted fish, about two inches long, unwashed and glistening, roast to golden-brown crispness on the scorched tile, releasing aromatic steam that fills the air with savory allure. The atmosphere evokes nostalgic simplicity and mouthwatering anticipation, rendered in a hyper-realistic oil painting style with dramatic low-angle lighting, rich earthy tones, and intricate textures of smoke, char, and subtle smiles of contentment.",
+      "image": "reader_images/reader_20260313_194016.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1834198683,
+      "created_at": "2026-03-13T19:40:16.399122+08:00"
     }
   ],
   "book_total_chars": 92814,
