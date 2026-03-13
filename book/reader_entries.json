@@ -3611,6 +3611,18 @@
       "image_model": "grok-imagine",
       "seed": 483409418,
       "created_at": "2026-03-14T02:04:21.956707+08:00"
+    },
+    {
+      "id": "20260314_020511",
+      "offset_start": 22442,
+      "offset_end": 22518,
+      "text": "小泉說：「你們就是說出花骨朵來，我也不會聽。我不想讓我的女兒去現世，我\n要把她帶在身邊。」說完，便一個勁地催那仨人走。\n俗話說：「裁縫不偷，五穀不收。",
+      "prompt": "A stern, middle-aged Japanese man, possibly a craftsman like a tailor, stands in a dimly lit, traditional workshop cluttered with fabric scraps and sewing tools. His face is set in a determined frown as he gestures dismissively towards three silhouetted figures at the doorway, his daughter, a young woman with downcast eyes, visible just behind him, her presence radiating a sense of quiet resignation. The overall mood is tense and somber, rendered in a realistic, slightly desaturated photographic style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_020511.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2094464029,
+      "created_at": "2026-03-14T02:05:11.271397+08:00"
     }
   ],
   "book_total_chars": 92814,
