@@ -4379,6 +4379,18 @@
       "image_model": "grok-imagine",
       "seed": 1933337808,
       "created_at": "2026-03-14T07:23:56.118224+08:00"
+    },
+    {
+      "id": "20260314_073849",
+      "offset_start": 26760,
+      "offset_end": 26842,
+      "text": "滿娭毑告訴秋園，她每天來這裡坐是看得起他們家。他們是讀書人家，她就是喜\n歡讀書人，一般人家她根本不去坐，看都不看一眼。秋園臉上還得堆着殷勤的\n笑，唯唯諾諾點着頭。",
+      "prompt": "A dimly lit, traditional Chinese courtyard, late afternoon sun casting long shadows. An elderly, stern woman in ornate traditional clothing sits regally on a carved wooden bench, her expression one of haughty condescension. Facing her, a younger woman, Qiu Yuan, dressed in simple, faded robes, forces a subservient smile, her posture bowed in deference. The atmosphere is heavy with unspoken tension and social hierarchy. Realistic oil painting style, chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_073849.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 909865057,
+      "created_at": "2026-03-14T07:38:49.755527+08:00"
     }
   ],
   "book_total_chars": 92814,
