@@ -1871,6 +1871,18 @@
       "image_model": "zimage",
       "seed": 1291127037,
       "created_at": "2026-03-13T14:07:58.169519+08:00"
+    },
+    {
+      "id": "20260313_140913",
+      "offset_start": 12543,
+      "offset_end": 12614,
+      "text": "那人頻頻回頭，嘴裡念叨着：「我再不做賊了，再不做賊了。」\n仁受當鄉長期間，爲了幫人買壯丁或救濟窮人，有時連秋園的嫁妝、金銀首飾也\n拿去變賣。",
+      "prompt": "In a misty rural Chinese village at dusk, with whitewashed Hui-style houses, black-tiled roofs, and narrow cobblestone alleys lined by ancient trees and trickling canals, a ragged man in tattered robes flees hurriedly, repeatedly glancing back over his shoulder with a haunted expression while muttering remorsefully under his breath. In the shadowy foreground, the village head Ren Shou stands pensively outside his modest two-story ancestral home adorned with intricate wood carvings, holding a bundle of gold jewelry and silver hairpins symbolizing his wife's sold dowry, his face etched with quiet resolve amid the fading golden light. Rendered in a cinematic ink wash painting style inspired by traditional Chinese guohua art, evoking a somber, introspective atmosphere of regret, poverty, and moral sacrifice.",
+      "image": "reader_images/reader_20260313_140913.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1086799950,
+      "created_at": "2026-03-13T14:09:13.071534+08:00"
     }
   ],
   "book_total_chars": 92814,
