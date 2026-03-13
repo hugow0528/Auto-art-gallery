@@ -1763,6 +1763,18 @@
       "image_model": "flux-2-dev",
       "seed": 191513428,
       "created_at": "2026-03-13T13:35:11.506602+08:00"
+    },
+    {
+      "id": "20260313_133634",
+      "offset_start": 11857,
+      "offset_end": 11940,
+      "text": "年三十晚上，爆竹聲聲辭舊歲，人們酒足飯飽之後都沉浸在過年的氛圍中。深\n夜，仁受一家已進入夢鄉，睡夢中卻忽然聽見嘭的一聲。夜深人靜，那聲音格外\n刺耳，一家人都驚醒了。",
+      "prompt": "A dimly lit, traditional Chinese courtyard at midnight on New Year's Eve, illuminated by the dying embers of firecrackers and a single, warm lantern casting long shadows. A family, startled from sleep, peers out from the threshold of their simple wooden home, their faces etched with a mixture of surprise and apprehension, rendered in the style of traditional Chinese ink wash painting with a touch of magical realism.",
+      "image": "reader_images/reader_20260313_133634.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1355159244,
+      "created_at": "2026-03-13T13:36:34.574059+08:00"
     }
   ],
   "book_total_chars": 92814,
