@@ -1847,6 +1847,18 @@
       "image_model": "grok-imagine",
       "seed": 2034070871,
       "created_at": "2026-03-13T14:05:03.959835+08:00"
+    },
+    {
+      "id": "20260313_140622",
+      "offset_start": 12385,
+      "offset_end": 12462,
+      "text": "隨後，他從另一個缸裏提出一塊臘肉和一條鹹魚塞給那人，一邊說：「快\n回去過年吧，一家大小都在等你。」\n那人對仁受連連叩頭道：「都說楊鄉長是好人，果真沒有錯。",
+      "prompt": "A man in simple, worn clothing bows deeply in gratitude to a kind-faced official, receiving a package containing preserved meat and a salted fish. The scene is set in a humble, rustic dwelling or marketplace, with a warm, inviting glow suggesting the approaching Lunar New Year. The style should evoke traditional Chinese ink wash painting with a touch of photographic realism, emphasizing the gesture of generosity and the recipient's heartfelt thanks.",
+      "image": "reader_images/reader_20260313_140622.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 559591382,
+      "created_at": "2026-03-13T14:06:22.489042+08:00"
     }
   ],
   "book_total_chars": 92814,
