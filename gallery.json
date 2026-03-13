@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_230734",
+      "filename": "images/artwork_20260313_230734.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A visionary model stands on a luminous stage wearing an extraordinary gown crafted from flowing algorithmic patterns and bioluminescent fabric that pulses with soft emerald light, the deep forest green sequins catching every ray of dramatic studio lighting as holographic butterflies cascade from the shoulders in a breathtaking display of sustainable fashion technology, her confident pose radiating hope and possibility while reflecting beautifully against polished dark marble, creating a cinematic tableau that celebrates humanity's harmonious future where elegance and innovation coexist in perfect symmetry.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 906180527,
+      "created_at": "2026-03-13T23:07:34.402214+08:00"
+    },
+    {
       "id": "20260313_223642",
       "filename": "images/artwork_20260313_223642.jpg",
       "topic": "Hong Kong protest art and resilience",
