@@ -3215,6 +3215,18 @@
       "image_model": "flux-2-dev",
       "seed": 867268783,
       "created_at": "2026-03-13T23:31:51.137840+08:00"
+    },
+    {
+      "id": "20260313_233627",
+      "offset_start": 20077,
+      "offset_end": 20145,
+      "text": "上次回娘家，哥哥要我把\n那細妹子帶走，算是幫他忙。子文也同意了。」\n過了兩天，貴嬸的哥哥果然領了個細妹子來。貴嬸把她帶過來，讓秋園看看。",
+      "prompt": "A modest, early 20th-century Chinese household interior bathed in soft natural light, where a middle-aged woman (Gui Shen's sister-in-law) presents a young girl to an older woman (Qiu Yuan) for inspection. The scene captures a moment of quiet family obligation and subtle tension, with traditional wooden furniture and fabric furnishings creating an intimate domestic space. The atmosphere is contemplative and understated, rendered in muted earth tones with gentle shadows, evoking the restraint and propriety of traditional Chinese family customs. Realistic, literary realism style with attention to period detail and the unspoken emotions of familial duty.",
+      "image": "reader_images/reader_20260313_233627.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1017564485,
+      "created_at": "2026-03-13T23:36:27.353620+08:00"
     }
   ],
   "book_total_chars": 92814,
