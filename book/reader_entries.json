@@ -4271,6 +4271,18 @@
       "image_model": "gptimage",
       "seed": 1142806968,
       "created_at": "2026-03-14T06:46:33.346627+08:00"
+    },
+    {
+      "id": "20260314_064703",
+      "offset_start": 26171,
+      "offset_end": 26242,
+      "text": "一天，一大清早就不見了人影，之驊和秋園正要\n去找，他喜洋洋地回來了，遠遠就喊道：「秋園哎，秋園哎，我起了個大早牀，\n把後背菜地裏的草割乾淨了。",
+      "prompt": "A cheerful middle-aged man in worn work clothes walks toward a traditional Chinese farmhouse at dawn, waving and calling out to his wife standing in the doorway, with fresh weeds piled beside a vegetable garden behind him, morning mist lingering over the fields, warm golden light streaming through the haze, rendered in realistic oil painting style with warm earth tones and peaceful rural atmosphere.",
+      "image": "reader_images/reader_20260314_064703.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 986305660,
+      "created_at": "2026-03-14T06:47:03.428542+08:00"
     }
   ],
   "book_total_chars": 92814,
