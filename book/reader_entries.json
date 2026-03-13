@@ -3311,6 +3311,18 @@
       "image_model": "imagen-4",
       "seed": 319651965,
       "created_at": "2026-03-14T00:04:18.501063+08:00"
+    },
+    {
+      "id": "20260314_000633",
+      "offset_start": 20739,
+      "offset_end": 20808,
+      "text": "37\n\n\f六\n時間一長，小泉跟之驊兵桃們都混熟了，大家一起上山扒柴、打豬草、割牛草。\n一天下午，小泉覺得肚子有些疼，趴在牀上哼哼唧唧。",
+      "prompt": "A serene, early 20th-century rural Chinese village scene rendered in a soft, painterly style reminiscent of traditional ink wash paintings. Several young boys, including Xiao Quan, are gathered near a rustic thatched-roof dwelling, some carrying bundles of firewood or bundles of herbs. The atmosphere is peaceful and idyllic, with warm, diffused sunlight casting gentle shadows.",
+      "image": "reader_images/reader_20260314_000633.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1880595409,
+      "created_at": "2026-03-14T00:06:33.389287+08:00"
     }
   ],
   "book_total_chars": 92814,
