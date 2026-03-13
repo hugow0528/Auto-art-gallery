@@ -3707,6 +3707,18 @@
       "image_model": "grok-imagine",
       "seed": 829076589,
       "created_at": "2026-03-14T03:03:42.291335+08:00"
+    },
+    {
+      "id": "20260314_030445",
+      "offset_start": 22983,
+      "offset_end": 23056,
+      "text": "夕瑩說：「月餅真好喫。」之驊說：「媽媽在鎮上買的，花掉了五個銅板\n呢。」夕瑩又說：「這開水就是酒，我們喝酒吧。」然後舉起杯子來，要和姐姐\n碰一下。",
+      "prompt": "Two young Chinese sisters in a dimly lit traditional Huizhou village home with whitewashed walls, black tiled roofs, and wooden furnishings, sit closely at a low table sharing mooncakes during Mid-Autumn evening. The younger sister Xiying raises a cup of steaming hot water pretending it's wine, smiling playfully as she toasts her older sister Zhihua, who looks amused amid scattered copper coins and simple porcelain cups. Warm lantern glow casts soft golden light and intimate shadows, evoking a joyful, nostalgic rural atmosphere in a detailed ink wash painting style blended with realistic digital art.",
+      "image": "reader_images/reader_20260314_030445.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1275807802,
+      "created_at": "2026-03-14T03:04:45.089092+08:00"
     }
   ],
   "book_total_chars": 92814,
