@@ -3119,6 +3119,18 @@
       "image_model": "zimage",
       "seed": 1738858454,
       "created_at": "2026-03-13T23:00:25.699518+08:00"
+    },
+    {
+      "id": "20260313_230345",
+      "offset_start": 19391,
+      "offset_end": 19465,
+      "text": "秋園說：「不客氣，不客氣，我們天天都來\n的。」說着就領姐妹倆回家了。\n只過了一會兒，便看到愛梅帶着那一家人走出門，一直去到徐家放稻草的兩間茅\n屋前。",
+      "prompt": "A Chinese family walks across a dusty rural courtyard toward two modest thatched茅屋 (thatched huts) used for storing straw, with autumn sunlight casting long shadows. An elderly woman in traditional clothing leads two young girls by the hand, while another woman gestures toward the simple structures ahead. The scene has a warm, documentary-style realism with muted earth tones, capturing the quiet dignity of rural life in 1960s or 1970s China.",
+      "image": "reader_images/reader_20260313_230345.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2021366854,
+      "created_at": "2026-03-13T23:03:45.837321+08:00"
     }
   ],
   "book_total_chars": 92814,
