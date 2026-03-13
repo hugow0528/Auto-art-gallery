@@ -3143,6 +3143,18 @@
       "image_model": "gptimage",
       "seed": 2106079707,
       "created_at": "2026-03-13T23:08:16.277701+08:00"
+    },
+    {
+      "id": "20260313_231128",
+      "offset_start": 19614,
+      "offset_end": 19690,
+      "text": "收拾停當，已是傍晚時\n分，他們拿出自己帶來的米開始煮飯。\n\n35\n\n\f這家男主人叫邱子文，堂客姓張名貴芸，兒子叫國臣。\n邱子文家就這樣成了秋園家的近鄰。",
+      "prompt": "A humble, rustic kitchen bathed in the warm, fading light of dusk. A man, Qiu Ziwen, with weathered hands, stirs a pot of rice over a simple stove, while his wife, Zhang Guiyun, a kind-faced woman, arranges bowls on a wooden table. Their young son, Guochen, watches intently, his silhouette framed by the soft glow emanating from the cooking fire. The scene evokes a feeling of quiet domesticity and humble warmth, rendered in the style of a traditional Chinese ink wash painting with soft, diffused lighting.",
+      "image": "reader_images/reader_20260313_231128.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 856183572,
+      "created_at": "2026-03-13T23:11:28.915975+08:00"
     }
   ],
   "book_total_chars": 92814,
