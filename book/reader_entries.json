@@ -2303,6 +2303,18 @@
       "image_model": "grok-imagine",
       "seed": 1738240822,
       "created_at": "2026-03-13T17:06:49.812488+08:00"
+    },
+    {
+      "id": "20260313_170945",
+      "offset_start": 15188,
+      "offset_end": 15271,
+      "text": "搬來當晚，秋園就給仁受寫信，告訴他自己已經來到花屋小學當老師，要他趕緊\n從安化回來，與家人團聚，免得一人在外漂泊。\n仁受回信說，一個男人總要做點事，不可能要她養活。",
+      "prompt": "A young woman sits at a wooden desk in a dimly lit, sparse room, writing a letter by the soft glow of an oil lamp. Outside, the faint silhouette of a traditional Chinese schoolhouse, \"Flower House Elementary,\" is visible against a twilight sky. The mood is one of quiet yearning and gentle resolve, rendered in a classical Chinese ink wash painting style with subtle color washes.",
+      "image": "reader_images/reader_20260313_170945.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 840498025,
+      "created_at": "2026-03-13T17:09:45.545731+08:00"
     }
   ],
   "book_total_chars": 92814,
