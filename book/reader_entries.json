@@ -3959,6 +3959,18 @@
       "image_model": "grok-imagine",
       "seed": 368564714,
       "created_at": "2026-03-14T04:49:31.931427+08:00"
+    },
+    {
+      "id": "20260314_045032",
+      "offset_start": 24385,
+      "offset_end": 24454,
+      "text": "土改時，因上無片瓦下無寸土，一家人全靠仁受和秋園教書維生，楊家被劃為貧\n民，分到了田，分到了房子，還分到了四分之一頭牛和四分之一套農具。",
+      "prompt": "A humble, sun-drenched rural courtyard in post-land reform China. A family, dressed in simple, worn clothing, looks on with quiet hope and gratitude as they are presented with a quarter share of a cow and farming tools, symbolizing their newfound prosperity. The scene is rendered in a realistic, slightly nostalgic oil painting style, with warm, earthy tones and soft, natural lighting that evokes a sense of gentle optimism.",
+      "image": "reader_images/reader_20260314_045032.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1624335003,
+      "created_at": "2026-03-14T04:50:32.771490+08:00"
     }
   ],
   "book_total_chars": 92814,
