@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_223642",
+      "filename": "images/artwork_20260313_223642.jpg",
+      "topic": "Hong Kong protest art and resilience",
+      "prompt": "A minimalist watercolor painting capturing the defiant spirit of Hong Kong protest art, rendered with whimsical, dreamlike brushstrokes. Ethereal arctic aurora borealis light shimmers across the scene, illuminating delicate figures adorned in emerald and deep forest green umbrellas, each a symbol of quiet, unwavering resilience against a backdrop of abstract, flowing cityscapes. The overall mood is one of hopeful, ethereal persistence, like a whispered promise carried on the wind.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1801828512,
+      "created_at": "2026-03-13T22:36:42.582777+08:00"
+    },
+    {
       "id": "20260313_221034",
       "filename": "images/artwork_20260313_221034.jpg",
       "topic": "cultural diversity and global harmony",
