@@ -3539,6 +3539,18 @@
       "image_model": "gptimage",
       "seed": 7572616,
       "created_at": "2026-03-14T01:50:09.788533+08:00"
+    },
+    {
+      "id": "20260314_015216",
+      "offset_start": 21974,
+      "offset_end": 22044,
+      "text": "這天，正凱來找貴嬸，說：「姑姑，讓小泉跟我學裁縫吧，女人做裁縫總比做田\n裏功夫省勁些。小泉聰明，學得會。鄉裏人的衣服容易做，沒那麼多花樣。",
+      "prompt": "In a sunlit traditional Chinese rural courtyard with thatched roofs and wooden beams, a young man named Zheng Kai stands earnestly before an elderly auntie, Gui Shen, gesturing animatedly as he persuades her to let their clever niece Xiao Quan learn sewing instead of fieldwork. Scattered sewing tools, simple village fabrics, and distant rice paddies frame the intimate family conversation, evoking a warm, practical atmosphere of kinship and daily resilience. Render in realistic style with soft golden hour lighting, earthy tones, and intricate details of worn clothing and humble architecture, inspired by rural Chinese pastoral paintings.",
+      "image": "reader_images/reader_20260314_015216.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1842552766,
+      "created_at": "2026-03-14T01:52:16.451322+08:00"
     }
   ],
   "book_total_chars": 92814,
