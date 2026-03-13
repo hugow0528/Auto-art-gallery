@@ -1331,6 +1331,18 @@
       "image_model": "gptimage",
       "seed": 275190525,
       "created_at": "2026-03-13T11:11:21.227885+08:00"
+    },
+    {
+      "id": "20260313_111344",
+      "offset_start": 9055,
+      "offset_end": 9123,
+      "text": "子恆指着一頭身上沾着黃泥巴的水牛問：\n「媽媽，這裡的馬怎麼這麼髒？」\n秋園眼中一片茫然，她也沒見過水牛。一行人往仁受的堂弟均良家中而去。",
+      "prompt": "A rural Chinese village path after rain, a young boy pointing curiously at a muddy water buffalo resting in a wet field, his mother standing beside him with a gentle, slightly puzzled expression, soft morning light and misty atmosphere, in the style of a muted, realistic Chinese ink painting.",
+      "image": "reader_images/reader_20260313_111344.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 647594748,
+      "created_at": "2026-03-13T11:13:44.245572+08:00"
     }
   ],
   "book_total_chars": 92814,
