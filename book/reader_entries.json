@@ -4115,6 +4115,18 @@
       "image_model": "grok-imagine",
       "seed": 630500846,
       "created_at": "2026-03-14T05:47:36.029288+08:00"
+    },
+    {
+      "id": "20260314_054914",
+      "offset_start": 25345,
+      "offset_end": 25410,
+      "text": "他平時菜草不分、五穀不辨，完全是個書呆子，又有了五\n十歲，從頭學種田談何容易。事實證明，種田真不容易，起碼沒副強壯的身體就\n不行。",
+      "prompt": "A middle-aged scholar, looking frail and out of place, stands bewildered in a sun-drenched, rustic field, attempting to grasp a farming tool. The atmosphere is one of gentle, slightly harsh, rural realism, with a touch of the picaresque, rendered in the style of traditional Chinese ink wash painting with subtle color.",
+      "image": "reader_images/reader_20260314_054914.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1060576151,
+      "created_at": "2026-03-14T05:49:15.031822+08:00"
     }
   ],
   "book_total_chars": 92814,
