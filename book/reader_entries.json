@@ -2939,6 +2939,18 @@
       "image_model": "zimage",
       "seed": 450032430,
       "created_at": "2026-03-13T21:56:19.799485+08:00"
+    },
+    {
+      "id": "20260313_220444",
+      "offset_start": 18498,
+      "offset_end": 18566,
+      "text": "兵桃挖湖洋田時是不穿褲子的，穿了褲子等泥巴蓋住，可惜了。一天，兵桃挖湖\n洋田回來，覺得屁眼又癢又痛，用手去摸，摸到了一根軟乎乎的東西。",
+      "prompt": "A weathered peasant man in muddy fields during golden hour, bare-legged and covered in earth, pauses mid-labor with a grimace of discomfort, his hand reaching back in distress. The scene captures a moment of rural vulnerability set against expansive wetland terraces under a hazy, atmospheric sky. Rendered in a classical realist style with earthy ochre and brown tones, emphasizing the gritty texture of soil and the figure's exhausted posture. The composition balances documentary realism with subtle human dignity amid humble agricultural toil.",
+      "image": "reader_images/reader_20260313_220444.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 421443232,
+      "created_at": "2026-03-13T22:04:44.754721+08:00"
     }
   ],
   "book_total_chars": 92814,
