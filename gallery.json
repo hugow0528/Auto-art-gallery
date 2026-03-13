@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_190612",
+      "filename": "images/artwork_20260313_190612.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A lone figure sits on a moss-covered log, bathed in the dappled forest light filtering through ancient trees, their face illuminated by the soft glow of a smartphone displaying a feed of distant, curated lives. The scene is rendered in a minimalist art style, emphasizing quiet isolation amidst nature, with a melancholic and reflective mood evoked by a soft pastel color palette of muted greens, dusty blues, and pale rose. Subtle visual metaphors for digital connection, like glowing ethereal threads connecting to unseen points, are woven into the composition, creating a sense of both detachment and yearning for genuine human connection.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2041986298,
+      "created_at": "2026-03-13T19:06:12.990750+08:00"
+    },
+    {
       "id": "20260313_183332",
       "filename": "images/artwork_20260313_183332.jpg",
       "topic": "traditional vs modern culture clash in Asia",
