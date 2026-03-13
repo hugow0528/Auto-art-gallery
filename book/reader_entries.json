@@ -3227,6 +3227,18 @@
       "image_model": "gptimage",
       "seed": 1017564485,
       "created_at": "2026-03-13T23:36:27.353620+08:00"
+    },
+    {
+      "id": "20260313_235125",
+      "offset_start": 20145,
+      "offset_end": 20238,
+      "text": "秋\n園對貴嬸說：「這是個好妹子，皮膚眉眼都長得好，一副聰明相。長大了，會是\n地方上的美人。」\n小泉是個苦命伢子，還在娘肚子裡，爹就被抓了壯丁，一走多少年沒有音訊，至\n今是死是活也不知道。",
+      "prompt": "In an autumn garden, an older woman with kind eyes, named Gui Shen, is speaking to a younger girl with a bright, intelligent face and fair skin. The scene is bathed in the soft, golden light of late afternoon, casting long shadows across fallen leaves and weathered stone pathways. A sense of gentle hope and underlying hardship permeates the atmosphere, hinting at the girl's difficult past and promising future beauty.",
+      "image": "reader_images/reader_20260313_235125.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1977123455,
+      "created_at": "2026-03-13T23:51:25.696163+08:00"
     }
   ],
   "book_total_chars": 92814,
