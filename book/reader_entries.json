@@ -1739,6 +1739,18 @@
       "image_model": "gptimage",
       "seed": 486653434,
       "created_at": "2026-03-13T13:30:16.498287+08:00"
+    },
+    {
+      "id": "20260313_133055",
+      "offset_start": 11697,
+      "offset_end": 11795,
+      "text": "她愛不釋手，沒經仁\n受同意便拿回了家。後來仁受知道了，不管秋園怎樣懇求，他硬是把外套拿走\n了。秋園生氣又無奈。\n傍晚時分，一個鄉丁用獨輪車推了個木桶往仁受家這邊來，遠遠一看就知道是裝\n罐頭的木桶。",
+      "prompt": "A young woman's hands cradle a treasured item, her face a mix of delight and a hint of mischief, bathed in the warm, golden light of late afternoon. Later, a stern man's silhouette looms as he reclaims an object, his posture resolute against the woman's pleading, creating a somber, slightly tense atmosphere. As dusk settles, a solitary figure pushes a wooden barrel on a wheelbarrow towards a dimly lit dwelling, the barrel hinting at contents being transported. The scene evokes a feeling of quiet domestic drama, rendered in a realistic, painterly style with soft, natural lighting.",
+      "image": "reader_images/reader_20260313_133055.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 396061598,
+      "created_at": "2026-03-13T13:30:55.954531+08:00"
     }
   ],
   "book_total_chars": 92814,
