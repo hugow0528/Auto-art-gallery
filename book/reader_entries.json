@@ -1487,6 +1487,18 @@
       "image_model": "imagen-4",
       "seed": 1705010219,
       "created_at": "2026-03-13T12:08:38.534103+08:00"
+    },
+    {
+      "id": "20260313_122013",
+      "offset_start": 10052,
+      "offset_end": 10135,
+      "text": "均良又好賭，錢花出去沒個\n數。過了段日子，仁受感到急需買屋自住。均良聽說仁受要搬出去，開始很是不\n悅。仁受雖是個薄臉皮，但眼見這麼坐喫山空，也焦急不已，所以去意堅決。",
+      "prompt": "In a dimly lit, traditional Chinese courtyard house cluttered with gambling paraphernalia like scattered dice, poem blocks, and mahjong tiles, two men face off tensely: Junliang, disheveled and scowling with displeasure, clutches empty coin pouches, while Renyou, thin-faced and anxious, packs modest belongings into a bundle, his expression resolute amid looming eviction anxiety. Smoky lantern light casts dramatic shadows on worn wooden tables and ancestral scrolls, evoking a moody atmosphere of familial strife and financial ruin. Render in the style of 19th-century Chinese watercolor paintings with intricate ink details, earthy tones, and a sense of impending separation.",
+      "image": "reader_images/reader_20260313_122013.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1374067067,
+      "created_at": "2026-03-13T12:20:14.014886+08:00"
     }
   ],
   "book_total_chars": 92814,
