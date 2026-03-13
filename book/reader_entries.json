@@ -4031,6 +4031,18 @@
       "image_model": "grok-imagine",
       "seed": 1223420733,
       "created_at": "2026-03-14T05:03:00.212247+08:00"
+    },
+    {
+      "id": "20260314_050316",
+      "offset_start": 24758,
+      "offset_end": 24838,
+      "text": "鄉政府就將徐家的房子分了兩間給仁受。可是仁受不肯\n要，背地裡對家人說：「太熟了，不好意思住徐家的房子。」\n這就難了。仁受當鄉長的時候，鄉裏大小財主他都是認得的。",
+      "prompt": "In a dimly lit traditional Chinese rural courtyard at dusk, under heavy tiled roofs with exposed wooden beams, township officials stand awkwardly before two modest divided rooms of the Xu family house, presenting keys to Ren Shou, a dignified middle-aged man in simple coarse robes who turns away with a hesitant, embarrassed expression, whispering privately to his anxious family gathered in the shadows. The atmosphere is tense and intimate, infused with cultural reluctance and village familiarity, surrounded by weathered stone walls, drying laundry, and faint lantern glow casting long shadows amid misty evening haze. Render in realistic ink wash style inspired by Qi Baishi, with earthy tones, subtle textures on cracked earth and bamboo details, evoking quiet moral conflict and rustic authenticity.",
+      "image": "reader_images/reader_20260314_050316.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1904347653,
+      "created_at": "2026-03-14T05:03:16.768135+08:00"
     }
   ],
   "book_total_chars": 92814,
