@@ -3491,6 +3491,18 @@
       "image_model": "imagen-4",
       "seed": 554692771,
       "created_at": "2026-03-14T01:24:14.663063+08:00"
+    },
+    {
+      "id": "20260314_012728",
+      "offset_start": 21768,
+      "offset_end": 21834,
+      "text": "只是這名字只有家裡人喊，別人不喊。\n外人都喊她木菩薩。\n小泉在自己的上衣上縫了個大口袋，出去做事就把人王放在口袋裡，一點也不誤\n事。",
+      "prompt": "A young woman with a serene, almost divine countenance, nicknamed \"Wooden Bodhisattva,\" stands bathed in soft, dappled sunlight filtering through bamboo. She wears simple, earth-toned clothing and carries a small, intricately carved wooden effigy of a king tucked into a large, hand-stitched pocket on her chest. The atmosphere is tranquil and humble, with a touch of quiet devotion, rendered in a style reminiscent of traditional Chinese ink wash painting with subtle, painterly textures.",
+      "image": "reader_images/reader_20260314_012728.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2013328296,
+      "created_at": "2026-03-14T01:27:28.595143+08:00"
     }
   ],
   "book_total_chars": 92814,
