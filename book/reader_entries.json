@@ -2699,6 +2699,18 @@
       "image_model": "grok-imagine",
       "seed": 1220525323,
       "created_at": "2026-03-13T19:49:34.521911+08:00"
+    },
+    {
+      "id": "20260313_195200",
+      "offset_start": 17221,
+      "offset_end": 17297,
+      "text": "31\n\n\f有人聽到他開導兵桃：「喫，總是空的，牙齒碰一碰，就過去了。你叫得出菜\n名，想得出菜式，三天兩頭念一念，在心裡盤一盤味道，不也是一樣的喫嗎？",
+      "prompt": "A scholar sits by a window, a half-eaten bowl of rice before him, contemplating a piece of fruit. Soft, diffused sunlight streams into the room, illuminating dust motes and casting a serene, contemplative mood. The scene is rendered in the style of a traditional Chinese ink wash painting, with delicate brushstrokes and a muted color palette.",
+      "image": "reader_images/reader_20260313_195200.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1003053296,
+      "created_at": "2026-03-13T19:52:00.127131+08:00"
     }
   ],
   "book_total_chars": 92814,
