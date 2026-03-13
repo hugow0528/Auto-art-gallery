@@ -3995,6 +3995,18 @@
       "image_model": "flux",
       "seed": 1328604276,
       "created_at": "2026-03-14T04:54:31.720274+08:00"
+    },
+    {
+      "id": "20260314_045912",
+      "offset_start": 24629,
+      "offset_end": 24691,
+      "text": "我不想發\n財，更不想當官，只要有口飯喫，有身粗布衣裳穿就行。」\n沒和秋園商量，仁受便辭了書不教，要重新塑造自己成爲一個農民。",
+      "prompt": "A man in simple, coarse linen clothing walks away from a traditional scholarly dwelling towards a rural landscape. He carries no possessions, symbolizing his renunciation of a previous life. The atmosphere is one of quiet determination, with the early morning light casting long shadows across a path leading to rice paddies and humble farmhouses. The style is reminiscent of traditional Chinese ink wash painting, emphasizing muted tones and serene simplicity.",
+      "image": "reader_images/reader_20260314_045912.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 137119779,
+      "created_at": "2026-03-14T04:59:12.433625+08:00"
     }
   ],
   "book_total_chars": 92814,
