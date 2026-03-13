@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_213845",
+      "filename": "images/artwork_20260313_213845.jpg",
+      "topic": "biotechnology and genetic engineering",
+      "prompt": "In a vibrant **pop art** composition, a mysterious ethereal laboratory pulses with **neon city glow** lighting from towering skyscrapers outside rain-slicked windows, casting electric blues and pinks over colossal double-helix strands twisting like ancient terracotta vines into hybrid human-plant figures emerging from glowing petri dishes. Earth tones and terracotta dominate the palette—rusted ochres, warm siennas, and deep umbers—infusing the scene with an arcane alchemy of biotechnology, where CRISPR scissors slice ethereal DNA orbs amid floating genetic fragments and shadowy scientists with luminous eyes. Highly detailed, award-winning masterpiece, bold outlines and exaggerated contrasts evoking Warhol's intensity fused with futuristic enigma.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 665593356,
+      "created_at": "2026-03-13T21:38:45.769336+08:00"
+    },
+    {
       "id": "20260313_211511",
       "filename": "images/artwork_20260313_211511.jpg",
       "topic": "quantum computing and the future",
