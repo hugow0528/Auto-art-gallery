@@ -1223,6 +1223,18 @@
       "image_model": "flux",
       "seed": 335296953,
       "created_at": "2026-03-13T07:55:20.030403+08:00"
+    },
+    {
+      "id": "20260313_080017",
+      "offset_start": 8357,
+      "offset_end": 8418,
+      "text": "倘若這次見不到父親，也許就永遠見不到了。此地離湘陰\n甚近，不如帶妻兒下船，看眼老父親再走……一路上他都舉棋不定、心事重重。",
+      "prompt": "A man in traditional early 20th-century Chinese robes stands pensively on the wooden deck of a misty riverboat gliding toward Xiangyin, his brow furrowed in deep hesitation, one hand gripping the railing while glancing longingly at the distant shore where a faint silhouette of his elderly father might appear. Beside him, his gentle wife cradles their young child, all three bathed in soft golden hour sunlight filtering through overcast skies, evoking a heavy atmosphere of impending farewell and filial longing. Rendered in a realistic style inspired by Chinese ink wash painting with subtle watercolor accents, emphasizing emotional depth, intricate fabric textures, and a serene yet melancholic riverscape with distant misty hills and traditional junks.",
+      "image": "reader_images/reader_20260313_080017.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 333067458,
+      "created_at": "2026-03-13T08:00:17.256467+08:00"
     }
   ],
   "book_total_chars": 92814,
