@@ -2747,6 +2747,18 @@
       "image_model": "flux",
       "seed": 422570189,
       "created_at": "2026-03-13T19:57:24.751970+08:00"
+    },
+    {
+      "id": "20260313_195917",
+      "offset_start": 17424,
+      "offset_end": 17489,
+      "text": "他崽和媳婦喫虧就喫在怕髒，\n不肯躲到糞坑裡，硬是要躲到柴堆裏。鬼子一進屋好像就知道柴堆裏有人，一陣\n工夫，就把那麼大一堆柴掀開了。",
+      "prompt": "A tense wartime scene inside a dilapidated rural Chinese cottage: Japanese soldiers in uniform aggressively tearing apart a large pile of stacked firewood, wood scattering everywhere, while two terrified young Chinese villagers cower exposed among the splinters, their faces pale with dread. Dark, cinematic lighting with dust particles floating in the air, the atmosphere thick with violence and desperation. Realistic historical documentary style, muted earth tones, capturing the brutal moment of discovery during the invasion period.",
+      "image": "reader_images/reader_20260313_195917.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 199864799,
+      "created_at": "2026-03-13T19:59:17.728225+08:00"
     }
   ],
   "book_total_chars": 92814,
