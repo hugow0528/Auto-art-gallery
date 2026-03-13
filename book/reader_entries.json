@@ -2975,6 +2975,18 @@
       "image_model": "grok-imagine",
       "seed": 24765575,
       "created_at": "2026-03-13T22:06:44.255642+08:00"
+    },
+    {
+      "id": "20260313_220735",
+      "offset_start": 18566,
+      "offset_end": 18644,
+      "text": "他以爲是\n條蛔蟲，使勁扯出來一看，原來是條黑黑的又大又長的牛螞蟥。屁眼不停地流着\n血，平時敢怒不敢言的兵桃暴怒了：他坐在地上，大哭不止，惹得衆人紛紛來\n看。",
+      "prompt": "A photorealistic scene of a distressed young soldier in a muddy military uniform sitting on the ground, holding a large, dark leech in his hand. His face is contorted in angry tears, with a visible trickle of blood staining the back of his trousers, as a group of other soldiers gathers around him in a shocked, hushed circle under overcast daylight.",
+      "image": "reader_images/reader_20260313_220735.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1836100273,
+      "created_at": "2026-03-13T22:07:35.727163+08:00"
     }
   ],
   "book_total_chars": 92814,
