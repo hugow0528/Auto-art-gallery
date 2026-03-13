@@ -2399,6 +2399,18 @@
       "image_model": "flux-2-dev",
       "seed": 868707581,
       "created_at": "2026-03-13T17:56:49.812739+08:00"
+    },
+    {
+      "id": "20260313_175758",
+      "offset_start": 15613,
+      "offset_end": 15680,
+      "text": "」\n夕瑩高興得又蹦又跳：「回去聽故事嘍。」\n夕瑩長得實在好看，皮膚白瓷樣。她比之驊小兩歲，卻和姐姐一般高。別人都以\n爲姐妹倆是雙胞胎。",
+      "prompt": "A beautiful young Chinese girl with porcelain-white skin and bright eyes stands smiling with arms raised in joyful excitement, her delicate features animated with happiness, wearing a simple traditional dress, set in a warm golden-lit room with wooden shelves full of books in the background, soft natural lighting from a window illuminates her radiant face, painted in a gentle illustrative style reminiscent of classical Chinese ink wash paintings with subtle watercolor textures.",
+      "image": "reader_images/reader_20260313_175758.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1879523655,
+      "created_at": "2026-03-13T17:57:59.013186+08:00"
     }
   ],
   "book_total_chars": 92814,
