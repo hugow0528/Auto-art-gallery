@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_180225",
+      "filename": "images/artwork_20260313_180225.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "In an anime-inspired style, a determined athlete with flowing hair and muscular physique mid-leap executes an epic kyudo shot, arrow piercing through swirling emerald-green energy trails symbolizing ultimate human physical achievement in a dramatic sports arena overgrown with deep forest vines. Candlelight ambiance casts intense flickering shadows across his sweat-glistened skin and focused eyes, heightening the moody tension of rivalry and triumph, with a rich palette of emerald and deep forest greens dominating the misty, ancient woodland backdrop. Highly detailed, award-winning composition with dynamic motion blur, volumetric god rays from flames, and intricate cel-shading for a visually stunning, heart-pounding scene of raw athletic prowess.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1518034877,
+      "created_at": "2026-03-13T18:02:25.032060+08:00"
+    },
+    {
       "id": "20260313_173745",
       "filename": "images/artwork_20260313_173745.jpg",
       "topic": "health and medicine breakthroughs",
