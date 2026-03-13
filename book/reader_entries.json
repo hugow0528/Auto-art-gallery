@@ -3827,6 +3827,18 @@
       "image_model": "flux-2-dev",
       "seed": 163072059,
       "created_at": "2026-03-14T03:43:20.875069+08:00"
+    },
+    {
+      "id": "20260314_034921",
+      "offset_start": 23717,
+      "offset_end": 23797,
+      "text": "」\n秋園忽然想起來，她白天曾到後屋挖了一些黃泥用來團鹽鴨蛋。莫不是動了土？\n要不請個道士來關符？\n仁受擺了擺手，似要趕走秋園的無稽之談，趕緊起身到鎮上去請醫生。",
+      "prompt": "A dimly lit, rustic interior of an old Chinese house, with a woman (Qiuyuan) looking concernedly at scattered yellow mud. The atmosphere is tense and slightly supernatural, illuminated by the faint glow of a single oil lamp, casting long shadows. The style should be reminiscent of traditional Chinese ink wash painting with a touch of eerie realism.",
+      "image": "reader_images/reader_20260314_034921.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1891031458,
+      "created_at": "2026-03-14T03:49:21.877264+08:00"
     }
   ],
   "book_total_chars": 92814,
