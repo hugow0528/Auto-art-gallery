@@ -3527,6 +3527,18 @@
       "image_model": "imagen-4",
       "seed": 556918237,
       "created_at": "2026-03-14T01:49:28.457888+08:00"
+    },
+    {
+      "id": "20260314_015009",
+      "offset_start": 21900,
+      "offset_end": 21974,
+      "text": "貴嬸有個侄子叫正凱，從小被日本人弄成了殘廢，人總是病懨懨的，不能做田裡\n功夫，也不能結婚，便學了個裁縫，衣服做得不錯。四十來歲了，仍是光棍一\n個。",
+      "prompt": "First, the task is to create an image-generation prompt based on a Chinese literary passage. The passage describes Guishen's nephew named Zhengkai, who was disabled by the Japanese as a child, is often sickly, can't do farm work or marry, learned tailoring, makes good clothes, and is in his forties and still single.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. It should include setting, atmosphere, characters present, and artistic style. The response must be 2–4 sentences only, in English, and no explanations, translations, or markdown.\n\nKey elements from the passage:\n- Character: Zhengkai, a disabled tailor in his forties, sickly, unmarried.\n- Occupation: Tailor, makes good clothes.\n- Background: Disabled by Japanese, can't do farm work.\n\nFor the visual scene, I should focus on a moment that captures his life. Perhaps him working as a tailor, since that's his skill. The atmosphere should reflect his condition: somber, lonely, but with a sense of dignity in his work.\n\nSetting: Likely a tailor's workshop or a simple room where he works.\nAtmosphere: Melancholic, quiet, with a hint of resilience.\nCharacters: Only Zhengkai, as he's described as a loner.\nArtistic style: Something that fits a literary scene – perhaps realistic, with muted colors to convey mood.\n\nCrafting the prompt:\n- Start",
+      "image": "reader_images/reader_20260314_015009.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 7572616,
+      "created_at": "2026-03-14T01:50:09.788533+08:00"
     }
   ],
   "book_total_chars": 92814,
