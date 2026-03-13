@@ -329,13 +329,25 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add book/reader_images/ book/reader_entries.json book/reader_progress.json
           git diff --staged --quiet || git commit -m "feat: add reader segment $(TZ='Asia/Hong_Kong' date +'%Y-%m-%d %H:%M %Z')"
-          # Retry push up to 3 times to handle any transient remote divergence
+          # Retry push up to 5 times; auto-resolve JSON conflicts on rebase failure
           pushed=false
-          for attempt in 1 2 3; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "${GITHUB_REF_NAME}" && { pushed=true; break; } || {
-              echo "Push attempt ${attempt} failed, retrying in 10s…"
-              sleep 10
-            }
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}"; then
+              git push origin "${GITHUB_REF_NAME}" && { pushed=true; break; }
+            else
+              # Auto-resolve reader_entries.json / reader_progress.json conflicts
+              if git ls-files --unmerged | grep -qE "reader_entries\.json|reader_progress\.json"; then
+                python3 .github/scripts/merge_reader_json.py \
+                  && git add book/reader_entries.json book/reader_progress.json \
+                  && GIT_EDITOR=true git rebase --continue \
+                  && git push origin "${GITHUB_REF_NAME}" \
+                  && { pushed=true; break; } \
+                  || true
+              fi
+              git rebase --abort 2>/dev/null || true
+            fi
+            echo "Push attempt ${attempt} failed, retrying in 10s…"
+            [ "${attempt}" -lt 5 ] && sleep 10
           done
           if [ "${pushed}" != "true" ]; then
             echo "ERROR: All push attempts failed."
