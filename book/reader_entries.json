@@ -4295,6 +4295,18 @@
       "image_model": "flux",
       "seed": 1869540705,
       "created_at": "2026-03-14T06:48:51.542099+08:00"
+    },
+    {
+      "id": "20260314_065409",
+      "offset_start": 26305,
+      "offset_end": 26373,
+      "text": "仁受的疝氣病又發作了，陰囊腫得像個葫蘆。痛起來人就像暴怒的獅子，呼天喊\n地，在牀上滾來滾去，這頭爬到那頭，牀板跟着發出咔嚓咔嚓的聲音。",
+      "prompt": "A peasant man writhes in agony on a crudely built wooden bed, his swollen scrotum resembling a gourd. The room is dimly lit, casting long shadows that emphasize his contorted form and the distressed, roaring expression on his face. The scene is rendered in a dramatic, expressive realism, with a muted, earthy color palette and a focus on the raw physicality of pain.",
+      "image": "reader_images/reader_20260314_065409.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 429718849,
+      "created_at": "2026-03-14T06:54:09.716787+08:00"
     }
   ],
   "book_total_chars": 92814,
