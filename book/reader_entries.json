@@ -2459,6 +2459,18 @@
       "image_model": "flux",
       "seed": 1743421763,
       "created_at": "2026-03-13T18:06:22.121034+08:00"
+    },
+    {
+      "id": "20260313_180732",
+      "offset_start": 15924,
+      "offset_end": 16019,
+      "text": "書\n沒讀出來，身體又單薄，做不得田裡功夫，做一天要睡三天，是個什麼事都不能\n做的空頭人。鄉裏人背後都喊他桐油缸——當地把長得不好看又不會做事的人叫\n桐油缸，把長得好看但不會做事的叫紅漆馬桶。",
+      "prompt": "A gaunt, listless man with a sickly complexion stands in a dusty, rural Chinese village, embodying idleness and incompetence. The atmosphere is one of quiet disdain, with villagers casting sidelong glances at him. The scene should be rendered in a traditional Chinese ink wash painting style, with muted colors and a somber mood, emphasizing his frail physique and the villagers' judgment.",
+      "image": "reader_images/reader_20260313_180732.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1823728263,
+      "created_at": "2026-03-13T18:07:32.904557+08:00"
     }
   ],
   "book_total_chars": 92814,
