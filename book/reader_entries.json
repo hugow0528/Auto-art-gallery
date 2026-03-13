@@ -4079,6 +4079,18 @@
       "image_model": "zimage",
       "seed": 1472183072,
       "created_at": "2026-03-14T05:20:56.224154+08:00"
+    },
+    {
+      "id": "20260314_053635",
+      "offset_start": 25106,
+      "offset_end": 25206,
+      "text": "44\n\n\f還沒靠近屋子，一條大黑狗就衝出來，朝他們汪汪直吠。隨後出來個五十多歲的\n娭毑喝住狗。滿娭毑個高、小眼，頭髮朝後梳成一個髮髻，戴一個黑布做的繡花\n箍箍，走起路來鏗鏘有力，發出一連串咚咚聲。",
+      "prompt": "A stern, imposing elderly woman with a high bun and a black embroidered headband, walking with a forceful stride, confronts a large black dog barking aggressively outside a rustic house. The scene is set in a rural, perhaps slightly weathered, environment, with a mood of wary tension. The lighting should be natural, perhaps late afternoon sun casting long shadows, and the artistic style should lean towards realistic with a touch of folk art.",
+      "image": "reader_images/reader_20260314_053635.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 391102047,
+      "created_at": "2026-03-14T05:36:35.044224+08:00"
     }
   ],
   "book_total_chars": 92814,
