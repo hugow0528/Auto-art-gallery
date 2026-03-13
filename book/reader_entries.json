@@ -1631,6 +1631,18 @@
       "image_model": "flux",
       "seed": 978279285,
       "created_at": "2026-03-13T12:58:49.050029+08:00"
+    },
+    {
+      "id": "20260313_130334",
+      "offset_start": 10951,
+      "offset_end": 11038,
+      "text": "一次，有人向仁受報告，說樟樹衝有戶人家做酒。這話被鄉隊副範麻子聽到了，\n他對仁受說：「這麼點小事，讓我去處理好了。」\n範麻子走後，仁受很不放心，猶豫了一下，便親自趕去查看。",
+      "prompt": "The passage describes a rural setting where a subordinate, Fan Mazi, offers to handle a minor issue of a household brewing alcohol, much to the unease of his superior, Ren Shou. Ren Shou, despite Fan Mazi's assurance, decides to personally investigate the matter. The scene should evoke a sense of quiet suspicion and the weight of authority in a simple, perhaps dusty, village environment, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of noir lighting.",
+      "image": "reader_images/reader_20260313_130334.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1058333756,
+      "created_at": "2026-03-13T13:03:34.238845+08:00"
     }
   ],
   "book_total_chars": 92814,
