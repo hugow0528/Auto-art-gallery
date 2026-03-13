@@ -3575,6 +3575,18 @@
       "image_model": "klein",
       "seed": 519057591,
       "created_at": "2026-03-14T01:54:26.211359+08:00"
+    },
+    {
+      "id": "20260314_020111",
+      "offset_start": 22197,
+      "offset_end": 22260,
+      "text": "一年的工夫，足夠小泉把\n便裝衣的手藝學到手，就接了正凱留下的裁縫鋪，開始靠給鄉裏人做衣過活。\n不知長沙動物園是怎麼知道人王的。",
+      "prompt": "In a quaint rural Chinese village workshop bathed in warm golden afternoon sunlight filtering through wooden lattice windows, a young craftsman named Xiao Quan sits focused at a sturdy sewing table cluttered with bolts of plain fabric, scissors, thread spools, and half-finished garments. He meticulously stitches a villager's simple cotton jacket by hand, surrounded by whitewashed walls adorned with Hui-style wood carvings, shelves of curios like ink stones and tea, and narrow alleyways visible outside leading to rippling canals and potted plants evoking harmonious feng shui balance. Rendered in a realistic yet painterly style reminiscent of Ming dynasty ink wash with vibrant earthy tones, soft volumetric lighting, and a serene, industrious atmosphere of quiet self-reliance.[1][2][3]",
+      "image": "reader_images/reader_20260314_020111.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 830194243,
+      "created_at": "2026-03-14T02:01:11.079250+08:00"
     }
   ],
   "book_total_chars": 92814,
