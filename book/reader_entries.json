@@ -3011,6 +3011,18 @@
       "image_model": "flux-2-dev",
       "seed": 459094067,
       "created_at": "2026-03-13T22:12:04.453375+08:00"
+    },
+    {
+      "id": "20260313_222515",
+      "offset_start": 18799,
+      "offset_end": 18876,
+      "text": "徐娭毑便將家裡的米、油、鹽偷偷地送給佃農，以作補償。凡\n是在徐老先生家做過佃農的人，都得過徐娭毑的好處。\n輪到愛梅當家了，愛梅要比徐老先生、徐正明都吝嗇。",
+      "prompt": "An elderly Chinese grandmother in traditional rural clothing secretly hands a bowl of rice and a small container of oil to a kneeling tenant farmer in a dim, humble farmhouse, her weathered face showing compassion while her family belongings surround them, warm candlelight illuminating her kind expression, in the style of a nostalgic Chinese realist oil painting with muted earth tones and intimate lighting.",
+      "image": "reader_images/reader_20260313_222515.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1362556121,
+      "created_at": "2026-03-13T22:25:15.295319+08:00"
     }
   ],
   "book_total_chars": 92814,
