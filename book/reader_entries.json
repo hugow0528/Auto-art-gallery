@@ -2351,6 +2351,18 @@
       "image_model": "grok-imagine",
       "seed": 561891868,
       "created_at": "2026-03-13T17:27:12.435496+08:00"
+    },
+    {
+      "id": "20260313_174037",
+      "offset_start": 15408,
+      "offset_end": 15479,
+      "text": "每個星期六傍晚，之驊都會牽着五歲的\n妹妹夕瑩去路上接仁受。秋園總是把姐妹倆打扮得乾乾淨淨，辮子梳得光滑齊\n整，發梢還要弄點紅綠綢子扎個蝴蝶結。",
+      "prompt": "A young girl holding the hand of a small five-year-old sister in a clean dress, standing by a rural road at sunset, both with smooth black braids adorned with small red and green ribbon butterfly bows, the older girl looking down the road with anticipation, warm golden evening light bathing the scene, traditional Chinese countryside setting with distant fields, nostalgic soft painting style with delicate detail.",
+      "image": "reader_images/reader_20260313_174037.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1270636685,
+      "created_at": "2026-03-13T17:40:37.502075+08:00"
     }
   ],
   "book_total_chars": 92814,
