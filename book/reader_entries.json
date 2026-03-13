@@ -1571,6 +1571,18 @@
       "image_model": "zimage",
       "seed": 1792040239,
       "created_at": "2026-03-13T12:50:48.385360+08:00"
+    },
+    {
+      "id": "20260313_125327",
+      "offset_start": 10561,
+      "offset_end": 10636,
+      "text": "重慶也時有信來，催他回去復職。\n仁受幾次打算啓程，均因瞎眼老父年邁多病而作罷。有一次，第二天就要出發，\n結果老父親頭天晚上卻病倒了，行程便又耽擱下來。",
+      "prompt": "A somber, dimly lit traditional Chinese bedroom at night, a middle-aged man in 1930s attire sits on the edge of a wooden bed, his packed suitcase open beside him. He looks with concern towards an elderly blind man lying ill under quilts, the atmosphere heavy with duty and melancholy, rendered in a moody, realistic style with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_125327.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1829715788,
+      "created_at": "2026-03-13T12:53:27.894660+08:00"
     }
   ],
   "book_total_chars": 92814,
