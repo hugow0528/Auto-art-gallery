@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_075330",
+      "filename": "images/artwork_20260314_075330.jpg",
+      "topic": "cybersecurity and privacy in the digital world",
+      "prompt": "In a minimalist composition bathed in the flickering glow of candlelight ambiance, a solitary ethereal lock floats at the center of a vast digital void, its clean geometric lines etched with subtle circuit veins that pulse faintly against encroaching shadows of ghostly data streams and watchful eyes, symbolizing the dramatic battle for cybersecurity and privacy.[1] Soft pastel hues of pale blues, lavenders, and mint greens dominate the intense scene, casting elongated shadows that heighten the tension between fragile sanctuary and relentless digital intrusion.[2] This award-winning, highly detailed artwork evokes a profound sense of urgency and vigilance in the modern world, with every element distilled to essential forms for maximum visual impact.",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1446158466,
+      "created_at": "2026-03-14T07:53:30.633660+08:00"
+    },
+    {
       "id": "20260314_071938",
       "filename": "images/artwork_20260314_071938.jpg",
       "topic": "human migration and global nomadism",
