@@ -1355,6 +1355,18 @@
       "image_model": "imagen-4",
       "seed": 1228154915,
       "created_at": "2026-03-13T11:16:46.471303+08:00"
+    },
+    {
+      "id": "20260313_111824",
+      "offset_start": 9211,
+      "offset_end": 9275,
+      "text": "看客嘖\n嘖稱讚：「大地方來的太太就是不一樣啊！」子恆緊靠秋園站着，對眼前的熱鬧\n場面有些害怕：這麼多人大聲大氣說着他聽不懂的話。",
+      "prompt": "A bustling, crowded marketplace in a traditional Chinese town, with vibrant red lanterns and ornate architecture. A young boy, Ziheng, stands close to a woman named Qiuyuan, looking overwhelmed and scared by the loud, unfamiliar chatter and the sheer number of people. The scene is captured in a warm, slightly hazy, golden-hour lighting, rendered in the style of traditional Chinese ink wash painting with a touch of cinematic realism.",
+      "image": "reader_images/reader_20260313_111824.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1879549960,
+      "created_at": "2026-03-13T11:18:24.417630+08:00"
     }
   ],
   "book_total_chars": 92814,
