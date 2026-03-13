@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_170822",
+      "filename": "images/artwork_20260313_170822.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A vibrant pop art explosion depicting a serene, ancient temple silhouetted against a bustling, neon-drenched futuristic cityscape, with traditional monks serenely meditating amidst holographic advertisements and flying drones, bathed in soft, diffused daylight that casts a hopeful glow, showcasing a harmonious collision of eras through a bold, uplifting color palette of electric blues, vibrant pinks, and glowing oranges.",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1728850282,
+      "created_at": "2026-03-13T17:08:22.979367+08:00"
+    },
+    {
       "id": "20260313_163320",
       "filename": "images/artwork_20260313_163320.jpg",
       "topic": "Hong Kong protest art and resilience",
