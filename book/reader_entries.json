@@ -2507,6 +2507,18 @@
       "image_model": "flux-2-dev",
       "seed": 1652865523,
       "created_at": "2026-03-13T18:27:54.762371+08:00"
+    },
+    {
+      "id": "20260313_185215",
+      "offset_start": 16188,
+      "offset_end": 16265,
+      "text": "愛梅\n長得黃皮寡瘦，整天頭暈，全身無力，是個藥罐子。徐娭毑說，有些女人結婚前\n身體不好，一旦結婚生子就會好起來，水色會好，人也會胖，但願愛梅屬這類女\n人。",
+      "prompt": "A delicate, thin Chinese woman in traditional 20th century clothing sits weakly on a wooden bed in a simple room, holding a bowl of herbal medicine. Soft, warm morning light filters through a paper window, casting a gentle glow on her pale complexion and the humble domestic interior, rendered in a soft-focus watercolor style evoking vulnerability and quiet hope.",
+      "image": "reader_images/reader_20260313_185215.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1438949132,
+      "created_at": "2026-03-13T18:52:15.454284+08:00"
     }
   ],
   "book_total_chars": 92814,
