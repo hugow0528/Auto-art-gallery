@@ -1619,6 +1619,18 @@
       "image_model": "flux",
       "seed": 2078532108,
       "created_at": "2026-03-13T12:57:12.154957+08:00"
+    },
+    {
+      "id": "20260313_125849",
+      "offset_start": 10862,
+      "offset_end": 10951,
+      "text": "仁受當鄉長那會兒，政府禁止百姓私自做酒。鄉公所的自衛隊經常下鄉檢查，那\n些大小頭目便趁機斂財。他們一旦發現誰家做酒，除了將製酒設備全部打爛，還\n要罰款甚至抓人，這叫「拿糟坊」。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. The passage describes a time when Ren Shou was the village head, and the government banned people from making alcohol privately. The village office's self-defense team would often go down to the villages to inspect, and those in charge would take the opportunity to extort money. If they found anyone making alcohol, they would smash all the brewing equipment, impose fines, or even arrest people, which was called \"taking the distillery.\"\n\nI need to describe a specific visual scene in English that's suitable for AI image generation. The prompt should include setting, atmosphere, characters present, and artistic style. It should be 2–4 sentences only, and in English only.\n\nKey elements from the passage:\n\n- Setting: A village, likely during a period when alcohol production is banned. Possibly rural China.\n\n- Characters: The self-defense team (village office's self-defense team) and villagers. Specifically, when they find someone making alcohol.\n\n- Actions: Smashing brewing equipment, imposing fines, arresting people.\n\n- Atmosphere: Tense, oppressive, chaotic, with corruption and abuse of power.\n\n- Artistic style: Should reflect the literary tone – perhaps realistic, dramatic, or historical.\n\nI need to craft a vivid, detailed prompt. Since it's for AI image generation, I should use descriptive language.\n\nStructure the prompt:\n\n1. Setting: Describe where the scene takes place.\n\n2. Characters: Who is",
+      "image": "reader_images/reader_20260313_125849.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 978279285,
+      "created_at": "2026-03-13T12:58:49.050029+08:00"
     }
   ],
   "book_total_chars": 92814,
