@@ -3623,6 +3623,18 @@
       "image_model": "zimage",
       "seed": 2094464029,
       "created_at": "2026-03-14T02:05:11.271397+08:00"
+    },
+    {
+      "id": "20260314_022244",
+      "offset_start": 22518,
+      "offset_end": 22593,
+      "text": "」小泉又是一門心思想賺錢的，她跟別人不一\n樣，她有個人王。小泉二十歲後連生二子，個個正常，還格外端正好看。只有人\n王，她不得不替這妹子的往後打算着點。",
+      "prompt": "A determined young woman, Xiao Quan, with sharp, resourceful eyes, meticulously counts a pile of gold coins in a dimly lit, rustic workshop. She is dressed in simple, practical clothing, her brow furrowed in concentration, while in the background, a softly glowing lantern illuminates the silhouette of a sleeping baby in a simple crib, casting long shadows across the wooden floor. The scene should be rendered in the style of a traditional Chinese ink wash painting, evoking a mood of quiet resilience and maternal ambition.",
+      "image": "reader_images/reader_20260314_022244.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 2092246074,
+      "created_at": "2026-03-14T02:22:44.508642+08:00"
     }
   ],
   "book_total_chars": 92814,
