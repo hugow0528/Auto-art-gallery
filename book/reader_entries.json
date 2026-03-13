@@ -3839,6 +3839,18 @@
       "image_model": "grok-imagine",
       "seed": 1891031458,
       "created_at": "2026-03-14T03:49:21.877264+08:00"
+    },
+    {
+      "id": "20260314_035028",
+      "offset_start": 23797,
+      "offset_end": 23887,
+      "text": "秋園想起夕瑩說的貓洞裡一閃而過的那雙詭異的毛藍布小腳，不禁打了個寒噤。\n醫生還沒有到，夕瑩就一動不動地斷氣了。從病到死，她一直安安靜靜的，沒喊\n過一聲，沒打開過眼睛……她沒力氣。",
+      "prompt": "A dimly lit, sparsely furnished room in an old, decaying house. A young woman, Xiuying, lies still on a simple bed, eyes closed, her face pale and serene in death, conveying utter weakness. The atmosphere is heavy with melancholy and stillness, a chilling echo of a fleeting, uncanny vision of tiny blue cloth feet by a cat hole. The style is melancholic realism with muted colors and soft, naturalistic lighting casting long shadows.",
+      "image": "reader_images/reader_20260314_035028.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 340331061,
+      "created_at": "2026-03-14T03:50:28.842800+08:00"
     }
   ],
   "book_total_chars": 92814,
