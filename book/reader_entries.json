@@ -3095,6 +3095,18 @@
       "image_model": "grok-imagine",
       "seed": 1863456460,
       "created_at": "2026-03-13T22:55:05.676729+08:00"
+    },
+    {
+      "id": "20260313_225936",
+      "offset_start": 19257,
+      "offset_end": 19329,
+      "text": "愛梅連坐都沒叫客人坐，\n只說：「來了就好，天氣一轉晴就要開始做田裡功夫了。」這時，徐娭毑出來\n了，連忙說：「正月間裡的，來的都是客，快坐，快坐。",
+      "prompt": "In a humble rural Chinese courtyard during the first lunar month, with spring sunlight filtering through budding trees and distant fields hinting at upcoming labors, sturdy Ai Mei stands pragmatically without offering a seat to the arriving guest, while elderly Xu Nainai hurries out with warm hospitality, gesturing insistently for everyone to sit. The atmosphere blends practical anticipation of farm work with familial warmth, characters dressed in simple traditional attire amid wooden furniture and earthen walls. Render in the style of classical Chinese ink wash painting with soft yijing mood, subtle lighting evoking quiet rural harmony and subtle emotional depth.",
+      "image": "reader_images/reader_20260313_225936.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 913812741,
+      "created_at": "2026-03-13T22:59:36.313487+08:00"
     }
   ],
   "book_total_chars": 92814,
