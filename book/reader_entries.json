@@ -2555,6 +2555,18 @@
       "image_model": "flux",
       "seed": 645182087,
       "created_at": "2026-03-13T18:59:47.176034+08:00"
+    },
+    {
+      "id": "20260313_190056",
+      "offset_start": 16484,
+      "offset_end": 16546,
+      "text": "爺孫倆相依爲命。\n四老倌六十歲出頭，夏天裸露着背脊，日曬雨淋，背上的皮就好像加工過的牛\n皮，鋥亮、黑黃，微駝的背上滴水不沾。",
+      "prompt": "An elderly Chinese farmer in his sixties stands bare-chested in the summer sun, his weathered back glistening like worn leather—deep bronze and weathered yellow—with the texture of sun and rain etched into every pore. His slightly hunched frame casts a long shadow across dry earth, water droplets beading off his leathery skin as if repelled by decades of labor. The scene carries a quiet dignity, the visual poetry of a life spent under open skies, rendered in realistic style with warm golden-hour lighting and documentary depth.",
+      "image": "reader_images/reader_20260313_190056.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 499719805,
+      "created_at": "2026-03-13T19:00:56.278220+08:00"
     }
   ],
   "book_total_chars": 92814,
