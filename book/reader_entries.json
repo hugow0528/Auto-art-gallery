@@ -3923,6 +3923,18 @@
       "image_model": "imagen-4",
       "seed": 572872480,
       "created_at": "2026-03-14T04:02:41.624037+08:00"
+    },
+    {
+      "id": "20260314_041837",
+      "offset_start": 24150,
+      "offset_end": 24240,
+      "text": "夕瑩死後，秋園不喫不喝，不停地哭，動了胎氣，第二天晚上，肚子開始痛，越\n痛越厲害。秋園在房裡不停地走來走去，全然不顧肚裡的胎兒，只一聲一聲呼喚\n着夕瑩的名字，像一頭受了傷的母獸。",
+      "prompt": "In a dimly lit traditional Chinese chamber at night, a pregnant woman paces frantically back and forth, clutching her aching belly, her face contorted in raw anguish as tears stream down, her disheveled hair and flowing silk robes evoking a wounded mother beast crying out desperately for her lost love. Shadows from a single flickering candle cast eerie, elongated distortions on the wooden walls and floor, amplifying the atmosphere of profound grief and torment. Rendered in a dramatic wuxia fantasy style inspired by A Chinese Ghost Story, with canted angles, misty blue hues, and silky fabric folds for an ethereal, haunting mood.",
+      "image": "reader_images/reader_20260314_041837.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1477412859,
+      "created_at": "2026-03-14T04:18:38.009170+08:00"
     }
   ],
   "book_total_chars": 92814,
