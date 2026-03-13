@@ -1523,6 +1523,18 @@
       "image_model": "gptimage",
       "seed": 1093489915,
       "created_at": "2026-03-13T12:23:02.807727+08:00"
+    },
+    {
+      "id": "20260313_122336",
+      "offset_start": 10276,
+      "offset_end": 10350,
+      "text": "一時半會兒也找不到更合適的房子，仁受便傾囊買下了這座大屋。爲\n了感謝均良從中牽線，還給了他一些好處費。\n萬萬沒想到，三百塊銀圓換來的竟是一張假地契。",
+      "prompt": "A dimly lit, traditional Chinese courtyard house interior from the early 20th century, with a man (Ren Shou) looking dismayed as he holds a forged land deed. Subtle, dramatic lighting casts long shadows, emphasizing the dark, aged wood of the furniture and the somber atmosphere of betrayal. The art style should be reminiscent of traditional Chinese ink wash paintings, with a focus on muted colors and evocative brushstrokes.",
+      "image": "reader_images/reader_20260313_122336.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 566307907,
+      "created_at": "2026-03-13T12:23:36.560325+08:00"
     }
   ],
   "book_total_chars": 92814,
