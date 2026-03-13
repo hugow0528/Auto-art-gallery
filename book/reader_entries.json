@@ -2435,6 +2435,18 @@
       "image_model": "flux",
       "seed": 1471486034,
       "created_at": "2026-03-13T18:02:16.213058+08:00"
+    },
+    {
+      "id": "20260313_180510",
+      "offset_start": 15774,
+      "offset_end": 15860,
+      "text": "他從來\n不串門，不到別人家裡坐，要坐也是自帶板凳坐在門口，曬曬太陽，聊聊天。\n娭毑，方言，年老婦女。\n他的堂客六十出頭，滿月般的圓臉，天生一雙笑眯眯的眼睛，都說她一臉福相。",
+      "prompt": "An elderly Chinese couple sits outside a modest rural home on a warm sunny day; the husband brings his own small wooden stool and sits at the doorway chatting with a neighbor, while his wife, a round-faced woman in her sixties with gentle smiling eyes and a kind expression, stands nearby. The scene captures the simple, peaceful rhythm of rural life with soft golden afternoon light, warm earthy tones, and a nostalgic artistic style reminiscent of traditional Chinese folk paintings.",
+      "image": "reader_images/reader_20260313_180510.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 2125968503,
+      "created_at": "2026-03-13T18:05:10.342362+08:00"
     }
   ],
   "book_total_chars": 92814,
