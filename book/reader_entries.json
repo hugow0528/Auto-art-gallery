@@ -1859,6 +1859,18 @@
       "image_model": "flux-2-dev",
       "seed": 559591382,
       "created_at": "2026-03-13T14:06:22.489042+08:00"
+    },
+    {
+      "id": "20260313_140758",
+      "offset_start": 12462,
+      "offset_end": 12543,
+      "text": "要是碰上別人，非\n把我打得半死不可。您的大恩大德我永世不忘。」\n仁受打開大門，外面一片漆黑。「等等。」他說着又回房點了馬燈，然後站在門\n口，一直照着那人走上小路。",
+      "prompt": "A lone figure, cloaked and silhouetted against the oppressive darkness of night, cautiously exits a rustic wooden doorway, illuminated by the warm, flickering glow of a horse lantern held by a stoic man standing in the threshold. The scene evokes a mood of quiet desperation and profound gratitude, rendered in a dramatic chiaroscuro style reminiscent of Dutch Golden Age painting, with deep shadows and a single, focused light source. The atmosphere is thick with unspoken emotion and the chill of the night air.",
+      "image": "reader_images/reader_20260313_140758.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1291127037,
+      "created_at": "2026-03-13T14:07:58.169519+08:00"
     }
   ],
   "book_total_chars": 92814,
