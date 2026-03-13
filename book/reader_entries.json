@@ -2291,6 +2291,18 @@
       "image_model": "gptimage",
       "seed": 988276329,
       "created_at": "2026-03-13T17:04:36.385418+08:00"
+    },
+    {
+      "id": "20260313_170649",
+      "offset_start": 15068,
+      "offset_end": 15188,
+      "text": "在花屋裡，之驊和夕瑩最喜歡的東西非水井和水池莫屬。她倆整天不是趴在井邊\n就是趴在池邊，一看就是老半天，秋園不叫就不走。\n秋園把頭髮剪成齊耳長，不高不矮、不胖不瘦，還是常穿着那件藍底灑白蝴蝶的\n旗袍，站在花屋小學黑板前面，像個城裡的女學生。",
+      "prompt": "In a sunlit flower house filled with blooming blossoms and lush greenery, two young girls, Zhihua and Xiying, kneel intently by a sparkling stone water well and adjacent pond, their faces lit with fascination as they gaze into the rippling water for hours. Nearby, Qiuyuan stands poised before a small blackboard like a city schoolgirl, her hair neatly bobbed to ear-length, average in height and build, wearing a elegant blue qipao patterned with white splashing butterflies. Rendered in a serene traditional Chinese ink wash style with soft golden afternoon light filtering through glass panes, evoking a mood of innocent curiosity and nostalgic tranquility.",
+      "image": "reader_images/reader_20260313_170649.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1738240822,
+      "created_at": "2026-03-13T17:06:49.812488+08:00"
     }
   ],
   "book_total_chars": 92814,
