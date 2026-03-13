@@ -1991,6 +1991,18 @@
       "image_model": "flux",
       "seed": 241157989,
       "created_at": "2026-03-13T15:15:22.604947+08:00"
+    },
+    {
+      "id": "20260313_151625",
+      "offset_start": 13243,
+      "offset_end": 13319,
+      "text": "秋園領着子恆、之驊和夕瑩三兄妹生活，每日都有四張嘴要填。子恆考取了湘陰\n一中，暑假一過就要開學了，到時也需要錢。皮夾子裡的四塊銀圓是四口人的命\n根子。",
+      "prompt": "A weary mother in a humble rural courtyard, her worn hands gently holding four silver coins as autumn leaves drift around her. Three children in patched clothing stand nearby, their expressions a mix of hope and solemn worry, bathed in the soft, golden light of late afternoon. Realistic style with soft focus and textured brushstrokes, capturing a mood of quiet resilience and poignant struggle.",
+      "image": "reader_images/reader_20260313_151625.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1739407123,
+      "created_at": "2026-03-13T15:16:25.796007+08:00"
     }
   ],
   "book_total_chars": 92814,
