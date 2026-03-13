@@ -2855,6 +2855,18 @@
       "image_model": "flux",
       "seed": 1063181256,
       "created_at": "2026-03-13T21:36:57.497286+08:00"
+    },
+    {
+      "id": "20260313_213907",
+      "offset_start": 18034,
+      "offset_end": 18105,
+      "text": "兵桃有個尿牀的毛病，被尿溼的稻草也懶得曬，久而久之，中間那塊稻草就爛了\n一個大洞，尿就直接流到牛背上。只要看到牛背上有溼印，準是兵桃尿牀了。",
+      "prompt": "A dimly lit, rustic stable at dawn, with a worn wooden bed frame suspended above a resting cow. A drowsy young boy sleeps fitfully on a straw mattress, while a damp, dark stain spreads on the cow's back beneath him. Realistic style, muted earthy tones, and subtle textural details of worn wood and straw.",
+      "image": "reader_images/reader_20260313_213907.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 558986698,
+      "created_at": "2026-03-13T21:39:07.268755+08:00"
     }
   ],
   "book_total_chars": 92814,
