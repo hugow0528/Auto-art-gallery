@@ -1643,6 +1643,18 @@
       "image_model": "gptimage",
       "seed": 1058333756,
       "created_at": "2026-03-13T13:03:34.238845+08:00"
+    },
+    {
+      "id": "20260313_130612",
+      "offset_start": 11038,
+      "offset_end": 11166,
+      "text": "到了那裡，只見範\n麻子正指使人砸東西，把裝在缸裏做酒的稻穀倒在地坪裏。仁受氣急不已，連忙\n斷喝一聲「住手」，隨後走到坪裏，抓起穀子邊看邊說：「太可惜了，一粒糧食\n一滴汗，多不容易啊……」\n最後，仁受叫那戶人家把稻穀搬回家，閉口不提罰款的事，帶着自衛隊走了。",
+      "prompt": "A man in simple, traditional Chinese attire stands defiantly amidst a scene of destruction, with grain scattered on the ground. The atmosphere is tense, with the man's expression conveying a mix of anger and sorrow over the wasted resources. The lighting should be dramatic, perhaps late afternoon sun casting long shadows, emphasizing the harshness of the situation. The style should be reminiscent of traditional Chinese ink wash painting, with a focus on conveying emotion through brushstrokes and composition.",
+      "image": "reader_images/reader_20260313_130612.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 757524577,
+      "created_at": "2026-03-13T13:06:12.619899+08:00"
     }
   ],
   "book_total_chars": 92814,
