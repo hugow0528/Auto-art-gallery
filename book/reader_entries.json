@@ -3755,6 +3755,18 @@
       "image_model": "flux-2-dev",
       "seed": 367857231,
       "created_at": "2026-03-14T03:19:55.223202+08:00"
+    },
+    {
+      "id": "20260314_032018",
+      "offset_start": 23286,
+      "offset_end": 23355,
+      "text": "秋園不作聲，立即開門去看。遠遠近近的，哪有個人影子？更沒什麼湖北討飯\n婆。她覺得事有蹊蹺：如今剛打過禾，有飯喫了，哪還會有湖北討飯婆呢？",
+      "prompt": "A lone woman, dressed in simple rural attire from early 20th century China, stands silhouetted against the twilight glow in an autumnal garden. The scene is eerily quiet, with harvested fields stretching into the distance under a darkening sky, conveying a sense of unease and mystery. The style should be reminiscent of traditional Chinese ink wash painting with a touch of dramatic realism.",
+      "image": "reader_images/reader_20260314_032018.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1307239793,
+      "created_at": "2026-03-14T03:20:18.882803+08:00"
     }
   ],
   "book_total_chars": 92814,
