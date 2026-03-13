@@ -3467,6 +3467,18 @@
       "image_model": "grok-imagine",
       "seed": 1699927548,
       "created_at": "2026-03-14T01:10:00.163852+08:00"
+    },
+    {
+      "id": "20260314_012249",
+      "offset_start": 21631,
+      "offset_end": 21696,
+      "text": "貴嬸找來\n子文的一隻舊棉鞋，把細妹子放在棉鞋裡，正合適。又舀了碗米湯，用棉花蘸着\n米湯，放在細妹子一條縫似的嘴巴邊，發現她會吮吸。",
+      "prompt": "A humble, dimly lit room with rough wooden furniture. An older woman with kind eyes gently dabs rice water onto the lips of a tiny infant nestled in an old cotton shoe. The atmosphere is one of quiet care and poverty, rendered in a realistic, slightly muted oil painting style with soft, natural light.",
+      "image": "reader_images/reader_20260314_012249.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1877948511,
+      "created_at": "2026-03-14T01:22:49.878663+08:00"
     }
   ],
   "book_total_chars": 92814,
