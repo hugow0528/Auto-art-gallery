@@ -1811,6 +1811,18 @@
       "image_model": "zimage",
       "seed": 1416202657,
       "created_at": "2026-03-13T13:52:08.232248+08:00"
+    },
+    {
+      "id": "20260313_135306",
+      "offset_start": 12163,
+      "offset_end": 12248,
+      "text": "仁受連聲阻\n止：「莫打他，讓他進來。」\n那人約莫四十來歲，進屋後站在那兒一動不動，一副要剮要殺隨你的樣子。\n仁受說：「人家大年三十都在家團圓，你還要出來偷，總是冇得辦法。",
+      "prompt": "A weathered man in his forties, with a resigned and defiant expression, stands still in a dimly lit, humble room on New Year's Eve, illuminated by the soft glow of a single lantern. The atmosphere is tense yet compassionate, with a sense of desperation and quiet judgment. The artistic style should be reminiscent of traditional Chinese ink wash painting, with a focus on dramatic chiaroscuro and expressive brushstrokes.",
+      "image": "reader_images/reader_20260313_135306.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2070288346,
+      "created_at": "2026-03-13T13:53:06.920411+08:00"
     }
   ],
   "book_total_chars": 92814,
