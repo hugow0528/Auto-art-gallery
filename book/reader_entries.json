@@ -4163,6 +4163,18 @@
       "image_model": "grok-imagine",
       "seed": 1164166715,
       "created_at": "2026-03-14T05:56:26.077587+08:00"
+    },
+    {
+      "id": "20260314_055804",
+      "offset_start": 25551,
+      "offset_end": 25619,
+      "text": "從犁田到打禾，滿老倌都要等把自家田裡的事做完了，再來做仁受家的。結果，\n每一步都趕不上季節，禾長得像荒山野嶺的茅草，稗子倒比別人的多。",
+      "prompt": "A desolate, muddy rice paddy field under a hazy, overcast sky, with sparse, overgrown rice stalks resembling wild reeds and an abundance of weeds. A lone, weary farmer figure with shoulders slumped walks through the field, reflecting a sense of being behind schedule and a struggle against nature. The scene is rendered in a somber, muted color palette with a focus on the texture of the mud and the wildness of the vegetation, evoking a mood of hardship and a race against time. Impressionistic painting style.",
+      "image": "reader_images/reader_20260314_055804.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2003288897,
+      "created_at": "2026-03-14T05:58:04.438801+08:00"
     }
   ],
   "book_total_chars": 92814,
