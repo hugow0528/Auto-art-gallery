@@ -3587,6 +3587,18 @@
       "image_model": "flux",
       "seed": 830194243,
       "created_at": "2026-03-14T02:01:11.079250+08:00"
+    },
+    {
+      "id": "20260314_020144",
+      "offset_start": 22260,
+      "offset_end": 22331,
+      "text": "一天，來了三個人問路，一路找到小泉這\n裏。小泉把人王關在房裡，就是不讓人看。\n那三人買了好些糖果零食，講了無數好話，小泉才讓他們見了人王一面。",
+      "prompt": "A dimly lit, rustic interior room in a traditional Chinese setting. Three men, dressed in simple, aged clothing, stand expectantly before a closed wooden door. The atmosphere is hushed and expectant, with scattered colorful candies and snacks on a low table in the foreground, illuminated by a single, warm, overhead lantern casting long shadows. The style is reminiscent of traditional Chinese ink wash painting, with a focus on atmosphere and subtle detail.",
+      "image": "reader_images/reader_20260314_020144.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2037156504,
+      "created_at": "2026-03-14T02:01:44.041703+08:00"
     }
   ],
   "book_total_chars": 92814,
