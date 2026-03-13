@@ -1679,6 +1679,18 @@
       "image_model": "flux",
       "seed": 781219306,
       "created_at": "2026-03-13T13:10:17.584312+08:00"
+    },
+    {
+      "id": "20260313_131106",
+      "offset_start": 11307,
+      "offset_end": 11377,
+      "text": "！」\n仁受飛快地下了轎，扶起農民道：「有什麼事你說。」\n那人說：「鄉長，我有兩個崽，大崽有些傻，做不得什麼事。我身體不好，明眼\n人都看得出。",
+      "prompt": "A rural Chinese village scene at dusk: a man in a long robe steps out of a sedan chair, urgently reaching to help a weathered farmer to his feet, who kneels with hands clasped in supplication. The farmer wears threadbare clothing showing signs of poverty, his thin frame and sallow face indicating poor health, while two young boys stand nervously behind him in the background. Soft golden evening light illuminates the dusty village path, creating a poignant atmosphere of humble desperation and compassionate authority, rendered in the style of a traditional Chinese ink wash painting with realistic emotional depth.",
+      "image": "reader_images/reader_20260313_131106.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1030353326,
+      "created_at": "2026-03-13T13:11:06.511919+08:00"
     }
   ],
   "book_total_chars": 92814,
