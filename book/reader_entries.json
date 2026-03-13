@@ -1775,6 +1775,18 @@
       "image_model": "zimage",
       "seed": 1355159244,
       "created_at": "2026-03-13T13:36:34.574059+08:00"
+    },
+    {
+      "id": "20260313_133815",
+      "offset_start": 11940,
+      "offset_end": 12009,
+      "text": "莫不是有賊？他們輕手輕腳地走進廚房，只見一個男人\n趴在水缸邊上艱難掙扎——頭進了屋，腳還在外面，進也不是，退也不是。舀水\n的竹筒掉在一旁。",
+      "prompt": "A dimly lit, rustic Chinese kitchen at night, dust motes dancing in the single beam of moonlight slanting through a small window. A plump, middle-aged man with a panicked expression is caught halfway inside a large ceramic water vat, his legs flailing uselessly outside. His arms are tangled, and a bamboo water dipper lies abandoned on the grimy floor. The scene should evoke a sense of slightly comedic desperation, rendered in the style of traditional Chinese ink wash painting with subtle chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_133815.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 584692028,
+      "created_at": "2026-03-13T13:38:15.740946+08:00"
     }
   ],
   "book_total_chars": 92814,
