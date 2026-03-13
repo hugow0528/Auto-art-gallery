@@ -1307,6 +1307,18 @@
       "image_model": "flux",
       "seed": 953149546,
       "created_at": "2026-03-13T10:50:49.746784+08:00"
+    },
+    {
+      "id": "20260313_110929",
+      "offset_start": 8896,
+      "offset_end": 8982,
+      "text": "過吊橋時，年輕的秋園抱起子恆，邁着輕捷的步子走了過去。從前的生活，也遠\n遠地留在了吊橋那邊。\n\n16\n\n\f第二章 山起臺\n\n17\n\n\f一\n仁受那麼忠厚的人，竟然也會撒謊。",
+      "prompt": "A young man named Qiuyuan, dressed in traditional Chinese robes, strides lightly and gracefully across a swaying wooden suspension bridge arched like a rainbow over a misty mountain gorge, cradling a small child named Zi Heng securely in his arms with a tender, protective expression. Lush green cliffs and swirling river fog below evoke a poignant atmosphere of transition, as the vibrant past life fades into shadowy distance behind them while a hopeful new chapter emerges ahead, bathed in soft golden dawn light filtering through ancient timbers. Render in the intricate style of Song Dynasty ink painting with realistic details, cinematic composition, ethereal mood, and subtle depth of field.",
+      "image": "reader_images/reader_20260313_110929.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1731796201,
+      "created_at": "2026-03-13T11:09:29.498646+08:00"
     }
   ],
   "book_total_chars": 92814,
