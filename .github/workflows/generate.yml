@@ -80,13 +80,25 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add images/ gallery.json
           git diff --staged --quiet || git commit -m "feat: add artwork $(TZ='Asia/Hong_Kong' date +'%Y-%m-%d %H:%M %Z')"
-          # Retry push up to 3 times to handle any transient remote divergence
+          # Retry push up to 5 times; auto-resolve JSON conflicts on rebase failure
           pushed=false
-          for attempt in 1 2 3; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "${GITHUB_REF_NAME}" && { pushed=true; break; } || {
-              echo "Push attempt ${attempt} failed, retrying in 10s…"
-              sleep 10
-            }
+          for attempt in 1 2 3 4 5; do
+            if git pull --rebase origin "${GITHUB_REF_NAME}"; then
+              git push origin "${GITHUB_REF_NAME}" && { pushed=true; break; }
+            else
+              # Auto-resolve gallery.json conflict: merge artworks by id
+              if git ls-files --unmerged | grep -q "gallery\.json"; then
+                python3 .github/scripts/merge_gallery_json.py \
+                  && git add gallery.json \
+                  && GIT_EDITOR=true git rebase --continue \
+                  && git push origin "${GITHUB_REF_NAME}" \
+                  && { pushed=true; break; } \
+                  || true
+              fi
+              git rebase --abort 2>/dev/null || true
+            fi
+            echo "Push attempt ${attempt} failed, retrying in 10s…"
+            [ "${attempt}" -lt 5 ] && sleep 10
           done
           if [ "${pushed}" != "true" ]; then
             echo "ERROR: All push attempts failed."
