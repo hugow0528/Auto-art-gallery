@@ -2219,6 +2219,18 @@
       "image_model": "grok-imagine",
       "seed": 96045558,
       "created_at": "2026-03-13T16:27:44.217291+08:00"
+    },
+    {
+      "id": "20260313_164239",
+      "offset_start": 14568,
+      "offset_end": 14652,
+      "text": "26\n\n\f第三章 花屋裡\n\n27\n\n\f一\n花屋小學原名叫花屋裡，是一位有錢的徐老先生的私宅。這棟屋在鄉下真是氣派\n得很。外面是高大雪白的牆壁，沿牆一周遍植各種花卉。",
+      "prompt": "A grand, snow-white walled private estate in the countryside, meticulously lined with an abundance of vibrant, diverse flowering plants. The atmosphere is serene and opulent, bathed in the soft, warm glow of a late afternoon sun. The architecture is classic and imposing, hinting at wealth and a bygone era, with no figures present to disturb the idyllic tranquility.",
+      "image": "reader_images/reader_20260313_164239.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 2110008067,
+      "created_at": "2026-03-13T16:42:39.617470+08:00"
     }
   ],
   "book_total_chars": 92814,
