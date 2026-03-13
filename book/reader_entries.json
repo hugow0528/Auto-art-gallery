@@ -2627,6 +2627,18 @@
       "image_model": "imagen-4",
       "seed": 956659947,
       "created_at": "2026-03-13T19:19:03.902194+08:00"
+    },
+    {
+      "id": "20260313_192421",
+      "offset_start": 16770,
+      "offset_end": 16858,
+      "text": "他們的飯裏總有各種雜糧：紅薯塊、紅薯絲、蠶豆、豌豆，還有蘿蔔絲，比那些\n白米飯香甜得多。\n四老倌的嘴巴極歪，飯扒進嘴裡，要不停地用筷子往裡塞，喫頓飯也是一副手忙\n腳亂的樣子。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to respond only with the prompt in English, no explanations, translations, or markdown.\n\nThe passage describes: Their rice always has various grains: sweet potato chunks, sweet potato shreds, broad beans, peas, and radish shreds, which are much sweeter and more fragrant than plain white rice. Fourth Old Man's mouth is extremely crooked; when he shoves rice into his mouth, he constantly uses chopsticks to stuff it in, and eating a meal is also a scene of bustling confusion.\n\nI need to craft a vivid, detailed English image-generation prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. The prompt should be 2–4 sentences only, in English.\n\nKey elements from the passage:\n\n- Setting: Likely a mealtime scene, perhaps in a humble or rural setting.\n\n- Characters: Fourth Old Man (四老倌), who has a crooked mouth and eats in a hurried, messy way.\n\n- Visual elements: Rice with various grains like sweet potato chunks, shreds, broad beans, peas, radish shreds.\n\n- Atmosphere: The passage mentions the food being sweeter and more fragrant, but also describes Fourth Old Man's eating as hand忙脚乱 (bustling confusion), suggesting a chaotic or hurried mood.\n\nArtistic style: I should infer or",
+      "image": "reader_images/reader_20260313_192421.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1148669588,
+      "created_at": "2026-03-13T19:24:21.325804+08:00"
     }
   ],
   "book_total_chars": 92814,
