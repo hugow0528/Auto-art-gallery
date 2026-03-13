@@ -3791,6 +3791,18 @@
       "image_model": "flux",
       "seed": 827169318,
       "created_at": "2026-03-14T03:25:41.267606+08:00"
+    },
+    {
+      "id": "20260314_033836",
+      "offset_start": 23477,
+      "offset_end": 23552,
+      "text": "日落\n之後，漸漸輝煌的月亮印在黛色的夜空裡，不知不覺變得圓滿無缺。\n半夜時分，夕瑩說肚子有點疼，拉了幾次紅白相間的稀便，還不停地打哈欠，似\n乎睡不醒。",
+      "prompt": "A pale young woman in traditional Chinese attire sits weakly against a window frame in a moonlit chamber, her face drawn with discomfort as she holds her abdomen, a chamber pot nearby. The night sky through the window displays a perfectly round, luminous full moon glowing against deep indigo, with soft silver light flooding the simple room. The scene captures an intimate, slightly melancholic mood with soft volumetric lighting, traditional East Asian brush painting style with",
+      "image": "reader_images/reader_20260314_033836.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 49320229,
+      "created_at": "2026-03-14T03:38:36.166376+08:00"
     }
   ],
   "book_total_chars": 92814,
