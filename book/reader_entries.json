@@ -2495,6 +2495,18 @@
       "image_model": "flux-2-dev",
       "seed": 1413888203,
       "created_at": "2026-03-13T18:22:47.919726+08:00"
+    },
+    {
+      "id": "20260313_182754",
+      "offset_start": 16108,
+      "offset_end": 16188,
+      "text": "鄉下人老規矩，「嫁漢嫁漢，穿衣喫飯」，\n嫁一個肩不能挑、手不能提的男人，一輩子喫虧的是自己。\n這樣又拖了幾年，終於有一個叫向愛梅的三十五歲的老姑娘願嫁給徐正明。",
+      "prompt": "A weathered, rural Chinese courtyard bathed in the warm, fading light of late afternoon. An unmarried woman, around thirty-five, with a resigned yet hopeful expression, stands by a simple wooden doorway, her gaze fixed on an unseen point. The atmosphere is one of quiet anticipation, tinged with the weight of tradition and a touch of melancholy. The style is reminiscent of traditional Chinese ink wash painting, with a focus on subtle textures and atmospheric perspective.",
+      "image": "reader_images/reader_20260313_182754.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1652865523,
+      "created_at": "2026-03-13T18:27:54.762371+08:00"
     }
   ],
   "book_total_chars": 92814,
