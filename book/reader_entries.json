@@ -2759,6 +2759,18 @@
       "image_model": "grok-imagine",
       "seed": 199864799,
       "created_at": "2026-03-13T19:59:17.728225+08:00"
+    },
+    {
+      "id": "20260313_202603",
+      "offset_start": 17489,
+      "offset_end": 17566,
+      "text": "鬼子把崽和媳婦捉走時，四老倌抱着兵桃就站在糞坑裡，糞水齊了腰子，也不能\n作聲。從糞坑裡上來，全身白花花的，爬滿了蛆。帶着兵桃跳進塘裏，蛆就到水\n裏去了。",
+      "prompt": "A harrowing scene in a rural Chinese village during wartime. An elderly man, coated head-to-toe in white grime and crawling with maggots, stands chest-deep in a murky, overflowing dung pit. He clutches a terrified child, his face a mask of silent anguish, as the water's edge laps at his chest. The atmosphere is one of desperate survival and profound despair, rendered in the gritty realism of a Caravaggio painting, with harsh, dramatic chiaroscuro lighting emphasizing the filth and horror.",
+      "image": "reader_images/reader_20260313_202603.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2121953487,
+      "created_at": "2026-03-13T20:26:03.437509+08:00"
     }
   ],
   "book_total_chars": 92814,
