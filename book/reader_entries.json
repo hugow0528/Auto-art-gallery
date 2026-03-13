@@ -2195,6 +2195,18 @@
       "image_model": "grok-imagine",
       "seed": 1665538128,
       "created_at": "2026-03-13T16:23:49.165102+08:00"
+    },
+    {
+      "id": "20260313_162606",
+      "offset_start": 14400,
+      "offset_end": 14485,
+      "text": "我要儘快搬過去，就是怕\n夜長夢多，總覺得這好事來得太突然了。」\n動身去花屋小學的那天，秋園穿着件深藍底灑白蝴蝶的布旗袍，腳穿帶襻的圓口\n平底黑布鞋，梳了個清清爽爽的髮髻。",
+      "prompt": "A young woman with a neat bun hairstyle, wearing a deep blue qipao with white butterfly motifs and flat black cloth shoes with straps, stands on a pathway leading to a traditional Chinese schoolhouse. The atmosphere is one of quiet anticipation and a touch of unease, with soft, late afternoon sunlight casting long shadows. The style is reminiscent of classic Chinese ink wash painting, with delicate brushstrokes and a subdued color palette.",
+      "image": "reader_images/reader_20260313_162606.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1865255610,
+      "created_at": "2026-03-13T16:26:07.004210+08:00"
     }
   ],
   "book_total_chars": 92814,
