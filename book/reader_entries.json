@@ -2411,6 +2411,18 @@
       "image_model": "gptimage",
       "seed": 1879523655,
       "created_at": "2026-03-13T17:57:59.013186+08:00"
+    },
+    {
+      "id": "20260313_175826",
+      "offset_start": 15613,
+      "offset_end": 15680,
+      "text": "」\n夕瑩高興得又蹦又跳：「回去聽故事嘍。」\n夕瑩長得實在好看，皮膚白瓷樣。她比之驊小兩歲，卻和姐姐一般高。別人都以\n爲姐妹倆是雙胞胎。",
+      "prompt": "A young girl, Xi Ying, with porcelain-white skin and a joyful expression, jumps excitedly. She is the same height as her older sister, though two years younger, giving the impression they are twins. The scene should evoke a sense of innocent delight and childhood wonder, rendered in a style reminiscent of traditional Chinese watercolor paintings with soft, natural lighting.",
+      "image": "reader_images/reader_20260313_175826.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 127371766,
+      "created_at": "2026-03-13T17:58:26.987679+08:00"
     }
   ],
   "book_total_chars": 92814,
