@@ -3167,6 +3167,18 @@
       "image_model": "grok-imagine",
       "seed": 1936418851,
       "created_at": "2026-03-13T23:25:21.022924+08:00"
+    },
+    {
+      "id": "20260313_232629",
+      "offset_start": 19756,
+      "offset_end": 19819,
+      "text": "他告訴秋園，子文這人讀了很多書，知道\n很多事情。邱家原本是個小康之家，只因子文父親染上了大煙癮，把家裡的田地\n房屋賣了個精光。",
+      "prompt": "A middle-aged woman sits on a simple wooden bed in a modest rural Chinese room, listening intently as another person speaks beside her; autumn light filters through a paper window, casting soft shadows on weathered walls and a sparse interior with only basic furniture, conveying both the former modest prosperity and current stripped-down poverty of a fallen family; painted in the style of early 20th century Chinese literary realism with muted earth tones, quiet melancholy atmosphere, and subtle details suggesting lost land deeds and empty rooms.",
+      "image": "reader_images/reader_20260313_232629.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1006947065,
+      "created_at": "2026-03-13T23:26:29.608181+08:00"
     }
   ],
   "book_total_chars": 92814,
