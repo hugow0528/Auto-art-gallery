@@ -3203,6 +3203,18 @@
       "image_model": "flux",
       "seed": 869932764,
       "created_at": "2026-03-13T23:28:41.940997+08:00"
+    },
+    {
+      "id": "20260313_233151",
+      "offset_start": 19983,
+      "offset_end": 20077,
+      "text": "我娘家大嫂的一個親戚，夫妻雙雙不在了，留下個四歲多的細妹子。我哥哥\n看到實在可憐，就抱來帶在身邊。我大嫂會生，不到兩歲就是一個，現在是細伢\n子一大堆，喫飯時齊哭亂叫，鍋頭邊高高低低站一圈。",
+      "prompt": "A bustling rural Chinese kitchen filled with several young children of varying ages, their small bodies crowded around a low cooking stove where a large pot sits. The atmosphere is warm and chaotic, with children crying, reaching, and jostling",
+      "image": "reader_images/reader_20260313_233151.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 867268783,
+      "created_at": "2026-03-13T23:31:51.137840+08:00"
     }
   ],
   "book_total_chars": 92814,
