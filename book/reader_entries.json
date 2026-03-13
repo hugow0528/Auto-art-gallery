@@ -1955,6 +1955,18 @@
       "image_model": "zimage",
       "seed": 1628836438,
       "created_at": "2026-03-13T15:10:48.496447+08:00"
+    },
+    {
+      "id": "20260313_151142",
+      "offset_start": 13070,
+      "offset_end": 13163,
+      "text": "這夾子還是從南京帶\n來的——深棕色皮面柔軟光滑，開口處是兩個閃閃發光的金屬小球，一按便打\n開，再按又合上；裡面還有個小皮夾子，用更小的兩個金屬球作爲開關；小皮夾\n子兩邊還分布着幾個夾層。",
+      "prompt": "A vintage leather clutch from Nanjing, deep brown with a soft, supple surface catching warm light, featuring two gleaming golden metal spheres at the clasp that open and close with delicate precision. The interior reveals a smaller nested leather compartment with its own miniature metal ball closures, surrounded by several slim card slots arranged symmetrically on both sides, all rendered in rich, warm tones. The composition focuses on the tactile details and luxurious craftsmanship, with soft, diffused lighting emphasizing the leather's smooth texture and the brass hardware's subtle gleam. Photograph in the style of fine art still life, with shallow depth of field and a neutral cream background, evoking nostalgia and refined elegance from early 20th-century luxury accessories.",
+      "image": "reader_images/reader_20260313_151142.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 457685964,
+      "created_at": "2026-03-13T15:11:42.912182+08:00"
     }
   ],
   "book_total_chars": 92814,
