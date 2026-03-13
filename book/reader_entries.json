@@ -4235,6 +4235,18 @@
       "image_model": "flux-2-dev",
       "seed": 1529805291,
       "created_at": "2026-03-14T06:30:53.650902+08:00"
+    },
+    {
+      "id": "20260314_063248",
+      "offset_start": 26025,
+      "offset_end": 26104,
+      "text": "山分到了每家每戶，連扒柴都不能隨便到別家山上去扒。仁受家的山本就分得不\n好，雜柴早就被砍得乾乾淨淨。\n一次，一位好心人讓給他們家三十斤劈柴，仁受執意要去擔。",
+      "prompt": "A determined elderly man carries a heavy bundle of firewood on his shoulders along a desolate, barren hillside at twilight, the landscape stripped of vegetation under a somber, overcast sky. Gritty realism style with muted earth tones and a palpable atmosphere of quiet hardship.",
+      "image": "reader_images/reader_20260314_063248.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1529429850,
+      "created_at": "2026-03-14T06:32:48.494167+08:00"
     }
   ],
   "book_total_chars": 92814,
