@@ -2519,6 +2519,18 @@
       "image_model": "imagen-4",
       "seed": 1438949132,
       "created_at": "2026-03-13T18:52:15.454284+08:00"
+    },
+    {
+      "id": "20260313_185610",
+      "offset_start": 16265,
+      "offset_end": 16340,
+      "text": "人逢喜事精神爽，結婚的頭幾天，徐正明非常高興，滿面春風地跑進跑出。要是\n有人問他：「徐先生，要討堂客了？」他總是忙不迭地點頭，一邊說：「是的是\n的。",
+      "prompt": "A joyful groom, Xu Zhengming, with a beaming face and wind-swept hair, is energetically bustling around a traditional courtyard house during the first few days of his wedding. Sunlight streams into the courtyard, illuminating dust motes dancing in the air, creating a warm, celebratory atmosphere. He wears simple, celebratory attire, his eyes sparkling with happiness as he nods and confirms his recent marriage, painted in the style of a vibrant, slightly idealized Chinese folk art painting.",
+      "image": "reader_images/reader_20260313_185610.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1857971374,
+      "created_at": "2026-03-13T18:56:10.546440+08:00"
     }
   ],
   "book_total_chars": 92814,
