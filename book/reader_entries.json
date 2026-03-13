@@ -2687,6 +2687,18 @@
       "image_model": "flux",
       "seed": 91693967,
       "created_at": "2026-03-13T19:45:45.392391+08:00"
+    },
+    {
+      "id": "20260313_194934",
+      "offset_start": 17128,
+      "offset_end": 17221,
+      "text": "」\n其實，爺孫倆有那些田，足夠了。四老倌要喫好、用好、穿好也不難，但他一味\n苦喫、苦做、苦摳。這只是苦了孫子兵桃，跟着爹爹一年四季都是青菜、蠶豆，\n拌黃瓜、醃茄子，喫頓葷腥要等過年過節。",
+      "prompt": "A humble, rustic Chinese farmhouse kitchen. An elderly man, gaunt and stern, meticulously counts coins at a worn wooden table. His young grandson, looking thin and wistful, watches from a corner, a bowl of plain greens before him. The scene is illuminated by dim, natural light filtering through a single, dusty window, casting long shadows and creating a somber, austere atmosphere, rendered in the style of traditional Chinese ink wash painting with a touch of realism.",
+      "image": "reader_images/reader_20260313_194934.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1220525323,
+      "created_at": "2026-03-13T19:49:34.521911+08:00"
     }
   ],
   "book_total_chars": 92814,
