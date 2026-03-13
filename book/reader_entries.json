@@ -3023,6 +3023,18 @@
       "image_model": "imagen-4",
       "seed": 1362556121,
       "created_at": "2026-03-13T22:25:15.295319+08:00"
+    },
+    {
+      "id": "20260313_222758",
+      "offset_start": 18876,
+      "offset_end": 18951,
+      "text": "佃農不但喫不飽飯，連青\n菜蘿蔔之類的蔬菜也經常沒得喫。佃農收工晚了，愛梅就把一匙生鹽拌在飯裏給\n人喫。粗鹽粒混雜在飯裏，嚼起來不停發出咯嘣咯嘣的聲音。",
+      "prompt": "A poor tenant farmer sits exhausted in a dimly lit, humble dwelling at dusk, a simple wooden bowl of rice before him mixed with coarse salt crystals that glint faintly in the fading light. His weathered, calloused hands rest beside the bowl, conveying years of hard labor and deprivation. An older woman, Ai Mei, stands nearby in the shadows with a gentle but sorrowful expression, having just prepared this meager meal. The scene is rendered in muted earth tones and soft, melancholic lighting—reminiscent of classical Chinese ink wash paintings with their emphasis on mood and emotion rather than detail—capturing the quiet desperation and resigned dignity of rural poverty in traditional China.",
+      "image": "reader_images/reader_20260313_222758.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1737533650,
+      "created_at": "2026-03-13T22:27:58.505896+08:00"
     }
   ],
   "book_total_chars": 92814,
