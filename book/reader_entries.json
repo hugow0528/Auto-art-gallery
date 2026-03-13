@@ -4331,6 +4331,18 @@
       "image_model": "grok-imagine",
       "seed": 766411599,
       "created_at": "2026-03-14T06:57:45.820274+08:00"
+    },
+    {
+      "id": "20260314_070020",
+      "offset_start": 26443,
+      "offset_end": 26522,
+      "text": "後來聽人說，用嘴巴含着一口鹽水，\n對着肚臍眼使勁吸，能減輕一些疼痛。每次仁受感覺自己要疝氣痛了，秋園就趕\n快泡一碗鹽開水，對着他的肚臍使勁吸，但也沒多大用處。",
+      "prompt": "A dimly lit bedroom in a modest mid-century home, with a worried wife in simple clothing leaning over her husband who lies on a bed, grimacing in pain. She holds a bowl of salt water, her face close to his stomach in a moment of intimate and desperate care, rendered in a soft, realistic style with muted colors and somber mood lighting.",
+      "image": "reader_images/reader_20260314_070020.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 226486401,
+      "created_at": "2026-03-14T07:00:20.710666+08:00"
     }
   ],
   "book_total_chars": 92814,
