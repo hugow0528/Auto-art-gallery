@@ -3263,6 +3263,18 @@
       "image_model": "flux",
       "seed": 1802758592,
       "created_at": "2026-03-13T23:57:49.913666+08:00"
+    },
+    {
+      "id": "20260313_235957",
+      "offset_start": 20385,
+      "offset_end": 20452,
+      "text": "村裡有幾條瘋狗。小泉媽出去做事時，就把四歲的小泉鎖在房裡，怕她出去碰到\n瘋狗。那天，小泉媽照例把小泉鎖在屋裡，自己掮把鋤頭去鏟田坎。",
+      "prompt": "A rural Chinese village at dawn, a weary mother in simple work clothes walks away from a weathered wooden house, carrying a hoe over her shoulder. Inside, seen through a small window with wooden bars, a small, solemn four-year-old girl presses her face against the glass, watching her mother leave. Realistic style, muted early morning light, atmosphere of quiet isolation and muted anxiety.",
+      "image": "reader_images/reader_20260313_235957.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 992222998,
+      "created_at": "2026-03-13T23:59:57.871319+08:00"
     }
   ],
   "book_total_chars": 92814,
