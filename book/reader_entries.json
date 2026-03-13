@@ -1367,6 +1367,18 @@
       "image_model": "flux",
       "seed": 1879549960,
       "created_at": "2026-03-13T11:18:24.417630+08:00"
+    },
+    {
+      "id": "20260313_111928",
+      "offset_start": 9275,
+      "offset_end": 9354,
+      "text": "秋園也被衆人盯得心裡發慌，慌亂中想起來：這麼多小孩，應該拿點糖果分給他\n們喫。糖果原本準備好了放在箱子裡，但她記不得是哪只箱子，只得在衆目睽睽\n下開箱翻找。",
+      "prompt": "In a traditional Chinese autumn garden enclosed by ornate walls, with winding paths, jagged rockeries, lotus ponds reflecting fiery maple leaves, and pavilions half-hidden by bamboo and osmanthus trees, a flustered young woman in flowing hanfu kneels anxiously before several wide-eyed children staring intently. Under the crowd's gaze, she rummages through an open wooden chest overflowing with silk fabrics and scattered candies, her face flushed with panic amid scattered autumn foliage and soft golden sunlight filtering through branches. Render in the style of Ming dynasty ink wash painting with vibrant fall hues, intricate details, serene yet tense atmosphere, dramatic lighting casting long shadows for a sense of harmonious chaos.",
+      "image": "reader_images/reader_20260313_111928.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1237720763,
+      "created_at": "2026-03-13T11:19:28.426299+08:00"
     }
   ],
   "book_total_chars": 92814,
