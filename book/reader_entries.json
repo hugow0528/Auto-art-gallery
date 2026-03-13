@@ -1799,6 +1799,18 @@
       "image_model": "imagen-4",
       "seed": 2145843932,
       "created_at": "2026-03-13T13:41:44.309883+08:00"
+    },
+    {
+      "id": "20260313_135208",
+      "offset_start": 12072,
+      "offset_end": 12163,
+      "text": "竹筒裏多少會有些水\n滴下來，久而久之，地上變得很潮溼，連帶泥磚牆腳也潮乎乎一片。小偷便專挑\n這種地方打洞，爬進屋裡偷竊。\n子恆快上初中了，已是個半大小子，見狀立馬抓起竈邊的一根柴棍。",
+      "prompt": "In a dimly lit rural Chinese kitchen at dusk, damp mud-brick walls glisten with moisture from leaking bamboo tubes overhead, pooling into slick puddles on the earthen floor where a thief's fresh burrow gapes ominously in the shadows. A determined half-grown boy, Ziheng, stands alert with a sturdy firewood stick gripped tightly in both hands, his face tense and eyes wide with vigilance. Rendered in realistic ink-wash style with earthy tones, subtle chiaroscuro lighting casting long shadows, evoking a tense, humid atmosphere of rural poverty and imminent intrusion.",
+      "image": "reader_images/reader_20260313_135208.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1416202657,
+      "created_at": "2026-03-13T13:52:08.232248+08:00"
     }
   ],
   "book_total_chars": 92814,
