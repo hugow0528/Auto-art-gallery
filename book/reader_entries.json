@@ -3863,6 +3863,18 @@
       "image_model": "flux-2-dev",
       "seed": 1435541844,
       "created_at": "2026-03-14T03:51:03.990327+08:00"
+    },
+    {
+      "id": "20260314_035434",
+      "offset_start": 23887,
+      "offset_end": 23984,
+      "text": "仁受把夕瑩緊緊抱在懷裡，讓夕瑩的臉貼着自己的脖子，一隻手梳理着她依然如\n黑緞子般的頭髮，淚水在臉上橫流。\n秋園挺着個大肚子，全然不顧自己就要生了，哭喊着，捶打着，撕扯着，恨不得\n要把自己弄死。",
+      "prompt": "A photorealistic scene of a man in a simple room cradling a weeping woman against his neck, his hand in her dark hair, tears streaming down his face. In the background, a heavily pregnant woman is collapsed in anguish, her face contorted in desperate grief, under the stark, dramatic lighting of a single bare bulb.",
+      "image": "reader_images/reader_20260314_035434.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1055570511,
+      "created_at": "2026-03-14T03:54:34.516463+08:00"
     }
   ],
   "book_total_chars": 92814,
