@@ -1379,6 +1379,18 @@
       "image_model": "gptimage",
       "seed": 1237720763,
       "created_at": "2026-03-13T11:19:28.426299+08:00"
+    },
+    {
+      "id": "20260313_112258",
+      "offset_start": 9354,
+      "offset_end": 9449,
+      "text": "看客瞪得如銅鈴般的雙眼只看到兩箱書籍、兩箱衣服，並未發現什\n麼金銀財寶，皆感空歡喜一場。\n仁受和秋園暫居在均良家中。漸漸有更多人知道仁受回來了，周邊的文人墨客乃\n至十幾裏外的熟人都趕了過來。",
+      "prompt": "A dimly lit, cluttered room in a traditional Chinese dwelling, dust motes dancing in the single shaft of moonlight piercing the gloom. Two weary women, Ren Shou and Qiu Yuan, huddle near simple wooden chests overflowing with books and clothes, their faces etched with disappointment. Outside, the faint glow of lanterns and the silhouettes of eager onlookers gather at the doorway, anticipation radiating from their forms. Style: Ink wash painting with elements of chiaroscuro, conveying a mood of quiet anticlimax and burgeoning hope.",
+      "image": "reader_images/reader_20260313_112258.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 954926677,
+      "created_at": "2026-03-13T11:22:58.811801+08:00"
     }
   ],
   "book_total_chars": 92814,
