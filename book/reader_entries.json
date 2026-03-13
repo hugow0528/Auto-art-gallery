@@ -4139,6 +4139,18 @@
       "image_model": "zimage",
       "seed": 1372225321,
       "created_at": "2026-03-14T05:50:38.612105+08:00"
+    },
+    {
+      "id": "20260314_055107",
+      "offset_start": 25410,
+      "offset_end": 25478,
+      "text": "不要說犁田、耙田這些技術活，仁受因有疝氣痛，不能站久，一般的手腳\n功夫都做不了。\n秋園曾經包過小腳，子恆在讀初中，田是怎麼也沒辦法做的。",
+      "prompt": "A rural Chinese farmstead in autumn, where an elderly man with a hernia condition stands awkwardly near untended rice paddies, unable to perform the heavy labor of plowing and harrowing. His wife, who once bound feet in the traditional manner, watches from the doorway of their modest home, while their son attends school in town, leaving the fields abandoned and overgrown. The scene is rendered in muted earth tones with soft, melancholic lighting—late afternoon golden hour casting long shadows across the fallow land—capturing the quiet desperation and helplessness of a family unable to maintain their livelihood, in the style of early 20th-century Chinese ink painting with realistic detail.",
+      "image": "reader_images/reader_20260314_055107.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 612063399,
+      "created_at": "2026-03-14T05:51:07.477887+08:00"
     }
   ],
   "book_total_chars": 92814,
