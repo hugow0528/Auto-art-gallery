@@ -3515,6 +3515,18 @@
       "image_model": "gptimage",
       "seed": 17553671,
       "created_at": "2026-03-14T01:39:27.952462+08:00"
+    },
+    {
+      "id": "20260314_014928",
+      "offset_start": 21900,
+      "offset_end": 21974,
+      "text": "貴嬸有個侄子叫正凱，從小被日本人弄成了殘廢，人總是病懨懨的，不能做田裡\n功夫，也不能結婚，便學了個裁縫，衣服做得不錯。四十來歲了，仍是光棍一\n個。",
+      "prompt": "The passage describes a middle-aged, sickly man named Zheng Kai, who was disabled in his youth and now works as a tailor. He lives alone, unable to do farm work or marry. The scene should evoke a sense of quiet melancholy.\n\nPrompt: A dimly lit, humble tailor shop in rural China. Sunlight filters weakly through a dusty window, illuminating fine threads and bolts of fabric. A thin, pale man in his forties, Zheng Kai, hunched over a sewing machine, his face etched with weariness. The atmosphere is subdued and still, with a focus on the textures of cloth and the quiet dignity of his solitary craft. Realistic oil painting style.",
+      "image": "reader_images/reader_20260314_014928.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 556918237,
+      "created_at": "2026-03-14T01:49:28.457888+08:00"
     }
   ],
   "book_total_chars": 92814,
