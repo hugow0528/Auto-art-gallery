@@ -3647,6 +3647,18 @@
       "image_model": "zimage",
       "seed": 1691499484,
       "created_at": "2026-03-14T02:23:05.152105+08:00"
+    },
+    {
+      "id": "20260314_023342",
+      "offset_start": 22593,
+      "offset_end": 22672,
+      "text": "小泉爲人厲害，一毛不拔，替人做衣服\n又喜歡偷布。家裡亂七八糟，地下、竈臺上、椅子上、牀前踏板上，到處都是雞\n屎。來串門和做衣服的人，連個能坐的乾淨地方都沒有。",
+      "prompt": "A cluttered, shabby tailor's workshop in rural China, dimly lit by natural light filtering through paper windows, with fabric scraps and stolen cloth scattered across every surface. The cramped interior is dominated by chaos: chicken droppings stain the earthen floor, stove platform, wooden chairs, and bed footrests, while a few scrawny chickens roam freely among piles of half-finished garments and tangled thread. A miserly, thin-faced tailor moves irritably through the disorder, gesturing at visitors who stand awkwardly with nowhere clean to sit. The artistic style should evoke early 20th-century Chinese realist painting—muted earth tones, rough textures, and unflinching attention to poverty and disarray—with a sense of both dark humor and social commentary.",
+      "image": "reader_images/reader_20260314_023342.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 856384528,
+      "created_at": "2026-03-14T02:33:42.979127+08:00"
     }
   ],
   "book_total_chars": 92814,
