@@ -4187,6 +4187,18 @@
       "image_model": "flux",
       "seed": 154353473,
       "created_at": "2026-03-14T05:59:18.619753+08:00"
+    },
+    {
+      "id": "20260314_060125",
+      "offset_start": 25703,
+      "offset_end": 25791,
+      "text": "後來，秋園利用在南京婦女補習班學到的手\n藝幫人做衣、繡花、打鞋底、做襪底，靠這些縫縫補補的活計來貼補家用。人家\n給的不一定是錢，也有谷、米、菜、薯、柴……給什麼，秋園就要什麼。",
+      "prompt": "A middle-aged Chinese woman sits by a window in a modest, sunlit room, carefully sewing a piece of fabric while nearby lay finished embroidered items and shoe soles. Her weathered hands move skillfully with needle and thread, surrounded by simple provisions like rice, vegetables,",
+      "image": "reader_images/reader_20260314_060125.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1358704572,
+      "created_at": "2026-03-14T06:01:25.734073+08:00"
     }
   ],
   "book_total_chars": 92814,
