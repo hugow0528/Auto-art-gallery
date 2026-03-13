@@ -3731,6 +3731,18 @@
       "image_model": "gptimage",
       "seed": 2081546081,
       "created_at": "2026-03-14T03:07:55.207640+08:00"
+    },
+    {
+      "id": "20260314_030851",
+      "offset_start": 23132,
+      "offset_end": 23211,
+      "text": "之驊衝妹妹搖搖手，壓低聲音說：「別作聲！肯定是湖北討飯婆來了，聽見屋裡\n有人就要敲門了。」\n這時秋園正好進來。夕瑩告訴她：「媽媽，別作聲，外面有湖北討飯婆。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to respond ONLY with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is about characters whispering and being cautious because a \"湖北討飯婆\" (Hubei beggar woman) might be outside. Key elements: characters are whispering,压低声音 (lowering voices), telling someone not to make noise, and mentioning that the beggar woman from Hubei is coming and will knock if she hears people inside.\n\nCharacters mentioned: 之驊衝妹妹 (likely a sibling or relative), 秋園 (someone who comes in), and 夕瑩 (who tells the mother not to make noise). From context, 夕瑩 is telling 媽媽 (mother) not to make noise.\n\nSetting: indoors, probably a house, as they're inside and worried about someone outside knocking.\n\nAtmosphere: tense, secretive, hushed, possibly fearful or cautious.\n\nArtistic style: I need to suggest an artistic style. Since it's a literary scene, perhaps a realistic or illustrative style that captures the mood. Maybe something like \"realistic painting\" or \"cinematic lighting\" to emphasize the tension.\n\nVisual elements: characters whispering, a dimly lit interior, perhaps a door or window indicating the outside, expressions of alertness.\n\nStructure the prompt: 2–4 sentences only, in English. Describe the setting, atmosphere,",
+      "image": "reader_images/reader_20260314_030851.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 410202260,
+      "created_at": "2026-03-14T03:08:51.236154+08:00"
     }
   ],
   "book_total_chars": 92814,
