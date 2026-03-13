@@ -2327,6 +2327,18 @@
       "image_model": "flux-2-dev",
       "seed": 621475617,
       "created_at": "2026-03-13T17:24:50.507052+08:00"
+    },
+    {
+      "id": "20260313_172635",
+      "offset_start": 15340,
+      "offset_end": 15408,
+      "text": "仁受當天就趕回來了。看到秋園\n安然無恙，他長出一口氣，也沒責怪她。\n一家人再次團聚了。\n\n28\n\n\f家就安在花屋小學。仁受一周回家一次。",
+      "prompt": "A warm, heartfelt family reunion scene in a modest Chinese rural home near Huawu Primary School, with Ren Shou, a relieved middle-aged man in simple work clothes, embracing his unharmed wife Qiuyuan in the cozy flower-adorned living room filled with soft autumn light filtering through paper windows. The family—parents, children, and grandparents—gathers around a wooden table laden with steaming tea and simple dishes, their faces glowing with joy and unity after separation, evoking tender relief and harmony. Render in realistic digital art style inspired by Chinese ink wash painting, with golden hour lighting, subtle mist, and intricate details on traditional furnishings for an intimate, nostalgic atmosphere.",
+      "image": "reader_images/reader_20260313_172635.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1202705389,
+      "created_at": "2026-03-13T17:26:35.504216+08:00"
     }
   ],
   "book_total_chars": 92814,
