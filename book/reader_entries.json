@@ -1583,6 +1583,18 @@
       "image_model": "flux-2-dev",
       "seed": 1829715788,
       "created_at": "2026-03-13T12:53:27.894660+08:00"
+    },
+    {
+      "id": "20260313_125428",
+      "offset_start": 10636,
+      "offset_end": 10699,
+      "text": "這樣延宕了兩年，仁受最終\n被除名，再也領不到政府的薪水了。\n不過，作爲鄉間德高望重的紳士，仁受經人舉薦，當上了山起臺鄉的鄉長。",
+      "prompt": "A dignified middle-aged Chinese gentleman in traditional scholar's robes stands in a rustic village office, reviewing documents by the warm glow of an oil lamp, his expression a mix of weary resolve and quiet authority; realistic style, muted earth tones, soft afternoon light filtering through wooden lattice windows.",
+      "image": "reader_images/reader_20260313_125428.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 30107707,
+      "created_at": "2026-03-13T12:54:28.500652+08:00"
     }
   ],
   "book_total_chars": 92814,
