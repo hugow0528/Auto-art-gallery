@@ -2903,6 +2903,18 @@
       "image_model": "flux-2-dev",
       "seed": 263889039,
       "created_at": "2026-03-13T21:45:59.729726+08:00"
+    },
+    {
+      "id": "20260313_214719",
+      "offset_start": 18250,
+      "offset_end": 18332,
+      "text": "」\n兵桃說：「屙了，昨天的試驗沒有用。」\n\n33\n\n\f秋園問什麼試驗。兵桃說：「就是把那根麻繩用死勁纏在雞雞上，真是用了死\n勁，雞雞勒紅了，勒痛了，尿照樣屙得出來。",
+      "prompt": "A stark, dimly lit room with peeling paint, perhaps a rustic shed or dilapidated bathroom. A young man, Bing Tao, sits on a rough wooden stool, his face etched with frustration and slight pain, clutching his lower abdomen. The atmosphere is one of desperate, futile experimentation, illuminated by a single, harsh bare bulb casting long shadows. The style should be gritty realism with a touch of melancholic despair.",
+      "image": "reader_images/reader_20260313_214719.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 773726494,
+      "created_at": "2026-03-13T21:47:19.349264+08:00"
     }
   ],
   "book_total_chars": 92814,
