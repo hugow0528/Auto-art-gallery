@@ -3155,6 +3155,18 @@
       "image_model": "zimage",
       "seed": 856183572,
       "created_at": "2026-03-13T23:11:28.915975+08:00"
+    },
+    {
+      "id": "20260313_232520",
+      "offset_start": 19690,
+      "offset_end": 19756,
+      "text": "很快，兩家就來往密切。仁受平時不在家，\n邱子文經常幫忙挑水、劈柴，只要是粗活，就抽空幫秋園做掉。\n仁受每次回家，都要找邱子文聊聊天。",
+      "prompt": "A social realist painting of a rural 1940s Chinese courtyard at dusk, where a kind-faced man in simple clothes splits firewood with an axe, while a weary but grateful woman in a cotton jacket watches from the doorway with a faint smile, bathed in warm, low golden hour light.",
+      "image": "reader_images/reader_20260313_232520.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1936418851,
+      "created_at": "2026-03-13T23:25:21.022924+08:00"
     }
   ],
   "book_total_chars": 92814,
