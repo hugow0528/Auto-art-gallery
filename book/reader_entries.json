@@ -2987,6 +2987,18 @@
       "image_model": "flux-2-dev",
       "seed": 1836100273,
       "created_at": "2026-03-13T22:07:35.727163+08:00"
+    },
+    {
+      "id": "20260313_221027",
+      "offset_start": 18644,
+      "offset_end": 18710,
+      "text": "他說，不給褲子穿就不挖湖洋田了。\n衆人附和着，都說這麼大的人了，不給褲子穿是不像樣。四老倌在衆人的責備聲\n中，終於向兵桃屈服了一回。",
+      "prompt": "A group of weathered farmers in a rural muddy field surround an older man in tattered clothing, one younger man standing with arms crossed demanding pants before he'll work. Golden afternoon light illuminates their worn cotton garments and determined faces, the vast drained lake bed stretching behind them. Traditional Chinese rural realism style, oil painting texture, warm earthy tones, documentary authenticity capturing the tension of collective persuasion.",
+      "image": "reader_images/reader_20260313_221027.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 832363305,
+      "created_at": "2026-03-13T22:10:27.072999+08:00"
     }
   ],
   "book_total_chars": 92814,
