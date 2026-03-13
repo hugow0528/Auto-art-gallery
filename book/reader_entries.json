@@ -2591,6 +2591,18 @@
       "image_model": "flux-2-dev",
       "seed": 495709409,
       "created_at": "2026-03-13T19:06:56.158018+08:00"
+    },
+    {
+      "id": "20260313_190736",
+      "offset_start": 16629,
+      "offset_end": 16698,
+      "text": "冬天，他下穿\n短褲，上穿打着補丁的長袍，胸前由於飯菜長期浸潤而無比光滑。\n兵桃比之驊大一歲，之驊經常進出兵桃家，看爺孫倆做事，看他們喫飯。",
+      "prompt": "In a humble, dimly lit winter cottage during a harsh ancient Chinese cold season, depict Zhi Hua, a young boy, peering through a weathered wooden doorframe into the modest home of elderly Bing Tao and his grandson. Bing Tao, an aged man one year older than Zhi Hua's father, sits cross-legged at a low table eating simple rice and vegetables, dressed in threadbare shorts below a patched long robe with a glossy, food-stained chest from years of meager meals; the grandson mirrors his poverty-stricken routine nearby. Convey a poignant atmosphere of stark poverty and quiet resilience with muted earthy tones, soft flickering lantern light casting long shadows, in a realistic ink-wash style inspired by traditional Chinese literati paintings, emphasizing textured fabrics, frost-kissed windows, and subtle emotional intimacy.",
+      "image": "reader_images/reader_20260313_190736.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 400985087,
+      "created_at": "2026-03-13T19:07:36.726563+08:00"
     }
   ],
   "book_total_chars": 92814,
