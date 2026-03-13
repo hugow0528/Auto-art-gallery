@@ -1259,6 +1259,18 @@
       "image_model": "flux",
       "seed": 1292132822,
       "created_at": "2026-03-13T08:55:14.667802+08:00"
+    },
+    {
+      "id": "20260313_093844",
+      "offset_start": 8573,
+      "offset_end": 8662,
+      "text": "時局如此混亂，一下船恐怕前途\n未卜；可此番若不見老父一面，今生或許再難相見……他在兩種思緒中掙扎無\n果，索性出了艙室，徑直走到甲板上向一位張姓同仁請教，此人素有「張半仙」\n之稱。",
+      "prompt": "A distressed Chinese man in a long gown stands alone on the deck of a wooden steamship at dusk, gazing toward the distant shore with a tortured expression, the murky sky heavy with clouds reflecting his inner turmoil. On the deck nearby sits an enigmatic middle-aged man with long whiskers and piercing eyes, dressed in traditional robes, smoking a pipe with an air of mystery—this is the famed \"Zhang the Half-Immortal.\" Fog rolls across the river as the ship rocks gently, capturing the era's chaos and the poignant father-son separation hanging in the air. In the style of 1930s Chinese ink wash painting meets cinematic realism, moody lighting",
+      "image": "reader_images/reader_20260313_093844.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 375336980,
+      "created_at": "2026-03-13T09:38:44.390708+08:00"
     }
   ],
   "book_total_chars": 92814,
