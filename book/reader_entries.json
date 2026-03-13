@@ -1751,6 +1751,18 @@
       "image_model": "flux",
       "seed": 396061598,
       "created_at": "2026-03-13T13:30:55.954531+08:00"
+    },
+    {
+      "id": "20260313_133511",
+      "offset_start": 11795,
+      "offset_end": 11857,
+      "text": "子恆開心地喊：「爸爸送東西來了！」一邊飛奔進屋告訴秋園。難\n以置信，居然是個空桶，裡面啥也沒有。鄉丁說，楊鄉長讓拿回來裝米。",
+      "prompt": "A young boy named Zi Heng, beaming with excitement, dashes into a traditional Chinese rural courtyard with whitewashed walls and tiled roofs, shouting to his mother Qiu Yuan inside the dimly lit wooden home, while a village official hands over a large empty wooden rice bucket to a surprised father. The atmosphere blends initial joy turning to disbelief under warm golden afternoon sunlight filtering through village alleys lined with potted plants and trickling canals, capturing harmonious rural life in Anhui-style ancient village architecture.[1][3] Render in detailed realistic style inspired by Chinese ink wash painting with vibrant earth tones, soft lighting, and a sense of quaint disappointment amidst everyday simplicity.",
+      "image": "reader_images/reader_20260313_133511.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 191513428,
+      "created_at": "2026-03-13T13:35:11.506602+08:00"
     }
   ],
   "book_total_chars": 92814,
