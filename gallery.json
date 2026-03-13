@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_193247",
+      "filename": "images/artwork_20260313_193247.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "A vast Caravan of wandering figures in flowing baroque robes journeys across a dramatic golden-hour landscape, their silhouettes emerging from billowing storm clouds, deep blacks and luminous gold create theatrical chiaroscuro as they traverse ancient architectural ruins and winding desert paths, ornate details in their garments catch the muted overcast light while distant mountains fade into atmospheric haze, the composition captures the serene dignity of human migration with rich velvet textures, sculptural depth and Renaissance-inspired grandeur conveying timeless resilience and peaceful wanderlust against nature's powerful elements",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 390946935,
+      "created_at": "2026-03-13T19:32:47.049304+08:00"
+    },
+    {
       "id": "20260313_190612",
       "filename": "images/artwork_20260313_190612.jpg",
       "topic": "social media culture and human connection",
