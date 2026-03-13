@@ -1919,6 +1919,18 @@
       "image_model": "grok-imagine",
       "seed": 1663685906,
       "created_at": "2026-03-13T14:35:38.377237+08:00"
+    },
+    {
+      "id": "20260313_145950",
+      "offset_start": 12859,
+      "offset_end": 12932,
+      "text": "23\n\n\f四\n那年恰逢乾旱，兩三個月都沒有下過一滴雨。一大清早，太陽就像個火球似的高\n懸在天，隨着時間推移漸漸升高，愈發熾熱、白亮，不可逼視。",
+      "prompt": "A barren, cracked-earth landscape under a harsh, white-hot sun blazing like a fireball in a bleached, hazy sky. The light is intense and unforgiving, casting sharp, short shadows on the parched ground. Realistic style with a focus on extreme heat haze and desolate, dry textures.",
+      "image": "reader_images/reader_20260313_145950.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 542949471,
+      "created_at": "2026-03-13T14:59:50.960331+08:00"
     }
   ],
   "book_total_chars": 92814,
