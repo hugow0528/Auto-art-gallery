@@ -2879,6 +2879,18 @@
       "image_model": "grok-imagine",
       "seed": 529709552,
       "created_at": "2026-03-13T21:43:38.358809+08:00"
+    },
+    {
+      "id": "20260313_214421",
+      "offset_start": 18105,
+      "offset_end": 18179,
+      "text": "一天，兵桃很神祕地找秋園要根麻繩，也不講做什麼用。秋園問他要多粗的，兵\n桃剛好看到牆上掛了根麻繩，便說：「這根就要得，我先拿去，明天再告訴你\n聽。",
+      "prompt": "A mysterious afternoon scene in a modest Chinese home or courtyard, where a young man named Bingao approaches another figure named Qiuyuan with an air of intrigue and secrecy. Bingao points to a coarse hemp rope hanging on a whitewashed wall, his expression enigmatic and playful, while Qiuyuan stands nearby with curiosity and mild bewilderment. The lighting is soft and natural, filtered through traditional windows, casting gentle shadows across worn wooden beams and simple furnishings. The mood is intimate and subtly suspenseful, rendered in a classical Chinese ink-wash painting style with muted earth tones, delicate brushwork, and a sense of quiet domestic mystery tinged with humor.",
+      "image": "reader_images/reader_20260313_214421.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1174630853,
+      "created_at": "2026-03-13T21:44:21.410786+08:00"
     }
   ],
   "book_total_chars": 92814,
