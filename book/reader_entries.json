@@ -2003,6 +2003,18 @@
       "image_model": "imagen-4",
       "seed": 1739407123,
       "created_at": "2026-03-13T15:16:25.796007+08:00"
+    },
+    {
+      "id": "20260313_152812",
+      "offset_start": 13319,
+      "offset_end": 13381,
+      "text": "一天上午，家裡來了四個穿長袍的紳士模樣的人。他們坐定後，秋園泡了豆子芝\n麻茶、遞了煙，心裡卻好生納悶，不知道他們來幹什麼。",
+      "prompt": "A calm, early morning interior scene in a traditional Chinese courtyard house. Four distinguished gentlemen in flowing dark robes are seated, their faces a mix of polite curiosity. The atmosphere is quiet and expectant, illuminated by soft, diffused sunlight filtering through paper screens. The style should be a detailed, painterly realism, reminiscent of traditional Chinese ink wash paintings but with richer color and texture.",
+      "image": "reader_images/reader_20260313_152812.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1090563664,
+      "created_at": "2026-03-13T15:28:12.844052+08:00"
     }
   ],
   "book_total_chars": 92814,
