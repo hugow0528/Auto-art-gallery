@@ -1271,6 +1271,18 @@
       "image_model": "flux",
       "seed": 375336980,
       "created_at": "2026-03-13T09:38:44.390708+08:00"
+    },
+    {
+      "id": "20260313_102340",
+      "offset_start": 8662,
+      "offset_end": 8734,
+      "text": "「你替我算算，我究竟該下船還是跟着船走？」仁受焦急地問道。\n張半仙回到艙室，鄭重地替仁受打了一卦。卦象顯示，仁受該下船，回湖南鄉下\n看望老父。",
+      "prompt": "A Chinese man in traditional robes kneels anxiously on the deck of an old wooden river boat, his face worried as he clasps his hands together, while a bearded fortune-teller in a dark robe sits cross-legged before him, carefully casting wooden divination sticks onto a small mat, with misty waters of a rural Chinese river stretching behind them and willow trees on the banks, in a traditional Chinese ink wash painting style with soft golden light at dusk.",
+      "image": "reader_images/reader_20260313_102340.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 941304013,
+      "created_at": "2026-03-13T10:23:40.537240+08:00"
     }
   ],
   "book_total_chars": 92814,
