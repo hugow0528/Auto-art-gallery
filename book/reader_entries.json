@@ -4091,6 +4091,18 @@
       "image_model": "zimage",
       "seed": 391102047,
       "created_at": "2026-03-14T05:36:35.044224+08:00"
+    },
+    {
+      "id": "20260314_054220",
+      "offset_start": 25206,
+      "offset_end": 25284,
+      "text": "這個屋場叫黃泥衝。近鄰就是滿娭毑和滿老倌。仁受家的屋子與滿家緊挨着，僅\n一牆之隔，有兩間臥室、一個堂屋、一間小廚房。屋裡很暗，全靠屋頂的明瓦透\n進來光線。",
+      "prompt": "A modest rural Chinese dwelling in a village called Huangnizhong, with weathered mud-brick walls standing closely adjacent to a neighbor's home, separated only by a thin shared wall. The interior is dim and sparse, containing two bedrooms, a central hall, and a small kitchen, with light filtering through frosted glass tiles in the roof creating soft, diffused illumination that pools across the wooden floors. The atmosphere is one of humble simplicity and quiet domesticity, with warm earth tones and shadows creating a sense of intimacy and isolation. Paint this in a realistic, naturalistic style reminiscent of early 20th-century Chinese rural realism, with careful attention to the interplay of natural light and shadow, worn textures of aged materials, and the modest dignity of working-class life.",
+      "image": "reader_images/reader_20260314_054220.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1763769215,
+      "created_at": "2026-03-14T05:42:20.109220+08:00"
     }
   ],
   "book_total_chars": 92814,
