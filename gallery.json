@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_055307",
+      "filename": "images/artwork_20260314_055307.jpg",
+      "topic": "music and the evolution of sound",
+      "prompt": "A ghostly orchestra of translucent instruments and phantom musicians rises from a crumbling amphitheater, their forms dissolving into swirling vortexes of sound represented as jagged waves of blue and violet light, while above a thunderous storm rages through铅灰色的天空，闪电 illuminate the twisted metallic remains of forgotten synthesizers and brass instruments fused together into impossible sculptural forms, rendered in the turbulent brushstrokes of impressionism with thick impasto textures capturing the chaos of sound evolving into darkness",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1003800428,
+      "created_at": "2026-03-14T05:53:07.764151+08:00"
+    },
+    {
       "id": "20260314_052934",
       "filename": "images/artwork_20260314_052934.jpg",
       "topic": "renewable energy and sustainable living",
