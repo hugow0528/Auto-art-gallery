@@ -3551,6 +3551,18 @@
       "image_model": "zimage",
       "seed": 1842552766,
       "created_at": "2026-03-14T01:52:16.451322+08:00"
+    },
+    {
+      "id": "20260314_015341",
+      "offset_start": 22044,
+      "offset_end": 22113,
+      "text": "我這\n身子，看樣子也沒幾年了。」\n貴嬸看到自己娘家侄子瘦骨嶙峋，心裡好難過。連忙出門稱了肉，買了豆腐，還\n煮了三個荷包蛋，讓正凱一個人喫。",
+      "prompt": "A humble, dimly lit kitchen interior, filled with the warm, comforting aroma of home cooking. An elderly woman, her face etched with deep concern and love, watches her gaunt nephew. He sits alone at a simple wooden table, a steaming bowl of food and three perfectly cooked eggs before him, his skeletal frame a stark contrast to the abundance on the table. The scene is rendered in a soft, painterly style reminiscent of Dutch Golden Age genre painting, with chiaroscuro lighting emphasizing the emotional weight of the moment.",
+      "image": "reader_images/reader_20260314_015341.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2015438104,
+      "created_at": "2026-03-14T01:53:42.015163+08:00"
     }
   ],
   "book_total_chars": 92814,
