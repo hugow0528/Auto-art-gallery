@@ -2771,6 +2771,18 @@
       "image_model": "flux-2-dev",
       "seed": 2121953487,
       "created_at": "2026-03-13T20:26:03.437509+08:00"
+    },
+    {
+      "id": "20260313_202704",
+      "offset_start": 17566,
+      "offset_end": 17661,
+      "text": "撿了兩條命，活到如今。\n\n32\n\n\f四\n四老倌家養着頭大黃牛，天剛麻麻亮，兵桃便牽着牛出門。牛喫青草，兵桃割青\n草。牛喫飽了，兵桃背上一捆青草，牽着牛回家，把青草放在牛欄裏，把牛關進\n欄裏。",
+      "prompt": "A young boy, Bing Tao, leads a large yellow ox through a misty, pre-dawn rural landscape as the sky just begins to lighten. Bing Tao carries a scythe, and the ox's breath mists in the cool air as they walk along a path lined with dew-kissed grass. The scene should be rendered in a traditional Chinese ink wash painting style, with a serene and slightly melancholic atmosphere, muted colors, and soft, diffused lighting.",
+      "image": "reader_images/reader_20260313_202704.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1337193929,
+      "created_at": "2026-03-13T20:27:04.911414+08:00"
     }
   ],
   "book_total_chars": 92814,
