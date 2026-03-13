@@ -3323,6 +3323,18 @@
       "image_model": "gptimage",
       "seed": 1880595409,
       "created_at": "2026-03-14T00:06:33.389287+08:00"
+    },
+    {
+      "id": "20260314_002020",
+      "offset_start": 20808,
+      "offset_end": 20877,
+      "text": "貴嬸進屋去看小泉，看到\n她褲子上有血，知道她是頭一回做大人，就說：「小泉莫怕，以後每個月都會有\n些血來的，來了才會肚子痛，這叫『做大人』。",
+      "prompt": "In a dimly lit traditional Chinese siheyuan bedroom with wooden lattice screens and carved furniture, an elderly aunt in a flowing qipao kneels gently beside a frightened young girl named Xiao Quan sitting on a low bed, her pants subtly stained with blood. The aunt's face conveys tender reassurance under soft lantern light filtering through paper windows, casting warm shadows on red silk hangings and ancestral shrine tablets in the background. Render in realistic style with muted earth tones, intimate atmosphere of quiet empathy and cultural rite of passage, inspired by Ming dynasty interiors.",
+      "image": "reader_images/reader_20260314_002020.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1959606508,
+      "created_at": "2026-03-14T00:20:20.435726+08:00"
     }
   ],
   "book_total_chars": 92814,
