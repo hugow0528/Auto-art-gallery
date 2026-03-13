@@ -2999,6 +2999,18 @@
       "image_model": "grok-imagine",
       "seed": 832363305,
       "created_at": "2026-03-13T22:10:27.072999+08:00"
+    },
+    {
+      "id": "20260313_221204",
+      "offset_start": 18710,
+      "offset_end": 18799,
+      "text": "34\n\n\f五\n徐老先生的吝嗇是出了名的，在他家做過佃農的人都知道。幸虧有個徐娭毑爲人\n厚道。佃農一般不上桌喫飯，坐在竈間喫飯，徐老先生給他們盛的飯和菜都很有\n限，往往喫不飽。",
+      "prompt": "A dimly lit, rustic kitchen in rural China. A kind-faced elderly woman, Xu Auntie, with a gentle smile, ladles a meager portion of rice and vegetables from a large pot into a bowl for a thin, weary tenant farmer. The atmosphere is one of quiet hardship, rendered in the style of traditional Chinese ink wash painting with muted, earthy tones and soft, diffused lighting.",
+      "image": "reader_images/reader_20260313_221204.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 459094067,
+      "created_at": "2026-03-13T22:12:04.453375+08:00"
     }
   ],
   "book_total_chars": 92814,
