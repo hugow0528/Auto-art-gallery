@@ -2423,6 +2423,18 @@
       "image_model": "zimage",
       "seed": 127371766,
       "created_at": "2026-03-13T17:58:26.987679+08:00"
+    },
+    {
+      "id": "20260313_180216",
+      "offset_start": 15680,
+      "offset_end": 15774,
+      "text": "秋園又有喜了，肚子一天天大起來。\n\n29\n\n\f二\n屋主徐老先生叫徐屬文，這花屋是他父親留下來的。徐老先生有牛皮癬，奇癢，\n走到哪裡抓撓到哪裡，抓撓起來發出嘁咔嘁咔的聲音，地上落一片白屑。",
+      "prompt": "An elderly man, Xu Shuwén, with a severe case of psoriasis, scratches his dry, flaky skin compulsively, showering the floor with white dandruff. He stands in a dimly lit, old-fashioned flower shop filled with wilting plants, the air thick with dust and decay. The scene is rendered in a somber, Dutch Golden Age painting style, with chiaroscuro lighting emphasizing the textures of his skin and the surrounding grime.",
+      "image": "reader_images/reader_20260313_180216.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1471486034,
+      "created_at": "2026-03-13T18:02:16.213058+08:00"
     }
   ],
   "book_total_chars": 92814,
