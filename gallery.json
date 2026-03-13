@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_043515",
+      "filename": "images/artwork_20260314_043515.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A tranquil watercolor painting depicting ethereal figures composed of soft, flowing lines, subtly merging with abstract representations of digital networks, all bathed in a gentle, bioluminescent glow. The scene evokes a peaceful and serene mood, with a cool color palette dominated by deep indigos, soft lavenders, and shimmering aquamarines, illustrating the delicate threads of human connection woven through the digital age. Award-winning, hyper-detailed, visually stunning.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1744559568,
+      "created_at": "2026-03-14T04:35:15.054287+08:00"
+    },
+    {
       "id": "20260313_233838",
       "filename": "images/artwork_20260313_233838.jpg",
       "topic": "mental health awareness in the digital age",
