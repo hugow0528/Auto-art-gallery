@@ -2171,6 +2171,18 @@
       "image_model": "gptimage",
       "seed": 2014711343,
       "created_at": "2026-03-13T16:06:30.844415+08:00"
+    },
+    {
+      "id": "20260313_162234",
+      "offset_start": 14250,
+      "offset_end": 14312,
+      "text": "您看轎子是來一頂還是兩頂？再來兩部土車子推行李。」秋園\n說：「轎子來一頂就夠了。我兒子下半年就是中學生了，十幾裏路他可以走。",
+      "prompt": "A realistic historical painting of a modestly dressed mother seated in a simple wooden sedan chair carried by two porters on a dusty village path in early 20th century China. Beside her walks her teenage son, determined and looking ahead, as a wooden cart with luggage follows behind. Soft morning light, muted earthy tones, and an atmosphere of quiet resolve.",
+      "image": "reader_images/reader_20260313_162234.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1774441677,
+      "created_at": "2026-03-13T16:22:34.666760+08:00"
     }
   ],
   "book_total_chars": 92814,
