@@ -4415,6 +4415,18 @@
       "image_model": "zimage",
       "seed": 1052584241,
       "created_at": "2026-03-14T07:44:28.758110+08:00"
+    },
+    {
+      "id": "20260314_074612",
+      "offset_start": 26941,
+      "offset_end": 27006,
+      "text": "冇得豆子芝麻，鬼才相信，還不是捨不得給\n別人喫。鄉裏人寧願不喫飯，豆子芝麻是要買好放起的，來了人客好泡茶。冇看\n過咯樣厲害的堂客！",
+      "prompt": "A stern elderly woman in traditional rural Chinese clothing stands in a dim kitchen, clutching a small clay jar of beans and sesame seeds, her face marked with stubborn pride and frugality. Surrounding her are weathered wooden cupboards and simple earthenware, with a wiry visitor in the doorway expressing disbelief and disapproval at her stinginess. Soft morning light filters through a small window, illuminating dust particles in the cramped, humble dwelling. The scene captures the tension between rural hospitality customs and the harsh realities of peasant life, rendered in a documentary-style with muted earth tones reminiscent of 1950s Chinese rural photography.",
+      "image": "reader_images/reader_20260314_074612.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1072904187,
+      "created_at": "2026-03-14T07:46:13.002514+08:00"
     }
   ],
   "book_total_chars": 92814,
