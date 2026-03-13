@@ -1967,6 +1967,18 @@
       "image_model": "gptimage",
       "seed": 457685964,
       "created_at": "2026-03-13T15:11:42.912182+08:00"
+    },
+    {
+      "id": "20260313_151457",
+      "offset_start": 13163,
+      "offset_end": 13243,
+      "text": "秋園心情好的時候，偶爾會讓兩個小女兒玩玩這稀罕\n的物什。\n皮夾子裡只剩下四塊銀圓和爲數不多的紙幣。秋園把它們數了又數，嘆口氣，又\n把皮夾放回箱底，重新鎖上箱子。",
+      "prompt": "A dimly lit, old wooden chest sits in a sparsely furnished room, its lid slightly ajar. Inside, a worn leather wallet is visible, containing a few silver coins and some paper money. The atmosphere is one of quiet melancholy and faded wealth. Artistic style: realistic, with a focus on muted colors and soft, dramatic lighting.",
+      "image": "reader_images/reader_20260313_151457.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 592899819,
+      "created_at": "2026-03-13T15:14:57.427450+08:00"
     }
   ],
   "book_total_chars": 92814,
