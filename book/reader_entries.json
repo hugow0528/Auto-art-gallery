@@ -1343,6 +1343,18 @@
       "image_model": "zimage",
       "seed": 647594748,
       "created_at": "2026-03-13T11:13:44.245572+08:00"
+    },
+    {
+      "id": "20260313_111646",
+      "offset_start": 9123,
+      "offset_end": 9211,
+      "text": "聽說\n仁受帶着家眷回來，均良家堂屋裡早就圍滿了人。鄉黨們要看看這個大官帶回來\n多少金銀財寶，還要看看他的嬌妻。\n秋園還是穿着那件深藍夾袍，燙髮，踩圓口黑皮鞋，戴着耳環和金戒指。",
+      "prompt": "A bustling, grand hall in a traditional Chinese courtyard house, filled with curious villagers gathered around. The atmosphere is expectant and slightly awe-struck, illuminated by the warm, natural light filtering through open doors and windows. In the center stands Qiuyuan, dressed in a deep blue padded robe, with permed hair, round-toed black leather shoes, earrings, and gold rings, exuding an aura of modern elegance amidst the traditional setting. The artistic style should be realistic with a touch of old Hollywood glamour, emphasizing rich textures and dramatic lighting.",
+      "image": "reader_images/reader_20260313_111646.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1228154915,
+      "created_at": "2026-03-13T11:16:46.471303+08:00"
     }
   ],
   "book_total_chars": 92814,
