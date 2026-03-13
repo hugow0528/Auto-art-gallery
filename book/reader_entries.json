@@ -3383,6 +3383,18 @@
       "image_model": "zimage",
       "seed": 568246095,
       "created_at": "2026-03-14T00:55:27.636018+08:00"
+    },
+    {
+      "id": "20260314_005621",
+      "offset_start": 21172,
+      "offset_end": 21292,
+      "text": "貴嬸走進竈屋去找子文。竈屋裡冷火秋煙，子文剛從外面收工回來，正坐在椅子\n上脫腳上的爛鞋子。貴嬸在舊碗櫥上拿了張裁剪好的報紙片，又用拇指和食指從\n竹筒裏捻出葉子煙放在報紙上，捲成一根紙煙，這才走到子文面前，一邊遞過煙\n去，一邊硬堆出笑容來。",
+      "prompt": "A dim, cold kitchen with smoke-stained walls and an old wooden cabinet, a tired man sitting on a chair removing worn-out work shoes, an older woman in worn clothes rolling a cigarette with careful hands from newspaper and tobacco, the woman forcing a tense smile while offering the cigarette, soft gray light filtering through a small window, a gritty realistic style with muted earth",
+      "image": "reader_images/reader_20260314_005621.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 794698636,
+      "created_at": "2026-03-14T00:56:21.063411+08:00"
     }
   ],
   "book_total_chars": 92814,
