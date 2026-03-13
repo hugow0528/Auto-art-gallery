@@ -2891,6 +2891,18 @@
       "image_model": "gptimage",
       "seed": 1174630853,
       "created_at": "2026-03-13T21:44:21.410786+08:00"
+    },
+    {
+      "id": "20260313_214559",
+      "offset_start": 18179,
+      "offset_end": 18250,
+      "text": "」\n第二天黃昏時分，兵桃像只甲殼蟲樣來到秋園家，手裡拿着那根麻繩，悠悠地對\n秋園說：「今天又會屙尿在牀上，以後還會屙。」\n秋園說：「昨晚沒屙？",
+      "prompt": "A dimly lit, rustic room at dusk. A young woman, Qiuyuan, with a worried expression, sits on a simple wooden bed. A man, Bingtao, stands before her, holding a coiled rope, his face conveying a sense of grim prophecy. The atmosphere is heavy with unspoken tension and a sense of foreboding. Realistic painting style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260313_214559.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 263889039,
+      "created_at": "2026-03-13T21:45:59.729726+08:00"
     }
   ],
   "book_total_chars": 92814,
