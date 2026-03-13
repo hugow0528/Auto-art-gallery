@@ -3407,6 +3407,18 @@
       "image_model": "flux",
       "seed": 480264239,
       "created_at": "2026-03-14T00:58:16.024538+08:00"
+    },
+    {
+      "id": "20260314_010035",
+      "offset_start": 21361,
+      "offset_end": 21423,
+      "text": "貴嬸又說：\n「只有五寸來長，像只沒尾巴的老鼠。」\n好比一聲炸雷，子文聽得清清楚楚。\n貴嬸接着說：「你看要莫要？要不丟了算了？",
+      "prompt": "In a dimly lit traditional Chinese bedroom with wooden furniture and flickering candlelight casting dramatic shadows, an elegant middle-aged aunt in silk qipao leans forward conspiratorially toward a shocked young man named Ziwen, her hand gesturing dismissively as if discarding something small. Ziwen freezes in horror, thunderbolt-like energy crackling around his wide-eyed face, evoking the impact of a sudden bombshell revelation about a tiny, tailless rat-like object. Render in cinematic realism with moody chiaroscuro lighting, intense emotional tension, and intricate period details in the style of Chinese ink wash painting blended with photorealism.",
+      "image": "reader_images/reader_20260314_010035.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1202155851,
+      "created_at": "2026-03-14T01:00:35.463625+08:00"
     }
   ],
   "book_total_chars": 92814,
