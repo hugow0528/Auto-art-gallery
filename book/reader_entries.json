@@ -2735,6 +2735,18 @@
       "image_model": "flux",
       "seed": 1151082656,
       "created_at": "2026-03-13T19:53:23.586942+08:00"
+    },
+    {
+      "id": "20260313_195724",
+      "offset_start": 17359,
+      "offset_end": 17424,
+      "text": "一雙乾瘦的手伸向彼此袖\n筒取暖，手背就像洗不乾淨的抹桌布，指甲很長，裡面嵌滿了污垢。\n串門聊天時，自然少不了講起日本鬼子進村的事。",
+      "prompt": "In a dimly lit rural Chinese village home during wartime dusk, two elderly peasants with gaunt, weathered faces huddle intimately on a worn wooden bench, their bony, dirt-streaked hands—resembling stained dishcloths with long, grime-encrusted nails—extending from tattered sleeves to clasp for warmth. Subtle expressions of hardship and reminiscence cross their features as they chat about Japanese invaders, surrounded by sparse furnishings, flickering oil lamp light casting long shadows on mud walls adorned with faded posters. Render in a gritty realist style like that of WWII-era Chinese woodblock prints by Li Huasheng, with muted earth tones, somber atmosphere evoking poverty and quiet resilience.",
+      "image": "reader_images/reader_20260313_195724.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 422570189,
+      "created_at": "2026-03-13T19:57:24.751970+08:00"
     }
   ],
   "book_total_chars": 92814,
