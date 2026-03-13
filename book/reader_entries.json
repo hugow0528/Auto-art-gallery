@@ -2483,6 +2483,18 @@
       "image_model": "imagen-4",
       "seed": 523712016,
       "created_at": "2026-03-13T18:22:02.921786+08:00"
+    },
+    {
+      "id": "20260313_182247",
+      "offset_start": 16019,
+      "offset_end": 16108,
+      "text": "徐正明三十幾歲還沒討到堂客，這事成了徐老先生和徐娭毑的心病。老兩口一門\n心思要在有生之年把正明的婚事解決，否則死不瞑目。徐娭毑到處託人說媒，相\n了很多親，都是女方看不中徐正明。",
+      "prompt": "An elderly Chinese couple sit in a humble kitchen, the grandmother clutching a photograph with worried furrowed brows while the grandfather sighs deeply, afternoon light filtering through gauze curtains onto worn wooden furniture, creating a somber domestic atmosphere reminiscent of traditional Chinese ink wash painting with muted earth tones and emotional depth.",
+      "image": "reader_images/reader_20260313_182247.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1413888203,
+      "created_at": "2026-03-13T18:22:47.919726+08:00"
     }
   ],
   "book_total_chars": 92814,
