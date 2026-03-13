@@ -3083,6 +3083,18 @@
       "image_model": "zimage",
       "seed": 180378053,
       "created_at": "2026-03-13T22:37:51.405694+08:00"
+    },
+    {
+      "id": "20260313_225505",
+      "offset_start": 19171,
+      "offset_end": 19257,
+      "text": "」男人說：「不是，我們是來給他們做長工\n的。」秋園說：「這就是徐老先生家，你們把東西放到這裡，先進去和他們打個\n招呼吧。」\n一家人把籮筐放下，秋園帶着他們經過天井到了堂屋。",
+      "prompt": "A modest Chinese family carrying worn bamboo baskets stands in the courtyard of a traditional sedan-chair house, a woman in simple clothing gesturing toward the interior doorway. The scene captures early 20th century rural China with warm afternoon light streaming through the open skywell (tianjing), casting soft shadows on the flagstone floor. The family appears humble but determined, their belongings bundled in cloth",
+      "image": "reader_images/reader_20260313_225505.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1863456460,
+      "created_at": "2026-03-13T22:55:05.676729+08:00"
     }
   ],
   "book_total_chars": 92814,
