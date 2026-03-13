@@ -4043,6 +4043,18 @@
       "image_model": "flux",
       "seed": 1904347653,
       "created_at": "2026-03-14T05:03:16.768135+08:00"
+    },
+    {
+      "id": "20260314_050608",
+      "offset_start": 24838,
+      "offset_end": 24932,
+      "text": "凡是熟人的房子，\n他都不好意思住得，想出種種理由拒絕。土改幹部最後索性說：「那你自己去物\n色房子，看中了，就分給你們。」\n幾經周折，仁受終於在離花屋小學六七裏的另一個村子裡看中了幾間空房。",
+      "prompt": "A weary but determined rural man, dressed in simple, faded cotton clothing, stands surveying a cluster of empty, traditional Chinese houses in a tranquil, dusty village. Sunlight filters through sparse trees, casting long shadows and imbuing the scene with a sense of quiet contemplation and hopeful beginnings. The overall aesthetic should be reminiscent of classic Chinese ink wash painting with a touch of photorealism, emphasizing earthy tones and a feeling of humble resilience.",
+      "image": "reader_images/reader_20260314_050608.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 2007217217,
+      "created_at": "2026-03-14T05:06:08.935560+08:00"
     }
   ],
   "book_total_chars": 92814,
