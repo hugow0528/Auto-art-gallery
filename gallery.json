@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260313_233838",
+      "filename": "images/artwork_20260313_233838.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "An abstract expressionist explosion of swirling terracotta and deep earth tones, bathed in the sharp contrast of moonlight and deep, dynamic shadows, representing the vibrant, energetic yet sometimes isolating nature of digital connection and mental well-being. Jagged lines and fluid brushstrokes converge, suggesting both the overwhelming noise of online life and the fragile beauty of inner resilience, creating a visually stunning, award-winning composition that pulses with raw emotion and contemplative energy.",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1206388457,
+      "created_at": "2026-03-13T23:38:38.195807+08:00"
+    },
+    {
       "id": "20260313_230734",
       "filename": "images/artwork_20260313_230734.jpg",
       "topic": "fashion meets technology",
