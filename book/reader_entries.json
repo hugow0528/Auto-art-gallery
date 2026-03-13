@@ -1607,6 +1607,18 @@
       "image_model": "flux-2-dev",
       "seed": 538389337,
       "created_at": "2026-03-13T12:56:52.118531+08:00"
+    },
+    {
+      "id": "20260313_125712",
+      "offset_start": 10764,
+      "offset_end": 10862,
+      "text": "20\n\n\f三\n仁受中等個兒、國字臉，長得白淨、周正，性情愚雅、慈悲、和藹可親。他平日\n戴禮帽、穿長袍，架一副金絲邊眼鏡，拄一根文明棍，腳上的白底千層布鞋總是\n一塵不染，與鄉間氛圍有些格格不入。",
+      "prompt": "A scholarly, kind-faced man with a square face, fair complexion, and a gentle demeanor, dressed in a traditional long robe and a fedora hat, with gold-rimmed glasses and a walking stick, stands immaculately in a dusty rural village lane, his white cloth shoes spotless against the earthy surroundings. The atmosphere is one of quiet dignity and slight incongruity, rendered in the style of traditional Chinese ink wash painting with soft, diffused natural light.",
+      "image": "reader_images/reader_20260313_125712.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 2078532108,
+      "created_at": "2026-03-13T12:57:12.154957+08:00"
     }
   ],
   "book_total_chars": 92814,
