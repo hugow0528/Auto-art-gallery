@@ -3299,6 +3299,18 @@
       "image_model": "flux",
       "seed": 1041821241,
       "created_at": "2026-03-14T00:03:24.550394+08:00"
+    },
+    {
+      "id": "20260314_000418",
+      "offset_start": 20638,
+      "offset_end": 20739,
+      "text": "人像瘋了樣，煩躁得不得\n了，後來又變得安靜了。大家都以爲小泉媽會好起來，結果還是死了。\n小泉就這樣成了邱家的人。貴嬸把她安置在國臣那間茅草屋裡，讓兩個十來歲的\n伢崽睡一牀，準備到十六七歲時就給他們圓房。",
+      "prompt": "In a dimly lit, thatched-roof茅草屋 of a traditional rural Chinese village, a stern middle-aged woman known as 貴嬸 arranges a young girl of about twelve, 小泉, to share a simple wooden bed with a teenage boy of similar age, Guo Chen, their faces showing quiet resignation under the weight of impending arranged marriage. Flickering oil lamp light casts long shadows on cracked mud walls and sparse straw bedding, evoking a heavy atmosphere of familial duty, poverty, and subdued tragedy following a mother's death. Render in the style of realistic Chinese ink wash painting with earthy tones, soft diffused moonlight filtering through small windows, intricate details on worn wooden textures, somber mood emphasizing isolation and inevitability.",
+      "image": "reader_images/reader_20260314_000418.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 319651965,
+      "created_at": "2026-03-14T00:04:18.501063+08:00"
     }
   ],
   "book_total_chars": 92814,
