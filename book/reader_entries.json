@@ -2963,6 +2963,18 @@
       "image_model": "gptimage",
       "seed": 1719941332,
       "created_at": "2026-03-13T22:05:28.305850+08:00"
+    },
+    {
+      "id": "20260313_220644",
+      "offset_start": 18566,
+      "offset_end": 18644,
+      "text": "他以爲是\n條蛔蟲，使勁扯出來一看，原來是條黑黑的又大又長的牛螞蟥。屁眼不停地流着\n血，平時敢怒不敢言的兵桃暴怒了：他坐在地上，大哭不止，惹得衆人紛紛來\n看。",
+      "prompt": "A distressed Chinese soldier named Bingtao sits on the muddy ground in a crowded military camp, his face contorted in rage and tears streaming down his cheeks as he clutches a large, black, elongated cow leech in his bloodied hand, with fresh blood dripping from his exposed rear. Onlookers in ragged uniforms gather around in shock and curiosity, under dim, overcast daylight filtering through a humid, tropical forest edge, evoking a raw, visceral atmosphere of humiliation and fury. Render in hyper-realistic style with dramatic chiaroscuro lighting, gritty textures, and earthy tones inspired by 19th-century Chinese ink wash painting meets modern photorealism.",
+      "image": "reader_images/reader_20260313_220644.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 24765575,
+      "created_at": "2026-03-13T22:06:44.255642+08:00"
     }
   ],
   "book_total_chars": 92814,
