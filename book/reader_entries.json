@@ -2039,6 +2039,18 @@
       "image_model": "grok-imagine",
       "seed": 840443136,
       "created_at": "2026-03-13T15:34:28.872015+08:00"
+    },
+    {
+      "id": "20260313_153511",
+      "offset_start": 13579,
+      "offset_end": 13652,
+      "text": "」\n\n24\n\n\f秋園心中激動不已，面上依舊平靜：「既然這樣，我答應你們四位就是。四位跑\n了十幾裏路來請我，總不能餓着肚子回去，就在這裡喫餐便飯吧。",
+      "prompt": "A modest, sun-dappled courtyard in autumn, with fallen leaves scattered on flagstones. A young woman, Qiu Yuan, with a serene expression, sits at a simple wooden table, gesturing politely towards a steaming bowl of food. Four weary travelers stand nearby, their faces alight with anticipation and gratitude. The scene evokes a feeling of quiet hospitality and relief, rendered in the style of a classical Chinese ink wash painting with soft, natural lighting.",
+      "image": "reader_images/reader_20260313_153511.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1242086210,
+      "created_at": "2026-03-13T15:35:11.687051+08:00"
     }
   ],
   "book_total_chars": 92814,
