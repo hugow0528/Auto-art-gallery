@@ -3455,6 +3455,18 @@
       "image_model": "imagen-4",
       "seed": 237695783,
       "created_at": "2026-03-14T01:08:37.510294+08:00"
+    },
+    {
+      "id": "20260314_011000",
+      "offset_start": 21560,
+      "offset_end": 21631,
+      "text": "這回是千不該萬不該讓兩個細伢子早早地困在一起。我真蠢哪，\n該想到的事冇想到。」\n貴嬸連忙去找小泉，勸她莫哭了，冇得辦法的事，哭壞了身子划不來。",
+      "prompt": "A domestic scene in a simple bedroom at dusk, with two young children sleeping closely together on a shared bed. An older woman leans over one child, her face etched with regret and tenderness, illuminated by the soft, somber glow of a single oil lamp. Realistic oil painting style with muted, warm tones and a melancholic, intimate atmosphere.",
+      "image": "reader_images/reader_20260314_011000.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1699927548,
+      "created_at": "2026-03-14T01:10:00.163852+08:00"
     }
   ],
   "book_total_chars": 92814,
