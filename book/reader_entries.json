@@ -2831,6 +2831,18 @@
       "image_model": "zimage",
       "seed": 339938196,
       "created_at": "2026-03-13T21:34:53.020615+08:00"
+    },
+    {
+      "id": "20260313_213634",
+      "offset_start": 17963,
+      "offset_end": 18034,
+      "text": "秋園\n最是同情他，只要一見到他，就喊他進屋烤火，還在靠牆邊爲他設了個固定座位\n——舊椅子上墊了一個蒲草墊，坐着暖和。到了喫飯時間，就留他喫飯。",
+      "prompt": "A tender autumn scene in a rustic Chinese cottage: an elderly woman offers a bowl of steaming food to a weary, grateful man seated on a wooden chair with a worn rush cushion, near a warm hearth. Soft, golden firelight illuminates the humble interior, casting gentle shadows and conveying a mood of quiet compassion and warmth, in a realistic style with soft focus.",
+      "image": "reader_images/reader_20260313_213634.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 2094121537,
+      "created_at": "2026-03-13T21:36:34.732928+08:00"
     }
   ],
   "book_total_chars": 92814,
