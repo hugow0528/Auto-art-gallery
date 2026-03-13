@@ -1655,6 +1655,18 @@
       "image_model": "zimage",
       "seed": 757524577,
       "created_at": "2026-03-13T13:06:12.619899+08:00"
+    },
+    {
+      "id": "20260313_130652",
+      "offset_start": 11166,
+      "offset_end": 11244,
+      "text": "抽壯丁更是斂財的好機會。雖說是三丁抽一、五丁抽二，但有錢人可以出錢不出\n人，或者出二十擔谷買窮人的兒子去頂替。窮苦人家拿不出錢，即使只有獨子也\n難以倖免。",
+      "prompt": "In a misty rural Chinese village during the Song dynasty, under dim overcast skies, a stern imperial official in ornate robes stands at a weathered wooden table piled with sacks of rice and silver coins, appraising desperate peasants. A wealthy merchant in silk robes hands over twenty sacks of grain while pushing forward a frightened poor boy as a substitute soldier, as a gaunt father clutches his sole surviving son in futile resistance, tears streaming down weathered faces amid a crowd of hollow-eyed families. Render in the style of traditional Chinese ink wash painting with dramatic chiaroscuro lighting, earthy tones of gray and ochre evoking oppression and injustice, highly detailed faces conveying raw despair and corruption.",
+      "image": "reader_images/reader_20260313_130652.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 978056292,
+      "created_at": "2026-03-13T13:06:52.379689+08:00"
     }
   ],
   "book_total_chars": 92814,
