@@ -4211,6 +4211,18 @@
       "image_model": "imagen-4",
       "seed": 1787394300,
       "created_at": "2026-03-14T06:03:32.294865+08:00"
+    },
+    {
+      "id": "20260314_061617",
+      "offset_start": 25870,
+      "offset_end": 25964,
+      "text": "等他回到家，簡直成了個泥人，連眼鏡上都糊着泥巴。\n仁受坐在椅子上，對之驊說：「快給我看看，我的大拇指縫裡又癢又痛。」之驊\n蹲在地上，把他的大拇指掰開，看到兩條黑肥的牛螞蟥正纏在一起吸血。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to respond ONLY with the image prompt in English, no explanations, translations, or markdown.\n\nThe passage is: \"等他回到家，簡直成了個泥人，連眼鏡上都糊着泥巴。仁受坐在椅子上，對之驊說：「快給我看看，我的大拇指縫裡又癢又痛。」之驊蹲在地上，把他的大拇指掰開，看到兩條黑肥的牛螞蟥正纏在一起吸血。\"\n\nI need to translate this into an English prompt, but not directly translate; instead, I must capture the scene, atmosphere, characters, and visual essence. The prompt should be vivid, detailed, and include artistic style, mood, lighting, and specific visual elements.\n\nKey elements from the passage:\n\n- A person returns home covered in mud, like a mud figure, with mud even on his glasses.\n\n- Ren Shou (仁受) is sitting on a chair, speaking to Zhi Hua (之驊).\n\n- Zhi Hua squats on the ground, opens Ren Shou's thumb, and sees two black, fat leeches (牛螞蟥) entwined and sucking blood.\n\nCharacters: Ren Shou and Zhi Hua. Setting: Likely inside a home, after returning from outside where it's muddy.\n\nAtmosphere: Probably tense, uncomfortable, or focused due to the pain and the discovery of le",
+      "image": "reader_images/reader_20260314_061617.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1938147653,
+      "created_at": "2026-03-14T06:16:17.303788+08:00"
     }
   ],
   "book_total_chars": 92814,
