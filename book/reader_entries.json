@@ -4427,6 +4427,18 @@
       "image_model": "gptimage",
       "seed": 1072904187,
       "created_at": "2026-03-14T07:46:13.002514+08:00"
+    },
+    {
+      "id": "20260314_074716",
+      "offset_start": 27006,
+      "offset_end": 27075,
+      "text": "」\n秋園聽滿娭毑罵罵咧咧，只能躲着不作聲，然後賣谷賣米也要買點豆子芝麻放到\n家裡。這個滿娭毑，實在得罪不起。\n滿老倌和滿娭毑生有二子一女。",
+      "prompt": "A tense domestic scene in a traditional rural Chinese household, where a young woman named Qiuyang hides timidly in the shadow of a wooden cupboard, avoiding the sharp gaze of an elderly matriarch, Man Aijie, who stands scowling with hands on her hips. Sack of beans and sesame seeds sit nearby, soft morning light filters through paper windows, rendered in the style of traditional Chinese ink painting with muted colors and expressive brushstrokes.",
+      "image": "reader_images/reader_20260314_074716.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 809335309,
+      "created_at": "2026-03-14T07:47:16.734895+08:00"
     }
   ],
   "book_total_chars": 92814,
