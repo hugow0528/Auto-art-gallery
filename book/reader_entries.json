@@ -2807,6 +2807,18 @@
       "image_model": "zimage",
       "seed": 1380155209,
       "created_at": "2026-03-13T21:21:01.027561+08:00"
+    },
+    {
+      "id": "20260313_212308",
+      "offset_start": 17794,
+      "offset_end": 17872,
+      "text": "兵桃只能一邊抓蚊子，一邊睡\n覺。\n冬天睡在牛欄上面太冷，全身凍得篩糠樣。兵桃乾脆抱來一捆稻草靠牛放着，自\n己睡在稻草上，身子靠着牛，蓋上爛棉絮，覺得很暖和。",
+      "prompt": "First, the user provides a Chinese literary passage. I need to create an image-generation prompt in English based on this passage. The passage describes a scene where a character named Bing Tao is sleeping in a cow shed during winter. He's dealing with mosquitoes, feeling cold, and then finds warmth by sleeping on straw next to a cow, covered with tattered cotton wadding.\n\nKey elements from the passage:\n- Setting: A cow shed or cow pen in winter.\n- Character: Bing Tao, who is sleeping.\n- Actions: Initially trying to sleep while swatting mosquitoes, then moving to sleep on straw next to a cow for warmth.\n- Atmosphere: Initially cold and uncomfortable, then becoming warm and cozy.\n- Details: Straw, cow, tattered cotton wadding, the cold making him shiver like sifting grain (篩糠樣).\n\nI need to craft a visual scene in English for AI image generation. The prompt should include setting, atmosphere, characters, and artistic style. It should be 2–4 sentences only, in English.\n\nStructure the prompt:\n1. Describe the setting and main elements.\n2. Include the character and his actions.\n3. Convey the atmosphere or mood.\n4. Suggest an artistic style.\n\nArtistic style: Since it's a literary passage, perhaps a realistic or impressionistic style to capture the rustic, rural feel. Maybe mention something like \"oil painting style\" or \"folk art\" to enhance the mood.\n\nAtmosphere: From",
+      "image": "reader_images/reader_20260313_212308.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 331782611,
+      "created_at": "2026-03-13T21:23:08.952197+08:00"
     }
   ],
   "book_total_chars": 92814,
