@@ -1835,6 +1835,18 @@
       "image_model": "grok-imagine",
       "seed": 1508892410,
       "created_at": "2026-03-13T13:59:38.717618+08:00"
+    },
+    {
+      "id": "20260313_140503",
+      "offset_start": 12315,
+      "offset_end": 12385,
+      "text": "22\n\n\f仁受說：「你帶了米袋子嗎？」\n「帶了，帶了。」\n仁受走到米缸旁，拿起瓜瓢，把米一瓢瓢舀進袋子裡，直到裝滿爲止，足有二十\n多斤。",
+      "prompt": "A quiet, dimly lit rustic kitchen interior, a man in simple traditional clothing carefully scooping rice from an earthenware jar into a cloth sack with a wooden ladle, soft natural light from a small window, muted earth tones, photorealistic style with gentle cinematic lighting.",
+      "image": "reader_images/reader_20260313_140503.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2034070871,
+      "created_at": "2026-03-13T14:05:03.959835+08:00"
     }
   ],
   "book_total_chars": 92814,
