@@ -3935,6 +3935,18 @@
       "image_model": "grok-imagine",
       "seed": 1477412859,
       "created_at": "2026-03-14T04:18:38.009170+08:00"
+    },
+    {
+      "id": "20260314_043831",
+      "offset_start": 24240,
+      "offset_end": 24319,
+      "text": "秋園的第四個孩子子恕是在夕瑩死去十個小時後出生的。鄉裏人都說這娃崽是夕\n瑩轉世投胎來的，勸秋園不必太過悲傷。\n死去的夕瑩是老三，仁受替子恕起的小名就叫賠三。",
+      "prompt": "A dimly lit, rustic Chinese countryside room, heavy with the scent of incense and quiet sorrow. A young mother, her face etched with exhaustion and grief but also a flicker of maternal love, cradles a newborn infant. The baby, named Zi Shu, is swaddled tightly, and nearby, a small, simple shrine to the deceased \"third child,\" Xi Ying, is visible, its presence a somber reminder of loss and the belief in reincarnation. The atmosphere is melancholic yet infused with a gentle, enduring hope.",
+      "image": "reader_images/reader_20260314_043831.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 739856274,
+      "created_at": "2026-03-14T04:38:31.331636+08:00"
     }
   ],
   "book_total_chars": 92814,
