@@ -2087,6 +2087,18 @@
       "image_model": "flux",
       "seed": 870121454,
       "created_at": "2026-03-13T15:50:11.284193+08:00"
+    },
+    {
+      "id": "20260313_155313",
+      "offset_start": 13781,
+      "offset_end": 13872,
+      "text": "」\n其中一位從口袋裡掏出一張紅紙，紙上用毛筆工工整整寫着：「茲聘請梁秋園先\n生爲花屋小學先生，每學年稻穀二十擔。」\n這四人負責管理花圃祠村的小學，學校裏人員聘請、收入支出都歸他們管。",
+      "prompt": "A historic rural Chinese village room with four humble village elders gathered around a weathered wooden table, one handing a red paper with elegant black brush calligraphy to another. Warm, dim light from an oil lantern illuminates their focused expressions and traditional cotton clothing, evoking a solemn and respectful atmosphere, rendered in a realistic style with soft textures and muted earthy tones.",
+      "image": "reader_images/reader_20260313_155313.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 199784699,
+      "created_at": "2026-03-13T15:53:13.449119+08:00"
     }
   ],
   "book_total_chars": 92814,
