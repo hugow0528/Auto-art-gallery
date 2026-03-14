@@ -7259,6 +7259,18 @@
       "image_model": "flux-2-dev",
       "seed": 1154004109,
       "created_at": "2026-03-15T03:52:38.419469+08:00"
+    },
+    {
+      "id": "20260315_035331",
+      "offset_start": 41833,
+      "offset_end": 41914,
+      "text": "」\n69\n\n\f秋園一下子臉紅了，忙從褲腰上解下布袋，雙手撐開。杏梅母親雙手端起簸箕，\n將米倒進袋裡，又說：「還有袋嗎？」之驊立馬從腰上解下布袋，秋園幫之驊撐\n開。",
+      "prompt": "A modest rural Chinese kitchen with warm afternoon light streaming through a small window. Two women stand facing each other - one holds a wooden winnowing basket filled with rice, carefully pouring the grain into a cloth bag held open by another woman's hands at her waist. A third woman stands nearby, another empty cloth bag hanging from her belt. The scene captures the quiet intimacy of sharing grain between modest households, with worn but clean clothing, weathered wooden containers, and earthenware pots in the background. Art style: Chinese folk art painting with soft, warm",
+      "image": "reader_images/reader_20260315_035331.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1671375946,
+      "created_at": "2026-03-15T03:53:31.345056+08:00"
     }
   ],
   "book_total_chars": 92814,
