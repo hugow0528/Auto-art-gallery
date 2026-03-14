@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_062809",
+      "filename": "images/artwork_20260315_062809.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "A solitary runner, captured in an intimate Baroque-style portrait, strains toward the finish line under the ambient neon glow of a midnight city. Every muscle is rendered with intricate, dramatic chiaroscuro, their skin gleaming with sweat in warm amber and orange tones as shallow breaths fog the cool air. The scene is a study of human transcendence, where the ornate, gilded frame of an old streetlight bathes the athlete in a celestial, theatrical light against the blurred tapestry of the urban night.",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 144583575,
+      "created_at": "2026-03-15T06:28:09.242887+08:00"
+    },
+    {
       "id": "20260315_054548",
       "filename": "images/artwork_20260315_054548.jpg",
       "topic": "ocean conservation and marine life",
