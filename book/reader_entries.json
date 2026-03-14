@@ -5351,6 +5351,18 @@
       "image_model": "zimage",
       "seed": 363576123,
       "created_at": "2026-03-14T14:54:04.373144+08:00"
+    },
+    {
+      "id": "20260314_145428",
+      "offset_start": 31854,
+      "offset_end": 31950,
+      "text": "」\n望着這樣好的搪瓷臉盆，之驊不捨得用，也不好意思用。黎老師說：「還發什麼\n呆，趕快洗呀！水會冷掉的。」在黎老師的催促下，之驊慢慢把腳探進盆裏，心\n頭暖暖的，眼眶陣陣發熱，但什麼話也說不出來。",
+      "prompt": "In a dimly lit, modest mid-20th century Chinese room with wooden floors and simple bamboo accents, a young boy named Zhi Hua hesitantly lowers his foot into a gleaming new enamel basin filled with steaming water, his face flushed with warmth and unshed tears welling in his eyes. Nearby, Teacher Li, a kind middle-aged woman in traditional attire, urges him gently with an encouraging smile, steam rising softly from the basin to create a hazy, intimate atmosphere of tender care and quiet emotion. Render in a realistic style inspired by Chinese ink wash painting with soft warm lighting, subtle chiaroscuro shadows, and a palette of earthy reds, glossy whites, and misty grays for a heartfelt, nostalgic mood.",
+      "image": "reader_images/reader_20260314_145428.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1792189350,
+      "created_at": "2026-03-14T14:54:28.287092+08:00"
     }
   ],
   "book_total_chars": 92814,
