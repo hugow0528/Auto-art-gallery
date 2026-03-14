@@ -4931,6 +4931,18 @@
       "image_model": "zimage",
       "seed": 1701693309,
       "created_at": "2026-03-14T12:48:42.363093+08:00"
+    },
+    {
+      "id": "20260314_124914",
+      "offset_start": 29688,
+      "offset_end": 29762,
+      "text": "她花一分\n錢買了根牛筋，從中剪開，可以做兩根。石板花了兩角錢，石筆一分錢。又花兩\n分錢買了個蔥油餅，餅有碗口那麼大，金黃金黃的，上面粘着蔥花，噴香。",
+      "prompt": "A young girl, with bright, curious eyes, sits at a worn wooden table in a dimly lit, bustling alleyway market. Sunlight, dappled and warm, illuminates a golden-brown, scallion-flecked flatbread the size of her palm, a piece of beef tendon, and a smooth, flat stone with a chalk-like implement. The scene is rendered in a realistic, slightly impressionistic style, evoking a sense of simple, everyday joy and the savory aroma of the food.",
+      "image": "reader_images/reader_20260314_124914.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 471095527,
+      "created_at": "2026-03-14T12:49:14.974404+08:00"
     }
   ],
   "book_total_chars": 92814,
