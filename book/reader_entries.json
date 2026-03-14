@@ -7583,6 +7583,18 @@
       "image_model": "zimage",
       "seed": 1121779683,
       "created_at": "2026-03-15T06:00:24.085562+08:00"
+    },
+    {
+      "id": "20260315_060213",
+      "offset_start": 43675,
+      "offset_end": 43759,
+      "text": "」\n\n72\n\n\f十二\n一天，滿娭毑走到家裡，對秋園說：「我們家的大黃狗太兇了，會咬人，別人晚\n上都不敢到我們家裡來坐。我要人家走你家的後門，要是有人敲門，你要去開\n門。",
+      "prompt": "Two women conversing in a dimly lit traditional rural Chinese home, one elderly and speaking urgently while the other listens intently. A tense, hushed atmosphere, lit by a single oil lamp casting long shadows, with traditional clothing and humble furnishings. Realistic historical painting style with muted earth tones.",
+      "image": "reader_images/reader_20260315_060213.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1007927349,
+      "created_at": "2026-03-15T06:02:13.192780+08:00"
     }
   ],
   "book_total_chars": 92814,
