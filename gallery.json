@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_122118",
+      "filename": "images/artwork_20260314_122118.jpg",
+      "topic": "traditional vs modern culture clash in Asia",
+      "prompt": "A photorealistic scene captures a hopeful clash of traditional and modern Asian cultures in a bustling Tokyo street at dusk, where an elderly Japanese woman in an intricate silk kimono with pagoda motifs kneels gracefully offering tea from a lacquered tray beside a glowing red lantern, while a young woman in sleek futuristic attire with holographic smartwatch projections and neon sneakers joyfully shares a smartphone screen displaying virtual cherry blossoms, their hands bridging the divide in a warm embrace. Candlelight ambiance from ornate paper lanterns and floating diyas casts a soft, flickering glow across the composition, illuminating iridescent holographic colors that shift from pearlescent pinks and golds to ethereal blues and silvers on wet cobblestones reflecting skyscrapers fused with ancient temple roofs. The uplifting mood radiates through smiling faces and blooming sakura petals merging into digital fractals, evoking unity and renewal in this award-winning, ultra-detailed masterpiece of cultural harmony.",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 407914171,
+      "created_at": "2026-03-14T12:21:18.507643+08:00"
+    },
+    {
       "id": "20260314_121617",
       "filename": "images/artwork_20260314_121617.jpg",
       "topic": "health and medicine breakthroughs",
