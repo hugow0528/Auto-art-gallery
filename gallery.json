@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_151031",
+      "filename": "images/artwork_20260314_151031.jpg",
+      "topic": "post-pandemic world transformation",
+      "prompt": "First, the user wants a single, vivid, detailed image generation prompt. It must be about \"post-pandemic world transformation.\" I need to incorporate specific elements naturally: art style is digital art, mood is mysterious and ethereal, lighting is dappled forest light, and color palette is high contrast black and gold.\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I must respond with ONLY the image prompt itself in English, no explanations or markdown.\n\nKey elements to include:\n- Post-pandemic world transformation: This implies change, renewal, or something transformed after a pandemic. Maybe nature reclaiming cities, or new structures emerging.\n- Art style: Digital art – so mention digital art or imply it through terms like digital painting.\n- Mood: Mysterious and ethereal – so use words like mysterious, ethereal, haunting, surreal.\n- Lighting: Dappled forest light – think of light filtering through leaves, creating patterns.\n- Color palette: High contrast black and gold – so emphasize blacks and golds with strong contrasts.\n\nStructure the prompt to paint a clear mental picture. Start with the scene, describe elements, incorporate mood and lighting, and specify the art style and color palette.\n\nBrainstorm a scene: Perhaps a forest growing through abandoned urban structures, with golden light filtering through. This fits post-pandemic transformation where nature takes over, and the mood can be mysterious and ethereal.\n\nCraft sentences:\n1. Set the scene: Describe a transformed post-pandemic world.\n2. Add details: Include lighting, mood, and visual elements.\n3. Specify art style and color palette.\n\nEnsure it's 2-4 sentences. Let's write a draft:\n\n\"In a post-pandemic world transformed by nature's resurgence, ethereal golden light dapples through a dense forest that has overgrown abandoned skyscrapers, creating a mysterious atmosphere. The scene is rendered in high-contrast black and gold digital art, with",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 437754382,
+      "created_at": "2026-03-14T15:10:31.675468+08:00"
+    },
+    {
       "id": "20260314_143739",
       "filename": "images/artwork_20260314_143739.jpg",
       "topic": "news headlines of tomorrow",
