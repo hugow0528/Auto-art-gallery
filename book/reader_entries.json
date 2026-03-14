@@ -6683,6 +6683,18 @@
       "image_model": "flux-2-dev",
       "seed": 895329437,
       "created_at": "2026-03-14T23:52:02.808320+08:00"
+    },
+    {
+      "id": "20260314_235455",
+      "offset_start": 38924,
+      "offset_end": 38993,
+      "text": "喫過飯，人們陸續來到禾坪裏，不少人帶了馬燈和手電筒，氣氛異常緊張。缸面\n上的稻草被慢慢撕掉，露出了白花花的東西，上面還粘着好多稻草末子。",
+      "prompt": "A tense nighttime gathering in a rural threshing ground, illuminated by the harsh beams of handheld flashlights and the warm glow of old-fashioned kerosene lanterns. A crowd of anxious villagers watches as someone slowly pulls away a layer of straw from a large vat, revealing glistening, pale-white forms speckled with clinging straw debris. Cinematic, dramatic lighting, hyper-realistic style, sense of suspense and raw texture.",
+      "image": "reader_images/reader_20260314_235455.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1910264031,
+      "created_at": "2026-03-14T23:54:55.705686+08:00"
     }
   ],
   "book_total_chars": 92814,
