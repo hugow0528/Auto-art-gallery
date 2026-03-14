@@ -4871,6 +4871,18 @@
       "image_model": "imagen-4",
       "seed": 860286761,
       "created_at": "2026-03-14T12:23:36.875930+08:00"
+    },
+    {
+      "id": "20260314_122414",
+      "offset_start": 29467,
+      "offset_end": 29543,
+      "text": "仁受從沒打罵過孩子，也沒發過脾氣。如今落魄至此，竟因送不起女兒讀書而向\n女兒下跪！之驊被讀書的強烈願望折磨得睡不着覺，一面又心疼父親，不知如何\n是好。",
+      "prompt": "The image should depict a somber, dimly lit interior of a humble Chinese home, with peeling paint and sparse furnishings. A father, in worn clothing, kneels with his head bowed before his young daughter, his expression one of deep despair and shame. The daughter, clutching a book, looks down at him with a mixture of heartbreak and helplessness, her face illuminated by a single, weak light source. The overall atmosphere should be one of profound sadness and quiet desperation, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of realism.",
+      "image": "reader_images/reader_20260314_122414.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1948153602,
+      "created_at": "2026-03-14T12:24:14.542026+08:00"
     }
   ],
   "book_total_chars": 92814,
