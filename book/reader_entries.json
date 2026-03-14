@@ -7091,6 +7091,18 @@
       "image_model": "flux",
       "seed": 139888084,
       "created_at": "2026-03-15T02:59:53.072842+08:00"
+    },
+    {
+      "id": "20260315_030317",
+      "offset_start": 41001,
+      "offset_end": 41072,
+      "text": "杏梅母親堅決不讓她們走，硬要喫了\n中飯，讓杏梅父親送她們回家。菜很快就擺上了桌。好大一鉢清燉雞，還有鹹\n魚、香蔥煎雞蛋、蘿蔔菜、豆豉炒青辣椒。",
+      "prompt": "A warm, rustic Chinese home interior with a wooden table laden with a large bowl of clear stewed chicken, salted fish, pan-fried eggs with scallions, radish greens, and stir-fried green peppers with fermented black beans. A middle-aged Chinese woman stands by the table, her expression warm and resolute, as if insisting on the meal before departure. Soft, natural light filters in from a window, illuminating the steam rising from the food and casting a gentle glow on the scene, rendered in a traditional Chinese ink painting style with subtle pops of color.",
+      "image": "reader_images/reader_20260315_030317.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1110103118,
+      "created_at": "2026-03-15T03:03:17.717099+08:00"
     }
   ],
   "book_total_chars": 92814,
