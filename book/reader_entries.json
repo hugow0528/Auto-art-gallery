@@ -7511,6 +7511,18 @@
       "image_model": "zimage",
       "seed": 271974685,
       "created_at": "2026-03-15T05:44:34.558722+08:00"
+    },
+    {
+      "id": "20260315_054505",
+      "offset_start": 43188,
+      "offset_end": 43267,
+      "text": "今天得了你這麼多東西，也不曉\n得今後還得起不。」\n跛子說：「快不要講還的事。梁老師，你要想開些，誰都曉得楊鄉長是個大好\n人，過幾天就會回來的，包你冇得麼裏事。",
+      "prompt": "A humble rural Chinese village scene with weathered mud walls and a simple courtyard, where a middle-aged teacher in glasses stands with a disabled man on crutches beside a wooden table covered with some gifts. The lame man gestures reassuringly while the teacher",
+      "image": "reader_images/reader_20260315_054505.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 703404438,
+      "created_at": "2026-03-15T05:45:05.749461+08:00"
     }
   ],
   "book_total_chars": 92814,
