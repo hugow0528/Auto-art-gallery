@@ -6695,6 +6695,18 @@
       "image_model": "gptimage",
       "seed": 1910264031,
       "created_at": "2026-03-14T23:54:55.705686+08:00"
+    },
+    {
+      "id": "20260314_235741",
+      "offset_start": 38993,
+      "offset_end": 39099,
+      "text": "將稻草\n末子揀掉，看清了，是鹽；用舌頭舔舔，鹹的，真是鹽。也許金子就包在鹽裏\n面。這鹽不知放了多久，成了鹽的化石，鐵棍撬不開，鐵鏟鏟不動，於是將缸打\n爛，白花花的鹽成了缸的模型，在地上滾來滾去，光滑得連灰都不粘。",
+      "prompt": "An ancient, cracked ceramic jar lies shattered on a dusty earthen floor, its fragments scattered like fallen pottery. Inside, a vast, crystalline mass of fossilized salt, impossibly dense and gleaming white, retains the perfect mold of the jar. Sunlight streams through a nearby opening, illuminating the salt's granular texture and casting long, sharp shadows, creating a stark, almost surreal atmosphere of forgotten riches.",
+      "image": "reader_images/reader_20260314_235741.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 957032060,
+      "created_at": "2026-03-14T23:57:41.507511+08:00"
     }
   ],
   "book_total_chars": 92814,
