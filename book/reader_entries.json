@@ -5603,6 +5603,18 @@
       "image_model": "grok-imagine",
       "seed": 1682192128,
       "created_at": "2026-03-14T16:00:24.378640+08:00"
+    },
+    {
+      "id": "20260314_161801",
+      "offset_start": 33191,
+      "offset_end": 33264,
+      "text": "妹俚，方言，女孩、女兒。\n新娘子沒帶一點嫁妝，連起碼的提桶、腳盆都冇得。單這點就使滿老倌、滿娭毑\n很看她不起。打進門那一刻起，就冇得好樣子對她。",
+      "prompt": "A young bride in traditional Chinese clothing stands hesitant at the doorway of a dim, austere peasant household, her hands empty and trembling, with no dowry to present. Inside, elderly family members seated around a low table regard her with cold, disdainful expressions, their eyes filled with judgment and contempt. Soft, gray morning light filters through a small window, casting long shadows that emphasize her isolation and vulnerability in this unwelcoming home. Style: Realistic oil painting in the manner of Chinese social realism, moody and somber, evoking the hardship and patriarchal oppression of early",
+      "image": "reader_images/reader_20260314_161801.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1430209416,
+      "created_at": "2026-03-14T16:18:01.348188+08:00"
     }
   ],
   "book_total_chars": 92814,
