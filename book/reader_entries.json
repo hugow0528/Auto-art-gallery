@@ -7643,6 +7643,18 @@
       "image_model": "grok-imagine",
       "seed": 10508472,
       "created_at": "2026-03-15T06:46:48.811766+08:00"
+    },
+    {
+      "id": "20260315_064709",
+      "offset_start": 43990,
+      "offset_end": 44069,
+      "text": "荒貨，廢品。\n一天，仁受跟秋園商量，要秋園去他外甥宜民家一趟。宜民是仁受親姐姐的崽，\n做荒貨 生意。從前，宜民向仁受借過三百塊銀圓，說是做生意，結果虧掉了。",
+      "prompt": "The passage describes a scene involving \"荒貨\" (scrap goods/junk) and \"廢品\" (discarded items/waste), and a loan of \"三百塊銀圓\" (three hundred silver dollars) that was lost in business. The image should depict a somewhat bleak, perhaps cluttered environment suggestive of dealing in discarded items, with a subtle nod to the past due to the mention of silver dollars.\n\nA dimly lit, cluttered workshop filled with piles of scrap metal and miscellaneous discarded items. In the foreground, two men, Ren Shou and Qiu Yuan, are in serious conversation, their faces etched with the weight of past financial dealings. The atmosphere is one of quiet desperation and the musty scent of decay, rendered in a style reminiscent of gritty realism with muted, earthy tones.",
+      "image": "reader_images/reader_20260315_064709.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 369893844,
+      "created_at": "2026-03-15T06:47:09.479754+08:00"
     }
   ],
   "book_total_chars": 92814,
