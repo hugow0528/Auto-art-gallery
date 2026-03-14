@@ -6491,6 +6491,18 @@
       "image_model": "flux-2-dev",
       "seed": 640034851,
       "created_at": "2026-03-14T22:45:52.922737+08:00"
+    },
+    {
+      "id": "20260314_224720",
+      "offset_start": 37832,
+      "offset_end": 37905,
+      "text": "繩子結難打，打緊了，怕勒壞我\n\n64\n\n\f的腰子，打鬆了呢，又怕我跑出來掉進水裡淹死。我記得，小時候我和爹爹睡一\n張牀、蓋一牀被，靠着爹爹好熱乎。",
+      "prompt": "A dimly lit, rustic bedroom with a simple wooden bed. A young child is nestled close to their father, sharing a quilt, conveying a sense of warmth and security. The atmosphere is one of quiet intimacy and gentle care. The art style should be reminiscent of traditional Chinese ink wash paintings, with soft, diffused lighting.",
+      "image": "reader_images/reader_20260314_224720.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1128851976,
+      "created_at": "2026-03-14T22:47:20.640956+08:00"
     }
   ],
   "book_total_chars": 92814,
