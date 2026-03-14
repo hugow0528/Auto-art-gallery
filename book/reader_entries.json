@@ -6851,6 +6851,18 @@
       "image_model": "imagen-4",
       "seed": 1700511163,
       "created_at": "2026-03-15T01:06:47.387182+08:00"
+    },
+    {
+      "id": "20260315_010718",
+      "offset_start": 39807,
+      "offset_end": 39876,
+      "text": "」\n滿娭毑說：「門是非改不可。別人不曉得門釘死了，你們走後門，別人看到的還\n是門挨門，以爲我們關係好，跟你們冇劃清界限。咯事冇得麼裏商量！",
+      "prompt": "A stern elderly woman stands before weathered wooden doors in a narrow alley, her expression firm as she gestures toward nailed-shut doorframes. Neighbors watch tensely from adjacent doorways under the gray light of a 1970s Chinese autumn afternoon, rendered in muted tones with dramatic shadows in a social realist painting style.",
+      "image": "reader_images/reader_20260315_010718.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1926710765,
+      "created_at": "2026-03-15T01:07:18.639502+08:00"
     }
   ],
   "book_total_chars": 92814,
