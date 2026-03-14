@@ -5675,6 +5675,18 @@
       "image_model": "gptimage",
       "seed": 826420363,
       "created_at": "2026-03-14T16:52:25.328137+08:00"
+    },
+    {
+      "id": "20260314_165248",
+      "offset_start": 33565,
+      "offset_end": 33627,
+      "text": "春桃在滿家的地位連她養的豬都不如。\n春桃的日子真是難挨，但又不能回去，回去也無法安身。她哥哥過得叫花子不\n如，有一餐冇一餐。",
+      "prompt": "A young woman, Chun Tao, with worn clothing and downcast eyes, sits hunched by a muddy pigsty in a dilapidated courtyard. The atmosphere is one of bleak poverty and despair, with muted, earthy tones dominating the scene under a perpetually overcast sky. Her posture conveys utter hopelessness, emphasizing her lowly status and the harshness of her existence. The art style is a somber, realistic oil painting, reminiscent of social realist art.",
+      "image": "reader_images/reader_20260314_165248.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 297940237,
+      "created_at": "2026-03-14T16:52:48.025138+08:00"
     }
   ],
   "book_total_chars": 92814,
