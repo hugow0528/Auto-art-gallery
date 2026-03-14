@@ -5111,6 +5111,18 @@
       "image_model": "grok-imagine",
       "seed": 1341942330,
       "created_at": "2026-03-14T13:18:16.151401+08:00"
+    },
+    {
+      "id": "20260314_132907",
+      "offset_start": 30583,
+      "offset_end": 30672,
+      "text": "鍋開了，咕咚咕咚地響着，青青的菜葉和數得清的白飯粒在沸水裡上下翻騰。稀\n飯煮好了，舀出一碗，就着爐火喫起來。爲了省油捨不得點燈，爐火將之驊的身\n54\n\n\f影投在牆上，好大好大。",
+      "prompt": "A humble Chinese kitchen interior at night, a large black cauldron over a crackling wood stove bubbling with rice porridge containing green vegetable leaves and white grains, a person sits nearby eating from a bowl, the room is dimly lit by warm stove firelight with no lamp, casting a dramatically large dark silhouette of the figure onto the rough plaster wall behind, oil painting style, chiaroscuro lighting, rustic and intimate atmosphere.",
+      "image": "reader_images/reader_20260314_132907.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 336448965,
+      "created_at": "2026-03-14T13:29:07.342215+08:00"
     }
   ],
   "book_total_chars": 92814,
