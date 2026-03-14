@@ -6455,6 +6455,18 @@
       "image_model": "flux-2-dev",
       "seed": 998688581,
       "created_at": "2026-03-14T22:18:12.345725+08:00"
+    },
+    {
+      "id": "20260314_222054",
+      "offset_start": 37596,
+      "offset_end": 37686,
+      "text": "就是二十歲到了，我也不去想三\n四十歲的事。」\n「兵桃，爹爹最對不起的就是你，我沒把這日子過好，真過得不像人樣。你跟着\n爹爹，從小到大沒穿過件好衣，沒喫過餐足肉，到頭來落得這個下場。",
+      "prompt": "In a dimly lit, impoverished rural Chinese hut at dusk, with cracked mud walls, a flickering oil lamp casting long shadows, and threadbare quilts on a simple wooden kang bed, a weathered father in faded patched clothes kneels remorsefully before his twenty-year-old son, Bingtao, who sits cross-legged with a stoic, youthful face marked by hardship—tattered garments clinging to his thin frame, empty rice bowls nearby symbolizing lifelong scarcity. The atmosphere is heavy with paternal guilt and quiet despair, rain pattering on the thatched roof outside, evoking Confucian filial tension in earthy tones of muted browns, grays, and faint golden light. Rendered in the somber realism of 19th-century Chinese ink wash painting blended with cinematic chiaroscuro, highly detailed, emotional depth, 8k resolution.",
+      "image": "reader_images/reader_20260314_222054.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1955101920,
+      "created_at": "2026-03-14T22:20:54.351851+08:00"
     }
   ],
   "book_total_chars": 92814,
