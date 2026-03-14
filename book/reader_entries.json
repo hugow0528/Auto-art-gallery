@@ -6563,6 +6563,18 @@
       "image_model": "flux",
       "seed": 259796943,
       "created_at": "2026-03-14T22:59:09.208146+08:00"
+    },
+    {
+      "id": "20260314_230033",
+      "offset_start": 38284,
+      "offset_end": 38351,
+      "text": "等爹爹百年之後，我會替爹爹操辦得風風光光，讓\n村裏人看看，兵桃好能幹、好有良心，到時還怕討不到堂客？」一席話把個四老\n倌講得眉開眼笑。",
+      "prompt": "A sun-drenched, rustic village courtyard. An elderly man, his face creased with a wide, delighted smile, gestures expansively. A younger woman, standing with quiet determination, meets his gaze, her expression earnest and capable. The scene is rendered in the style of traditional Chinese ink wash painting, with soft, diffused light and a warm, hopeful atmosphere.",
+      "image": "reader_images/reader_20260314_230033.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1679383169,
+      "created_at": "2026-03-14T23:00:33.844333+08:00"
     }
   ],
   "book_total_chars": 92814,
