@@ -7775,6 +7775,18 @@
       "image_model": "grok-imagine",
       "seed": 2101915790,
       "created_at": "2026-03-15T07:38:40.485146+08:00"
+    },
+    {
+      "id": "20260315_074510",
+      "offset_start": 44697,
+      "offset_end": 44790,
+      "text": "一陣工夫，碗底就蓋滿\n了死跳蚤，兩個指甲也染得通紅。\n每晚都要起來捉一兩次跳蚤。有一次，之驊發現兩條白蟲子從棉絮裏鑽了出來，\n蟲子大約有一粒大米長，棉線粗細，兩頭尖尖，在棉絮上扭個不停。",
+      "prompt": "First, the user has given me a Chinese literary passage. I need to create an image-generation prompt in English based on it. The passage describes a scene where someone is catching fleas, and then discovers white worms in cotton wadding. Key elements:碗底 (bowl bottom) covered with dead fleas, fingernails stained red, getting up one or two times each night to catch fleas, and发现 (discover) two white worms coming out of cotton wadding, worms about the length of a grain of rice, thickness of cotton thread, pointed at both ends, wriggling on the cotton.\n\nI must respond ONLY with the image prompt in English — no explanations, no translations, no markdown. The prompt should be 2–4 sentences, describing a specific visual scene suitable for AI image generation. Include setting, atmosphere, characters present, and artistic style.\n\nNow, let's break down what needs to be in the prompt:\n\n- **Setting**: Based on the passage, it's likely indoors, perhaps a bedroom or a humble dwelling, since it mentions getting up at night and cotton wadding. The bowl with dead fleas suggests a personal, intimate space.\n\n- **Atmosphere**: The scene is gritty, unsettling, and focused on discomfort or infestation. There's a sense of meticulousness in catching fleas and disgust upon discovering worms.\n\n- **Characters**: The passage mentions \"之驊\" (Zhi Hua), who is discovering the worms.",
+      "image": "reader_images/reader_20260315_074510.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1845456983,
+      "created_at": "2026-03-15T07:45:10.706725+08:00"
     }
   ],
   "book_total_chars": 92814,
