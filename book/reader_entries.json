@@ -5915,6 +5915,18 @@
       "image_model": "klein",
       "seed": 520500680,
       "created_at": "2026-03-14T18:14:27.666841+08:00"
+    },
+    {
+      "id": "20260314_181931",
+      "offset_start": 34847,
+      "offset_end": 34908,
+      "text": "歷屆的鄉長都槍斃了，保長也槍斃了幾個。我死了，你們不要難過。我雖沒\n做過迫害老百姓的事，但總是替國民政府做過事，罪有應得。",
+      "prompt": "A somber, dimly lit scene in a rural Republican-era Chinese village, with a lone, weathered man in simple traditional clothing standing amidst sparse, dusty earth and perhaps a few humble dwellings. The atmosphere is heavy with a sense of regret and resignation, rendered in a muted, realistic painterly style with soft, diffused light. A subtle, melancholic mood pervades the image, emphasizing the weight of past actions and the quiet acceptance of fate.",
+      "image": "reader_images/reader_20260314_181931.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 672668390,
+      "created_at": "2026-03-14T18:19:31.542089+08:00"
     }
   ],
   "book_total_chars": 92814,
