@@ -6815,6 +6815,18 @@
       "image_model": "gptimage",
       "seed": 1768837355,
       "created_at": "2026-03-15T00:55:26.404487+08:00"
+    },
+    {
+      "id": "20260315_005846",
+      "offset_start": 39665,
+      "offset_end": 39740,
+      "text": "你們如今成分\n高，和我們不是一路人，莫害得我們背時。泥木工不要你們請，出一擔谷就\n行。」\n秋園說：「滿娭毑，我們才抄家幾天，飯都冇得喫，哪來的一擔谷？",
+      "prompt": "A peasant woman, her face etched with hardship and suspicion, stands defiantly in a dimly lit, impoverished courtyard. She gestures dismissively towards two figures in the background, their clothing suggesting a higher social standing. The atmosphere is tense and desperate, painted in the earthy tones of a traditional Chinese woodblock print, with a harsh, unforgiving light.",
+      "image": "reader_images/reader_20260315_005846.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1326227301,
+      "created_at": "2026-03-15T00:58:46.929351+08:00"
     }
   ],
   "book_total_chars": 92814,
