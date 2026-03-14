@@ -6587,6 +6587,18 @@
       "image_model": "imagen-4",
       "seed": 325371169,
       "created_at": "2026-03-14T23:02:16.280100+08:00"
+    },
+    {
+      "id": "20260314_231608",
+      "offset_start": 38420,
+      "offset_end": 38491,
+      "text": "」四老\n倌說：「買肥的，買肥的，肥的沒骨頭，油膩膩、滑溜溜，不用太嚼就到肚裡去\n了，留都留不住。」說罷，他嘴巴微微抽動，好像已嘗到肉的味道了。",
+      "prompt": "In a bustling traditional Chinese restaurant with round wooden tables centered by lazy Susans laden with steaming dishes, an elderly vendor leans forward animatedly, his mouth twitching in savory anticipation as he praises glistening, fatty meat chunks—oily, slippery, and boneless—piled on a platter before him. His weathered face beams with relish under warm lantern light casting golden hues on red silk tablecloths, bamboo wall panels, and murals of imperial scenes, evoking a lively banquet atmosphere thick with aromas of sizzling cuisine. Render in hyper-realistic digital art style inspired by classical Chinese ink painting meets photorealism, with dramatic chiaroscuro lighting highlighting the meat's succulent texture and the vendor's eager expression.",
+      "image": "reader_images/reader_20260314_231608.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 968489473,
+      "created_at": "2026-03-14T23:16:08.109498+08:00"
     }
   ],
   "book_total_chars": 92814,
