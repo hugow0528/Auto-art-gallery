@@ -5879,6 +5879,18 @@
       "image_model": "flux",
       "seed": 1651106754,
       "created_at": "2026-03-14T17:58:40.026842+08:00"
+    },
+    {
+      "id": "20260314_180027",
+      "offset_start": 34694,
+      "offset_end": 34773,
+      "text": "竈屋裡只\n剩口缺了邊的鍋子，連像樣的碗都拿走了。\n中午，一家人都沒喫飯，因爲喫不下。秋園將僅有的一牀被子和仁受的兩件舊衣\n服捆在一起，要之驊去鄉政府送給仁受。",
+      "prompt": "A dimly lit, sparsely furnished kitchen, dust motes dancing in the weak afternoon sun filtering through a grimy window. An empty, chipped cooking pot sits forlornly on a cold hearth, the only remnant of meals past. A young woman, autumn garden, with weary eyes, tightly clutches a bundle of worn clothing, her silhouette etched against the muted, impoverished surroundings, rendered in the melancholic, realism style of an early 20th-century social documentary photograph.",
+      "image": "reader_images/reader_20260314_180027.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 505206041,
+      "created_at": "2026-03-14T18:00:27.347399+08:00"
     }
   ],
   "book_total_chars": 92814,
