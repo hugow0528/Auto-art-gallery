@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_131401",
+      "filename": "images/artwork_20260314_131401.jpg",
+      "topic": "urban architecture of the future",
+      "prompt": "A surrealist vision of dystopian future architecture where skyscrapers, twisted like organic roots and fused with decaying Gothic facades, stretch into a hazy amber sky. A neon city glow emanates from within the structures and from floating holographic filigree, casting long, dramatic shadows through streets littered with holographic debris. The warm palette of amber, burnt orange, and flickering copper dominates, reflected in glassy rivers of data flowing between the monolithic towers, with colossal, biomechanical forms slowly consuming the skyline.",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 57130524,
+      "created_at": "2026-03-14T13:14:01.660153+08:00"
+    },
+    {
       "id": "20260314_125822",
       "filename": "images/artwork_20260314_125822.jpg",
       "topic": "space exploration and the cosmos",
