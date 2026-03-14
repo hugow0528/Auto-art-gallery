@@ -7823,6 +7823,18 @@
       "image_model": "imagen-4",
       "seed": 1049346189,
       "created_at": "2026-03-15T07:50:50.005251+08:00"
+    },
+    {
+      "id": "20260315_075420",
+      "offset_start": 44967,
+      "offset_end": 45037,
+      "text": "出去過幾次，就有秋園過去的學生晚上偷\n偷摸摸地送米來，陸陸續續竟收到了滿滿一籮筐米。秋園把米藏在門背後，上面\n蓋幾塊爛木板，再堆些破衣爛衫。",
+      "prompt": "A dimly lit, humble interior at night, a woman kneeling beside a half-concealed bamboo basket filled with rice, hidden under tattered clothing and cracked wooden planks in a shadowy corner. Moody chiaroscuro lighting, a somber and secretive atmosphere, rendered in the style of social realism with textured, painterly brushstrokes.",
+      "image": "reader_images/reader_20260315_075420.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 339673480,
+      "created_at": "2026-03-15T07:54:20.626680+08:00"
     }
   ],
   "book_total_chars": 92814,
