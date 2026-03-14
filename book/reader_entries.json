@@ -5099,6 +5099,18 @@
       "image_model": "gptimage",
       "seed": 922986220,
       "created_at": "2026-03-14T13:15:36.441167+08:00"
+    },
+    {
+      "id": "20260314_131816",
+      "offset_start": 30497,
+      "offset_end": 30583,
+      "text": "天氣慢慢冷起來了，天亮的時間推遲了。之驊必須天不亮就起牀，點燃煤油燈，\n再把柴火燒燃，隨即吹黑油燈。她坐在小矮凳上，仔細往爐火裏填進樹枝、樹\n葉，柴火不時爆出零星的火花。",
+      "prompt": "A predawn interior scene of a rustic room, where a young woman named Zhihua kneels before a clay stove, carefully feeding twigs and leaves into the flickering flames. The only light comes from the hearth, casting a warm, dramatic glow on her concentrated face and the sparse furnishings, with occasional sparks flying upward into the shadows. Artistic style reminiscent of Rembrandt's chiaroscuro, capturing a mood of quiet, solitary",
+      "image": "reader_images/reader_20260314_131816.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1341942330,
+      "created_at": "2026-03-14T13:18:16.151401+08:00"
     }
   ],
   "book_total_chars": 92814,
