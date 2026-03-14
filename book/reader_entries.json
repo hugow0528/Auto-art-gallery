@@ -4955,6 +4955,18 @@
       "image_model": "gptimage",
       "seed": 398370148,
       "created_at": "2026-03-14T12:50:52.027124+08:00"
+    },
+    {
+      "id": "20260314_125207",
+      "offset_start": 29826,
+      "offset_end": 29889,
+      "text": "餅要留給弟弟們喫，剩\n下的錢要交給秋園。走在路上，之驊無數次地拿出蔥油餅嗅聞，口水使勁往喉嚨\n裏吞，簡直能聽到咕咚咕咚的響聲。",
+      "prompt": "A young girl, Zhihua, walks on a dusty, sun-drenched road, clutching a fragrant scallion oil pancake. Her eyes are wide with longing, and her throat visibly tightens as she swallows, the sound of her hunger almost audible. The scene is rendered in a realistic, slightly melancholic style, with warm, golden hour lighting casting long shadows.",
+      "image": "reader_images/reader_20260314_125207.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 252774841,
+      "created_at": "2026-03-14T12:52:07.035484+08:00"
     }
   ],
   "book_total_chars": 92814,
