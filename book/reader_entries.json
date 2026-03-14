@@ -6503,6 +6503,18 @@
       "image_model": "flux-2-dev",
       "seed": 1128851976,
       "created_at": "2026-03-14T22:47:20.640956+08:00"
+    },
+    {
+      "id": "20260314_224834",
+      "offset_start": 37905,
+      "offset_end": 38012,
+      "text": "長大倒尿起牀來了，害得爹爹睡不好覺，才\n讓我睡到牛欄上去，這也不能怪爹爹。」\n兵桃忽然壓低聲音，附着四老倌的耳朵說：「爹爹，我還有一塊錢藏在牛欄的牆\n縫裡，原先打算等爹爹不在家時買餐肉喫，是我偷了爹爹幾斤谷賣的錢。",
+      "prompt": "A weathered Chinese farmer in worn clothing sits on a rough wooden bench inside a dimly lit traditional cow shed, his young son kneeling beside him and whispering into his ear. Warm afternoon light filters through cracked walls illuminating dust particles and the父子情深的 intimate moment. The scene captures rural poverty with muted earth tones, textured mud walls, hay, and wooden beams—a touching family confession in humble surroundings, rendered in realistic documentary style with soft natural lighting.",
+      "image": "reader_images/reader_20260314_224834.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 2067448826,
+      "created_at": "2026-03-14T22:48:34.781719+08:00"
     }
   ],
   "book_total_chars": 92814,
