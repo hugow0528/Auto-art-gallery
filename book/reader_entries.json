@@ -5471,6 +5471,18 @@
       "image_model": "grok-imagine",
       "seed": 1832969058,
       "created_at": "2026-03-14T15:26:22.943299+08:00"
+    },
+    {
+      "id": "20260314_152720",
+      "offset_start": 32427,
+      "offset_end": 32502,
+      "text": "黎老師從口袋裡拿出一小包餅子，遞給之驊，說：「趕快把餅子喫了，會好些\n的。」\n之驊顧不上斯文了，二話沒說，接過餅就往口裡塞，又伸着脖子使勁往肚裡吞。",
+      "prompt": "First, the task is to create an image-generation prompt based on the Chinese literary passage. I need to respond only with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is: \"黎老師從口袋裡拿出一小包餅子，遞給之驊，說：「趕快把餅子喫了，會好些的。」之驊顧不上斯文了，二話沒說，接過餅就往口裡塞，又伸着脖子使勁往肚裡吞。\"\n\nTranslation to English for understanding: Teacher Li takes out a small packet of cakes from his pocket, hands it to Zhihua, and says, \"Quickly eat the cakes, you'll feel better.\" Zhihua doesn't care about being polite anymore, without saying a word, takes the cake and stuffs it into his mouth, then stretches his neck to swallow it hard.\n\nNow, I need to craft a vivid, detailed English image-generation prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. The prompt should be 2–4 sentences only.\n\nKey elements from the passage:\n- Characters: Teacher Li (黎老師) and Zhihua (之驊).\n- Action: Teacher Li handing a small packet of cakes to Zhihua, who eats it hastily.\n- Setting: Not specified, but implied from context. It might be a simple, perhaps rural",
+      "image": "reader_images/reader_20260314_152720.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 48071408,
+      "created_at": "2026-03-14T15:27:20.051800+08:00"
     }
   ],
   "book_total_chars": 92814,
