@@ -6659,6 +6659,18 @@
       "image_model": "flux-2-dev",
       "seed": 177458754,
       "created_at": "2026-03-14T23:46:52.073608+08:00"
+    },
+    {
+      "id": "20260314_235118",
+      "offset_start": 38854,
+      "offset_end": 38924,
+      "text": "明早買肉時，我去薯窖邊看\n看。」說完，兵桃又催道，「快睏覺，快睏覺。」\n四老倌很快進入了夢鄉，臉上露出笑容，嘴巴微張，估計正做着喫肉的夢吧。",
+      "prompt": "In a dimly lit, humble rural bedroom at night, four elderly Chinese men—simple farmers called \"four old men\"—lie fast asleep on wooden beds or mats, their weathered faces relaxed with contented smiles, mouths slightly agape as if savoring dreams of feasting on succulent pork. Nearby, a sturdy figure named Bing Tao gestures toward a shadowy potato cellar door by the meat-buying area, his expression a mix of urgency and warmth under soft lantern glow, evoking anticipation for tomorrow's market. Render in warm, nostalgic realism like a classic Chinese ink wash painting with golden highlights, serene and dreamlike atmosphere, intricate details on rumpled quilts and rustic wooden textures.",
+      "image": "reader_images/reader_20260314_235118.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1221411446,
+      "created_at": "2026-03-14T23:51:18.557036+08:00"
     }
   ],
   "book_total_chars": 92814,
