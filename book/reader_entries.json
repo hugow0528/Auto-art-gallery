@@ -5507,6 +5507,18 @@
       "image_model": "grok-imagine",
       "seed": 1907717319,
       "created_at": "2026-03-14T15:39:43.591732+08:00"
+    },
+    {
+      "id": "20260314_154620",
+      "offset_start": 32579,
+      "offset_end": 32661,
+      "text": "」她抹着嘴巴，望着黎\n老師不好意思地笑了。\n緩過勁來後，之驊告訴黎老師，自己今天沒喫什麼東西。家裡連一點喫的也沒\n有，要不是哥哥節省錢和糧票給家裡，一家人真會餓死。",
+      "prompt": "A humble, dimly lit kitchen in a rural Chinese home during a time of scarcity. A young woman, Zhihua, with a slightly smudged mouth, looks expectantly at a kind, slightly embarrassed teacher. The atmosphere is one of quiet hardship, with sparse furnishings and a palpable sense of hunger, rendered in a melancholic, documentary-style oil painting.",
+      "image": "reader_images/reader_20260314_154620.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1692044672,
+      "created_at": "2026-03-14T15:46:20.422424+08:00"
     }
   ],
   "book_total_chars": 92814,
