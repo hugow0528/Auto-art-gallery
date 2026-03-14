@@ -6323,6 +6323,18 @@
       "image_model": "zimage",
       "seed": 1079119118,
       "created_at": "2026-03-14T21:41:16.212649+08:00"
+    },
+    {
+      "id": "20260314_215225",
+      "offset_start": 36871,
+      "offset_end": 36940,
+      "text": "最後，隊長鑽進去小心地把泥巴扒開，原來是只缸。\n衆人擠在薯窖兩邊伸長脖子，踮着腳，那陣勢就好比迎接上頭幹部的到來。\n隊長喊道：「靠邊點。",
+      "prompt": "In a dimly lit underground potato cellar filled with earthy mounds and dangling roots, a rugged team captain crouches intently, carefully scraping away thick layers of mud to reveal a buried earthenware jar, his face tense with anticipation under flickering lantern light. Crowds of villagers squeeze against the cellar walls on both sides, necks craned forward and on tiptoes in eager excitement, their postures mimicking a formal welcome for a high-ranking official, clothes dirt-streaked and expressions a mix of curiosity and suspense. Rendered in a realistic style inspired by Chinese rural ink wash painting with muted earth tones, soft volumetric lighting casting dramatic shadows, evoking a tense, communal atmosphere of discovery and subtle humor.",
+      "image": "reader_images/reader_20260314_215225.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2020288141,
+      "created_at": "2026-03-14T21:52:25.108509+08:00"
     }
   ],
   "book_total_chars": 92814,
