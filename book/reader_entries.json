@@ -6335,6 +6335,18 @@
       "image_model": "flux-2-dev",
       "seed": 2020288141,
       "created_at": "2026-03-14T21:52:25.108509+08:00"
+    },
+    {
+      "id": "20260314_215254",
+      "offset_start": 36940,
+      "offset_end": 37014,
+      "text": "」\n人羣自覺向後退去。隊長調轉身子，把缸朝外一推，它便暢通無阻地滾到禾坪\n裏，碰到障礙才停下來，缸面覆蓋的稻草紋絲不動。缸直徑約兩尺，高約兩尺\n五。",
+      "prompt": "A crowded rural Chinese village scene in the style of traditional shan shui ink painting with subtle blue-green hues, where a stern team captain in simple peasant attire pivots and pushes a large clay jar—two feet in diameter and two-and-a-half feet tall, topped with unmoving rice straw—rolling smoothly outward from the throng of instinctively recoiling villagers toward a misty threshing ground (he坪) scattered with rice stalks, stopping only upon hitting a wooden obstacle. The atmosphere is tense yet orderly, bathed in soft golden afternoon light filtering through distant mountains and light fog, evoking quiet harmony between human action and nature's flow, with sparse brushwork on silk-like texture, monochromatic inks accented by delicate greens for the jar and fields.",
+      "image": "reader_images/reader_20260314_215254.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1978714124,
+      "created_at": "2026-03-14T21:52:54.670397+08:00"
     }
   ],
   "book_total_chars": 92814,
