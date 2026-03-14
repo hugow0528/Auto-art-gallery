@@ -5159,6 +5159,18 @@
       "image_model": "flux-2-dev",
       "seed": 1496346184,
       "created_at": "2026-03-14T13:34:54.524913+08:00"
+    },
+    {
+      "id": "20260314_133556",
+      "offset_start": 30834,
+      "offset_end": 30916,
+      "text": "仁受已煮好了飯。\n家裡有塊肥肉，約莫半塊豆腐那麼大，每次炒菜前，用它在鍋裏擦一擦，當是放\n了油。久而久之，肥肉變成了深黃色，表面薄薄的一層熟了，散發出誘人的香\n味。",
+      "prompt": "A dimly lit, rustic kitchen where a pot of rice is ready, the air thick with the savory aroma of rendered pork fat, a testament to simple, resourceful cooking. A well-used, dark, cast-iron wok sits on a stove, its surface glistening from a thin layer of deeply browned fat that has been used to \"oil\" the pan for countless stir-fries. The scene evokes a sense of humble warmth and delicious anticipation, painted in the style of traditional Chinese ink wash painting with a touch of Chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_133556.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 2113402366,
+      "created_at": "2026-03-14T13:35:56.609825+08:00"
     }
   ],
   "book_total_chars": 92814,
