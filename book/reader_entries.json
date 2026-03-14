@@ -7283,6 +7283,18 @@
       "image_model": "grok-imagine",
       "seed": 1490061085,
       "created_at": "2026-03-15T03:57:59.220286+08:00"
+    },
+    {
+      "id": "20260315_035838",
+      "offset_start": 41914,
+      "offset_end": 41991,
+      "text": "滿滿的兩袋米，足有三十來斤。\n杏梅母親給之驊和秋園各泡了杯茶，說：「梁老師，我們不久留你們，等下要杏\n梅爸爸送你們回去。怕你們還要去別的地方，不耽誤你們。",
+      "prompt": "A dimly lit, humble room with two steaming cups of tea on a simple wooden table. Two young men, possibly students, sit opposite an older woman. The atmosphere is one of polite farewell and slight urgency, with bags of rice visible, suggesting a recent offering or gift. The artistic style should be reminiscent of traditional Chinese ink wash painting, with soft, muted colors and a focus on atmospheric perspective.",
+      "image": "reader_images/reader_20260315_035838.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1437662533,
+      "created_at": "2026-03-15T03:58:38.530348+08:00"
     }
   ],
   "book_total_chars": 92814,
