@@ -4583,6 +4583,18 @@
       "image_model": "flux",
       "seed": 138214129,
       "created_at": "2026-03-14T11:08:36.813876+08:00"
+    },
+    {
+      "id": "20260314_111156",
+      "offset_start": 27946,
+      "offset_end": 28017,
+      "text": "醫生的話，就算考上了也還要繼續\n讀書，家裡供不起，也不能很快賺錢。所以，仁受就讓子恆去考縣教師培訓班\n了。\n秋園和子恆一同去縣城參加教師考試。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about a family deciding that the son, Ziheng, should take the county teacher training exam instead of pursuing further medical studies due to financial constraints. Then, Qiuyuan and Ziheng go to the county town for the teacher exam.\n\nI need to describe a specific visual scene in English for AI image generation. The prompt should include setting, atmosphere, characters present, and artistic style. It should be 2–4 sentences only and in English only.\n\nKey elements from the passage:\n- Characters: Qiuyuan and Ziheng.\n- Action: They are going to the county town to attend the teacher exam.\n- Context: It's about education and financial struggle, so the atmosphere might be hopeful yet tense or determined.\n\nNow, crafting the prompt:\n- Setting: County town, possibly on the way to the exam or at the exam location.\n- Atmosphere: Perhaps a mix of determination, anticipation, or the weight of family expectations.\n- Characters: Qiuyuan and Ziheng, likely depicted as a mother and son or relatives.\n- Artistic style: Since it's a literary passage, I should choose a style that fits the mood. Maybe realistic, somber, or with a touch of nostalgia. Consider styles like realistic painting, documentary photography, or impressionist to convey emotion.\n\nEnsure the prompt is vivid and detailed but concise, within 2–4 sentences.\n\nBrainstorm a scene:\n-",
+      "image": "reader_images/reader_20260314_111156.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 606183534,
+      "created_at": "2026-03-14T11:11:56.371965+08:00"
     }
   ],
   "book_total_chars": 92814,
