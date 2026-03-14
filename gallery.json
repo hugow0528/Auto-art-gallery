@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_155613",
+      "filename": "images/artwork_20260314_155613.jpg",
+      "topic": "ancient traditions meeting the modern world",
+      "prompt": "In a minimalist composition under stormy overcast light casting diffused cool blues and purples across vast negative space, an ancient stone totem etched with simple geometric runes floats whimsically above a sleek glass skyscraper piercing the clouds, their clean lines blurring in dreamlike fusion. Subtle textures on the weathered stone contrast the modern tower's glassy sheen, evoking harmonious wonder where tradition and technology intertwine ethereally. Award-winning visual artistry with precise forms, rhythmic repetition, and serene balance.",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 974823046,
+      "created_at": "2026-03-14T15:56:13.367464+08:00"
+    },
+    {
       "id": "20260314_153008",
       "filename": "images/artwork_20260314_153008.jpg",
       "topic": "mental health awareness in the digital age",
