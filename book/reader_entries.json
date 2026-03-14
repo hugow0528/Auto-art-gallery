@@ -6371,6 +6371,18 @@
       "image_model": "imagen-4",
       "seed": 1662747210,
       "created_at": "2026-03-14T21:54:48.665615+08:00"
+    },
+    {
+      "id": "20260314_215941",
+      "offset_start": 37089,
+      "offset_end": 37178,
+      "text": "這四隻缸大小一樣、顏色一樣，整整齊齊擺在禾坪裏。太陽快下山了，由於興奮\n和期盼，大家都忘了喫飯。\n隊長交代大夥回家喫飯，喫了飯趕緊來，人到齊才開缸，又叫來兩個社員看住四\n只缸。",
+      "prompt": "In a traditional Chinese rural village at dusk, four identical large clay jars, uniform in size and earthy color, stand neatly arranged in a sunlit threshing ground surrounded by sloped tiled roofs and wooden courtyards. A stern village captain gestures instructions to an excited group of villagers—farmers in simple cotton clothes, their faces flushed with anticipation—while two additional members guard the jars vigilantly, as the golden sun dips low, casting long shadows and a warm, expectant glow over the scene. Render in a realistic style inspired by Chinese ink wash painting with vibrant sunset lighting, evoking communal harmony and suspenseful rural tradition.",
+      "image": "reader_images/reader_20260314_215941.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1033090427,
+      "created_at": "2026-03-14T21:59:41.527514+08:00"
     }
   ],
   "book_total_chars": 92814,
