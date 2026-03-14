@@ -6779,6 +6779,18 @@
       "image_model": "flux",
       "seed": 2064418749,
       "created_at": "2026-03-15T00:49:03.725696+08:00"
+    },
+    {
+      "id": "20260315_005040",
+      "offset_start": 39495,
+      "offset_end": 39599,
+      "text": "他要格外小心，時\n不時揭開蓋子看看，能聞到一股肉香，這真是件再好不過的事。兵桃幾乎忘了他\n今生今世還是頭一次做這事。\n\n66\n\n\f十\n從仁受劃了舊官吏，秋園家被沒收東西那天起，滿娭毑就再不來喝豆子芝麻茶\n了。",
+      "prompt": "A humble, dimly lit kitchen interior, filled with the savory aroma of slow-cooked meat. A young man, Bing Tao, his brow furrowed with concentration, nervously lifts the lid of a steaming pot, his face illuminated by the warm, inviting glow of the embers. The atmosphere is one of quiet anticipation and the novel satisfaction of a first-time culinary endeavor, rendered in the style of a traditional Chinese ink wash painting with subtle photorealistic details.",
+      "image": "reader_images/reader_20260315_005040.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 2037278309,
+      "created_at": "2026-03-15T00:50:40.447415+08:00"
     }
   ],
   "book_total_chars": 92814,
