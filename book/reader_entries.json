@@ -4895,6 +4895,18 @@
       "image_model": "gptimage",
       "seed": 1901615069,
       "created_at": "2026-03-14T12:24:57.257305+08:00"
+    },
+    {
+      "id": "20260314_122531",
+      "offset_start": 29543,
+      "offset_end": 29619,
+      "text": "過了年不久，秋園把之驊叫到身邊，對她說：「你去把屋檐下簸箕裏的鴨毛拿到\n街上賣掉。賣了錢，去買一塊寫字用的石板，再買一根扎頭髮的牛筋，要準備讀\n書了。",
+      "prompt": "A young girl with dark braided hair, wearing a simple, traditional Chinese tunic, stands at the threshold of a modest courtyard house. She holds a dusty wicker basket overflowing with white duck feathers, her expression a mixture of apprehension and determination. Sunlight filters through the eaves, casting long shadows and illuminating the worn cobblestone street beyond, hinting at the simple yet important task ahead. The scene evokes a feeling of quiet anticipation and the dawn of education, rendered in the soft, realistic style of traditional Chinese ink wash painting with a touch of vibrant color.",
+      "image": "reader_images/reader_20260314_122531.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 134958524,
+      "created_at": "2026-03-14T12:25:31.836409+08:00"
     }
   ],
   "book_total_chars": 92814,
