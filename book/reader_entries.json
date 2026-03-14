@@ -6527,6 +6527,18 @@
       "image_model": "imagen-4",
       "seed": 784044994,
       "created_at": "2026-03-14T22:52:43.580976+08:00"
+    },
+    {
+      "id": "20260314_225649",
+      "offset_start": 38075,
+      "offset_end": 38151,
+      "text": "四老倌又輕輕地對兵桃說：「我掛在牆上的爛布包裏本來有五十八元，是留着防\n老的，有一身新衣是留着裝老的，還有一身新衣是留給你相親穿的，如今都被沒\n收了。",
+      "prompt": "A dimly lit, humble room in rural China, with a torn cloth bag hanging on a rough wall. An elderly man, his face etched with worry, speaks softly to a younger person. The atmosphere is somber, with a hint of desperation, rendered in a realistic, painterly style with chiaroscuro lighting to emphasize the emotional weight of the scene.",
+      "image": "reader_images/reader_20260314_225649.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1766416043,
+      "created_at": "2026-03-14T22:56:49.257459+08:00"
     }
   ],
   "book_total_chars": 92814,
