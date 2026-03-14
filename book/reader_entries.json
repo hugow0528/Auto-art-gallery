@@ -5687,6 +5687,18 @@
       "image_model": "zimage",
       "seed": 297940237,
       "created_at": "2026-03-14T16:52:48.025138+08:00"
+    },
+    {
+      "id": "20260314_165641",
+      "offset_start": 33627,
+      "offset_end": 33705,
+      "text": "58\n\n\f結婚幾個月後，春桃懷了孕，似乎看到了一線希望，要是這回能生個崽，興許日\n子能好過些。\n十月懷胎，一朝分娩。那天，春桃發作了，肚子痛得在牀上滾。",
+      "prompt": "A dimly lit, rustic bedroom with a worn wooden bed; a young woman, Chuntao, writhes in labor pain, her face contorted and hands clenched in the sheets. The mood is one of raw, hopeful agony, rendered in a style of gritty social realism with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_165641.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 640795114,
+      "created_at": "2026-03-14T16:56:41.167001+08:00"
     }
   ],
   "book_total_chars": 92814,
