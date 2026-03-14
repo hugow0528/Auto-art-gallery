@@ -7607,6 +7607,18 @@
       "image_model": "flux-2-dev",
       "seed": 814654906,
       "created_at": "2026-03-15T06:29:37.843324+08:00"
+    },
+    {
+      "id": "20260315_063059",
+      "offset_start": 43826,
+      "offset_end": 43891,
+      "text": "晚上，剛上牀便聽到了敲門聲，秋園連忙從牀上彈了起來，跑去開門。原來是二\n菊的野男人。他經過穿堂間，徑直推開門，走進了二菊的睡房。",
+      "prompt": "A Chinese woman in a simple cotton nightgown stands startled in a dimly lit traditional bedroom, moonlight streaming through a small window onto worn wooden furniture. A shadowy male figure in dark clothing moves through a narrow hallway toward another bedroom door, the scene captured in a cinematic, realistic style with muted earth tones, dramatic chiaroscuro lighting, and a tense, intimate atmosphere reminiscent of 1990s Chinese independent cinema.",
+      "image": "reader_images/reader_20260315_063059.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 284371553,
+      "created_at": "2026-03-15T06:30:59.140122+08:00"
     }
   ],
   "book_total_chars": 92814,
