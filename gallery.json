@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_122903",
+      "filename": "images/artwork_20260314_122903.jpg",
+      "topic": "economic inequality and social justice",
+      "prompt": "A lone, silhouetted figure clutches a tattered newspaper, standing on a grimy, rain-slicked cobblestone street bathed in the warm, diffused amber and orange glow of a perpetual twilight, casting long, distorted shadows that accentuate the stark division between the opulent, towering art deco skyscrapers in the distance and the cramped, grimy tenements in the foreground. The noir art style emphasizes a dark and dystopian mood, with subtle hints of neon reflecting off puddles and the texture of the worn brickwork and rusted fire escapes conveying a sense of decay and desperation, capturing the essence of economic inequality and the quiet yearning for social justice.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2074638454,
+      "created_at": "2026-03-14T12:29:03.024928+08:00"
+    },
+    {
       "id": "20260314_122118",
       "filename": "images/artwork_20260314_122118.jpg",
       "topic": "traditional vs modern culture clash in Asia",
