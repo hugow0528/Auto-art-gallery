@@ -7487,6 +7487,18 @@
       "image_model": "imagen-4",
       "seed": 1384081372,
       "created_at": "2026-03-15T05:39:31.009854+08:00"
+    },
+    {
+      "id": "20260315_054328",
+      "offset_start": 43114,
+      "offset_end": 43188,
+      "text": "我挑着擔子天天在外面轉，昨天才聽說楊鄉\n長劃了舊官吏、抄了家，曉得你們有困難，就趕緊來了。」\n\n71\n\n\f秋園說：「我們如今確實困難，連飯都冇得喫。",
+      "prompt": "A humble, dimly lit courtyard in a rural Chinese village, with a weary traveler carrying a shoulder pole laden with goods. The atmosphere is one of quiet desperation and hardship, with laundry hanging limply and meager furnishings visible through an open doorway. The style should be reminiscent of traditional Chinese ink wash painting, with muted colors and a focus on conveying emotional weight.",
+      "image": "reader_images/reader_20260315_054328.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 954041881,
+      "created_at": "2026-03-15T05:43:28.933101+08:00"
     }
   ],
   "book_total_chars": 92814,
