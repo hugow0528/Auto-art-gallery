@@ -7715,6 +7715,18 @@
       "image_model": "grok-imagine",
       "seed": 1308544577,
       "created_at": "2026-03-15T06:59:38.389301+08:00"
+    },
+    {
+      "id": "20260315_070248",
+      "offset_start": 44364,
+      "offset_end": 44428,
+      "text": "73\n\n\f那天收穫不小，翻到了一牀舊棉絮，看上去還有點白、有點軟，還挑了幾件舊衣\n服，捆成一捆。宜民又給了些米和一個小煙筒。",
+      "prompt": "A dimly lit, rustic interior of a humble dwelling, perhaps a barn or shed, filled with the earthy scent of old textiles and grain. Soft, warm light spills from a single source, illuminating a pile of slightly aged but still soft white cotton batting and a bundle of worn, neatly tied clothes. A kind, weathered face with gentle eyes, possibly of an elder, is visible, holding a small, simple clay pipe, offering a small sack of rice and a handful of grain. The scene should evoke a feeling of quiet generosity and simple sustenance, rendered in a realistic yet slightly painterly style, reminiscent of Dutch Golden Age genre paintings.",
+      "image": "reader_images/reader_20260315_070248.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1666196643,
+      "created_at": "2026-03-15T07:02:48.696263+08:00"
     }
   ],
   "book_total_chars": 92814,
