@@ -5543,6 +5543,18 @@
       "image_model": "zimage",
       "seed": 1367806906,
       "created_at": "2026-03-14T15:51:21.016965+08:00"
+    },
+    {
+      "id": "20260314_155250",
+      "offset_start": 32809,
+      "offset_end": 32913,
+      "text": "黎\n老師分了一半給她。喫完那一兩半米的鉢子飯，之驊完全復原了。\n轉眼到了寒假，地裏的菜喫光了，家裡好幾天都揭不開鍋。看着兩個餓極的弟\n弟，之驊又跑了十二裏路，找到黎老師，拿回了那一塊錢，用它買了幾斤米回\n家。",
+      "prompt": "A sparse, humble rural Chinese home during winter famine, with a young boy of about twelve standing in a modest kitchen or storage area, gazing at nearly empty rice bowls and bare shelves. The atmosphere is one of quiet desperation tinged with resilience—dim, cool light filtering through paper windows, casting long shadows across worn wooden floors and weathered walls. The boy clutches a single coin, his expression a mixture of determination and youthful burden. Paint in a muted, realistic style reminiscent of early 20th-century Chinese realist art, with soft, earth-tone colors—grays, browns, and pale yellows—emphasizing the poverty and austerity of the moment, yet with a gentle dignity that speaks to his devotion to his younger siblings.",
+      "image": "reader_images/reader_20260314_155250.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1185178221,
+      "created_at": "2026-03-14T15:52:50.065945+08:00"
     }
   ],
   "book_total_chars": 92814,
