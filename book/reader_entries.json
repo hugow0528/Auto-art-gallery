@@ -6179,6 +6179,18 @@
       "image_model": "grok-imagine",
       "seed": 2028959516,
       "created_at": "2026-03-14T20:01:04.043792+08:00"
+    },
+    {
+      "id": "20260314_205843",
+      "offset_start": 36084,
+      "offset_end": 36148,
+      "text": "他眼裡\n流出渾濁的老淚，時不時舉起粗糙的手指抹去眼淚，腳抖個不停。\n四老倌說：「我實在沒有金子啊，就是把我打死，我也拿不出金子。",
+      "prompt": "First, the user provided a Chinese literary passage: \"他眼里流出浑浊的老泪，时不时举起粗糙的手指抹去眼泪，脚抖个不停。四老倌说：‘我实在没有金子啊，就是把我打死，我也拿不出金子。’\" This translates to: \"His eyes shed turbid old tears, from time to time raising rough fingers to wipe away tears, his feet trembling non-stop. Fourth Old Man said: 'I really have no gold, even if you beat me to death, I can't produce gold.'\"\n\nI need to create an image-generation prompt in English based on this passage. The prompt should capture the scene, atmosphere, characters, and visual essence. It should include artistic style, mood, lighting, and specific visual elements. My response must be ONLY the image prompt in English, no explanations, translations, or markdown. Also, keep it to 2–4 sentences.\n\nKey elements from the passage:\n\n- Character: An old man, referred to as \"四老倌\" (Fourth Old Man), who is crying with turbid tears, using rough fingers to wipe them, and his feet are trembling.\n\n- Emotion: Desperation, sorrow, fear. He's pleading that he has no gold, even under threat of death.\n\n- Setting: Not explicitly stated, but from the context, it might be a tense or oppressive environment where he's being pressured for gold. It could be indoors or outdoors, but I need to infer",
+      "image": "reader_images/reader_20260314_205843.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 144611804,
+      "created_at": "2026-03-14T20:58:43.312277+08:00"
     }
   ],
   "book_total_chars": 92814,
