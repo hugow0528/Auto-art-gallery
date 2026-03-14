@@ -5927,6 +5927,18 @@
       "image_model": "imagen-4",
       "seed": 672668390,
       "created_at": "2026-03-14T18:19:31.542089+08:00"
+    },
+    {
+      "id": "20260314_184114",
+      "offset_start": 34908,
+      "offset_end": 34995,
+      "text": "國民黨確實腐敗，\n我深有體會。共產黨看來是真爲窮人、爲百姓辦事，現在窮苦人都分了田、分了\n房，人人都有飯喫、有衣穿。人民政府好，你們要聽政府的話，千萬不要做對不\n起政府的事。",
+      "prompt": "A poignant scene in a sparsely furnished, sun-drenched rural Chinese home during the mid-20th century. An elderly peasant woman, weathered but with a hopeful glint in her eye, gestures earnestly towards a framed portrait of Mao Zedong hanging on the wall, symbolizing her newfound faith in the Communist Party's promises of land and sustenance. The atmosphere is one of quiet optimism and profound change, rendered in the style of traditional Chinese ink wash painting with a touch of socialist realism.",
+      "image": "reader_images/reader_20260314_184114.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 753073596,
+      "created_at": "2026-03-14T18:41:14.344120+08:00"
     }
   ],
   "book_total_chars": 92814,
