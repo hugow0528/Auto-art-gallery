@@ -6767,6 +6767,18 @@
       "image_model": "flux",
       "seed": 904183254,
       "created_at": "2026-03-15T00:48:43.083758+08:00"
+    },
+    {
+      "id": "20260315_004903",
+      "offset_start": 39430,
+      "offset_end": 39495,
+      "text": "把肉\n洗淨、切好，不大不小、方方正正，放進瓦罐裏，先用大火燒開，再用溫火慢\n燉。千萬不能燒乾湯，湯燒乾了再摻水，湯就沒了原汁原味。",
+      "prompt": "In a dimly lit traditional Chinese kitchen bathed in warm, flickering lantern light and steam rising from a clay pot (wajan), an elderly cook with weathered hands and a simple apron meticulously washes and cuts chunks of fresh red meat into neat, square pieces on a wooden board, surrounded by bamboo steamers, clay jars, and scattered ginger roots. The atmosphere is cozy and focused, with soft shadows playing across soot-stained walls and a low fire crackling beneath the pot, now simmering gently after an initial boil, evoking the patient essence of home-cooked Chinese stewing. Render in a realistic style inspired by Chinese ink wash painting with photorealistic details, warm earthy tones, and a sense of timeless culinary ritual.",
+      "image": "reader_images/reader_20260315_004903.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2064418749,
+      "created_at": "2026-03-15T00:49:03.725696+08:00"
     }
   ],
   "book_total_chars": 92814,
