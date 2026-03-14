@@ -6287,6 +6287,18 @@
       "image_model": "imagen-4",
       "seed": 1181346357,
       "created_at": "2026-03-14T21:35:17.458265+08:00"
+    },
+    {
+      "id": "20260314_213543",
+      "offset_start": 36603,
+      "offset_end": 36702,
+      "text": "」\n某天上午，四老倌被人用麻繩綁住兩個大拇指，吊在生產隊門前的大樟樹下。他\n呼天喊地，臉上的汗就像下雨樣吧嗒吧嗒往下掉，棉袍被汗浸透了，風一吹，渾\n身打着哆嗦，後來頭一歪就昏死過去，什麼也不知道了。",
+      "prompt": "A dramatic scene in rural China during a sunny morning: an elderly man, \"Si Laoguan,\" with weathered face drenched in sweat like falling rain, wearing a soaked cotton robe clinging to his shivering body, his two thumbs bound tightly with rough hemp rope and suspended from a thick branch of a massive ancient camphor tree in front of a production team gate, his head tilted limply in unconsciousness as wind rustles the leaves. The atmosphere is tense and pitiful, evoking suffering and injustice under harsh sunlight filtering through the canopy, casting dramatic shadows on the dusty ground littered with village debris. Render in realistic style inspired by Chinese ink wash painting with vivid watercolor accents, high contrast lighting emphasizing sweat droplets and trembling fabric, somber mood with earthy tones of green, brown, and gray.",
+      "image": "reader_images/reader_20260314_213543.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1389085669,
+      "created_at": "2026-03-14T21:35:43.299289+08:00"
     }
   ],
   "book_total_chars": 92814,
