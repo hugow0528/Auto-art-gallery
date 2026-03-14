@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_153008",
+      "filename": "images/artwork_20260314_153008.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "First, the user wants me to create an image generation prompt. I must respond with ONLY the prompt itself—no explanations, no titles, no markdown. The prompt must be in English only.\n\nThe topic is \"mental health awareness in the digital age.\" I need to incorporate specific elements naturally:\n\n- Art style: pop art\n\n- Mood: peaceful and serene\n\n- Lighting: dappled forest light\n\n- Color palette: earth tones and terracotta\n\nThe prompt should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. It should paint a clear mental picture.\n\nI need to craft a vivid, detailed prompt that includes all these elements. Let me brainstorm how to blend them together.\n\n1. **Art style: pop art** – Pop art is known for bold colors, popular culture themes, and often a graphic, comic-book-like style. But since the color palette is earth tones and terracotta, I should adapt pop art to use these colors rather than bright primaries.\n\n2. **Mood: peaceful and serene** – The scene should feel calm and tranquil. This could be achieved through soft lighting, gentle compositions, and soothing elements.\n\n3. **Lighting: dappled forest light** – This suggests light filtering through trees, creating patches of light and shadow. It adds a natural, organic feel.\n\n4. **Color palette: earth tones and terracotta** – Colors like browns, greens, oranges, and terracotta reds. This ties into the forest setting and serene mood.\n\nThe theme is mental health awareness in the digital age. So, I should incorporate elements related to digital age, like technology, but in a way that promotes awareness and peace. Perhaps showing a contrast or harmony between nature and technology.\n\nTo make it pop art, I can use stylized forms, maybe with outlines or halftone patterns, but in earth tones.\n\nStructure the prompt: Start with the main scene, describe",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 466511274,
+      "created_at": "2026-03-14T15:30:08.254937+08:00"
+    },
+    {
       "id": "20260314_151031",
       "filename": "images/artwork_20260314_151031.jpg",
       "topic": "post-pandemic world transformation",
