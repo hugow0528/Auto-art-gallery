@@ -6719,6 +6719,18 @@
       "image_model": "gptimage",
       "seed": 2134783214,
       "created_at": "2026-03-14T23:58:53.596385+08:00"
+    },
+    {
+      "id": "20260315_000321",
+      "offset_start": 39177,
+      "offset_end": 39257,
+      "text": "隊長叫人把鹽挑到隊部，爛缸片挑到背後山上倒掉。做完這一切，只聽公雞報\n曉，天麻麻亮了。\n兵桃起了個大早，先爬到牛欄上，從牆縫裡拿出那一塊錢，又繞到薯窖邊查看。",
+      "prompt": "A pre-dawn rural Chinese village scene. A weathered man, Bin Tao, dressed in simple farmer's clothes, retrieves a coin from a crack in a cow shed wall, his face etched with early morning weariness and determination. The atmosphere is cool, with the first pale light of dawn just beginning to illuminate the rough-hewn textures of mud and straw buildings, with a hint of mist. The art style should be realistic, with a focus on muted earth tones and soft, diffused lighting.",
+      "image": "reader_images/reader_20260315_000321.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1665310995,
+      "created_at": "2026-03-15T00:03:21.420645+08:00"
     }
   ],
   "book_total_chars": 92814,
