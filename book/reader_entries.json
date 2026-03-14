@@ -7595,6 +7595,18 @@
       "image_model": "imagen-4",
       "seed": 1007927349,
       "created_at": "2026-03-15T06:02:13.192780+08:00"
+    },
+    {
+      "id": "20260315_062937",
+      "offset_start": 43759,
+      "offset_end": 43826,
+      "text": "」\n秋園還未來得及回話，滿娭毑轉身就走了。秋園站在屋子中間愣了半天，搞不清\n滿娭毑葫蘆裏賣的什麼藥，好一陣害怕，不知又有什麼禍事臨頭。",
+      "prompt": "A dimly lit, traditional Chinese courtyard house interior. Qiu Yuan, a young woman with a bewildered and fearful expression, stands frozen in the center of a sparsely furnished room, bathed in the cool, uncertain light filtering from a nearby window. The atmosphere is heavy with apprehension, hinting at an unseen, looming trouble, rendered in the style of a classical Chinese ink wash painting with muted tones and dramatic shadows.",
+      "image": "reader_images/reader_20260315_062937.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 814654906,
+      "created_at": "2026-03-15T06:29:37.843324+08:00"
     }
   ],
   "book_total_chars": 92814,
