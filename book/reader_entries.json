@@ -7079,6 +7079,18 @@
       "image_model": "gptimage",
       "seed": 54362338,
       "created_at": "2026-03-15T02:59:32.791450+08:00"
+    },
+    {
+      "id": "20260315_025953",
+      "offset_start": 40932,
+      "offset_end": 41001,
+      "text": "杏梅母親從田裡喊回了正在做事的杏梅父親，\n他看到秋園，也勸慰了好一陣，然後去了竈屋裡。\n\n68\n\n\f不一會兒，之驊和秋園聽到了捉雞的聲音。",
+      "prompt": "A rural courtyard in late autumn, with a father being called from his work in the fields by his mother. The father, after comforting Qiu Yuan, heads to the kitchen, where the sounds of chickens being caught are soon heard. The scene is rendered in a traditional Chinese ink wash painting style, with soft, muted colors and a serene, slightly melancholic atmosphere, emphasizing the textures of the earth and the fading light.",
+      "image": "reader_images/reader_20260315_025953.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 139888084,
+      "created_at": "2026-03-15T02:59:53.072842+08:00"
     }
   ],
   "book_total_chars": 92814,
