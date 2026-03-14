@@ -5363,6 +5363,18 @@
       "image_model": "flux",
       "seed": 1792189350,
       "created_at": "2026-03-14T14:54:28.287092+08:00"
+    },
+    {
+      "id": "20260314_150515",
+      "offset_start": 31950,
+      "offset_end": 32046,
+      "text": "放學回家時，之驊仍打着赤腳，可不能讓唯一一雙好鞋打溼。回到家，她燒了一\n盆好熱的水，滿以爲用滾熱的水泡泡，腳就不會那麼痛了；誰知冰冷的腳突然遇\n到熱水，真好比萬箭穿心，之驊立馬痛得大哭起來。",
+      "prompt": "A young barefoot Chinese girl named Zhi Hua in a modest rural home, sitting on the floor beside a steaming basin of scalding hot water, her face contorted in excruciating pain with tears streaming down her cheeks as she clutches her ice-cold feet just moments from plunging them in, evoking a heart-wrenching moment of naive desperation. Dim, warm indoor lighting from a single lantern casts dramatic shadows on weathered wooden floors and simple furnishings, atmosphere heavy with sudden agony and poverty, misty vapor rising from the water. Realistic cinematic style like a poignant Liu Xiaodong painting, high detail, shallow depth of field, earthy tones with steamy highlights, emotional intensity.",
+      "image": "reader_images/reader_20260314_150515.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 757539920,
+      "created_at": "2026-03-14T15:05:15.542214+08:00"
     }
   ],
   "book_total_chars": 92814,
