@@ -6383,6 +6383,18 @@
       "image_model": "zimage",
       "seed": 1033090427,
       "created_at": "2026-03-14T21:59:41.527514+08:00"
+    },
+    {
+      "id": "20260314_220116",
+      "offset_start": 37178,
+      "offset_end": 37294,
+      "text": "兵桃背着爹爹，一步一步走回茅屋，把爹爹輕輕放在稻草上，蓋上爛棉絮，不停\n喊着「爹爹」，直到爹爹應了一聲，才走出去。\n不知兵桃從哪裡弄來兩個雞蛋煮成荷包蛋，滿滿一碗，撒上蔥花，滴上菜油，油\n在湯麵浮出一片小小的黃圈圈，發出一股香味。",
+      "prompt": "A young child, Bing Tao, carries an elderly father, gently placing him on a straw mat inside a rustic, dimly lit thatched hut. The air is thick with the scent of simple food as Bing Tao prepares a bowl of noodles with two fried eggs, chopped scallions, and a drizzle of oil, evoking a tender, humble scene rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of impressionism for the light and aroma.",
+      "image": "reader_images/reader_20260314_220116.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1737612954,
+      "created_at": "2026-03-14T22:01:16.059589+08:00"
     }
   ],
   "book_total_chars": 92814,
