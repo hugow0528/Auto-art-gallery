@@ -7031,6 +7031,18 @@
       "image_model": "imagen-4",
       "seed": 1437008061,
       "created_at": "2026-03-15T02:29:35.962638+08:00"
+    },
+    {
+      "id": "20260315_025453",
+      "offset_start": 40724,
+      "offset_end": 40795,
+      "text": "聽到狗叫聲，杏梅母親從竈屋裡急急地走了出來。看到她們，她一邊在圍腰上使\n勁擦着手，一邊小跑着來迎接，喊聲「梁老師」，抓着秋園的手便往屋裡走。",
+      "prompt": "A warmly lit rural Chinese courtyard at dusk, with a thatched-roof kitchen hut in the background emitting faint smoke from a hearth fire, as a middle-aged woman in a simple apron and worn clothes hurriedly emerges, vigorously wiping her wet hands on her waist wrap while small-running forward with an eager smile. She joyfully calls out and grasps the hand of a poised female teacher in modest scholarly attire, leading her and a young girl companion toward the open wooden door of a traditional sloped-tile farmhouse amid terraced fields. Render in a realistic cinematic style inspired by rural Chinese ink wash paintings, with soft golden hour lighting casting long shadows, evoking a mood of heartfelt village hospitality and familial warmth.[1][4]",
+      "image": "reader_images/reader_20260315_025453.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 15025795,
+      "created_at": "2026-03-15T02:54:53.915690+08:00"
     }
   ],
   "book_total_chars": 92814,
