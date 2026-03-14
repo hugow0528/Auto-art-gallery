@@ -4739,6 +4739,18 @@
       "image_model": "zimage",
       "seed": 1567655251,
       "created_at": "2026-03-14T11:56:15.609836+08:00"
+    },
+    {
+      "id": "20260314_115715",
+      "offset_start": 28707,
+      "offset_end": 28823,
+      "text": "看到同村的女孩子都快讀完小學了，她急得\n要發瘋，跟秋園提了好幾次要上學。秋園每次都很耐心地解釋，不是不願意送她\n讀書，只是如今連飯都喫不飽，如果沒有之驊在家帶弟弟、種菜、搞柴、挑水、\n洗衣、煮飯，自己就不能去教書，日子就沒法過下去。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. I need to respond ONLY with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is about a girl who wants to go to school, but her mother, Qiuyuan, explains that they can't afford it because the girl is needed at home for chores like taking care of her brother, farming, fetching firewood, carrying water, washing clothes, and cooking. The mother teaches to make ends meet.\n\nKey elements from the passage:\n- The girl is eager to go to school, seeing other girls finishing primary school.\n- She's frustrated or desperate (\"急得要發瘋\").\n- The mother is patient but explains the practical hardships.\n- Setting: likely a rural village, as implied by chores like farming and fetching firewood.\n- Atmosphere: tension between desire for education and harsh reality of poverty.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nPrompt should be 2–4 sentences only, in English.\n\nStructure the prompt:\n- Describe the setting: rural, perhaps a humble home or countryside.\n- Characters: the girl and her mother, possibly in an interaction.\n- Atmosphere: somber, tense, or melancholic, with a sense of struggle.\n- Artistic style: maybe realistic, poignant, or reminiscent of historical or literary illustrations.\n-",
+      "image": "reader_images/reader_20260314_115715.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 257963906,
+      "created_at": "2026-03-14T11:57:15.998615+08:00"
     }
   ],
   "book_total_chars": 92814,
