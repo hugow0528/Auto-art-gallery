@@ -5627,6 +5627,18 @@
       "image_model": "flux-2-dev",
       "seed": 705002014,
       "created_at": "2026-03-14T16:20:20.952841+08:00"
+    },
+    {
+      "id": "20260314_162143",
+      "offset_start": 33326,
+      "offset_end": 33393,
+      "text": "新娘子本來有個好聽的名字，叫王素雲。可自從進了滿家的門，「王素雲」就被\n「滿春桃」取而代之了。\n紙媒子，用紙搓成的條狀物，即紙捻子。",
+      "prompt": "A traditional Chinese bride in a red qipao with elaborate gold embroidery sits in a modest rural courtyard, her face partially hidden behind a decorative fan, with paper wicks and red lanterns surrounding her, soft morning light filtering through paper windows, cinematic style with warm earth tones and volumetric lighting, traditional Chinese ink wash painting combined with photorealistic detail.",
+      "image": "reader_images/reader_20260314_162143.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 765590909,
+      "created_at": "2026-03-14T16:21:43.666290+08:00"
     }
   ],
   "book_total_chars": 92814,
