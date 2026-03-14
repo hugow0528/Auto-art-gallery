@@ -5891,6 +5891,18 @@
       "image_model": "flux-2-dev",
       "seed": 505206041,
       "created_at": "2026-03-14T18:00:27.347399+08:00"
+    },
+    {
+      "id": "20260314_181407",
+      "offset_start": 34773,
+      "offset_end": 34847,
+      "text": "仁受被關在一間空房子裡，門前有人看守。之驊得到允許，可以把東西送進去。\n仁受面如土色，癱坐在屋角，把之驊叫到面前，小聲說：「這次我可能會被槍\n斃。",
+      "prompt": "A dimly lit, barren empty room with cracked concrete walls and a single small window casting faint, cold light, where a pale-faced man with earth-toned skin slumps despairingly in the shadowy corner, his expression one of utter defeat and fear, whispering urgently to a young woman kneeling close before him as a stern guard looms outside the heavy wooden door. The atmosphere is thick with impending doom and tense intimacy, shadows deepening the sense of isolation and dread under harsh, flickering lantern glow. Render in a realistic cinematic style inspired by film noir, with muted grays, earthy tones, high contrast lighting, and intricate details on worn textures and subtle emotional micro-expressions.",
+      "image": "reader_images/reader_20260314_181407.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2042455621,
+      "created_at": "2026-03-14T18:14:07.105855+08:00"
     }
   ],
   "book_total_chars": 92814,
