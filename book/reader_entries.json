@@ -6059,6 +6059,18 @@
       "image_model": "zimage",
       "seed": 1928838185,
       "created_at": "2026-03-14T19:16:29.343024+08:00"
+    },
+    {
+      "id": "20260314_191807",
+      "offset_start": 35542,
+      "offset_end": 35604,
+      "text": "不一會兒，四老倌從堂屋裡被五花大綁着帶了出來，低頭站在衆人中間。鬥爭會\n開始了，第一句話就是問他有多少金子，金子放在哪裡。",
+      "prompt": "A grim, oppressive atmosphere pervades a stark, dimly lit room during a \"struggle session\" (鬥爭會). Four elderly men, bound and heads bowed, stand amidst a tense crowd, illuminated by harsh, unforgiving light that casts long shadows. The scene should be rendered in a stark, realistic style, reminiscent of Soviet-era propaganda posters, emphasizing the desperation and powerlessness of the accused.",
+      "image": "reader_images/reader_20260314_191807.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 513256084,
+      "created_at": "2026-03-14T19:18:07.086883+08:00"
     }
   ],
   "book_total_chars": 92814,
