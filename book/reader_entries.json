@@ -7295,6 +7295,18 @@
       "image_model": "imagen-4",
       "seed": 1437662533,
       "created_at": "2026-03-15T03:58:38.530348+08:00"
+    },
+    {
+      "id": "20260315_040139",
+      "offset_start": 41991,
+      "offset_end": 42054,
+      "text": "」\n秋園又是一陣臉紅，說：「不到別處去了。有咯多米，能喫蠻久。只是實在不好\n意思，多得了你們的。不曉得以後有不有機會報答你們。",
+      "prompt": "A modest rural Chinese woman with downcast eyes and flushed cheeks accepts a wicker basket of rice from visitors in a humble courtyard, her hands folded in embarrassment while two travelers stand nearby. Warm golden afternoon light illuminates the earthen walls and simple wooden furniture of a cottage home, capturing the quiet dignity of gratitude. Style: traditional Chinese ink wash painting with soft, muted earth tones and delicate line work.",
+      "image": "reader_images/reader_20260315_040139.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 505256059,
+      "created_at": "2026-03-15T04:01:39.084270+08:00"
     }
   ],
   "book_total_chars": 92814,
