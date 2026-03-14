@@ -7439,6 +7439,18 @@
       "image_model": "gptimage",
       "seed": 1135522346,
       "created_at": "2026-03-15T05:04:07.575217+08:00"
+    },
+    {
+      "id": "20260315_051536",
+      "offset_start": 42773,
+      "offset_end": 42868,
+      "text": "我只記得那年三十晚上，別人家裡都在放鞭\n炮、喫年飯，我堂客得病後來又死了，欠了一身賬，到了年三十晚上，還冇得米\n下鍋。看到一家老的老、小的小，我把心一橫，偷都要去偷點東西來讓一家人過\n個年。",
+      "prompt": "A destitute man stands in a dimly lit, bare kitchen on Chinese New Year's Eve, empty rice pot before him, his face etched with desperation and resolve. Around him, muted shadows of his elderly parents and young children huddle together in worn clothing, their hopeful eyes contrasting with the poverty surrounding them. Through a window, distant red lanterns and fireworks illuminate the night sky, symbolizing the festive celebrations happening in wealthier homes nearby. The scene is rendered in muted, desaturated tones with dramatic chiaroscuro lighting, evoking a sense of grim determination and the weight of impossible choices, in the style of early 20th-century social realist painting.",
+      "image": "reader_images/reader_20260315_051536.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 382222778,
+      "created_at": "2026-03-15T05:15:36.266041+08:00"
     }
   ],
   "book_total_chars": 92814,
