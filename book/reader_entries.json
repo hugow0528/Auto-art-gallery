@@ -6191,6 +6191,18 @@
       "image_model": "flux",
       "seed": 144611804,
       "created_at": "2026-03-14T20:58:43.312277+08:00"
+    },
+    {
+      "id": "20260314_211228",
+      "offset_start": 36148,
+      "offset_end": 36211,
+      "text": "」\n衆人認爲四老倌不老實，有金子不肯交，不受點皮肉苦是不行的。有人抬出一隻\n大水缸，缸裏放了條泥鰍，命他脫光衣服去捉這條泥鰍。",
+      "prompt": "A gaunt elderly man with matted gray hair stands naked in a large earthen water jar, hunched over trying to grasp a slipping loach in the murky water. Villagers in traditional Han clothing surround the jar, their faces hardened with suspicion and cruelty as they watch. The scene is rendered in the style of traditional Chinese folk narrative painting, with muted earth tones and dramatic lighting emphasizing the old man's vulnerability against the oppressive crowd.",
+      "image": "reader_images/reader_20260314_211228.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1154748529,
+      "created_at": "2026-03-14T21:12:28.655195+08:00"
     }
   ],
   "book_total_chars": 92814,
