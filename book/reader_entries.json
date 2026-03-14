@@ -6983,6 +6983,18 @@
       "image_model": "gptimage",
       "seed": 527846876,
       "created_at": "2026-03-15T02:00:44.562316+08:00"
+    },
+    {
+      "id": "20260315_020109",
+      "offset_start": 40397,
+      "offset_end": 40469,
+      "text": "時不時有小鳥撲稜稜地從樹林中飛出\n來，嘰嘰喳喳地叫着。\n秋園心事很重，默默地走着。之驊走在前面，心裡沉甸甸的，好似灌了鉛，昨晚\n的勇氣一掃而光。",
+      "prompt": "A melancholic autumn forest scene at dusk, where two women walk along a winding path beneath bare trees, with small birds fluttering anxiously out of the canopy above, their wings catching the golden afternoon light. The figure in front (Zhihua) walks with slumped shoulders and a heavy gait, her posture conveying exhausted despair, while the one behind (Qiuyuan) follows silently, her face shadowed by worry and deep sorrow. The forest floor is carpeted with fallen leaves in warm amber and russet tones, the atmosphere thick with quiet sadness and the fading light of autumn. Art style: realistic oil painting with soft, muted colors, cinematic composition, evoking the quiet anguish of human struggle against fate.",
+      "image": "reader_images/reader_20260315_020109.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 881988506,
+      "created_at": "2026-03-15T02:01:09.966301+08:00"
     }
   ],
   "book_total_chars": 92814,
