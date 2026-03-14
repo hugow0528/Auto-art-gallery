@@ -6251,6 +6251,18 @@
       "image_model": "grok-imagine",
       "seed": 1487482308,
       "created_at": "2026-03-14T21:16:35.137667+08:00"
+    },
+    {
+      "id": "20260314_212752",
+      "offset_start": 36446,
+      "offset_end": 36529,
+      "text": "」\n「兵桃，我哪來的金子，那東西要值多少錢！我只有四大缸粗鹽，放在屋背後的\n薯窖裏。」四老倌說着，嘆了口氣，「都是麻衣相師害的，別人還真以爲我有金\n子呢，才遭此大難。",
+      "prompt": "A weary elderly Chinese man stands in a dim, earthen potato cellar, sighing as he gestures toward four large ceramic jars of coarse salt. The atmosphere is somber and secretive, lit by a single lantern in a style reminiscent of realistic Chinese ink painting.",
+      "image": "reader_images/reader_20260314_212752.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 276264345,
+      "created_at": "2026-03-14T21:27:52.679364+08:00"
     }
   ],
   "book_total_chars": 92814,
