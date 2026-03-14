@@ -6167,6 +6167,18 @@
       "image_model": "flux-2-dev",
       "seed": 1505813988,
       "created_at": "2026-03-14T20:00:29.643594+08:00"
+    },
+    {
+      "id": "20260314_200104",
+      "offset_start": 36000,
+      "offset_end": 36084,
+      "text": "沒有牛了，他這冬天怎\n麼過啊！\n晚上繼續鬥爭四老倌。天氣出奇地冷，四老倌站在堂屋中間，穿堂風掀起他的長\n袍，露出了裡面的短褲，褲襠耷拉到膝蓋，兩條瘦瘦的腿就像兩根柴棍。",
+      "prompt": "A frail old man standing in a drafty, dimly lit hall during a struggle session, his tattered long robe blown open by a cold wind to reveal patched shorts sagging to his knees and thin, stick-like legs. Dramatic chiaroscuro lighting, somber historical realism, conveying oppression and bitter cold.",
+      "image": "reader_images/reader_20260314_200104.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2028959516,
+      "created_at": "2026-03-14T20:01:04.043792+08:00"
     }
   ],
   "book_total_chars": 92814,
