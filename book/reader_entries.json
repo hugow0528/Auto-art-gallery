@@ -7379,6 +7379,18 @@
       "image_model": "grok-imagine",
       "seed": 367473652,
       "created_at": "2026-03-15T04:50:36.916171+08:00"
+    },
+    {
+      "id": "20260315_045311",
+      "offset_start": 42439,
+      "offset_end": 42536,
+      "text": "自從仁受被抓走後，她和孩子們都成了\n驚弓之鳥。\n跛子把擔子往房裡一放，也不作聲。那是一擔篾籮子，蓋得嚴嚴實實。跛子把蓋\n子揭開，露出了針線、頂針、花夾子、糖粒子、哨子等女人和細伢子喜歡的東\n西。",
+      "prompt": "A dimly lit, humble interior with a single, hunched figure of a \"跛子\" (lame man) placing a heavily covered basket on the floor. The basket's lid is slightly ajar, revealing glimpses of colorful threads, thimbles, hair clips, candy, and small whistles within, hinting at items meant for women and children. The atmosphere is tense and fearful, like \"驚弓之鳥\" (birds startled by a bowstring), with muted, chiaroscuro lighting emphasizing the shadows and the man's silent, weighty presence. The style is reminiscent of traditional Chinese ink wash painting, focusing on evocative linework and somber tones.",
+      "image": "reader_images/reader_20260315_045311.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1111797544,
+      "created_at": "2026-03-15T04:53:11.048889+08:00"
     }
   ],
   "book_total_chars": 92814,
