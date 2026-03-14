@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_042823",
+      "filename": "images/artwork_20260315_042823.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "Digital art depicting a solitary figure, back to the viewer, silhouetted against a vast, barren landscape where spectral holographic textbooks and glowing circuits replace traditional classrooms, illuminated by the ethereal, melancholic glow of a crimson and deep red arctic aurora borealis, evoking a profound sense of both loss and the dawn of a new, digital epoch in education.",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2013085546,
+      "created_at": "2026-03-15T04:28:23.552538+08:00"
+    },
+    {
       "id": "20260314_232404",
       "filename": "images/artwork_20260314_232404.jpg",
       "topic": "health and medicine breakthroughs",
