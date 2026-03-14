@@ -6011,6 +6011,18 @@
       "image_model": "imagen-4",
       "seed": 355804240,
       "created_at": "2026-03-14T18:56:37.504810+08:00"
+    },
+    {
+      "id": "20260314_185738",
+      "offset_start": 35324,
+      "offset_end": 35392,
+      "text": "有一次，秋園出門，滿娭毑看到了，大聲對她說：「舊官吏太太，又要去做麼裏\n壞事！看到你我心裡都作嘔，跟你們這種人住在一起真晦氣、真倒黴。",
+      "prompt": "This passage describes a scene where a woman named 秋园 (Qiuyuan) is leaving her home, and an elderly woman (滿娭毑 - a term for an elderly woman, likely a neighbor or relative) sees her and loudly insults her, calling her \"former official's wife\" and saying nasty things about how seeing her makes her sick, and how unlucky she is to have to live with \"people like her.\"\n\nThis appears to be set in a traditional Chinese village or rural setting. The time period seems to be post-revolution (referring to \"舊官吏太太\" - former official's wife), suggesting perhaps the 1950s-1960s era in rural China. The atmosphere is tense, with conflict and class-based antagonism.\n\nFor the image prompt, I need to:\n- Show an elderly woman (滿娭毑) in a traditional rural Chinese setting\n- Show the moment she is shouting at 秋园 who is leaving\n- Capture the hostile, antagonistic atmosphere\n- Use an appropriate artistic style - perhaps something like social realism or traditional Chinese painting style but with photographic realism\n- Include the grim, hostile mood\n\nI'll create a scene with:\n- A traditional Chinese village setting (earthen walls, maybe a courtyard)\n- An elderly woman in traditional clothing (perhaps a blue or gray hanfu/traditional garment) shouting at the gate\n- A woman (秋园) in modest clothing, perhaps mid-40s-50s, being criticized",
+      "image": "reader_images/reader_20260314_185738.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1866003756,
+      "created_at": "2026-03-14T18:57:39.017488+08:00"
     }
   ],
   "book_total_chars": 92814,
