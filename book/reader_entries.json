@@ -6755,6 +6755,18 @@
       "image_model": "zimage",
       "seed": 391164046,
       "created_at": "2026-03-15T00:35:41.035611+08:00"
+    },
+    {
+      "id": "20260315_004843",
+      "offset_start": 39430,
+      "offset_end": 39495,
+      "text": "把肉\n洗淨、切好，不大不小、方方正正，放進瓦罐裏，先用大火燒開，再用溫火慢\n燉。千萬不能燒乾湯，湯燒乾了再摻水，湯就沒了原汁原味。",
+      "prompt": "A rustic, earthenware pot sits simmering over a low, warm flame in a dimly lit, traditional Chinese kitchen. Steam gently rises from the pot, carrying the aroma of slow-cooked meat, while a careful hand occasionally stirs the rich, savory broth. The scene evokes a sense of warmth, tradition, and culinary patience, rendered in a soft, painterly style reminiscent of classical Chinese ink wash paintings.",
+      "image": "reader_images/reader_20260315_004843.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 904183254,
+      "created_at": "2026-03-15T00:48:43.083758+08:00"
     }
   ],
   "book_total_chars": 92814,
