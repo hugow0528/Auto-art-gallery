@@ -6419,6 +6419,18 @@
       "image_model": "imagen-4",
       "seed": 918518729,
       "created_at": "2026-03-14T22:05:25.193572+08:00"
+    },
+    {
+      "id": "20260314_220609",
+      "offset_start": 37355,
+      "offset_end": 37471,
+      "text": "「唉，想不到荷包蛋這麼好喫。爹爹，下半年我就買\n幾隻小雞來養，冬雞下蛋多，明年我們就有蛋喫了。以後你不要下田，在家裡燒\n燒飯、喂喂雞，我專心出工，多掙些工分……」兵桃輕聲細氣地和爹爹說着話，\n他想纏住爹爹，不讓他知道衆人在挖他的鹽。",
+      "prompt": "A young boy, Bing Tao, with earnest eyes and a small, worn apron, speaks softly to his elderly father who is tending a small, humble kitchen hearth. Sunlight streams through a dusty window, illuminating the simple, rustic interior of a peasant home. The atmosphere is one of quiet hope and familial love, tinged with a hidden worry, rendered in the soft, textured brushstrokes of a traditional Chinese ink wash painting with a touch of Impressionistic light.",
+      "image": "reader_images/reader_20260314_220609.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1649869830,
+      "created_at": "2026-03-14T22:06:09.211272+08:00"
     }
   ],
   "book_total_chars": 92814,
