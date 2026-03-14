@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_052352",
+      "filename": "images/artwork_20260315_052352.jpg",
+      "topic": "revolution in education through technology",
+      "prompt": "A photorealistic cinematic view of a modern classroom floating in the night sky, where holographic students and teachers are surrounded by floating golden data streams and glowing orbs of knowledge, mysterious ethereal light emanating from futuristic devices as neon city glow reflects off glass surfaces in high contrast black and gold, the entire scene conveying a revolutionary transformation of learning through technology with breathtaking depth and luminosity.",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1261475596,
+      "created_at": "2026-03-15T05:23:52.586293+08:00"
+    },
+    {
       "id": "20260315_044943",
       "filename": "images/artwork_20260315_044943.jpg",
       "topic": "space exploration and the cosmos",
