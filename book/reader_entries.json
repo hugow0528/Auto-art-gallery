@@ -6275,6 +6275,18 @@
       "image_model": "flux",
       "seed": 9299094,
       "created_at": "2026-03-14T21:32:33.755184+08:00"
+    },
+    {
+      "id": "20260314_213517",
+      "offset_start": 36529,
+      "offset_end": 36603,
+      "text": "」\n幹部們三天兩頭要四老倌交出金子，威脅他說：「你再不交出來，不要說我們不\n講情面，恐怕又要受皮肉苦了。」\n四老倌答：「我實在沒金子，拿什麼東西交。",
+      "prompt": "A stark realist painting of an elderly man in patched clothing sitting stubbornly on a wooden stool in a dim, sparse room, facing two intimidating cadres in Mao suits standing over him. Harsh side-lighting from a single window creates long shadows, emphasizing the tense atmosphere of coercion and silent defiance.",
+      "image": "reader_images/reader_20260314_213517.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1181346357,
+      "created_at": "2026-03-14T21:35:17.458265+08:00"
     }
   ],
   "book_total_chars": 92814,
