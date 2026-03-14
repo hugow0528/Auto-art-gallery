@@ -5339,6 +5339,18 @@
       "image_model": "flux-2-dev",
       "seed": 810944129,
       "created_at": "2026-03-14T14:30:46.873129+08:00"
+    },
+    {
+      "id": "20260314_145404",
+      "offset_start": 31751,
+      "offset_end": 31854,
+      "text": "積雪堆得很快，在她腳底發出嘁喳嘁喳的響聲，\n她的腳很快就凍麻了。\n好容易走到學校，正好碰見黎老師。一會兒，黎老師用搪瓷臉盆端了半盆熱水，\n胳膊上搭條毛巾，徑直向之驊走來，說：「楊之驊，快把腳洗了，天氣好冷。",
+      "prompt": "A young girl, Yang Zhihua, stands on a snow-covered path outside a school, her feet numb with cold, the snow crunching underfoot. The atmosphere is crisp and frigid, with soft, diffused winter light. A kind teacher, Teacher Li, approaches her, carrying a metal basin of steaming hot water over his arm, a towel draped over his shoulder, his expression gentle. The style should be realistic with a touch of nostalgic warmth, perhaps reminiscent of a vintage photograph or a gentle watercolor painting.",
+      "image": "reader_images/reader_20260314_145404.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 363576123,
+      "created_at": "2026-03-14T14:54:04.373144+08:00"
     }
   ],
   "book_total_chars": 92814,
