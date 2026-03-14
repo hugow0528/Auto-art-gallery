@@ -4907,6 +4907,18 @@
       "image_model": "grok-imagine",
       "seed": 134958524,
       "created_at": "2026-03-14T12:25:31.836409+08:00"
+    },
+    {
+      "id": "20260314_122612",
+      "offset_start": 29619,
+      "offset_end": 29688,
+      "text": "」\n之驊好高興，連忙拿一張舊牛皮紙把鴨毛包好，走上街去。走了十裏路，到了一\n家廢品店，想不到鴨毛只賣了五角二分錢。之驊的頭髮可以編辮子了。",
+      "prompt": "A young boy, Zhihua, with neatly braided hair, stands on a dusty street in a small Chinese town, holding a small pouch of coins. He looks dejected as he exits a cluttered, dimly lit junk shop, the dim sunlight casting long shadows. The scene should evoke a mood of quiet disappointment, rendered in a traditional Chinese ink wash painting style with muted, earthy tones.",
+      "image": "reader_images/reader_20260314_122612.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2032804272,
+      "created_at": "2026-03-14T12:26:12.818721+08:00"
     }
   ],
   "book_total_chars": 92814,
