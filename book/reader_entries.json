@@ -5639,6 +5639,18 @@
       "image_model": "imagen-4",
       "seed": 765590909,
       "created_at": "2026-03-14T16:21:43.666290+08:00"
+    },
+    {
+      "id": "20260314_163834",
+      "offset_start": 33393,
+      "offset_end": 33490,
+      "text": "媳婦進了門，滿娭毑就擺起了架子，什麼事都不做。春桃從早到晚有幹不完的\n活。在家便是洗衣、煮飯、餵豬……還要專心專意給滿老倌老兩口泡好茶遞到手\n中，再將煙袋送到滿老倌手裡，點燃紙媒子 把煙點着。",
+      "prompt": "A young woman, weary but diligent, toils in a dimly lit, rustic courtyard kitchen. She is meticulously preparing tea and tobacco for an elder couple, her movements precise despite the overflowing chores surrounding her. The atmosphere is one of subservience and quiet hardship, rendered in the style of traditional Chinese ink wash painting with a somber, muted color palette and soft, naturalistic lighting.",
+      "image": "reader_images/reader_20260314_163834.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1075250781,
+      "created_at": "2026-03-14T16:38:34.594694+08:00"
     }
   ],
   "book_total_chars": 92814,
