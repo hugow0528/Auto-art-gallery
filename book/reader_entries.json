@@ -7355,6 +7355,18 @@
       "image_model": "flux",
       "seed": 1241505225,
       "created_at": "2026-03-15T04:46:17.609582+08:00"
+    },
+    {
+      "id": "20260315_044700",
+      "offset_start": 42289,
+      "offset_end": 42375,
+      "text": "後來，秋園\n和之驊姐弟就不從前門進出了，寧願走後門，免得撞見滿娭毑一家。之驊把背後\n山上野雞路兩邊的雜柴和亂草砍的砍、鏟的鏟，把路拓寬了一點，讓它成了一條\n名副其實的小路。",
+      "prompt": "A young girl and her sibling clearing overgrown brush along a narrow, secluded mountain path in autumn, creating a small passage through wild grasses and shrubs. Soft, diffused late afternoon light filters through the trees, casting long shadows in a quiet, secretive atmosphere. Realistic painting style with muted earth tones and subtle textures.",
+      "image": "reader_images/reader_20260315_044700.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 454641529,
+      "created_at": "2026-03-15T04:47:00.319863+08:00"
     }
   ],
   "book_total_chars": 92814,
