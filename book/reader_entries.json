@@ -4727,6 +4727,18 @@
       "image_model": "flux",
       "seed": 1310036045,
       "created_at": "2026-03-14T11:55:17.588077+08:00"
+    },
+    {
+      "id": "20260314_115615",
+      "offset_start": 28630,
+      "offset_end": 28707,
+      "text": "枕套上的觀音送\n子、鴛鴦戲水、喜鵲噪梅……都是之驊自己畫、自己繡的，活靈活現。村裡的妹\n子都好喜歡，沒一個人不誇之驊的。\n之驊已經十二歲，還沒進過學校門。",
+      "prompt": "A young Chinese girl, around twelve years old, with nimble fingers, is meticulously embroidering a pillowcase in a dimly lit, traditional Chinese room. The pillowcase is adorned with vibrant, lifelike motifs of Guan Yin bestowing children, playful mandarin ducks, and magpies on plum blossoms, rendered in exquisite silk embroidery. The atmosphere is one of quiet concentration and burgeoning artistic talent, with soft, natural light filtering in from a nearby window, illuminating the intricate details of her craft. The style should be reminiscent of traditional Chinese ink wash paintings with a focus on delicate linework and subtle color palettes.",
+      "image": "reader_images/reader_20260314_115615.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1567655251,
+      "created_at": "2026-03-14T11:56:15.609836+08:00"
     }
   ],
   "book_total_chars": 92814,
