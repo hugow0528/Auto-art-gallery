@@ -5483,6 +5483,18 @@
       "image_model": "zimage",
       "seed": 48071408,
       "created_at": "2026-03-14T15:27:20.051800+08:00"
+    },
+    {
+      "id": "20260314_153911",
+      "offset_start": 32502,
+      "offset_end": 32579,
+      "text": "黎老師又取下肩上的軍用水壺，遞給之驊。之驊仰着脖子，雙手抱住水壺咕咚咕\n咚，感到生命重新回到了身上。\n之驊掙扎着想站起來，黎老師說：「別急，還躺一會兒。",
+      "prompt": "A weary young student in dusty clothes lies on the ground in a sparse, sun-drenched landscape, clutching a green military canteen as they drink desperately. A kind teacher kneels beside them, placing a reassuring hand on their shoulder under the warm, late afternoon light, rendered in a style of realistic Chinese socialist realism with soft, empathetic focus.",
+      "image": "reader_images/reader_20260314_153911.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 454836136,
+      "created_at": "2026-03-14T15:39:11.821503+08:00"
     }
   ],
   "book_total_chars": 92814,
