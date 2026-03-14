@@ -7235,6 +7235,18 @@
       "image_model": "gptimage",
       "seed": 310543432,
       "created_at": "2026-03-15T03:44:54.680067+08:00"
+    },
+    {
+      "id": "20260315_034714",
+      "offset_start": 41683,
+      "offset_end": 41755,
+      "text": "」又用\n腳在桌子底下碰了一下之驊，要她莫喫了。\n杏梅母親立刻站起來說：「冇喫飽，冇喫飽。再喫一碗飯。」\n秋園和之驊一個勁地說：「喫飽了，喫飽了。",
+      "prompt": "A dimly lit, rustic kitchen in traditional China. A young woman, Zhi Hua, sits at a worn wooden table, her gaze downcast, subtly nudged by unseen feet beneath the table. Her mother, Apricot Plum, stands, gesturing emphatically with a warm, insistent smile, offering more food. The atmosphere is one of familial warmth and unspoken communication, rendered in the style of a classic Chinese ink wash painting with soft, diffused lighting.",
+      "image": "reader_images/reader_20260315_034714.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1260166541,
+      "created_at": "2026-03-15T03:47:14.957810+08:00"
     }
   ],
   "book_total_chars": 92814,
