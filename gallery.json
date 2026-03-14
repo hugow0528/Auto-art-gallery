@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_143739",
+      "filename": "images/artwork_20260314_143739.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "A serene oil painting depicting tomorrow's news headlines floating gracefully through a cozy, candlelit study at dusk, where ethereal paper pages shimmer with golden amber light and soft orange glow, revealing hopeful headlines about peace and discovery, rendered in rich impasto brushstrokes with warm copper and burnt sienna tones, peaceful figures reading by the fireplace in meditative stillness, the atmosphere tranquil and comforting as candlelight dances across leather-bound books and old wooden shelves.",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1461634367,
+      "created_at": "2026-03-14T14:37:39.574505+08:00"
+    },
+    {
       "id": "20260314_140729",
       "filename": "images/artwork_20260314_140729.jpg",
       "topic": "social media culture and human connection",
