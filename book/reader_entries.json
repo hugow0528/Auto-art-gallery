@@ -5423,6 +5423,18 @@
       "image_model": "zimage",
       "seed": 2003054164,
       "created_at": "2026-03-14T15:09:27.367769+08:00"
+    },
+    {
+      "id": "20260314_151205",
+      "offset_start": 32202,
+      "offset_end": 32285,
+      "text": "爬到山腰，之驊整個人虛汗淋漓，肚子餓得陣陣痙攣，簡直寸步難行，只好蜷縮\n着身子躺在路邊的草地上。天氣真好，太陽暖和和地照在身上，空氣甜絲絲的，\n微風輕輕從身邊吹過。",
+      "prompt": "A weary traveler named Zhi Hua, drenched in sweat and curled up exhausted on a grassy roadside at mountain mid-slope, clutching his spasming hungry stomach, basks under a warm golden sun with sweet fresh air and gentle breeze rustling nearby foliage. Serene pleasant weather bathes the scene in soft inviting light, evoking peaceful respite amid rugged green peaks. Realistic oil painting style, warm earthy tones, high detail, shallow depth of field focusing on the figure.[1][2]",
+      "image": "reader_images/reader_20260314_151205.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1061077447,
+      "created_at": "2026-03-14T15:12:05.225170+08:00"
     }
   ],
   "book_total_chars": 92814,
