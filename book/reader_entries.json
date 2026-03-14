@@ -7175,6 +7175,18 @@
       "image_model": "gptimage",
       "seed": 835558197,
       "created_at": "2026-03-15T03:35:11.696178+08:00"
+    },
+    {
+      "id": "20260315_033641",
+      "offset_start": 41365,
+      "offset_end": 41446,
+      "text": "秋園對杏梅母親說：「這蘿蔔菜是冬天種的，夏天剛過完，怎麼就有蘿蔔菜呢？\n味道好甜。」\n杏梅母親說：「這叫熱水蘿蔔菜，一旦長出就要趕緊喫，若是生了蟲就不能喫\n了。",
+      "prompt": "A Chinese rural kitchen scene in soft morning light, two women in simple traditional clothing standing near a wooden table with fresh green radish leaves, one holding a leaf and pointing to it, warm earthy tones, soft natural window light, realistic painterly style capturing everyday domestic life in a humble countryside home.",
+      "image": "reader_images/reader_20260315_033641.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 594642633,
+      "created_at": "2026-03-15T03:36:41.046314+08:00"
     }
   ],
   "book_total_chars": 92814,
