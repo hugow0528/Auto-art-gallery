@@ -5963,6 +5963,18 @@
       "image_model": "flux",
       "seed": 2027188989,
       "created_at": "2026-03-14T18:47:12.845878+08:00"
+    },
+    {
+      "id": "20260314_185055",
+      "offset_start": 35076,
+      "offset_end": 35139,
+      "text": "沒收東西的第二天，滿娭毑走到秋園家，氣哼哼地說：「真倒黴，背了大時，原\n想有個好鄰居，冇想到你們是國民黨的大官，是麼裏好人！",
+      "prompt": "A middle-aged woman with a stern expression, dressed in traditional Chinese clothing, stands in the doorway of a modest home. The atmosphere is tense and accusatory, with the woman gesturing emphatically as she speaks. The scene is lit by natural daylight, casting sharp shadows and highlighting the woman's disgruntled face. The artistic style should be reminiscent of realist oil paintings, emphasizing the emotional drama of the moment.",
+      "image": "reader_images/reader_20260314_185055.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 209511385,
+      "created_at": "2026-03-14T18:50:55.095463+08:00"
     }
   ],
   "book_total_chars": 92814,
