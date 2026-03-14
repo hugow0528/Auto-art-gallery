@@ -6479,6 +6479,18 @@
       "image_model": "gptimage",
       "seed": 1083764653,
       "created_at": "2026-03-14T22:40:17.289903+08:00"
+    },
+    {
+      "id": "20260314_224552",
+      "offset_start": 37748,
+      "offset_end": 37832,
+      "text": "以後，我會儘量孝敬爹爹，您老只管放心。爹爹，沒有你，就\n沒我兵桃。我兩歲多就沒了父母，還不是爹爹像養牛樣把我帶大。爹爹怕我亂\n跑，犁田時用根粗繩子把我拴在田頭的樹蔭下。",
+      "prompt": "A young, weathered farmer, his face etched with hardship and love, kneels in a lush rice paddy under the dappled shade of a large tree. A small child, no older than three, with bright, curious eyes, is tethered by a thick rope to the tree's base, watching the farmer with unwavering devotion. The scene evokes a tender, poignant atmosphere, bathed in the warm, golden light of late afternoon, rendered in the style of traditional Chinese ink wash painting with subtle hints of realism.",
+      "image": "reader_images/reader_20260314_224552.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 640034851,
+      "created_at": "2026-03-14T22:45:52.922737+08:00"
     }
   ],
   "book_total_chars": 92814,
