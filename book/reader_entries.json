@@ -5975,6 +5975,18 @@
       "image_model": "gptimage",
       "seed": 209511385,
       "created_at": "2026-03-14T18:50:55.095463+08:00"
+    },
+    {
+      "id": "20260314_185119",
+      "offset_start": 35076,
+      "offset_end": 35139,
+      "text": "沒收東西的第二天，滿娭毑走到秋園家，氣哼哼地說：「真倒黴，背了大時，原\n想有個好鄰居，冇想到你們是國民黨的大官，是麼裏好人！",
+      "prompt": "A elderly Chinese woman named Man E-po, with a wrinkled face flushed red in anger, stands at the threshold of a modest rural home the day after confiscations, pointing accusingly with a gnarled finger while huffing indignantly, her traditional qipao disheveled and mouth open mid-rant about bad luck and Nationalist spies. The setting is a humble courtyard house in mid-20th century China, with weathered wooden doors ajar, scattered household items hinting at recent upheaval, under overcast daylight casting tense shadows that amplify the charged atmosphere of betrayal and confrontation. Render in a realistic style inspired by Chinese ink wash painting with vibrant color accents, evoking gritty historical drama and emotional intensity.",
+      "image": "reader_images/reader_20260314_185119.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 174540638,
+      "created_at": "2026-03-14T18:51:19.727790+08:00"
     }
   ],
   "book_total_chars": 92814,
