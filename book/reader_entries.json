@@ -5807,6 +5807,18 @@
       "image_model": "zimage",
       "seed": 1804630693,
       "created_at": "2026-03-14T17:48:08.632408+08:00"
+    },
+    {
+      "id": "20260314_174923",
+      "offset_start": 34245,
+      "offset_end": 34312,
+      "text": "」講到這個「死」字，滿娭毑的確氣得厲害，脖子上的青筋突突\n地跳。\n這個妹子滿娭毑冇碰過。春桃替她起了個名字，叫撿大，意思是撿來一條命。",
+      "prompt": "An elderly Chinese grandmother with fierce, angular features stands in a dim rural kitchen, her weathered face twisted in intense anger, prominent veins visibly pulsing on her slender neck as she speaks the word \"death.\" A young orphan girl with unkempt hair and cautious eyes peeks from behind a doorframe, clutching worn clothing, her thin frame suggesting a child who was once discarded but saved. Warm golden light from a single window illuminates dust motes in the cramped, traditional Hakka kitchen filled with clay pots and wooden furniture, capturing the raw emotional tension between anger and vulnerability in a cinematic, photorealistic style.",
+      "image": "reader_images/reader_20260314_174923.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1702687793,
+      "created_at": "2026-03-14T17:49:23.590713+08:00"
     }
   ],
   "book_total_chars": 92814,
