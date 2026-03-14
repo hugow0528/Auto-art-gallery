@@ -6803,6 +6803,18 @@
       "image_model": "flux-2-dev",
       "seed": 413850504,
       "created_at": "2026-03-15T00:54:39.194410+08:00"
+    },
+    {
+      "id": "20260315_005526",
+      "offset_start": 39599,
+      "offset_end": 39665,
+      "text": "一天，滿娭毑忽然來了，陰着一張臉，對秋園說：「你們進屋的那張門和我們挨\n得太攏，要改到邊上去。要改得窄窄的，不能和我們的大門並排。",
+      "prompt": "A tense domestic confrontation in rural early 20th-century China: an elderly woman (the grandmother figure) stands with a stern, darkened expression, gesturing dismissively toward a younger woman as she points to a shared doorway between two modest houses. The narrow wooden door frame becomes the focal point of conflict, with the grandmother's body language expressing authority and disapproval. The scene is rendered in muted earth tones with soft, overcast natural lighting that emphasizes the uncomfortable atmosphere of social tension and hierarchy. The composition captures the claustrophobic proximity of neighboring dwellings and the weight of family obligation clashing with personal boundary, painted in a realist style reminiscent of early modern Chinese ink wash painting with subtle Western representational influence.",
+      "image": "reader_images/reader_20260315_005526.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1768837355,
+      "created_at": "2026-03-15T00:55:26.404487+08:00"
     }
   ],
   "book_total_chars": 92814,
