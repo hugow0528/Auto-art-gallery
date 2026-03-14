@@ -6623,6 +6623,18 @@
       "image_model": "flux",
       "seed": 131216629,
       "created_at": "2026-03-14T23:36:38.340460+08:00"
+    },
+    {
+      "id": "20260314_233731",
+      "offset_start": 38621,
+      "offset_end": 38699,
+      "text": "爹爹，鹽是便宜東西，毛把錢 一斤，只怕人家不稀\n奇。鹽又不像肉，可以多喫，喫多了鹹死人。我想好了，只要養幾隻母雞，一天\n有兩個蛋，就能換到幾天的鹽，愁什麼？",
+      "prompt": "In a humble traditional Chinese village courtyard with sloped tiled roofs, drying peppers and garlic hanging from wooden beams, and a simple kang bed visible inside an open door, a young girl in coarse homespun clothes earnestly gestures while speaking to her seated father, her face lit with practical optimism amid scattered chicken feathers and fresh eggs on a low wooden table. A few mother hens peck at the dusty ground nearby, evoking rural self-sufficiency and familial warmth. Render in a romantic realist style inspired by Chinese ink wash paintings, with soft golden afternoon sunlight filtering through bamboo groves, warm earthy tones, and a serene, resilient atmosphere.",
+      "image": "reader_images/reader_20260314_233731.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1059677716,
+      "created_at": "2026-03-14T23:37:31.285314+08:00"
     }
   ],
   "book_total_chars": 92814,
