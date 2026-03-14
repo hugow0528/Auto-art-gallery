@@ -6131,6 +6131,18 @@
       "image_model": "grok-imagine",
       "seed": 229333155,
       "created_at": "2026-03-14T19:47:29.370903+08:00"
+    },
+    {
+      "id": "20260314_195238",
+      "offset_start": 35839,
+      "offset_end": 35910,
+      "text": "有人建議掘地三尺。於是開始挖地，一會兒就在臥房正中\n央挖了個大坑。四老倌站在一邊，老淚縱橫。一伙人累得氣喘籲籲、汗流浹背，\n也沒找到一顆金子。",
+      "prompt": "First, the user provides a Chinese literary passage: \"有人建議掘地三尺。於是開始挖地，一會兒就在臥房正中央挖了個大坑。四老倌站在一邊，老淚縱橫。一伙人累得氣喘籲籲、汗流浹背，也沒找到一顆金子。\" I need to translate this mentally to understand it, but my response should be only in English as per the instructions.\n\nThe passage describes: Someone suggests digging three feet into the ground. They start digging and soon dig a large pit in the center of the bedroom. Fourth Elder stands to the side, tears streaming down his face. A group of people are exhausted, panting and sweating, but they don't find a single piece of gold.\n\nNow, I need to create an image-generation prompt in English that captures this scene. The prompt should include setting, atmosphere, characters, and artistic style. It should be 2–4 sentences only, and in English only.\n\nKey elements from the passage:\n- Setting: A bedroom with a large pit dug in the center.\n- Characters: Fourth Elder (an old man, probably emotional) and a group of people digging.\n- Atmosphere: Exhaustion, disappointment, emotional distress (tears, sweating).\n- Action: Digging, but no gold found.\n\nArtistic style: I need to suggest a style. Since it's a literary passage, perhaps a realistic or dramatic style. Maybe something like ",
+      "image": "reader_images/reader_20260314_195238.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 468359466,
+      "created_at": "2026-03-14T19:52:38.844477+08:00"
     }
   ],
   "book_total_chars": 92814,
