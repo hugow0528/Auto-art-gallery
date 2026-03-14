@@ -5219,6 +5219,18 @@
       "image_model": "gptimage",
       "seed": 952416177,
       "created_at": "2026-03-14T13:50:16.259368+08:00"
+    },
+    {
+      "id": "20260314_135559",
+      "offset_start": 31094,
+      "offset_end": 31190,
+      "text": "喫過晚飯，之驊和秋園就着一盞煤油燈，替人做針線活：絞衣邊、納鞋底、做襪\n底。做上一會兒，之驊的呵欠就一個接一個，腦殼朝前栽下去，抬起來，又栽下\n去……每天都這樣和秋園一起做到深更半夜才去睡。",
+      "prompt": "A warm, dimly lit traditional Chinese interior at night, two women sit side by side on a wooden kang bed working by a glowing oil lamp. One middle-aged woman carefully sews a shoe sole with delicate stitches while the younger one yawns repeatedly, her head drooping sleepily as she tries to focus on her needlework. The soft amber light casts gentle shadows across their worn clothing and the scattered fabric, threads, and needles around them. Artistic style: Chinese realist oil painting in the style of 1930s-40s rural domestic scenes, muted earth tones with warm light, intimate and nostalgic mood.",
+      "image": "reader_images/reader_20260314_135559.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1850518190,
+      "created_at": "2026-03-14T13:55:59.667667+08:00"
     }
   ],
   "book_total_chars": 92814,
