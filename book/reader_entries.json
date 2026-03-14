@@ -5987,6 +5987,18 @@
       "image_model": "klein",
       "seed": 174540638,
       "created_at": "2026-03-14T18:51:19.727790+08:00"
+    },
+    {
+      "id": "20260314_185201",
+      "offset_start": 35139,
+      "offset_end": 35208,
+      "text": "鬼曉得你們欺壓了幾\n多老百姓，剝削了幾多老百姓。我們都受了你們的壓迫剝削。如今，我們翻了\n身，不怕你們了，我們要當家做主人，好好地管你們。",
+      "prompt": "A group of confident peasant farmers stand in a village courtyard, addressing a group of former landlords who now stand humbled before them. Harsh midday light illuminates weathered faces filled with newfound dignity, while the peasants gesture assertively. The setting shows simple rural buildings with revolutionary banners in",
+      "image": "reader_images/reader_20260314_185201.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1778785017,
+      "created_at": "2026-03-14T18:52:01.397543+08:00"
     }
   ],
   "book_total_chars": 92814,
