@@ -7619,6 +7619,18 @@
       "image_model": "zimage",
       "seed": 284371553,
       "created_at": "2026-03-15T06:30:59.140122+08:00"
+    },
+    {
+      "id": "20260315_064450",
+      "offset_start": 43891,
+      "offset_end": 43990,
+      "text": "從這天起，秋園幾乎每晚都要違心去開門，敲門聲給一家人帶來了莫大的恥辱和\n痛苦。\n日子就在屈辱與痛苦中一天天過去。轉眼秋去冬來，天氣一天比一天冷，五口之\n家僅有一牀打了補丁的破被禦寒，秋園一籌莫展。",
+      "prompt": "In a dimly lit, cramped traditional Chinese hut during the harsh onset of winter, a weary man named Qiuyuan huddles with his four family members under a single threadbare quilt patched with faded rags, their faces etched with shame and despair from nightly knocks at the door. Frost clings to the cracked wooden walls and paper windows rattling in the cold wind, while a single flickering oil lamp casts long, melancholic shadows over their huddled forms on a worn kang bed, evoking profound humiliation and helplessness. Render in somber realism inspired by 19th-century Chinese ink wash paintings, with muted grays and blues, soft diffused moonlight filtering through gaps, and a heavy, oppressive atmosphere of quiet suffering.",
+      "image": "reader_images/reader_20260315_064450.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 489826395,
+      "created_at": "2026-03-15T06:44:50.829697+08:00"
     }
   ],
   "book_total_chars": 92814,
