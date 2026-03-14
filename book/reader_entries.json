@@ -5147,6 +5147,18 @@
       "image_model": "flux-2-dev",
       "seed": 1976928991,
       "created_at": "2026-03-14T13:33:36.588112+08:00"
+    },
+    {
+      "id": "20260314_133454",
+      "offset_start": 30746,
+      "offset_end": 30834,
+      "text": "因爲沒有鍾，拿不準時間，有幾次走到學校，還沒有開門。\n爲了讓秋園騰出更多時間替人做衣，之驊傍晚放學回家，書包一放，換下衣服，\n就出門去搞柴、挖土、澆菜……直到天黑，再回家炒菜。",
+      "prompt": "A young girl in simple clothing carries a bundle of firewood along a dirt path at dusk, silhouetted against a warm, fading sky. She passes a small, freshly watered vegetable patch near a humble cottage, her expression one of quiet determination after a long day. Realistic style with soft, golden hour lighting and a gentle, weary atmosphere.",
+      "image": "reader_images/reader_20260314_133454.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1496346184,
+      "created_at": "2026-03-14T13:34:54.524913+08:00"
     }
   ],
   "book_total_chars": 92814,
