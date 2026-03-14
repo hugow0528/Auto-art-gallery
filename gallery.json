@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_182446",
+      "filename": "images/artwork_20260314_182446.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "Concept art of an intimate, late-night research lab where a lone scientist in a sleek black environment suit gently cradles a glowing, intricate golden model of a synthetic heart. The room is illuminated by the ghostly, dancing greens and purples of a holographic aurora borealis simulation, casting dramatic, high-contrast shadows and making the gold gleam against the deep black machinery and walls. The scientist’s expression holds a quiet mix of wonder and profound humanity, the aurora light reflecting softly in their eyes, capturing a moment of personal breakthrough.",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 339355435,
+      "created_at": "2026-03-14T18:24:46.257475+08:00"
+    },
+    {
       "id": "20260314_175457",
       "filename": "images/artwork_20260314_175457.jpg",
       "topic": "renewable energy and sustainable living",
