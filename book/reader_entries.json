@@ -7019,6 +7019,18 @@
       "image_model": "flux-2-dev",
       "seed": 1535026271,
       "created_at": "2026-03-15T02:02:30.348326+08:00"
+    },
+    {
+      "id": "20260315_022935",
+      "offset_start": 40634,
+      "offset_end": 40724,
+      "text": "剛走進坪裏，一條大黑狗就躥了出來，汪汪地叫着，樣子好兇狠。之驊順手從地\n上撿起一根棍子去打狗。她打它退，她停它進。瞬間，之驊覺得自己真正是個小\n叫花子，因爲叫花子都會拖根打狗棍。",
+      "prompt": "A young, ragged Chinese child, appearing as a small beggar, stands defiantly in a dusty, traditional courtyard with weathered stone walls and potted plants. A fierce, large black dog lunges forward, barking aggressively, while the child raises a rough wooden stick defensively. The scene is captured in a gritty, realistic style with dramatic, low-angle lighting that emphasizes the tension and the child's precarious situation.",
+      "image": "reader_images/reader_20260315_022935.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1437008061,
+      "created_at": "2026-03-15T02:29:35.962638+08:00"
     }
   ],
   "book_total_chars": 92814,
