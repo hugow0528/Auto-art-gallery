@@ -5039,6 +5039,18 @@
       "image_model": "flux-2-dev",
       "seed": 282692102,
       "created_at": "2026-03-14T13:03:50.809007+08:00"
+    },
+    {
+      "id": "20260314_130427",
+      "offset_start": 30261,
+      "offset_end": 30340,
+      "text": "因爲急着替人做衣，秋園慌\n慌張張把之驊的褂子裁錯了，穿在身上短了一截，只好用剩餘的零碎布接了條\n邊，兩邊各打了一個褶。此外，之驊還有一條沒打過補丁的黑洋布褲。",
+      "prompt": "In a dimly lit traditional Chinese sewing room cluttered with fabric scraps, threads, and a wooden tailor's table under warm lantern light, a flustered seamstress Qiuyuan in simple hanfu hunches over her work, hastily stitching mismatched cloth patches and pleats onto a too-short gua jacket. Nearby stands Zhihua, a young man modeling the botched garment—its hem awkwardly extended with colorful remnants, pleats on both sides, paired with pristine black yangbu trousers—his expression a mix of embarrassment and resignation amid the慌張 atmosphere of rushed craftsmanship. Render in realistic digital art style with soft chiaroscuro lighting, intricate textile details, earthy tones, and a sense of humble early 20th-century rural intimacy.",
+      "image": "reader_images/reader_20260314_130427.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 826735631,
+      "created_at": "2026-03-14T13:04:27.635083+08:00"
     }
   ],
   "book_total_chars": 92814,
