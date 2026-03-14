@@ -4499,6 +4499,18 @@
       "image_model": "imagen-4",
       "seed": 1025506834,
       "created_at": "2026-03-14T08:03:19.854125+08:00"
+    },
+    {
+      "id": "20260314_085352",
+      "offset_start": 27415,
+      "offset_end": 27539,
+      "text": "一邊刷，一邊忍不住埋怨起仁受來：「我說還住花屋裡那邊該有多好！人\n\n48\n\n\f都處熟了，都是善心人哪……都說遠親不如近鄰，這鄰居不像個好相與的\n啊……」\n\n49\n\n\f四\n到了一九五二年，家裡再也送不起子恆讀書了，年紀輕輕的他被鄉政府叫去當了\n文書。",
+      "prompt": "A weary woman scrubs laundry outdoors in 1950s rural China, her expression tense and resentful as she glances toward an unwelcoming neighboring house. In the background, a young man in simple clothing, Ziheng, walks away along a dirt path with a small bundle, symbolizing his departure from education. The style is cinematic realism with soft, muted daylight and a mood of quiet hardship.",
+      "image": "reader_images/reader_20260314_085352.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1413080380,
+      "created_at": "2026-03-14T08:53:52.493676+08:00"
     }
   ],
   "book_total_chars": 92814,
