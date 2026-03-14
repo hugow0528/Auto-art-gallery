@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_044943",
+      "filename": "images/artwork_20260315_044943.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "First, the user wants an image generation prompt about space exploration and the cosmos. I need to incorporate specific elements naturally: art style is concept art, mood is hopeful and uplifting, lighting is moonlight and shadows, and color palette is monochromatic black and white.\n\nThe prompt should be 2-4 sentences long, vivid, detailed, and paint a clear mental picture. I must respond with ONLY the image prompt in English, no explanations or markdown.\n\nKey points to include:\n- Space exploration and the cosmos: think about astronauts, spaceships, planets, stars, galaxies, etc.\n- Art style: concept art – so it should have a futuristic, imaginative feel, often used in sci-fi for visualizing ideas.\n- Mood: hopeful and uplifting – so the scene should evoke optimism, wonder, and positivity.\n- Lighting: moonlight and shadows – this is interesting because in space, there's no moonlight as on Earth. Moonlight typically refers to light from a moon. In space, I can interpret it as the soft glow from a celestial body, like a planet's moon or a distant star casting shadows. Shadows can be from objects in space.\n- Color palette: monochromatic black and white – so the entire image should be in shades of black, white, and gray.\n\nI need to craft a prompt that seamlessly blends these elements. Since it's monochromatic, I should emphasize contrast and lighting to create depth.\n\nStructure the prompt:\n- Start with the main scene: describe astronauts or explorers in space.\n- Incorporate the mood: show them achieving something or looking hopeful.\n- Use lighting: mention moonlight-like glow and shadows to add drama.\n- Ensure it's in concept art style, which might imply a detailed, imaginative rendering.\n\nMake it 2-4 sentences. Keep it concise but descriptive.\n\nDraft:\n\"In the vast cosmos, a lone astronaut floats gracefully near a crystalline space station, bathed in the soft, silvery glow of a distant moon casting long, dramatic shadows",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 57788588,
+      "created_at": "2026-03-15T04:49:43.423869+08:00"
+    },
+    {
       "id": "20260315_042823",
       "filename": "images/artwork_20260315_042823.jpg",
       "topic": "revolution in education through technology",
