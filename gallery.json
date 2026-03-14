@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_173251",
+      "filename": "images/artwork_20260314_173251.jpg",
+      "topic": "fashion meets technology",
+      "prompt": "A cyberpunk fashion model in a flowing terracotta and copper metallic gown stands in a smoke-filled noir atelier, her body partially embedded with glowing circuit lines that pulse like veins beneath her bronze skin, surrounded by floating holographic pattern drafts that flicker in the warm candlelight, while ancient drapery and modern LED data streams create dramatic shadows across her face, earth tone shadows mixing with amber glow in a cinematic Awards-winning composition, hyper-detailed 8K rendering with chiaroscuro lighting.",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 370930982,
+      "created_at": "2026-03-14T17:32:51.480844+08:00"
+    },
+    {
       "id": "20260314_170212",
       "filename": "images/artwork_20260314_170212.jpg",
       "topic": "mental health awareness in the digital age",
