@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_065037",
+      "filename": "images/artwork_20260315_065037.jpg",
+      "topic": "renewable energy and sustainable living",
+      "prompt": "In a lavish Baroque tableau of renewable energy and sustainable living, an opulent eco-village nestles beneath a colossal dome-like canopy of swirling wind turbines and solar sails that spiral heavenward like Bernini's dynamic sculptures, their gilded blades catching ethereal light amid lush communal gardens overflowing with ornate foliage, fruits, and acanthus scrolls. Serene inhabitants in flowing crimson robes engage in harmonious rituals—tending hydroponic vines and channeling geothermal streams— their emotive faces bathed in tenebrism contrasts from an arctic aurora borealis that drapes the night sky in deep reds, velvety crimsons, and shimmering ruby glows, evoking infinite peace and divine splendor. Dramatic chiaroscuro spotlights sacred union of earth and heavens, with trompe l'oeil illusions blurring architecture and nature in award-winning, hyper-detailed grandeur.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 817934952,
+      "created_at": "2026-03-15T06:50:37.568872+08:00"
+    },
+    {
       "id": "20260315_062809",
       "filename": "images/artwork_20260315_062809.jpg",
       "topic": "sports and human physical achievement",
