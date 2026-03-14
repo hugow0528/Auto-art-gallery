@@ -6863,6 +6863,18 @@
       "image_model": "grok-imagine",
       "seed": 1926710765,
       "created_at": "2026-03-15T01:07:18.639502+08:00"
+    },
+    {
+      "id": "20260315_012029",
+      "offset_start": 39876,
+      "offset_end": 39956,
+      "text": "準備好一\n擔谷，過幾天泥木匠要來！」\n滿娭毑丟下這個話，秋園不敢不理會，可是到哪兒去弄這一擔谷呢？仁受還關\n着，家裡快要揭不開鍋了，又要平白地拿出一擔谷來改門！",
+      "prompt": "A dimly lit, rustic farmhouse kitchen, smelling of damp earth and desperation. A middle-aged woman, her face etched with worry and weariness, stands beside a bare wooden table, gesturing emphatically. Dust motes dance in the single shaft of weak sunlight cutting through a grimy window, highlighting the poverty of the scene. The overall mood is one of oppressive anxiety and scarce resources.",
+      "image": "reader_images/reader_20260315_012029.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 454138696,
+      "created_at": "2026-03-15T01:20:29.846625+08:00"
     }
   ],
   "book_total_chars": 92814,
