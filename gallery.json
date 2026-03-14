@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_232404",
+      "filename": "images/artwork_20260314_232404.jpg",
+      "topic": "health and medicine breakthroughs",
+      "prompt": "A photorealistic depiction of a monumental breakthrough in medicine, set against a stark, powerful landscape illuminated by the ethereal glow of the arctic aurora borealis. Swirling celestial lights in vibrant greens and blues cast dramatic shadows, highlighting intricate, glowing golden structures that symbolize scientific discovery and the precise mechanisms of healing. The high-contrast black and gold palette emphasizes the profound significance and the powerful, transformative nature of this advancement, evoking a sense of awe and monumental achievement.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 402996932,
+      "created_at": "2026-03-14T23:24:04.432909+08:00"
+    },
+    {
       "id": "20260314_225441",
       "filename": "images/artwork_20260314_225441.jpg",
       "topic": "human migration and global nomadism",
