@@ -4847,6 +4847,18 @@
       "image_model": "grok-imagine",
       "seed": 1315859256,
       "created_at": "2026-03-14T12:20:36.218657+08:00"
+    },
+    {
+      "id": "20260314_122130",
+      "offset_start": 29348,
+      "offset_end": 29467,
+      "text": "仁受說：「我要講了，你們聽好——故事者，古來之事也。」聽到\n這句話，姐妹倆就大失所望，知道仁受今天真的沒故事可講了。\n之驊和夕瑩從外面回家，仁受總會從房裡奔出來，拿把背面嵌有鏡子的毛刷子，\n把姐妹倆從上到下刷一遍，怕她們身上有灰，不乾淨。",
+      "prompt": "A warm, nostalgic scene in a traditional Chinese home interior, where a gentle man in a long robe brushes two young sisters with a mirror-backed hairbrush. Soft afternoon light filters through a window, casting a serene glow on their slightly disappointed yet patient expressions, rendered in a soft-focus, painterly style evoking tender family moments.",
+      "image": "reader_images/reader_20260314_122130.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 60472063,
+      "created_at": "2026-03-14T12:21:30.248710+08:00"
     }
   ],
   "book_total_chars": 92814,
