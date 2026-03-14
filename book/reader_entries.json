@@ -6539,6 +6539,18 @@
       "image_model": "flux-2-dev",
       "seed": 1766416043,
       "created_at": "2026-03-14T22:56:49.257459+08:00"
+    },
+    {
+      "id": "20260314_225820",
+      "offset_start": 38151,
+      "offset_end": 38217,
+      "text": "」說着，嗚嗚地哭起來。\n兵桃看着爹爹如此傷心，連忙勸道：「莫哭，莫哭，別人聽到可不得了。只要留\n下條命就夠了，有什麼比命更金貴的呢？",
+      "prompt": "A somber, dimly lit room where a weathered father buries his face in his hands, his shoulders shaking with silent sobs. A young child leans in close, one small hand placed comfortingly on the father's arm, their expression a mix of fear and earnest consolation. Realistic style, moody chiaroscuro lighting, subdued earthy tones.",
+      "image": "reader_images/reader_20260314_225820.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1066721588,
+      "created_at": "2026-03-14T22:58:20.880213+08:00"
     }
   ],
   "book_total_chars": 92814,
