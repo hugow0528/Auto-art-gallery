@@ -7427,6 +7427,18 @@
       "image_model": "imagen-4",
       "seed": 1104242623,
       "created_at": "2026-03-15T05:00:05.307393+08:00"
+    },
+    {
+      "id": "20260315_050407",
+      "offset_start": 42698,
+      "offset_end": 42773,
+      "text": "跛子說：「楊鄉長是我家的救命恩人，他的恩情，我一輩子都報答不完。」\n秋園小聲說：「快不要咯樣講，他如今是個舊官吏。」\n跛子說：「我不管他舊不舊官吏。",
+      "prompt": "A dimly lit rural Chinese courtyard at dusk, with two weathered men engaged in hushed conversation: a lame man leaning on a wooden crutch, gesturing emphatically with calloused hands, facing a younger, cautious figure whispering warnings, their faces etched with loyalty and subtle tension under flickering lantern light. Faded village huts and misty autumn foliage frame the intimate scene, evoking quiet defiance and historical reverence in the style of traditional Chinese ink wash painting, monochromatic tones with delicate brushstrokes, soft mist for depth, and scholarly restraint.",
+      "image": "reader_images/reader_20260315_050407.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1135522346,
+      "created_at": "2026-03-15T05:04:07.575217+08:00"
     }
   ],
   "book_total_chars": 92814,
