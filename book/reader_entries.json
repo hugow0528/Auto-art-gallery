@@ -5003,6 +5003,18 @@
       "image_model": "gptimage",
       "seed": 1865826842,
       "created_at": "2026-03-14T12:57:04.712514+08:00"
+    },
+    {
+      "id": "20260314_130114",
+      "offset_start": 30100,
+      "offset_end": 30172,
+      "text": "」之驊臉上火辣辣的，羞得頭都抬不起來。\n從此以後，除了上茅房，之驊都在座位上做算術題，不會就問。結果，她的算術\n成績突飛猛進，每次考試都是頭名。",
+      "prompt": "A young Chinese girl, Zhihua, sits with her head bowed in deep embarrassment, her face flushed red, in a traditional classroom setting. The atmosphere is studious yet tinged with her personal mortification, illuminated by the soft, natural light filtering through a nearby window. The artistic style should be reminiscent of classical Chinese ink wash paintings, with delicate brushstrokes and a focus on conveying emotion through subtle visual cues.",
+      "image": "reader_images/reader_20260314_130114.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 887598718,
+      "created_at": "2026-03-14T13:01:14.841703+08:00"
     }
   ],
   "book_total_chars": 92814,
