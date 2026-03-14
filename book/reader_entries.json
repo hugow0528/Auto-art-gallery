@@ -7247,6 +7247,18 @@
       "image_model": "zimage",
       "seed": 1260166541,
       "created_at": "2026-03-15T03:47:14.957810+08:00"
+    },
+    {
+      "id": "20260315_035238",
+      "offset_start": 41755,
+      "offset_end": 41833,
+      "text": "不會客氣的。」\n之驊偷偷看看桌上，菜還剩了一半多，好可惜。其實她沒喫飽。\n杏梅父母匆匆地喫完了飯。杏梅母親走進竈屋，端了一簸箕米出來，問秋園：\n「帶了袋嗎？",
+      "prompt": "A woman, filled with regret and a touch of sadness, peeks at a table laden with untouched food, her eyes lingering on the half-eaten dishes with a sense of wasted abundance. Another woman, her mother, emerges from a rustic kitchen holding a winnowing basket, her expression one of practical concern as she addresses someone off-frame. The scene is lit by the soft, warm glow of late afternoon sunlight filtering into a simple, lived-in home, rendered in the style of traditional Chinese ink wash painting with a touch of melancholy realism.",
+      "image": "reader_images/reader_20260315_035238.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1154004109,
+      "created_at": "2026-03-15T03:52:38.419469+08:00"
     }
   ],
   "book_total_chars": 92814,
