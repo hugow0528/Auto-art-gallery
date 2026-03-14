@@ -6071,6 +6071,18 @@
       "image_model": "imagen-4",
       "seed": 513256084,
       "created_at": "2026-03-14T19:18:07.086883+08:00"
+    },
+    {
+      "id": "20260314_193718",
+      "offset_start": 35604,
+      "offset_end": 35685,
+      "text": "四老倌一口咬定沒有，\n這下激怒了衆人。隊長叫了聲「搜」，就有人從四老倌褲腰上解下由黃變綠的銅\n鎖匙，一窩蜂衝進臥房。\n牆邊擺了一張舊木牀，牀上亂七八糟地堆着被子。",
+      "prompt": "A tense, dimly lit scene inside a rustic bedroom. An elder man, looking defiant and cornered, is surrounded by an agitated group. One man is pulling a tarnished, discolored brass key from the elder's waistband. The room features a disordered old wooden bed piled with rumpled blankets against a plain wall. The atmosphere is charged with suspicion and anger, rendered in a dramatic, slightly gritty realism with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_193718.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1143557632,
+      "created_at": "2026-03-14T19:37:19.008196+08:00"
     }
   ],
   "book_total_chars": 92814,
