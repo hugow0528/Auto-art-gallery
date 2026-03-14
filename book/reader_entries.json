@@ -6107,6 +6107,18 @@
       "image_model": "flux",
       "seed": 992793072,
       "created_at": "2026-03-14T19:42:56.772614+08:00"
+    },
+    {
+      "id": "20260314_194700",
+      "offset_start": 35778,
+      "offset_end": 35839,
+      "text": "牆角兩個大糞桶裏的屎尿就快溢出來了，污臭難聞。人們把所有\n東西挪到堂屋，仔細檢查。糞桶叫兵桃倒去了。\n哪兒都沒有找到金子。",
+      "prompt": "In a dimly lit traditional Chinese courtyard at dusk, two massive feces buckets overflow with foul, steaming sludge in the shadowed wall corner, their stench visually suggested by swirling flies and hazy miasma hanging in the heavy air. Nearby, grim-faced villagers in ragged period clothing meticulously sift through piles of household items—furniture, clothes, and crates—scattered across the main hall floor, while a sturdy man named Bingtao pours out one bucket's contents into a ditch, splattering dark liquid everywhere. Rendered in hyper-realistic style like a gritty 19th-century ink wash painting with earthy tones, dramatic chiaroscuro lighting casting long ominous shadows, evoking a mood of desperate poverty, futile search, and overwhelming disgust.",
+      "image": "reader_images/reader_20260314_194700.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 567110969,
+      "created_at": "2026-03-14T19:47:00.238849+08:00"
     }
   ],
   "book_total_chars": 92814,
