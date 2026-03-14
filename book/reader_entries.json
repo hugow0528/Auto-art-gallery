@@ -7331,6 +7331,18 @@
       "image_model": "flux-2-dev",
       "seed": 740183103,
       "created_at": "2026-03-15T04:40:12.477340+08:00"
+    },
+    {
+      "id": "20260315_044126",
+      "offset_start": 42204,
+      "offset_end": 42289,
+      "text": "他也怕別\n人看見，說他跟舊官吏家來往。\n就這樣好不容易搞來了米，交給滿娭毑。滿娭毑按照她的意思把門改了過來。\n過了幾天，滿娭毑又到家裡來了，告訴他們還是不要走前頭那張門。",
+      "prompt": "An elderly woman in traditional dark clothing stands in the doorway of a modest, humble room, whispering urgently to a younger person. The setting is a simple 1950s Chinese village home with worn furniture and a wooden door, dim interior lit by soft natural light. The atmosphere is tense and secretive, with the older woman's expression conveying warning and caution. The visual style is a nostalgic, muted oil painting reminiscent of Chinese social realism, capturing the subtle drama of everyday life during a politically sensitive era.",
+      "image": "reader_images/reader_20260315_044126.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1502963159,
+      "created_at": "2026-03-15T04:41:26.290177+08:00"
     }
   ],
   "book_total_chars": 92814,
