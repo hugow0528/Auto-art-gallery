@@ -6347,6 +6347,18 @@
       "image_model": "flux",
       "seed": 1978714124,
       "created_at": "2026-03-14T21:52:54.670397+08:00"
+    },
+    {
+      "id": "20260314_215416",
+      "offset_start": 37014,
+      "offset_end": 37089,
+      "text": "這一缸如果都是金子，那還得了，怕是要把整個湖南省都買下來！\n\n63\n\n\f隊長交代一句：「誰也不準動這隻缸。」反身進了薯窖，接着挖，一共挖出了四\n只缸。",
+      "prompt": "A dimly lit, earthy root cellar, with rough-hewn wooden shelves and dirt floor. Four large, ancient ceramic jars, one overflowing with shimmering, golden coins, are unearthed by determined, weathered hands. The scene evokes a sense of discovery, greed, and apprehension, rendered in a dramatic chiaroscuro lighting style reminiscent of Caravaggio.",
+      "image": "reader_images/reader_20260314_215416.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1137142664,
+      "created_at": "2026-03-14T21:54:16.345737+08:00"
     }
   ],
   "book_total_chars": 92814,
