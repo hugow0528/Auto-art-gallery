@@ -4655,6 +4655,18 @@
       "image_model": "flux",
       "seed": 142522467,
       "created_at": "2026-03-14T11:18:33.416286+08:00"
+    },
+    {
+      "id": "20260314_113148",
+      "offset_start": 28264,
+      "offset_end": 28342,
+      "text": "垸子離湘陰縣城八十裏路，縣城離黃泥衝又有\n\n50\n\n\f八十裏路，子恆只能寒暑假回家。\n秋園沒有考上公辦教師，但新民小學缺老師，她就留下來教書，只是薪水很少。",
+      "prompt": "A young woman with earnest eyes, dressed in simple, worn clothing, stands at a small, dusty wooden desk in a sparsely furnished, sun-drenched rural schoolhouse. Sunlight streams through a grimy window, illuminating motes of dust dancing in the air and casting long shadows across the rough-hewn floorboards. Behind her, a blackboard bears faded chalk marks, and a few eager, barefoot children peer from behind rickety wooden chairs. The scene evokes a mood of quiet determination and humble hope, rendered in a soft, painterly style reminiscent of early 20th-century Chinese realist art.",
+      "image": "reader_images/reader_20260314_113148.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1448999051,
+      "created_at": "2026-03-14T11:31:48.719526+08:00"
     }
   ],
   "book_total_chars": 92814,
