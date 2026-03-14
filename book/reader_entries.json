@@ -7811,6 +7811,18 @@
       "image_model": "zimage",
       "seed": 1590176418,
       "created_at": "2026-03-15T07:46:09.802256+08:00"
+    },
+    {
+      "id": "20260315_075049",
+      "offset_start": 44889,
+      "offset_end": 44967,
+      "text": "細流般的冷風透過門縫吹進屋裡，寒氣逼\n人，一家人真是饑寒交迫。\n年關逼近，家家戶戶都在準備過年，秋園一家卻經常冇米下鍋。\n萬般無奈，秋園又帶之驊悄悄出了門。",
+      "prompt": "In a dimly lit, impoverished rural Chinese hut during harsh winter near Chinese New Year, a thread-like cold wind seeps through cracked door seams, carrying piercing chill that envelops a destitute family—haggard parents and thin child—huddled in tattered quilts amid empty pots and sparse furnishings, their faces etched with hunger and despair. Outside the half-open door, father Qiu Yuan and young son Zhihua stealthily step into the snowy twilight, backs bent against the biting gale, as distant village homes glow with festive lantern lights contrasting their misery. Render in realistic cinematic style like a Liu Xiaodong painting, with moody blue-gray tones, dramatic low-key lighting from a flickering oil lamp, high detail on frost-rimed wood and threadbare clothes, evoking profound isolation and quiet desperation.",
+      "image": "reader_images/reader_20260315_075049.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1049346189,
+      "created_at": "2026-03-15T07:50:50.005251+08:00"
     }
   ],
   "book_total_chars": 92814,
