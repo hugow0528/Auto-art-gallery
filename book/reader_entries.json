@@ -5651,6 +5651,18 @@
       "image_model": "imagen-4",
       "seed": 1075250781,
       "created_at": "2026-03-14T16:38:34.594694+08:00"
+    },
+    {
+      "id": "20260314_165141",
+      "offset_start": 33490,
+      "offset_end": 33565,
+      "text": "做完這些，再出門鋤\n草、種菜、砍柴、耘禾……\n春桃沒有喘息的餘地，挨罵是家常便飯，有時還要挨打。富平凡事跟着父母轉，\n一點都不疼堂客，把她看成個外人。",
+      "prompt": "A weathered young woman in faded blue clothing kneels in a muddy rice paddy, her hands covered in soil as she carefully weeds between the green rice shoots. The hot afternoon sun beats down on her bent back, sweat soaking through her clothing, while distant mountains frame the humble village. Her expression is exhausted and resigned, embodying the weariness of endless labor. The scene captures a traditional rural Chinese setting in the early 20th century, with soft golden-hour lighting emphasizing the contrast between her small figure and the vast fields around her.",
+      "image": "reader_images/reader_20260314_165141.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 143265951,
+      "created_at": "2026-03-14T16:51:41.966746+08:00"
     }
   ],
   "book_total_chars": 92814,
