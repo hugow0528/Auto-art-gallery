@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_225441",
+      "filename": "images/artwork_20260314_225441.jpg",
+      "topic": "human migration and global nomadism",
+      "prompt": "An oil painting in the style of Rembrandt captures a solitary figure, silhouetted against a vast, arid landscape during the golden hour, their gaze fixed on a distant, unseen horizon. The scene is rendered in a palette of muted earth tones and rich terracotta, with the warm, directional sunlight casting long shadows and highlighting the textures of dust and worn fabric, evoking a profound sense of melancholic reflection on journeys taken and those yet to come. Wisps of wind-blown sand suggest the constant movement and impermanence of nomadic existence, while the overall mood is one of quiet contemplation and the bittersweet beauty of perpetual motion.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 796156978,
+      "created_at": "2026-03-14T22:54:41.374692+08:00"
+    },
+    {
       "id": "20260314_221937",
       "filename": "images/artwork_20260314_221937.jpg",
       "topic": "virtual reality and the metaverse",
