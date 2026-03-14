@@ -6875,6 +6875,18 @@
       "image_model": "zimage",
       "seed": 454138696,
       "created_at": "2026-03-15T01:20:29.846625+08:00"
+    },
+    {
+      "id": "20260315_013014",
+      "offset_start": 39956,
+      "offset_end": 40022,
+      "text": "那晚，秋園在牀上輾轉未眠，輕輕地嘆氣。後來她下了牀，走到之驊的竹牀邊。\n秋園說：「之驊，你睡着沒？」\n「冇睡着。」\n「跟你講件事。",
+      "prompt": "A Chinese woman in a simple nightgown rises from her bed in a dimly lit traditional bedroom, the moonlight filtering through paper windows casting soft shadows on the wooden floor. She walks barefoot toward a bamboo bed where a young man lies awake, their eyes meeting in the quiet darkness. The scene is rendered in a style reminiscent of 1930s Chinese ink wash paintings, with muted earth tones and a contemplative, intimate atmosphere that captures the unspoken weight of the moment.",
+      "image": "reader_images/reader_20260315_013014.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 978464621,
+      "created_at": "2026-03-15T01:30:14.232612+08:00"
     }
   ],
   "book_total_chars": 92814,
