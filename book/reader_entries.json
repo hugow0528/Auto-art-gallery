@@ -7343,6 +7343,18 @@
       "image_model": "zimage",
       "seed": 1502963159,
       "created_at": "2026-03-15T04:41:26.290177+08:00"
+    },
+    {
+      "id": "20260315_044617",
+      "offset_start": 42289,
+      "offset_end": 42375,
+      "text": "後來，秋園\n和之驊姐弟就不從前門進出了，寧願走後門，免得撞見滿娭毑一家。之驊把背後\n山上野雞路兩邊的雜柴和亂草砍的砍、鏟的鏟，把路拓寬了一點，讓它成了一條\n名副其實的小路。",
+      "prompt": "A young boy and girl are clearing a narrow, overgrown path on a mountainside in a rural Chinese setting. They are diligently cutting and weeding the dense undergrowth, widening the path under a soft, diffused daylight, conveying a sense of quiet labor and perseverance. The artistic style is reminiscent of traditional Chinese ink wash paintings, with a focus on natural textures and a serene, slightly melancholic atmosphere.",
+      "image": "reader_images/reader_20260315_044617.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1241505225,
+      "created_at": "2026-03-15T04:46:17.609582+08:00"
     }
   ],
   "book_total_chars": 92814,
