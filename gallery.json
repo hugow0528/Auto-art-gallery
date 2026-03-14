@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_194313",
+      "filename": "images/artwork_20260314_194313.jpg",
+      "topic": "quantum computing and the future",
+      "prompt": "A vortex of holographic, iridescent data streams swirls amidst a dramatic, almost apocalyptic, watercolor landscape under the ethereal glow of an arctic aurora borealis. Intricate fractal patterns suggestive of quantum entanglement manifest as ethereal energy, casting intense, shifting shadows across the scene, evoking a sense of both profound discovery and imminent collapse. The overall mood is one of dramatic tension, captured with the fluid, yet powerful, strokes characteristic of a master watercolorist pushing the boundaries of digital expression.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 2104250522,
+      "created_at": "2026-03-14T19:43:13.821400+08:00"
+    },
+    {
       "id": "20260314_192600",
       "filename": "images/artwork_20260314_192600.jpg",
       "topic": "future of human civilization and technology",
