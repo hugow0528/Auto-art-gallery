@@ -5819,6 +5819,18 @@
       "image_model": "flux",
       "seed": 1702687793,
       "created_at": "2026-03-14T17:49:23.590713+08:00"
+    },
+    {
+      "id": "20260314_174949",
+      "offset_start": 34312,
+      "offset_end": 34407,
+      "text": "59\n\n\f八\n一九五三年，土改複查，仁受的歷史被翻檢出來，由貧民被改劃為舊官吏，成了\n人民的敵人。\n八月底的一天，紅彤彤的太陽剛從對門山上爬上來，就見大路上浩浩蕩蕩一羣人\n向秋園家走來。",
+      "prompt": "1953, rural China. A stark, sun-drenched day as a crimson sun crests a distant mountain. A vast, determined crowd marches down a dusty road towards a humble farmhouse, their shadows long and accusatory. The atmosphere is tense, charged with the weight of political reclassification and impending judgment, rendered in a style reminiscent of Soviet socialist realism propaganda posters.",
+      "image": "reader_images/reader_20260314_174949.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1809017185,
+      "created_at": "2026-03-14T17:49:49.586875+08:00"
     }
   ],
   "book_total_chars": 92814,
