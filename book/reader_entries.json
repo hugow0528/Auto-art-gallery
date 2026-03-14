@@ -5447,6 +5447,18 @@
       "image_model": "flux-2-dev",
       "seed": 1689795140,
       "created_at": "2026-03-14T15:23:27.686240+08:00"
+    },
+    {
+      "id": "20260314_152557",
+      "offset_start": 32349,
+      "offset_end": 32427,
+      "text": "忽然聽到有人叫她的名字，很真切、很清楚。之驊一激靈，睜開了眼睛。只見黎\n老師站在一旁，正擔憂地俯視着她。她本想給黎老師一個微笑，但連微笑的力氣\n也沒有了。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I must respond only with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is: \"忽然聽到有人叫她的名字，很真切、很清楚。之驊一激靈，睜開了眼睛。只見黎老師站在一旁，正擔憂地俯視着她。她本想給黎老師一個微笑，但連微笑的力氣也沒有了。\"\n\nI need to extract key elements for the prompt: setting, atmosphere, characters, and artistic style. The passage describes a scene where Zhihua (之驊) hears her name being called, wakes up, and sees Teacher Li (黎老師) looking down at her with concern. She wants to smile but doesn't have the strength.\n\nKey elements:\n- Setting: Likely indoors, perhaps in a room or a place where Zhihua is resting. The passage doesn't specify, but since she opens her eyes and sees Teacher Li standing by, it might be a bedroom, a sickroom, or a similar intimate space.\n- Atmosphere: Tense, sudden awakening, followed by a sense of weakness and concern. There's an emotional tone of worry and fatigue.\n- Characters: Zhihua, who is weak and unable to smile, and Teacher Li, who is standing nearby, looking down with a worried expression.\n- Artistic style: Not specified in the passage, but I should infer a style that",
+      "image": "reader_images/reader_20260314_152557.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1696814306,
+      "created_at": "2026-03-14T15:25:57.517864+08:00"
     }
   ],
   "book_total_chars": 92814,
