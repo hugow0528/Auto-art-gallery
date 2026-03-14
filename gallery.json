@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_170212",
+      "filename": "images/artwork_20260314_170212.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A vibrant, pop art-infused scene depicting a solitary figure bathed in the warm, flickering glow of candlelight, their form rendered in bold lines and flat colors against a swirling, holographic iridescent digital landscape where fragmented social media icons and glowing data streams intertwine, conveying a sense of both connection and beautiful, energetic isolation. The mood is undeniably lively and optimistic, yet tinged with the introspection of the digital age, as light catches the iridescent textures of the virtual world and illuminates the human element at its core.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 369486249,
+      "created_at": "2026-03-14T17:02:12.330386+08:00"
+    },
+    {
       "id": "20260314_162820",
       "filename": "images/artwork_20260314_162820.jpg",
       "topic": "blockchain and decentralized future",
