@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_054548",
+      "filename": "images/artwork_20260315_054548.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A breathtaking cinematic view of a thriving coral reef sanctuary where sea turtles glide gracefully alongside vibrant schools of tropical fish, surrounded by flowing kelp forests in stunning emerald and deep forest green hues, soft diffused daylight streaming through crystal clear turquoise water creating mesmerizing god rays that illuminate the thriving underwater ecosystem, with a subtle hint of human presence—a gentle hand releasing a rescued sea creature back into its protected habitat—conveying hope and the vital connection between humanity and marine conservation in a vibrant, energetic composition.",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1431535784,
+      "created_at": "2026-03-15T05:45:48.727445+08:00"
+    },
+    {
       "id": "20260315_052352",
       "filename": "images/artwork_20260315_052352.jpg",
       "topic": "revolution in education through technology",
