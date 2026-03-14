@@ -6311,6 +6311,18 @@
       "image_model": "imagen-4",
       "seed": 721092561,
       "created_at": "2026-03-14T21:39:12.038421+08:00"
+    },
+    {
+      "id": "20260314_214116",
+      "offset_start": 36783,
+      "offset_end": 36871,
+      "text": "」兵桃喊道。\n四老倌被放了下來。\n衆人拿着工具挖薯窖。這薯窖是徑直往山裏打進去的，足有丈來深，深而窄，只\n能容下一個人。大家輪流挖，挖到第六個人時，鋤頭髮出了碰到硬東西的聲響。",
+      "prompt": "A group of weary figures in roughspun clothing laboriously dig a deep, narrow potato cellar into a mountainside. The atmosphere is one of determined effort, with dust motes dancing in the slivers of sunlight penetrating the shadows. The digging tool strikes something hard, a moment of discovery in the dim, earthy excavation. Art style: Impressionistic realism, emphasizing texture and muted, natural light.",
+      "image": "reader_images/reader_20260314_214116.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1079119118,
+      "created_at": "2026-03-14T21:41:16.212649+08:00"
     }
   ],
   "book_total_chars": 92814,
