@@ -5123,6 +5123,18 @@
       "image_model": "zimage",
       "seed": 336448965,
       "created_at": "2026-03-14T13:29:07.342215+08:00"
+    },
+    {
+      "id": "20260314_132933",
+      "offset_start": 30583,
+      "offset_end": 30672,
+      "text": "鍋開了，咕咚咕咚地響着，青青的菜葉和數得清的白飯粒在沸水裡上下翻騰。稀\n飯煮好了，舀出一碗，就着爐火喫起來。爲了省油捨不得點燈，爐火將之驊的身\n54\n\n\f影投在牆上，好大好大。",
+      "prompt": "A dimly lit rustic kitchen at night, where a single flickering stove fire illuminates a bubbling pot of thin rice porridge (congee) with vibrant green vegetable leaves and distinct white rice grains churning vigorously in the boiling water, casting dramatic orange glows and long shadows. In the foreground, a weary figure hunches over a simple wooden bowl of steaming congee eaten by the firelight, their enormous elongated silhouette looming massively against the rough plastered wall behind, evoking solitude and frugality. Render in a realistic style inspired by Edward Hopper, with high contrast chiaroscuro lighting, warm fiery hues against deep cool shadows, intricate details on steam wisps, bubbling textures, and subtle poverty-stricken atmosphere.",
+      "image": "reader_images/reader_20260314_132933.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 53242495,
+      "created_at": "2026-03-14T13:29:34.014557+08:00"
     }
   ],
   "book_total_chars": 92814,
