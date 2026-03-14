@@ -5435,6 +5435,18 @@
       "image_model": "gptimage",
       "seed": 1061077447,
       "created_at": "2026-03-14T15:12:05.225170+08:00"
+    },
+    {
+      "id": "20260314_152327",
+      "offset_start": 32285,
+      "offset_end": 32349,
+      "text": "56\n\n\f之驊迷迷糊糊、似睡非睡，有個聲音在耳邊不斷重複着：「我要死了，我要死\n了，真的要死了！」那聲音似乎來自另一個世界。",
+      "prompt": "A figure lies in a twilight state between sleep and consciousness, surrounded by swirling mist and ethereal darkness, their face contorted in distress. A disembodied, haunting voice echoes through the void—barely visible as shimmering wisps of sound—repeating urgently: \"I am dying, I am dying, I am truly dying!\" The atmosphere is suffused with supernatural dread and otherworldly anguish, rendered in the style of classical Chinese ink painting merged with modern digital art, with deep indigos and ghostly whites dominating the composition. The scene captures the liminal space between the mortal realm and the spirit world, with the protagonist suspended between waking terror and nightmarish visions.",
+      "image": "reader_images/reader_20260314_152327.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1689795140,
+      "created_at": "2026-03-14T15:23:27.686240+08:00"
     }
   ],
   "book_total_chars": 92814,
