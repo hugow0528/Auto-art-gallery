@@ -4835,6 +4835,18 @@
       "image_model": "zimage",
       "seed": 1028690846,
       "created_at": "2026-03-14T12:19:40.351831+08:00"
+    },
+    {
+      "id": "20260314_122036",
+      "offset_start": 29263,
+      "offset_end": 29348,
+      "text": "過去仁受教書時，每個星期回家一次。他很會講故事，每次回來都要給孩子們講\n故事。有時實在沒有故事可講，他就裝模作樣地想呀想，之驊和夕瑩就眼巴巴地\n\n52\n\n\f望着他的嘴。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about a character named Ren Shou teaching, and he comes home every week to tell stories to children. When he has no stories, he pretends to think, and the children, Zhihua and Xiying, watch his mouth eagerly.\n\nI need to create a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. The response should be ONLY the image prompt in English, no explanations, translations, or markdown.\n\nKey elements from the passage:\n\n- Setting: Probably at home, during a storytelling session.\n\n- Characters: Ren Shou (the storyteller), Zhihua and Xiying (the children).\n\n- Atmosphere: Anticipatory, focused, perhaps warm and intimate.\n\n- Action: Ren Shou is pretending to think, and the children are watching his mouth intently.\n\nArtistic style, mood, lighting, and specific visual elements should be included. The prompt should be 2–4 sentences only.\n\nStructure the prompt:\n\n- Start with the scene description.\n\n- Include characters and their actions.\n\n- Add atmosphere and mood.\n\n- Specify artistic style, lighting, etc.\n\nPossible artistic style: Since it's a literary scene, perhaps a realistic or illustrative style, warm and nostalgic.\n\nMood: Curious, expectant, intimate.\n\nLighting: Soft, warm indoor lighting, perhaps from a lamp or fireplace.\n\nVisual elements: A man in thoughtful",
+      "image": "reader_images/reader_20260314_122036.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1315859256,
+      "created_at": "2026-03-14T12:20:36.218657+08:00"
     }
   ],
   "book_total_chars": 92814,
