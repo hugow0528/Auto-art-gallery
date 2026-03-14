@@ -6551,6 +6551,18 @@
       "image_model": "imagen-4",
       "seed": 1066721588,
       "created_at": "2026-03-14T22:58:20.880213+08:00"
+    },
+    {
+      "id": "20260314_225909",
+      "offset_start": 38217,
+      "offset_end": 38284,
+      "text": "爹爹，以後多種些菜、勤割點草，農閒\n時稀飯煮薄些，多摻和些東西，省點出來換錢，再替爹爹做件裝老，再存點錢防\n老用……我心裡早盤算好了。",
+      "prompt": "A tender scene in a humble rural home at dusk, where a young child with earnest eyes speaks softly to an aging father with calloused hands, their faces illuminated by the warm glow of a single oil lamp, rendered in a realistic style with soft shadows and a mood of quiet determination.",
+      "image": "reader_images/reader_20260314_225909.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 259796943,
+      "created_at": "2026-03-14T22:59:09.208146+08:00"
     }
   ],
   "book_total_chars": 92814,
