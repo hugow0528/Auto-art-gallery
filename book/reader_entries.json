@@ -6599,6 +6599,18 @@
       "image_model": "gptimage",
       "seed": 968489473,
       "created_at": "2026-03-14T23:16:08.109498+08:00"
+    },
+    {
+      "id": "20260314_232115",
+      "offset_start": 38491,
+      "offset_end": 38554,
+      "text": "買肉的事商量停當，四老倌閉上眼睛，打算睡個好覺，忽又坐起來，對兵桃說：\n「薯窖裏那四缸鹽，不管他們怎麼整我，你都不要講出來。",
+      "prompt": "An old man with tired eyes, wearing simple, worn clothing, sits up abruptly in a dimly lit, rustic room. He leans forward, his expression urgent, speaking to a younger person whose face is partially obscured. The atmosphere is tense and secretive, with shadows playing across rough wooden walls and the faint hint of a root cellar door in the background. The style should be reminiscent of traditional Chinese ink wash painting, with a muted color palette and expressive brushstrokes.",
+      "image": "reader_images/reader_20260314_232115.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1569569440,
+      "created_at": "2026-03-14T23:21:15.411466+08:00"
     }
   ],
   "book_total_chars": 92814,
