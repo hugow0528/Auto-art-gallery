@@ -4967,6 +4967,18 @@
       "image_model": "flux-2-dev",
       "seed": 252774841,
       "created_at": "2026-03-14T12:52:07.035484+08:00"
+    },
+    {
+      "id": "20260314_125421",
+      "offset_start": 29889,
+      "offset_end": 29971,
+      "text": "53\n\n\f六\n日也盼夜也盼，終於盼到了這一天。\n當時較大規模的鄉村小學才設有六個年級，叫作完全小學，簡稱完小。\n之驊年紀大了，從一年級讀起怕是不行，自己也怕羞。",
+      "prompt": "A young Chinese boy, around 10 years old, with a shy expression, sits at a worn wooden desk in a sparsely furnished rural classroom. Sunlight streams through a dusty window, illuminating motes of dust dancing in the air and highlighting the simple, perhaps slightly aged, textbooks on his desk. The atmosphere is one of quiet anticipation and the earnestness of early education, rendered in a style reminiscent of traditional Chinese ink wash painting, with soft, diffused lighting.",
+      "image": "reader_images/reader_20260314_125421.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1559563810,
+      "created_at": "2026-03-14T12:54:22.016363+08:00"
     }
   ],
   "book_total_chars": 92814,
