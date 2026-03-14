@@ -6359,6 +6359,18 @@
       "image_model": "zimage",
       "seed": 1137142664,
       "created_at": "2026-03-14T21:54:16.345737+08:00"
+    },
+    {
+      "id": "20260314_215448",
+      "offset_start": 37014,
+      "offset_end": 37089,
+      "text": "這一缸如果都是金子，那還得了，怕是要把整個湖南省都買下來！\n\n63\n\n\f隊長交代一句：「誰也不準動這隻缸。」反身進了薯窖，接着挖，一共挖出了四\n只缸。",
+      "prompt": "In a dimly lit, earthy Hunan potato cellar during wartime, a stern team captain in tattered military uniform stands amid scattered dirt and four massive ancient ceramic jars unearthed from the soil, their lids ajar revealing tantalizing glints of gold coins spilling out like a fortune vast enough to buy a province. The atmosphere crackles with tense excitement and forbidden greed, shadows from a single lantern casting dramatic chiaroscuro over the rugged workers frozen in awe, their faces illuminated by the jars' inner glow. Rendered in hyper-realistic style inspired by Chinese ink wash painting with golden highlights, evoking mystery and historical drama.",
+      "image": "reader_images/reader_20260314_215448.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1662747210,
+      "created_at": "2026-03-14T21:54:48.665615+08:00"
     }
   ],
   "book_total_chars": 92814,
