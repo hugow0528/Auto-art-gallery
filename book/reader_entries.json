@@ -6299,6 +6299,18 @@
       "image_model": "grok-imagine",
       "seed": 1389085669,
       "created_at": "2026-03-14T21:35:43.299289+08:00"
+    },
+    {
+      "id": "20260314_213912",
+      "offset_start": 36702,
+      "offset_end": 36783,
+      "text": "兵桃幾次衝過去想抱住\n爹爹，每次都被擋了回去。\n兵桃看着爹爹，心想：沒有人，還要鹽幹什麼？還是救下爹爹這條命要緊。\n「你們把爹爹放下來，我知道屋背後薯窖裏有東西。",
+      "prompt": "A desperate young girl named Bingtao, with disheveled hair and tear-streaked face, lunges forward repeatedly toward her bound father held aloft by rough-armed bandits in a dimly lit rural Chinese courtyard at dusk, shadows lengthening across mud-brick walls and a thatched roof hiding a potato cellar. Her expression mixes anguish and fierce determination as guards shove her back, while she points urgently toward the shadowed roof behind the house, evoking a tense atmosphere of familial peril and rural hardship. Rendered in dramatic realism with earthy tones, soft golden-hour lighting casting long ominous shadows, inspired by cinematic style of Zhang Yimou's films, highly detailed, emotional intensity.[1][2][3]",
+      "image": "reader_images/reader_20260314_213912.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 721092561,
+      "created_at": "2026-03-14T21:39:12.038421+08:00"
     }
   ],
   "book_total_chars": 92814,
