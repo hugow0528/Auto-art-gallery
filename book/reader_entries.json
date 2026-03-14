@@ -7727,6 +7727,18 @@
       "image_model": "flux-2-dev",
       "seed": 1666196643,
       "created_at": "2026-03-15T07:02:48.696263+08:00"
+    },
+    {
+      "id": "20260315_072224",
+      "offset_start": 44428,
+      "offset_end": 44500,
+      "text": "母女倆簡直如獲至寶，拿着這些\n東西歡天喜地地回到家裡。\n第二天，秋園和之驊將舊棉絮掛在草地上曬了整整一天，又用棍子抽打了好久，\n然後就鋪在席上。",
+      "prompt": "Two women, a mother and young daughter in simple traditional Chinese peasant attire, joyfully carry bundles of treasures back to their modest courtyard siheyuan home under a golden autumn sunset, their faces beaming with excitement and relief. The next day, in bright midday sunlight on a lush green grass patch beside the gray-tiled house, Qiuyuan and Zhihua diligently hang faded cotton quilts to air, beating them vigorously with long bamboo sticks amid swirling dust motes. Render in warm, realistic style like a Song dynasty ink wash painting with vibrant earthy tones, evoking humble domestic bliss and seasonal renewal.",
+      "image": "reader_images/reader_20260315_072224.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1374821306,
+      "created_at": "2026-03-15T07:22:24.236075+08:00"
     }
   ],
   "book_total_chars": 92814,
