@@ -5399,6 +5399,18 @@
       "image_model": "flux-2-dev",
       "seed": 1657763771,
       "created_at": "2026-03-14T15:07:51.374353+08:00"
+    },
+    {
+      "id": "20260314_150856",
+      "offset_start": 32112,
+      "offset_end": 32202,
+      "text": "這天，班主任黎老師和教體育的戴老師帶着全班去春遊——爬山。早有同學預先\n將紅旗插到了山頂上，旗子在風中飄呀飄。走到山腳下，同學們個個爭先恐後地\n向山上衝去，好比戰士搶着佔領高地。",
+      "prompt": "A group of enthusiastic students, dressed in casual spring clothing, excitedly rush uphill towards a mountain summit, their faces alight with determination. A bright red flag flutters triumphantly in the wind at the very peak, symbolizing their goal. The scene is bathed in warm, dappled sunlight filtering through budding trees, evoking a sense of youthful adventure and accomplishment. Rendered in a vibrant, impressionistic style with a focus on dynamic movement and cheerful color.",
+      "image": "reader_images/reader_20260314_150856.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 868968522,
+      "created_at": "2026-03-14T15:08:56.223066+08:00"
     }
   ],
   "book_total_chars": 92814,
