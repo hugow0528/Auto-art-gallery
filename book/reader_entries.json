@@ -7103,6 +7103,18 @@
       "image_model": "flux",
       "seed": 1110103118,
       "created_at": "2026-03-15T03:03:17.717099+08:00"
+    },
+    {
+      "id": "20260315_030526",
+      "offset_start": 41072,
+      "offset_end": 41141,
+      "text": "菜餚的香味直往鼻子裡鑽，之驊用貪婪的眼神瞄着桌子。自從仁受不教書後，家\n裏的生活一落千丈，好久好久沒看過這麼多好菜，口水都快要流出來了。",
+      "prompt": "A young boy, Zhihua, with wide, hungry eyes, gazes longingly at a table laden with a feast of steaming, aromatic dishes. The dimly lit, humble dining room exudes an atmosphere of long-awaited abundance, contrasting with the boy's evident longing. The scene is rendered in a realistic, slightly melancholic style, with warm, inviting light focused on the food.",
+      "image": "reader_images/reader_20260315_030526.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 786595546,
+      "created_at": "2026-03-15T03:05:26.872420+08:00"
     }
   ],
   "book_total_chars": 92814,
