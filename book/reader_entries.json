@@ -7547,6 +7547,18 @@
       "image_model": "imagen-4",
       "seed": 620375762,
       "created_at": "2026-03-15T05:51:32.639697+08:00"
+    },
+    {
+      "id": "20260315_055417",
+      "offset_start": 43414,
+      "offset_end": 43494,
+      "text": "之驊拼命跑過去，麻利地接\n過仁受肩上的東西，喊了聲「爸爸」，心想：果真跛子說對了，老天爺保佑，爸\n爸這就回來了。\n之驊告訴仁受，滿娭毑不讓走前門了，要從後門進。",
+      "prompt": "A young boy, Zhihua, desperately runs toward his limping father, Ren Shou, in a rural Chinese village at dusk, nimbly taking the heavy load from his father's shoulder with a joyful shout of \"Daddy,\" his face beaming with relief and gratitude under the warm, fading golden light. They stand near a weathered wooden back gate of a traditional courtyard house, bypassing the grand front entrance as instructed by grandmother, evoking a heartfelt family reunion amid humble surroundings with scattered village huts, misty fields, and subtle divine glow symbolizing heavenly blessing. Render in a realistic style inspired by Chinese ink wash painting with vibrant earthy tones, soft volumetric lighting, emotional depth, high detail, cinematic composition.",
+      "image": "reader_images/reader_20260315_055417.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1021557478,
+      "created_at": "2026-03-15T05:54:17.138905+08:00"
     }
   ],
   "book_total_chars": 92814,
