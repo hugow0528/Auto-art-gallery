@@ -4799,6 +4799,18 @@
       "image_model": "imagen-4",
       "seed": 726375208,
       "created_at": "2026-03-14T12:18:02.591171+08:00"
+    },
+    {
+      "id": "20260314_121831",
+      "offset_start": 29001,
+      "offset_end": 29066,
+      "text": "」\n之驊看到仁受顫抖的手舉着菜刀，頭髮已經灰白了，棉布褂子上補丁摞補丁，褶\n頭便褲膝蓋上的兩個大補丁正貼着地面，腳上套着雙爛鞋子。",
+      "prompt": "A frail elderly man with graying hair stands in a dimly lit doorway, his trembling hands clutching a kitchen knife, wearing a threadbare cotton jacket layered with countless rough patches and wrinkled trousers with large worn patches at the knees nearly dragging on the",
+      "image": "reader_images/reader_20260314_121831.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2133867068,
+      "created_at": "2026-03-14T12:18:31.725577+08:00"
     }
   ],
   "book_total_chars": 92814,
