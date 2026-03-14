@@ -5591,6 +5591,18 @@
       "image_model": "grok-imagine",
       "seed": 1713956345,
       "created_at": "2026-03-14T15:59:27.182545+08:00"
+    },
+    {
+      "id": "20260314_160024",
+      "offset_start": 33129,
+      "offset_end": 33191,
+      "text": "皮膚倒還\n白，可長條臉上沒有一點血色。兩根長辮子垂到腰際，卻並沒給她帶來一分兩分\n嫵媚，橫看豎看都覺得是一副可憐巴巴的模樣。",
+      "prompt": "A young woman with a long, pale face devoid of color, her two long braids hanging to her waist, looking pitiful and fragile. The scene is dimly lit, with a somber and melancholic atmosphere. She is positioned in a sparse, desolate room, emphasizing her isolation. Rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of melancholic realism.",
+      "image": "reader_images/reader_20260314_160024.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1682192128,
+      "created_at": "2026-03-14T16:00:24.378640+08:00"
     }
   ],
   "book_total_chars": 92814,
