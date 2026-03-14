@@ -6611,6 +6611,18 @@
       "image_model": "grok-imagine",
       "seed": 1569569440,
       "created_at": "2026-03-14T23:21:15.411466+08:00"
+    },
+    {
+      "id": "20260314_233638",
+      "offset_start": 38554,
+      "offset_end": 38621,
+      "text": "等我死了，你就不用\n花錢買鹽了，鹽是長期要喫的，一餐都少不了，不喫鹽，人沒有力氣。」\n毛把錢，方言，一角多錢。\n兵桃說：「曉得，曉得。",
+      "prompt": "A stark, dimly lit rural kitchen, dust motes dancing in a single shaft of moonlight. An elderly woman, her face etched with weariness and a profound, quiet strength, clutches a small, worn pouch of coins. Her gaze is fixed on a younger woman, perhaps her daughter, whose expression is a mixture of understanding and sorrow. The scene evokes a mood of tender resignation and the enduring weight of poverty, rendered in the style of a classical Chinese ink wash painting with subtle, melancholic color.",
+      "image": "reader_images/reader_20260314_233638.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 131216629,
+      "created_at": "2026-03-14T23:36:38.340460+08:00"
     }
   ],
   "book_total_chars": 92814,
