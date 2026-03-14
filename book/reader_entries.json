@@ -5939,6 +5939,18 @@
       "image_model": "imagen-4",
       "seed": 753073596,
       "created_at": "2026-03-14T18:41:14.344120+08:00"
+    },
+    {
+      "id": "20260314_184649",
+      "offset_start": 34995,
+      "offset_end": 35076,
+      "text": "你們的媽媽跟着我冇享過一天福，我很對不起她，只有來世報答。\n我死了，她更可憐。你們要好好地孝敬媽媽，聽媽媽的話。」\n仁受這一席話，之驊聽得淚流滿臉，又不敢哭出聲。",
+      "prompt": "A young man, Zhihua, sits in a dimly lit, traditional Chinese study room, his face etched with profound sadness and unshed tears, illuminated by the soft glow of an oil lamp. He is dressed in simple, dark, traditional clothing, his posture conveying deep sorrow and respect as he listens to unseen words of comfort or farewell, evoking a mood of poignant filial piety and quiet grief in a classical ink wash painting style.",
+      "image": "reader_images/reader_20260314_184649.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 559502813,
+      "created_at": "2026-03-14T18:46:50.028428+08:00"
     }
   ],
   "book_total_chars": 92814,
