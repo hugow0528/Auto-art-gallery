@@ -4883,6 +4883,18 @@
       "image_model": "imagen-4",
       "seed": 1948153602,
       "created_at": "2026-03-14T12:24:14.542026+08:00"
+    },
+    {
+      "id": "20260314_122457",
+      "offset_start": 29543,
+      "offset_end": 29619,
+      "text": "過了年不久，秋園把之驊叫到身邊，對她說：「你去把屋檐下簸箕裏的鴨毛拿到\n街上賣掉。賣了錢，去買一塊寫字用的石板，再買一根扎頭髮的牛筋，要準備讀\n書了。",
+      "prompt": "In a traditional Chinese courtyard, early spring sunlight filters through bare branches, illuminating a young girl with determined eyes instructing a slightly younger child to carry a basket of duck feathers. The scene evokes a sense of quiet purpose and simple domesticity, rendered in a style reminiscent of traditional ink wash painting with subtle, muted colors. The atmosphere is one of gentle awakening and burgeoning domestic life, with the textures of weathered wood and courtyard stones softly defined.",
+      "image": "reader_images/reader_20260314_122457.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1901615069,
+      "created_at": "2026-03-14T12:24:57.257305+08:00"
     }
   ],
   "book_total_chars": 92814,
