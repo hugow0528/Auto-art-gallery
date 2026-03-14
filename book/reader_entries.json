@@ -7763,6 +7763,18 @@
       "image_model": "zimage",
       "seed": 150626152,
       "created_at": "2026-03-15T07:38:04.901626+08:00"
+    },
+    {
+      "id": "20260315_073840",
+      "offset_start": 44607,
+      "offset_end": 44697,
+      "text": "再看自己身上，已經布滿紅點、體無完膚，仿佛出了一身麻疹。\n秋園一手拿着燈盞，一手拿個缺口的碗。之驊用兩個拇指指甲對着跳蚤的屁股一\n擠，噗的一聲，跳蚤就死了，再揀出死跳蚤丟到缺碗裡。",
+      "prompt": "A dimly lit, humble room, the air thick with a sense of quiet suffering and perseverance. A young woman, Qiu Yuan, holds a flickering oil lamp, its warm glow illuminating her worn features and the ragged edge of a chipped bowl. Next to her, Zhi Hua, his face etched with concentration, uses his fingernails to crush fleas, the small, dark bodies falling into the bowl. The scene is rendered in a somber, realistic style reminiscent of Dutch Golden Age genre painting, with a focus on the textures of skin, cloth, and the metallic glint of the lamp.",
+      "image": "reader_images/reader_20260315_073840.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 2101915790,
+      "created_at": "2026-03-15T07:38:40.485146+08:00"
     }
   ],
   "book_total_chars": 92814,
