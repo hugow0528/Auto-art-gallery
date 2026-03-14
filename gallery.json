@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_140729",
+      "filename": "images/artwork_20260314_140729.jpg",
+      "topic": "social media culture and human connection",
+      "prompt": "A solitary figure stands in a neon-drenched urban plaza, surrounded by holographic screens floating in the misty air like digital ghosts, each one projecting fragmented faces of disconnected people staring into the void of their own reflections, their bodies wrapped in iridescent chrome armor that shimmers with oil-slick rainbow edges under the pale, soft diffused daylight filtering through the polluted sky, while chrome cables and fiber optic vines weave through rusted concrete towers, connecting empty coffee cups and abandoned devices in a quiet graveyard of human connection, cyberpunk architecture looming overhead with glitching billboards and rain-slicked surfaces, the entire scene bathed in a haunting beautiful duality of holographic light bleeding into shadow, capturing the desperate loneliness of a society more connected than ever yet fundamentally alone.",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1691409428,
+      "created_at": "2026-03-14T14:07:29.070704+08:00"
+    },
+    {
       "id": "20260314_134841",
       "filename": "images/artwork_20260314_134841.jpg",
       "topic": "virtual reality and the metaverse",
