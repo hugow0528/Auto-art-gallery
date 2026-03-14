@@ -4943,6 +4943,18 @@
       "image_model": "grok-imagine",
       "seed": 471095527,
       "created_at": "2026-03-14T12:49:14.974404+08:00"
+    },
+    {
+      "id": "20260314_125051",
+      "offset_start": 29762,
+      "offset_end": 29826,
+      "text": "之驊\n站在賣餅的老倌子前面，看他把蔥油餅放在紙上遞過來，口水都要流出來了，恨\n不得接到手就咬一口。可她忍住了，把蔥油餅仔細包好。",
+      "prompt": "A young girl stands before an elderly street vendor, her eyes wide with anticipation as he hands her a warm, golden-brown scallion oil pancake wrapped in paper. The scene is set in a bustling, sun-drenched alleyway with traditional Chinese architecture, evoking a sense of nostalgic charm. The atmosphere is one of simple, everyday joy and delicious temptation, rendered in a vibrant, slightly stylized realism reminiscent of contemporary Chinese illustration.",
+      "image": "reader_images/reader_20260314_125051.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 398370148,
+      "created_at": "2026-03-14T12:50:52.027124+08:00"
     }
   ],
   "book_total_chars": 92814,
