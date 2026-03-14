@@ -5051,6 +5051,18 @@
       "image_model": "zimage",
       "seed": 826735631,
       "created_at": "2026-03-14T13:04:27.635083+08:00"
+    },
+    {
+      "id": "20260314_130748",
+      "offset_start": 30340,
+      "offset_end": 30422,
+      "text": "一早，之\n驊就穿着這身衣服去上學，晚上回到家馬上脫下來洗淨晾乾，第二天又穿着去學\n校。\n九月初，五點多天就亮了。之驊穿着綠格子褂和黑洋布褲，樂顛顛地走在上學路\n上。",
+      "prompt": "A young boy in a green checkered jacket and black trousers walks cheerfully along a sun-dappled, dusty path in early morning light, the soft glow of a September dawn illuminating his joyful expression and the rustic surroundings, rendered in a style of soft realism with warm, nostalgic tones.",
+      "image": "reader_images/reader_20260314_130748.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1142999139,
+      "created_at": "2026-03-14T13:07:48.243714+08:00"
     }
   ],
   "book_total_chars": 92814,
