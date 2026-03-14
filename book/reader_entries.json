@@ -6119,6 +6119,18 @@
       "image_model": "flux-2-dev",
       "seed": 567110969,
       "created_at": "2026-03-14T19:47:00.238849+08:00"
+    },
+    {
+      "id": "20260314_194729",
+      "offset_start": 35778,
+      "offset_end": 35839,
+      "text": "牆角兩個大糞桶裏的屎尿就快溢出來了，污臭難聞。人們把所有\n東西挪到堂屋，仔細檢查。糞桶叫兵桃倒去了。\n哪兒都沒有找到金子。",
+      "prompt": "A cramped, dimly lit rural Chinese main hall filled with scattered household belongings. In the corner, two large wooden manure buckets overflow with foul-smelling waste, their contents nearly spilling onto the packed earth floor. A group of tense, weary villagers meticulously search through piles of miscellaneous items, examining every corner and container. Realist documentary style with soft natural light from a small window, capturing the grim determination of the search.",
+      "image": "reader_images/reader_20260314_194729.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 229333155,
+      "created_at": "2026-03-14T19:47:29.370903+08:00"
     }
   ],
   "book_total_chars": 92814,
