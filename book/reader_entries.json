@@ -6911,6 +6911,18 @@
       "image_model": "gptimage",
       "seed": 1894399253,
       "created_at": "2026-03-15T01:39:37.992155+08:00"
+    },
+    {
+      "id": "20260315_014341",
+      "offset_start": 40084,
+      "offset_end": 40158,
+      "text": "現在，滿娭毑又要一擔谷……我想着，除了去找人討也沒別\n的路可走……」\n之驊一骨碌坐起來，說：「我同你一起去，幫你拿東西。」\n67\n\n\f「你不怕丟人？",
+      "prompt": "A rural Chinese scene from the early 20th century, depicting a weathered peasant woman in tattered clothes desperately seeking help, her face etched with worry and hardship as she discusses obtaining grain. A young man suddenly sits up with determination, offering to accompany her and carry provisions, their exchange capturing a moment of human compassion amid poverty. The setting is humble—a modest dwelling with sparse furnishings, warm earthy tones, and soft natural light filtering through paper windows. Rendered in a realistic, socially conscious style reminiscent of early revolutionary Chinese cinema, emphasizing the dignity and struggle of working-class people during a time of economic hardship.",
+      "image": "reader_images/reader_20260315_014341.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1138551370,
+      "created_at": "2026-03-15T01:43:41.035276+08:00"
     }
   ],
   "book_total_chars": 92814,
