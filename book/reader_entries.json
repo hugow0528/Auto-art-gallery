@@ -7055,6 +7055,18 @@
       "image_model": "gptimage",
       "seed": 2115352046,
       "created_at": "2026-03-15T02:56:51.911258+08:00"
+    },
+    {
+      "id": "20260315_025806",
+      "offset_start": 40859,
+      "offset_end": 40932,
+      "text": "」可是此時此刻，\n秋園淚如泉湧，連忙用手去抹。\n杏梅母親說：「你們的事，我們都曉得了。莫急，莫急，總要過下去的。」\n那天沒看到杏梅，她去外婆家了。",
+      "prompt": "In a serene autumn Chinese garden with golden ginkgo leaves carpeting the ground and vibrant red maple foliage framing a traditional pavilion, a young woman named Qiu Yuan kneels tearfully, her hands frantically wiping tears streaming like springs down her cheeks, evoking deep emotion and vulnerability.[1][2][4] Nearby, an elderly woman, the mother of Xing Mei, stands compassionately with gentle reassurance in her expression, dressed in simple hanfu robes, under soft dappled sunlight filtering through the canopy, creating a poignant atmosphere of familial comfort and seasonal melancholy.[1][4][6] Render in the style of classical Chinese ink wash painting blended with realistic digital art, emphasizing misty depth, warm earthy tones, and subtle symbolic elements like scattered fallen petals for poetic introspection.[3][4]",
+      "image": "reader_images/reader_20260315_025806.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 132041666,
+      "created_at": "2026-03-15T02:58:06.171886+08:00"
     }
   ],
   "book_total_chars": 92814,
