@@ -5243,6 +5243,18 @@
       "image_model": "gptimage",
       "seed": 1132843988,
       "created_at": "2026-03-14T14:01:03.116444+08:00"
+    },
+    {
+      "id": "20260314_140217",
+      "offset_start": 31253,
+      "offset_end": 31331,
+      "text": "一天，班主任黎老師走到之驊身邊，拍拍她的肩膀。之驊抬起頭來，看到是黎老\n師，一陣緊張，滿臉羞愧。\n黎老師輕輕地說：「楊之驊，你是不是身體不好，這樣沒精神？",
+      "prompt": "A young student, Zhihua, looks up with a flushed face and downcast eyes, a mix of tension and shame, as her teacher, Ms. Li, gently places a hand on her shoulder. The scene is set in a quiet classroom with soft, diffused lighting, creating a somber and slightly melancholic atmosphere. The art style should be reminiscent of traditional Chinese ink wash painting, emphasizing emotional subtlety and delicate linework.",
+      "image": "reader_images/reader_20260314_140217.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1211116511,
+      "created_at": "2026-03-14T14:02:17.070021+08:00"
     }
   ],
   "book_total_chars": 92814,
