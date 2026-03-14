@@ -5723,6 +5723,18 @@
       "image_model": "zimage",
       "seed": 236980574,
       "created_at": "2026-03-14T17:00:26.829035+08:00"
+    },
+    {
+      "id": "20260314_170327",
+      "offset_start": 33845,
+      "offset_end": 33958,
+      "text": "真不\n要臉，賤貨！平常掃地不撮稀裏 ，如今稀裏堵了胯，生不出來，活該！」\n滿娭毑罵得不堪入耳。秋園聽到了，跟仁受說：「看樣子春桃要生了……」她躊\n躇一陣，聽春桃喊得瘮人，終於忍不下去，走到隔壁，問過滿娭毑，然後進了春\n桃的屋。",
+      "prompt": "A dimly lit, traditional Chinese courtyard house interior, with peeling paint and worn wooden beams, suggesting poverty and distress. A woman, implied to be the mother-in-law, is seen in the foreground, her face contorted in anger and shouting. In the background, the sounds of a woman in labor can be heard, creating an atmosphere of urgency and raw emotion. The overall style should be reminiscent of traditional Chinese ink wash painting, with a focus on conveying emotional intensity through brushwork and composition.",
+      "image": "reader_images/reader_20260314_170327.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1515988795,
+      "created_at": "2026-03-14T17:03:27.134537+08:00"
     }
   ],
   "book_total_chars": 92814,
