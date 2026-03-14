@@ -6515,6 +6515,18 @@
       "image_model": "flux-2-dev",
       "seed": 2067448826,
       "created_at": "2026-03-14T22:48:34.781719+08:00"
+    },
+    {
+      "id": "20260314_225243",
+      "offset_start": 38012,
+      "offset_end": 38075,
+      "text": "明天天\n一亮，我就去鎮上替爹爹買斤肉，燉得爛爛的，給爹爹補補身子。」四老倌身子\n輕輕抖着，嘴巴發出響聲，似乎正喫着兵桃燉的肉。",
+      "prompt": "In a dimly lit traditional Chinese village hut at dawn, an elderly man with frail, trembling body sits hunched on a wooden stool by a steaming clay pot of braised pork stew, his mouth agape making soft smacking sounds as if savoring the imagined tender meat. His daughter kneels nearby, gazing tenderly at him with filial devotion, surrounded by simple bamboo furnishings, flickering oil lamp light casting warm golden hues on weathered wooden walls and earthen floor. Render in realistic style inspired by Chinese ink wash painting with soft chiaroscuro lighting, evoking a poignant atmosphere of poverty, anticipation, and deep family love.",
+      "image": "reader_images/reader_20260314_225243.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 784044994,
+      "created_at": "2026-03-14T22:52:43.580976+08:00"
     }
   ],
   "book_total_chars": 92814,
