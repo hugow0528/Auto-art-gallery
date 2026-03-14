@@ -4487,6 +4487,18 @@
       "image_model": "flux-2-dev",
       "seed": 1837666267,
       "created_at": "2026-03-14T08:02:02.556374+08:00"
+    },
+    {
+      "id": "20260314_080319",
+      "offset_start": 27328,
+      "offset_end": 27415,
+      "text": "秋園批評寶生不動腦筋，轉天他竟用紙包了一包屎丟在秋園家門口，害得秋園一\n早起來就踩了一腳屎。\n礙着滿娭毑厲害霸蠻，秋園不敢作聲，只回到屋裡急急地把鞋換了，又到塘邊去\n刷鞋。",
+      "prompt": "A traditional Chinese garden courtyard at dawn, with morning mist lingering over curved tiled roofs, jagged rockeries, and a serene pond nearby; an elderly man in simple hanfu stands dismayed at his wooden doorstep, one foot lifted from a smeared pile of feces wrapped in crumpled paper, his face twisted in shock and suppressed anger as he glances nervously toward an imposing grandmother figure in the shadowed background. Dim golden sunlight filters through bamboo groves, casting long shadows and a humid, tense atmosphere of petty revenge and rural humiliation. Render in hyper-realistic ink wash style inspired by Qi Baishi, with earthy tones, intricate textures on stones and fabrics, and subtle symbolic harmony disrupted by the foul intrusion.",
+      "image": "reader_images/reader_20260314_080319.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1025506834,
+      "created_at": "2026-03-14T08:03:19.854125+08:00"
     }
   ],
   "book_total_chars": 92814,
