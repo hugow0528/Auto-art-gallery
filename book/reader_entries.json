@@ -6743,6 +6743,18 @@
       "image_model": "imagen-4",
       "seed": 1200838923,
       "created_at": "2026-03-15T00:22:52.810483+08:00"
+    },
+    {
+      "id": "20260315_003541",
+      "offset_start": 39353,
+      "offset_end": 39430,
+      "text": "肉買回來了，四老倌邊看邊摸，讚不絕口：「豬壯、肉肥、皮薄，真是塊好肉，\n會買會買。」\n兵桃決心要燉鍋好肉孝敬爹爹，自己也搭便喝口湯、喫塊肉，只要喫一塊。",
+      "prompt": "In a dimly lit traditional Chinese kitchen filled with warm steam and the earthy scent of fresh meat, an elderly man with weathered hands and a joyful smile examines a large slab of plump, fatty pork on a wooden table, his fingers gently touching its thin skin while praising its quality. Nearby, his determined young daughter stands attentively, eyes gleaming with filial devotion as she envisions stewing the meat to honor him, a simple clay pot and chopsticks hinting at the upcoming family meal. Render in realistic oil painting style with soft golden lighting, evoking humble warmth, familial harmony, and rustic abundance.",
+      "image": "reader_images/reader_20260315_003541.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 391164046,
+      "created_at": "2026-03-15T00:35:41.035611+08:00"
     }
   ],
   "book_total_chars": 92814,
