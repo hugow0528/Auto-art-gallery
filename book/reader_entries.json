@@ -7271,6 +7271,18 @@
       "image_model": "zimage",
       "seed": 1671375946,
       "created_at": "2026-03-15T03:53:31.345056+08:00"
+    },
+    {
+      "id": "20260315_035759",
+      "offset_start": 41914,
+      "offset_end": 41991,
+      "text": "滿滿的兩袋米，足有三十來斤。\n杏梅母親給之驊和秋園各泡了杯茶，說：「梁老師，我們不久留你們，等下要杏\n梅爸爸送你們回去。怕你們還要去別的地方，不耽誤你們。",
+      "prompt": "A modest rural Chinese kitchen with whitewashed walls and worn wooden furniture, two bulging grain sacks sitting on the floor. A middle-aged woman in a simple blue apron kneels at a low wooden table, carefully pouring tea into two ceramic cups for two guests seated across from her. Warm afternoon light streams through a small window, illuminating steam rising from the tea and casting gentle shadows. The scene captures the quiet dignity of rural hospitality with a soft, nostalgic watercolor style and muted earth tones.",
+      "image": "reader_images/reader_20260315_035759.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1490061085,
+      "created_at": "2026-03-15T03:57:59.220286+08:00"
     }
   ],
   "book_total_chars": 92814,
