@@ -4991,6 +4991,18 @@
       "image_model": "flux",
       "seed": 44824025,
       "created_at": "2026-03-14T12:55:15.560546+08:00"
+    },
+    {
+      "id": "20260314_125704",
+      "offset_start": 30034,
+      "offset_end": 30100,
+      "text": "一次，算術老\n師在課堂上出了道題，讓做完的同學舉手。之驊做出來了，可因爲沒有把握，便\n遲遲沒有舉手。\n老師說：「楊之驊沒有做出來吧？",
+      "prompt": "A tense moment in a traditional Chinese elementary classroom with wooden desks, chalkboard with math equations, a young boy in a school uniform sitting hesitantly at his desk with hand hovering just above the surface, eyes cast downward in uncertainty, a stern teacher's figure visible in the background scanning the room, soft natural light from tall windows, traditional East Asian academic setting, cinematic moment capturing childhood insecurity and fear of failure, realistic painterly style with muted earth tones.",
+      "image": "reader_images/reader_20260314_125704.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1865826842,
+      "created_at": "2026-03-14T12:57:04.712514+08:00"
     }
   ],
   "book_total_chars": 92814,
