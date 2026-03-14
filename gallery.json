@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_185624",
+      "filename": "images/artwork_20260314_185624.jpg",
+      "topic": "mental health awareness in the digital age",
+      "prompt": "A solitary, silhouetted figure stands at the edge of a vast, digital-infused landscape, their form almost dissolving into the monochrome, stark environment under the ethereal glow of an arctic aurora borealis. The scene is rendered in a photorealistic style, emphasizing the melancholic and reflective mood through sharp contrasts and deep shadows that play across the texture of the barren digital terrain, with faint, glitch-like wisps representing digital isolation and the weight of online existence. The lighting, emanating from the celestial aurora, casts an otherworldly, cool light, accentuating the profound sense of solitude and introspection within a monochromatic black and white color palette.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 2006848535,
+      "created_at": "2026-03-14T18:56:24.393315+08:00"
+    },
+    {
       "id": "20260314_182446",
       "filename": "images/artwork_20260314_182446.jpg",
       "topic": "health and medicine breakthroughs",
