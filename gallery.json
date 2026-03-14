@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_134841",
+      "filename": "images/artwork_20260314_134841.jpg",
+      "topic": "virtual reality and the metaverse",
+      "prompt": "A surrealist metaverse landscape where a solitary figure in a translucent VR headset floats amidst melting golden clock-towers and fragmented digital avatars that morph into ethereal birds and whispering data streams, their forms juxtaposed irrationally against vast black voids punctured by hovering blockchain orbs. Soft diffused daylight filters through impossible rifts in the sky, casting high-contrast black and gold shadows that evoke a melancholic, reflective solitude, with intricate details in the shimmering neural pathways and decaying pixelated ruins. Hyper-detailed, award-winning composition blending Dali's dreamlike precision with uncanny biomorphic distortions, profoundly immersive and hauntingly beautiful.",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1079713761,
+      "created_at": "2026-03-14T13:48:41.621172+08:00"
+    },
+    {
       "id": "20260314_133046",
       "filename": "images/artwork_20260314_133046.jpg",
       "topic": "blockchain and decentralized future",
