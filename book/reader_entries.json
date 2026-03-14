@@ -6431,6 +6431,18 @@
       "image_model": "flux-2-dev",
       "seed": 1649869830,
       "created_at": "2026-03-14T22:06:09.211272+08:00"
+    },
+    {
+      "id": "20260314_221652",
+      "offset_start": 37471,
+      "offset_end": 37534,
+      "text": "四老倌用從未有過的溫柔眼神看着兵桃說：「唉，我死了不要緊，滿了花甲，不\n算短命鬼，就是還有一件事沒完成。」\n「爹爹，什麼事？",
+      "prompt": "An old man with a gentle, resigned expression looks at a younger person. The scene is dimly lit, perhaps by candlelight, creating a melancholic and intimate atmosphere. The style should be reminiscent of traditional Chinese ink wash painting, with soft brushstrokes and muted colors, conveying a sense of quiet contemplation and fading light.",
+      "image": "reader_images/reader_20260314_221652.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 737355886,
+      "created_at": "2026-03-14T22:16:52.580332+08:00"
     }
   ],
   "book_total_chars": 92814,
