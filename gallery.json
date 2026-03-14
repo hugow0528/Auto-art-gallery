@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_113757",
+      "filename": "images/artwork_20260314_113757.jpg",
+      "topic": "global climate crisis and environmental solutions",
+      "prompt": "A minimalist composition depicts a solitary, silhouetted figure tending to a small, glowing sapling under a vast, moonlit sky, with warm amber and orange tones radiating from the sapling and the figure's hands, casting long, soft shadows. The surrounding landscape is rendered with stark, clean lines, suggesting both the fragility of nature and the profound, intimate act of nurturing life amidst the looming presence of environmental challenges. The lighting creates a mood of quiet hope and human connection, with the moonlight highlighting the gentle curve of the figure's back and the tender leaves of the nascent plant, while deeper shadows underscore the gravity of the climate crisis.",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 912414683,
+      "created_at": "2026-03-14T11:37:57.814072+08:00"
+    },
+    {
       "id": "20260314_112538",
       "filename": "images/artwork_20260314_112538.jpg",
       "topic": "ocean conservation and marine life",
