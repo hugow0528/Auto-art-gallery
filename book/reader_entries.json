@@ -6407,6 +6407,18 @@
       "image_model": "grok-imagine",
       "seed": 1758887805,
       "created_at": "2026-03-14T22:04:45.677860+08:00"
+    },
+    {
+      "id": "20260314_220525",
+      "offset_start": 37355,
+      "offset_end": 37471,
+      "text": "「唉，想不到荷包蛋這麼好喫。爹爹，下半年我就買\n幾隻小雞來養，冬雞下蛋多，明年我們就有蛋喫了。以後你不要下田，在家裡燒\n燒飯、喂喂雞，我專心出工，多掙些工分……」兵桃輕聲細氣地和爹爹說着話，\n他想纏住爹爹，不讓他知道衆人在挖他的鹽。",
+      "prompt": "A tender moment between a frail father and his earnest son in a sparse, sun-dappled rural kitchen, the son speaking softly as he envisions a better future. Warm, hopeful light filters through a simple window, casting soft shadows in the realist style of an oil painting, with muted earth tones and a palpable, quiet tension.",
+      "image": "reader_images/reader_20260314_220525.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 918518729,
+      "created_at": "2026-03-14T22:05:25.193572+08:00"
     }
   ],
   "book_total_chars": 92814,
