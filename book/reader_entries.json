@@ -4679,6 +4679,18 @@
       "image_model": "flux",
       "seed": 711457170,
       "created_at": "2026-03-14T11:35:45.386757+08:00"
+    },
+    {
+      "id": "20260314_113616",
+      "offset_start": 28342,
+      "offset_end": 28410,
+      "text": "但如果沒有秋園這點收入，這個家真不知怎麼過下去。\n之驊十歲，早就到了讀書的年齡。可爲了帶兩個弟弟賠三和田四，讀書的事是想\n也不能想的。",
+      "prompt": "In a dimly lit traditional Chinese courtyard home at dusk, a weary 10-year-old boy named Zhi Hua, dressed in faded patched clothes, tends to his two toddling younger brothers and two young girls—adopted child brides Tian Si and San—while stacking autumn vegetables from the garden for meager income, his face etched with quiet resignation and unfulfilled longing for books. The scene unfolds in a cramped compound with weathered wooden buildings opening onto a shared dirt yard, a smoky kitchen in the background, evoking poverty's heavy burden under soft golden fading light and encroaching shadows. Rendered in realistic style inspired by 19th-century Chinese ink wash paintings with muted earth tones, somber mood, and intricate details of rural hardship.",
+      "image": "reader_images/reader_20260314_113616.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1622088417,
+      "created_at": "2026-03-14T11:36:16.433637+08:00"
     }
   ],
   "book_total_chars": 92814,
