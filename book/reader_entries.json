@@ -7463,6 +7463,18 @@
       "image_model": "grok-imagine",
       "seed": 850787186,
       "created_at": "2026-03-15T05:30:03.979278+08:00"
+    },
+    {
+      "id": "20260315_053511",
+      "offset_start": 42933,
+      "offset_end": 43019,
+      "text": "洞不\n大，剛好能容下個身子，我使勁往裡爬，爬進半個身子後，頭一抬就碰掉了掛在\n水缸邊的竹筒，嘭一聲，好比響了個炸雷……」\n秋園捂着嘴巴，生怕自己驚叫出聲：「我曉得這回事咯！",
+      "prompt": "A young woman with her hand covering her mouth, eyes wide with surprise and a hint of fear, leans into a small, dark opening. Inside the opening, a bamboo tube has just fallen, creating a dramatic splash in a water缸 (water vat) beside it, the impact echoing like thunder. The scene is dimly lit, with a sense of rustic simplicity and impending discovery, rendered in a traditional Chinese ink wash painting style with subtle dramatic lighting.",
+      "image": "reader_images/reader_20260315_053511.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1754944808,
+      "created_at": "2026-03-15T05:35:11.608059+08:00"
     }
   ],
   "book_total_chars": 92814,
