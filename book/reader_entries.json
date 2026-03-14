@@ -7163,6 +7163,18 @@
       "image_model": "zimage",
       "seed": 276758758,
       "created_at": "2026-03-15T03:18:28.669811+08:00"
+    },
+    {
+      "id": "20260315_033511",
+      "offset_start": 41295,
+      "offset_end": 41365,
+      "text": "之驊感到蘿蔔菜的味道十分鮮\n美。家裡經常喫沒有油的「紅鍋菜」，忽然喫到放了油的炒菜，味道果然不同。\n我不要喫雞了，這蘿蔔菜蠻好喫，她心裡想。",
+      "prompt": "A humble, dimly lit kitchen in rural China, evening light filtering through a small window. A young woman, Zhi Hua, with simple clothing and a look of surprised delight, is tasting a stir-fried dish of radishes. The atmosphere is warm and intimate, with a focus on the vibrant colors of the food and the subtle sheen of oil on the radishes, rendered in a realistic oil painting style with a slightly impressionistic touch.",
+      "image": "reader_images/reader_20260315_033511.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 835558197,
+      "created_at": "2026-03-15T03:35:11.696178+08:00"
     }
   ],
   "book_total_chars": 92814,
