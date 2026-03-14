@@ -5519,6 +5519,18 @@
       "image_model": "grok-imagine",
       "seed": 1692044672,
       "created_at": "2026-03-14T15:46:20.422424+08:00"
+    },
+    {
+      "id": "20260314_155002",
+      "offset_start": 32661,
+      "offset_end": 32738,
+      "text": "黎老師聽着，點點頭，說：「你每次考試都是五分，這學期評到了一塊錢獎學\n金，這錢你莫拿回去好嗎？存在我這裡，萬一下學期家裡出不起學費，可以靠它\n繼續上學。",
+      "prompt": "A kindly, elderly Chinese teacher with gentle eyes and a warm smile, dressed in simple traditional attire, sits at a worn wooden desk in a dimly lit, rustic classroom. Before him, a young, earnest student with a slightly anxious expression looks down at a small, worn coin clutched in their hand, symbolizing a meager scholarship. The scene is rendered in a soft, painterly style reminiscent of traditional Chinese ink wash paintings, with a mood of quiet hope and gentle guidance.",
+      "image": "reader_images/reader_20260314_155002.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1412925738,
+      "created_at": "2026-03-14T15:50:02.196761+08:00"
     }
   ],
   "book_total_chars": 92814,
