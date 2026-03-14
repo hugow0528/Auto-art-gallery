@@ -4811,6 +4811,18 @@
       "image_model": "grok-imagine",
       "seed": 2133867068,
       "created_at": "2026-03-14T12:18:31.725577+08:00"
+    },
+    {
+      "id": "20260314_121909",
+      "offset_start": 29066,
+      "offset_end": 29131,
+      "text": "之驊一陣心酸，趕\n緊抬頭望天，不讓眼淚流出來。當時也呆了，竟不知扶仁受起來。\n秋園連忙扶起仁受，說：「何必這樣呢？」\n誰也不作聲。",
+      "prompt": "A melancholic scene in soft realist style, set in a modest 1940s Chinese courtyard. A woman helps a kneeling man up while another turns away, face tilted skyward under overcast light, their expressions tense with unspoken emotion.",
+      "image": "reader_images/reader_20260314_121909.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1957363162,
+      "created_at": "2026-03-14T12:19:09.760450+08:00"
     }
   ],
   "book_total_chars": 92814,
