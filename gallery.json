@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_215950",
+      "filename": "images/artwork_20260314_215950.jpg",
+      "topic": "Hong Kong city life and culture",
+      "prompt": "A photorealistic, award-winning cityscape of Hong Kong, capturing a powerful and monumental mood through dramatic studio lighting that sculpts towering skyscrapers and bustling street-level activity. The scene is dominated by a striking color palette of crimson and deep red, with neon signs casting vibrant reflections on wet pavement and traditional red lanterns illuminating narrow alleyways, creating an intensely atmospheric and visually stunning tableau. Intricate details showcase the juxtaposition of modern architectural marvels with the rich tapestry of everyday life, from bustling markets to tranquil temples, all rendered with hyperrealistic precision.",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1330412645,
+      "created_at": "2026-03-14T21:59:50.141519+08:00"
+    },
+    {
       "id": "20260314_214915",
       "filename": "images/artwork_20260314_214915.jpg",
       "topic": "sports and human physical achievement",
