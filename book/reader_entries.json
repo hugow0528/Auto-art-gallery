@@ -5063,6 +5063,18 @@
       "image_model": "flux-2-dev",
       "seed": 1142999139,
       "created_at": "2026-03-14T13:07:48.243714+08:00"
+    },
+    {
+      "id": "20260314_130822",
+      "offset_start": 30340,
+      "offset_end": 30422,
+      "text": "一早，之\n驊就穿着這身衣服去上學，晚上回到家馬上脫下來洗淨晾乾，第二天又穿着去學\n校。\n九月初，五點多天就亮了。之驊穿着綠格子褂和黑洋布褲，樂顛顛地走在上學路\n上。",
+      "prompt": "A young Chinese boy named Zhi Hua, around 10 years old, walks joyfully along a quiet early morning rural path in early September, wearing a green checkered jacket (褂) and black Western-style trousers, his face beaming with happiness and a slight skip in his step. The scene is set at dawn around 5 AM, with soft golden sunlight piercing through lingering mist over dewy fields, traditional village houses in the background, and a serene, nostalgic atmosphere evoking mid-20th century China. Render in a realistic digital art style inspired by Norman Rockwell, with warm lighting, intricate fabric textures on the uniform, and a vibrant yet peaceful color palette of greens, blacks, and dawn hues.",
+      "image": "reader_images/reader_20260314_130822.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1659077193,
+      "created_at": "2026-03-14T13:08:22.308130+08:00"
     }
   ],
   "book_total_chars": 92814,
