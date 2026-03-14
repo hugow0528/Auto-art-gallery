@@ -6647,6 +6647,18 @@
       "image_model": "zimage",
       "seed": 1460512554,
       "created_at": "2026-03-14T23:41:44.573575+08:00"
+    },
+    {
+      "id": "20260314_234652",
+      "offset_start": 38789,
+      "offset_end": 38854,
+      "text": "」\n\n65\n\n\f「爹爹，鹽我是不會講出去的，只怕衆人不死心，要挖薯窖找金子。挖出來就算\n了，莫放在心上，急壞了身子。沒挖出來更好。",
+      "prompt": "A rustic, dimly lit underground cellar, filled with the earthy scent of potatoes and hidden treasures. A young girl, her face etched with concern but resolve, whispers urgently to her father, a weathered man with worry lines creasing his brow. Sunlight struggles to pierce the gloom from a small opening above, casting long shadows that dance with the dust motes, creating a mood of hushed secrecy and familial anxiety. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with soft, muted tones and a focus on emotional expression.",
+      "image": "reader_images/reader_20260314_234652.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 177458754,
+      "created_at": "2026-03-14T23:46:52.073608+08:00"
     }
   ],
   "book_total_chars": 92814,
