@@ -6023,6 +6023,18 @@
       "image_model": "flux-2-dev",
       "seed": 1866003756,
       "created_at": "2026-03-14T18:57:39.017488+08:00"
+    },
+    {
+      "id": "20260314_190328",
+      "offset_start": 35392,
+      "offset_end": 35464,
+      "text": "」\n若是看到之驊姐弟出門，就說：「舊官吏的幾個崽子又出來了，要去搞麼裏破\n壞？」\n那陣子，之驊姐弟輕易不出門，把自己關在家裡，就像關在籠裏的雞。",
+      "prompt": "Two young siblings peeking through barred windows of a cramped traditional Chinese courtyard home, their faces filled with fear and isolation. Vilaging neighbors whisper and glare at them from across the courtyard, fingers pointing, mouths murmuring accusations. Dramatic low-angle composition in muted gray-brown tones, oppressive Cultural Revolution-era atmosphere, cinematic lighting emphasizing shadows of surveillance, hyperrealistic style with subtle grain",
+      "image": "reader_images/reader_20260314_190328.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 407151272,
+      "created_at": "2026-03-14T19:03:29.007395+08:00"
     }
   ],
   "book_total_chars": 92814,
