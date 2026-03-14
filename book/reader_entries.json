@@ -7415,6 +7415,18 @@
       "image_model": "grok-imagine",
       "seed": 1165951853,
       "created_at": "2026-03-15T04:56:38.397316+08:00"
+    },
+    {
+      "id": "20260315_050005",
+      "offset_start": 42628,
+      "offset_end": 42698,
+      "text": "」\n然後，他才如釋重負，把擔子移到後門邊，一屁股坐在門檻上，累得直喘氣。\n秋園直道謝，給他倒了一杯白開水，搬塊泥磚坐在門邊，細聲跟他講着話。",
+      "prompt": "Relieved, he moved the burden to the back door and sat down on the threshold, breathing heavily from exhaustion. Qiu Yuan sincerely thanked him, poured him a glass of plain water, and then moved a mud brick to sit beside him at the door, speaking to him softly. The scene is rendered in a realistic, painterly style with soft, natural light filtering in from the doorway, highlighting the dust motes in the air and the weary lines on the man's face, while Qiu Yuan's gentle expression is illuminated by the warm glow. The atmosphere is one of quiet gratitude and shared respite in a simple, rustic setting.",
+      "image": "reader_images/reader_20260315_050005.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1104242623,
+      "created_at": "2026-03-15T05:00:05.307393+08:00"
     }
   ],
   "book_total_chars": 92814,
