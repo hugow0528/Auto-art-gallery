@@ -5183,6 +5183,18 @@
       "image_model": "zimage",
       "seed": 1427731673,
       "created_at": "2026-03-14T13:36:17.547703+08:00"
+    },
+    {
+      "id": "20260314_133844",
+      "offset_start": 30916,
+      "offset_end": 31011,
+      "text": "每回炒菜，之驊聞着香味都很想喫。一次，她實在饞得不行，就用菜刀切下\n薄薄的一片，放進嘴裡，慢慢地、愛惜地嚼着。本想多嚼一會兒，品嘗它的美\n味，可這片肥肉實在太小太薄，一不留神就滑進了肚子裡。",
+      "prompt": "A young woman stands alone in a dimly lit, rustic kitchen, her face illuminated by the warm glow of a stove. With a look of focused reverence, she gently places an impossibly thin slice of meat onto her tongue, her eyes closed in quiet savoring. The scene is rendered in a style of detailed, nostalgic realism, with soft shadows and textures of worn wood and simple pottery emphasizing a moment of private, poignant indulgence.",
+      "image": "reader_images/reader_20260314_133844.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1558435333,
+      "created_at": "2026-03-14T13:38:44.230228+08:00"
     }
   ],
   "book_total_chars": 92814,
