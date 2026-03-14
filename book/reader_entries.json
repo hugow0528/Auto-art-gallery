@@ -7703,6 +7703,18 @@
       "image_model": "flux-2-dev",
       "seed": 361385442,
       "created_at": "2026-03-15T06:57:20.213163+08:00"
+    },
+    {
+      "id": "20260315_065938",
+      "offset_start": 44299,
+      "offset_end": 44364,
+      "text": "陽光從瓦片的縫隙中照了進來，綠頭蒼蠅嗡嗡地飛來飛\n去。母女倆在廢物裏翻江倒海地找着，泛起的灰塵被陽光一照，棚子裡就像下着\n毛毛雨。",
+      "prompt": "A mother and daughter search through cluttered debris in a dim, dusty shed, with sharp beams of sunlight piercing through gaps in the roof tiles, illuminating swirling particles of dust like a misty drizzle. Green-headed flies buzz around them, adding to the atmosphere of humid, forgotten decay, rendered in a highly detailed, photorealistic style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260315_065938.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1308544577,
+      "created_at": "2026-03-15T06:59:38.389301+08:00"
     }
   ],
   "book_total_chars": 92814,
