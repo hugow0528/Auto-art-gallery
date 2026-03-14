@@ -6971,6 +6971,18 @@
       "image_model": "grok-imagine",
       "seed": 1647807766,
       "created_at": "2026-03-15T01:57:58.951248+08:00"
+    },
+    {
+      "id": "20260315_020044",
+      "offset_start": 40397,
+      "offset_end": 40469,
+      "text": "時不時有小鳥撲稜稜地從樹林中飛出\n來，嘰嘰喳喳地叫着。\n秋園心事很重，默默地走着。之驊走在前面，心裡沉甸甸的，好似灌了鉛，昨晚\n的勇氣一掃而光。",
+      "prompt": "A serene autumn path winds through a dense, misty forest in traditional Chinese ink wash landscape style, with small birds fluttering sporadically from the treetops, their wings blurred in motion as they chirp amid falling golden leaves. In the foreground, two scholarly figures in flowing robes walk solemnly: the leading man, Zhihua, with a heavy, leaden posture and downcast eyes reflecting lost courage, followed by Qiuyuan, lost in heavy-hearted silence, their small silhouettes dwarfed by towering ancient trees and distant misty mountains. Rendered in monochromatic ink on silk with subtle wet brush gradients for depth, misty atmosphere, and a melancholic, introspective mood under diffused autumn light filtering through the canopy.",
+      "image": "reader_images/reader_20260315_020044.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 527846876,
+      "created_at": "2026-03-15T02:00:44.562316+08:00"
     }
   ],
   "book_total_chars": 92814,
