@@ -6227,6 +6227,18 @@
       "image_model": "grok-imagine",
       "seed": 197924293,
       "created_at": "2026-03-14T21:15:23.405314+08:00"
+    },
+    {
+      "id": "20260314_211559",
+      "offset_start": 36297,
+      "offset_end": 36368,
+      "text": "」\n\n62\n\n\f四老倌站在缸裏，渾身抖個不停，牙齒咯咯響，不要說捉泥鰍，連站都站不住。\n有人把四老倌扶出來，叫他好好想想，想通了，交出來不遲。",
+      "prompt": "In a dimly lit rural courtyard during a tense interrogation, an elderly man named Si Laoguan stands shivering uncontrollably inside a large stone water vat, his frail body drenched and teeth chattering audibly, unable to even steady himself as mud eels writhe faintly in the murky water around his ankles. Rough-handed villagers in traditional coarse clothing carefully lift him out, their faces stern yet concerned, one gesturing emphatically while urging him to reflect and confess. Rendered in a realistic ink-wash style inspired by classical Chinese woodblock prints, with dramatic chiaroscuro lighting casting long shadows, evoking a mood of humiliation, fear, and moral reckoning under overcast skies.",
+      "image": "reader_images/reader_20260314_211559.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1560942544,
+      "created_at": "2026-03-14T21:15:59.809657+08:00"
     }
   ],
   "book_total_chars": 92814,
