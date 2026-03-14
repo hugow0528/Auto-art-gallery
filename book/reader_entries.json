@@ -6467,6 +6467,18 @@
       "image_model": "zimage",
       "seed": 1955101920,
       "created_at": "2026-03-14T22:20:54.351851+08:00"
+    },
+    {
+      "id": "20260314_224017",
+      "offset_start": 37686,
+      "offset_end": 37748,
+      "text": "」說着說\n着，四老倌的眼睛模糊了。\n兵桃聰明，看得懂人意。他伸出糙樹皮一樣的手替爹爹擦眼淚，說：「莫哭，莫\n哭，飯是有喫的。",
+      "prompt": "In a dimly lit traditional Chinese courtyard home, an elderly father with blurred, teary eyes sits hunched on a wooden stool, his weathered face etched with emotion during a heartfelt conversation. His perceptive son, a sturdy young farmer with rough, bark-like hands resembling tree bark, gently wipes away the father's tears, offering comforting words about having food to eat, evoking filial piety and tender reassurance. Render in a poignant realist style like Norman Rockwell meets Chinese ink wash painting, with warm golden lantern light casting soft shadows, earthy tones, and a melancholic yet hopeful atmosphere.",
+      "image": "reader_images/reader_20260314_224017.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1083764653,
+      "created_at": "2026-03-14T22:40:17.289903+08:00"
     }
   ],
   "book_total_chars": 92814,
