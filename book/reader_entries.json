@@ -7691,6 +7691,18 @@
       "image_model": "zimage",
       "seed": 1195826597,
       "created_at": "2026-03-15T06:54:27.412207+08:00"
+    },
+    {
+      "id": "20260315_065720",
+      "offset_start": 44237,
+      "offset_end": 44299,
+      "text": "母女倆沒裝斯文，飽喫了一頓。\n飯碗一放，秋園和之驊就鑽進了堆放廢品的棚子裡。棚子很大，亂七八糟地堆放\n着各種廢物，氣味刺鼻。",
+      "prompt": "A gritty, neo-realist painting of a cluttered, dimly lit shed overflowing with piles of scrap metal and discarded materials, emitting a pungent odor. Two figures, a mother and daughter, are rummaging through the refuse, their movements unrefined and focused, illuminated by a single, harsh light source casting long shadows. The mood is one of hardship and resilience, rendered with a painterly texture and a muted color palette.",
+      "image": "reader_images/reader_20260315_065720.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 361385442,
+      "created_at": "2026-03-15T06:57:20.213163+08:00"
     }
   ],
   "book_total_chars": 92814,
