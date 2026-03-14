@@ -7559,6 +7559,18 @@
       "image_model": "gptimage",
       "seed": 1021557478,
       "created_at": "2026-03-15T05:54:17.138905+08:00"
+    },
+    {
+      "id": "20260315_055758",
+      "offset_start": 43494,
+      "offset_end": 43575,
+      "text": "然後瘋了似的向家裡跑去，\n到了家，上氣不接下氣地對秋園說：「爸爸回來了！爸爸回來了！」\n秋園和兩個小的隨即往門口跑去。不一會兒，仁受就進了屋，坐在一把爛椅子\n上。",
+      "prompt": "A breathless young boy bursts into a dimly lit, humble Chinese rural home, gasping \"Papa's back!\" to his father Qiuyuan and two small children who rush excitedly toward the doorway. Moments later, the weary father Renzhou enters, slumping onto a dilapidated wooden chair amid sparse furnishings, cracked walls, and flickering lantern light casting long shadows. Rendered in realistic cinematic style like a frame from a Zhang Yimou film, with warm earthy tones, tense anticipation in the air, and dramatic chiaroscuro lighting emphasizing raw familial emotion and poverty.",
+      "image": "reader_images/reader_20260315_055758.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 526776671,
+      "created_at": "2026-03-15T05:57:58.544609+08:00"
     }
   ],
   "book_total_chars": 92814,
