@@ -5855,6 +5855,18 @@
       "image_model": "gptimage",
       "seed": 78181254,
       "created_at": "2026-03-14T17:54:56.085762+08:00"
+    },
+    {
+      "id": "20260314_175715",
+      "offset_start": 34557,
+      "offset_end": 34625,
+      "text": "仁受一家靠牆站着，口都不敢開。唯一沒想到的是，最後滿家大崽富平拿出\n一根棕繩，將仁受五花大綁帶走了，丟下一句話：「下午送東西到鄉政府去。",
+      "prompt": "A tense, somber scene in a dimly lit, rustic Chinese village courtyard. Ren Shou, bound with rough brown rope, is forcibly led away by the stern figure of Fu Ping, leaving his fearful family huddled against a wall. The atmosphere is one of silent dread and helplessness, rendered in a dramatic, painterly style with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_175715.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1271378542,
+      "created_at": "2026-03-14T17:57:15.066120+08:00"
     }
   ],
   "book_total_chars": 92814,
