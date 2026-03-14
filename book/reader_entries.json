@@ -7631,6 +7631,18 @@
       "image_model": "zimage",
       "seed": 489826395,
       "created_at": "2026-03-15T06:44:50.829697+08:00"
+    },
+    {
+      "id": "20260315_064648",
+      "offset_start": 43990,
+      "offset_end": 44069,
+      "text": "荒貨，廢品。\n一天，仁受跟秋園商量，要秋園去他外甥宜民家一趟。宜民是仁受親姐姐的崽，\n做荒貨 生意。從前，宜民向仁受借過三百塊銀圓，說是做生意，結果虧掉了。",
+      "prompt": "In a dimly lit, cluttered rural courtyard piled high with rusted scrap metal, broken furniture, and heaps of discarded waste under a hazy afternoon sky, two weathered middle-aged Chinese men in faded traditional jackets huddle over a low wooden table, one gesturing urgently with a furrowed brow while counting tarnished silver coins from a small pouch. The atmosphere is tense and impoverished, evoking quiet desperation and familial obligation amid the chaotic disorder of a scrap dealer's domain. Rendered in a realistic style inspired by 20th-century Chinese ink wash painting with muted earth tones, soft diffused lighting casting long shadows, and intricate details on the textured junk piles for a poignant, nostalgic mood.",
+      "image": "reader_images/reader_20260315_064648.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 10508472,
+      "created_at": "2026-03-15T06:46:48.811766+08:00"
     }
   ],
   "book_total_chars": 92814,
