@@ -7535,6 +7535,18 @@
       "image_model": "flux-2-dev",
       "seed": 1211238826,
       "created_at": "2026-03-15T05:50:36.598762+08:00"
+    },
+    {
+      "id": "20260315_055132",
+      "offset_start": 43345,
+      "offset_end": 43414,
+      "text": "但願承他吉言……」\n第七天上午，之驊正在屋對門挖土種菜，一抬頭，看到仁受背着行李從下面路上\n慢慢走上來。她使勁揉揉眼睛，沒看錯，真是仁受。",
+      "prompt": "A young Chinese woman named Zhi Hua, dressed in simple rural clothes with dirt-streaked hands from gardening, pauses mid-dig in a sunlit vegetable patch outside her wooden stilt house door in a misty traditional Dong village, her eyes widening in joyful disbelief as she rubs them vigorously. Below her on the winding dirt path lined with lush green paddies and wooden homes with tiled roofs, a weary traveler named Ren Shou slowly ascends carrying a heavy rucksack, his figure bathed in soft morning light filtering through morning mist. Render in a realistic style with warm golden-hour lighting, serene rural atmosphere evoking surprise and reunion, intricate wooden architecture details, vibrant greens, and subtle emotional depth like a cinematic frame from a Chinese period drama.",
+      "image": "reader_images/reader_20260315_055132.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 620375762,
+      "created_at": "2026-03-15T05:51:32.639697+08:00"
     }
   ],
   "book_total_chars": 92814,
