@@ -5951,6 +5951,18 @@
       "image_model": "gptimage",
       "seed": 559502813,
       "created_at": "2026-03-14T18:46:50.028428+08:00"
+    },
+    {
+      "id": "20260314_184712",
+      "offset_start": 34995,
+      "offset_end": 35076,
+      "text": "你們的媽媽跟着我冇享過一天福，我很對不起她，只有來世報答。\n我死了，她更可憐。你們要好好地孝敬媽媽，聽媽媽的話。」\n仁受這一席話，之驊聽得淚流滿臉，又不敢哭出聲。",
+      "prompt": "In a dimly lit traditional Chinese room with wooden beams and flickering candlelight casting long shadows, a dying father on his deathbed, pale and frail in simple robes, speaks solemnly to his two young sons kneeling beside him, their faces etched with silent grief and tears streaming down. The mother stands nearby in mourning attire, her expression one of quiet sorrow, as the heavy atmosphere of filial duty and impending loss permeates the scene. Rendered in the style of Qing dynasty ink wash painting with subtle watercolor hues, evoking emotional depth and historical authenticity.[3][6]",
+      "image": "reader_images/reader_20260314_184712.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2027188989,
+      "created_at": "2026-03-14T18:47:12.845878+08:00"
     }
   ],
   "book_total_chars": 92814,
