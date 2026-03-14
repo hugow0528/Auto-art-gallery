@@ -4631,6 +4631,18 @@
       "image_model": "gptimage",
       "seed": 1505093296,
       "created_at": "2026-03-14T11:15:45.177158+08:00"
+    },
+    {
+      "id": "20260314_111615",
+      "offset_start": 28089,
+      "offset_end": 28177,
+      "text": "晚上終於到了縣城，在飯店住下。秋園的大拇指打了血泡，血泡磨破了，感染髮\n了炎。十指連心，秋園那晚痛得沒睡覺。\n第二天，好不容易挪進了考場，腳趾還是痛得鑽心，秋園根本無心考試。",
+      "prompt": "A young woman sits on the edge of a worn hotel bed in dim lamplight, examining her swollen, inflamed thumb with a look of exhausted despair; the small, cramped room feels oppressive, with peeling wallpaper and a single window showing the dark county town outside, her school uniform wrinkled from travel, capturing the raw emotion of pain and vulnerability before an important exam.",
+      "image": "reader_images/reader_20260314_111615.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1361628942,
+      "created_at": "2026-03-14T11:16:15.249656+08:00"
     }
   ],
   "book_total_chars": 92814,
