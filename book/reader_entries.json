@@ -4691,6 +4691,18 @@
       "image_model": "grok-imagine",
       "seed": 1622088417,
       "created_at": "2026-03-14T11:36:16.433637+08:00"
+    },
+    {
+      "id": "20260314_113646",
+      "offset_start": 28410,
+      "offset_end": 28477,
+      "text": "除了領兩個弟弟，之驊還要洗衣、煮飯、挖土、撿柴、種菜……之\n驊得讓秋園騰出手來幹針線活，一家人才能有口飯喫，她必須幫秋園撐起這個\n家。",
+      "prompt": "First, the user wants me to create an image-generation prompt based on a Chinese literary passage. The passage is about a character named Zhi Hua (之驊) who is responsible for many chores like washing clothes, cooking, digging soil, gathering firewood, and planting vegetables. She does this to help Qiu Yuan (秋園) with needlework so that the family can have food. Essentially, Zhi Hua is supporting the family.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. The prompt should include setting, atmosphere, characters present, and artistic style. It should be 2–4 sentences only, and in English only.\n\nKey elements from the passage:\n- Characters: Zhi Hua (I'll use the name as given, but in English, I might keep it as Zhi Hua for consistency) and possibly Qiu Yuan, but the focus is on Zhi Hua's chores.\n- Setting: Likely a rural or domestic environment, given the chores like digging, gathering firewood, and planting vegetables.\n- Atmosphere: Probably one of hardship, diligence, and family support. It might be somber but resilient.\n- Artistic style: I need to suggest a style that fits the literary and historical context. Since it's a Chinese literary passage, perhaps a style reminiscent of traditional Chinese paintings or realistic depictions.\n\nCrafting the prompt:\n- Setting: A humble rural homestead with a garden, washing area, and kitchen.\n- Characters: Zhi Hua, a",
+      "image": "reader_images/reader_20260314_113646.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1821334275,
+      "created_at": "2026-03-14T11:36:46.642098+08:00"
     }
   ],
   "book_total_chars": 92814,
