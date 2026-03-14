@@ -6995,6 +6995,18 @@
       "image_model": "flux",
       "seed": 881988506,
       "created_at": "2026-03-15T02:01:09.966301+08:00"
+    },
+    {
+      "id": "20260315_020134",
+      "offset_start": 40469,
+      "offset_end": 40543,
+      "text": "她在心裡對自己說：「今天不是去走人家，不是去喝喜酒，是\n去討飯。」似乎已經看到好多細伢子在追着她們，用瓦片打她們，邊打邊喊：\n「叫花子來了，打她們！",
+      "prompt": "A ragged woman in tattered, dirt-streaked clothes flees down a narrow, dusty village alley in rural China, her face etched with despair and humiliation as she clutches an empty begging bowl, her internal resolve hardening against the shame of \"going to beg today.\" A chaotic swarm of feral village children, wild-eyed and shouting \"Beggars are here! Beat them!\", pursues her relentlessly, hurling jagged roof tiles that whistle through the air amid swirling dust and chaotic energy. Render in a dramatic realist style inspired by 19th-century Chinese woodblock prints, with harsh midday sunlight casting long shadows, a tense and oppressive atmosphere of rejection and poverty, earthy tones of browns and grays punctuated by the red flashes of flying tiles.",
+      "image": "reader_images/reader_20260315_020134.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 357463218,
+      "created_at": "2026-03-15T02:01:34.822380+08:00"
     }
   ],
   "book_total_chars": 92814,
