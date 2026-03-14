@@ -5015,6 +5015,18 @@
       "image_model": "flux-2-dev",
       "seed": 887598718,
       "created_at": "2026-03-14T13:01:14.841703+08:00"
+    },
+    {
+      "id": "20260314_130152",
+      "offset_start": 30100,
+      "offset_end": 30172,
+      "text": "」之驊臉上火辣辣的，羞得頭都抬不起來。\n從此以後，除了上茅房，之驊都在座位上做算術題，不會就問。結果，她的算術\n成績突飛猛進，每次考試都是頭名。",
+      "prompt": "A young Chinese girl in a simple school uniform sits attentively at a wooden desk in a quiet, sunlit classroom, head bowed over math exercises, pencil in hand, surrounded by scattered papers and an abacus. Her expression shows determined focus and quiet confidence, with stacks of textbooks and exercise books visible behind her. The warm afternoon light streams through windows, casting gentle shadows, capturing the serene atmosphere of focused study and academic achievement.",
+      "image": "reader_images/reader_20260314_130152.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 154388902,
+      "created_at": "2026-03-14T13:01:52.204749+08:00"
     }
   ],
   "book_total_chars": 92814,
