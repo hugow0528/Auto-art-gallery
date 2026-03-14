@@ -7127,6 +7127,18 @@
       "image_model": "flux-2-dev",
       "seed": 420716110,
       "created_at": "2026-03-15T03:06:17.474643+08:00"
+    },
+    {
+      "id": "20260315_030653",
+      "offset_start": 41141,
+      "offset_end": 41227,
+      "text": "秋園看到之驊的表情，把她叫到身邊，小聲說：「媽媽曉得你好想喫，好想喫也\n不能做出一副餓相。這不是在自己家裡，喫飯時定要斯文一些，先不要夾好菜，\n好菜要等別人喊我們才能喫。",
+      "prompt": "A young girl, Zhi Hua, sits at a formal dining table in an opulent, dimly lit autumn garden pavilion. Her expression is a mix of longing and forced composure as her mother, Qiu Yuan, leans in to whisper advice. The atmosphere is one of quiet restraint and unspoken social etiquette, with rich autumnal colors and elegant, traditional Chinese decor. The style should be reminiscent of classical Chinese scroll paintings, with soft, diffused lighting emphasizing the delicate textures of silk clothing and porcelain dishes.",
+      "image": "reader_images/reader_20260315_030653.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 487054930,
+      "created_at": "2026-03-15T03:06:53.639085+08:00"
     }
   ],
   "book_total_chars": 92814,
