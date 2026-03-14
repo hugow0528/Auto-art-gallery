@@ -6839,6 +6839,18 @@
       "image_model": "flux",
       "seed": 1797366162,
       "created_at": "2026-03-15T01:00:06.391863+08:00"
+    },
+    {
+      "id": "20260315_010647",
+      "offset_start": 39807,
+      "offset_end": 39876,
+      "text": "」\n滿娭毑說：「門是非改不可。別人不曉得門釘死了，你們走後門，別人看到的還\n是門挨門，以爲我們關係好，跟你們冇劃清界限。咯事冇得麼裏商量！",
+      "prompt": "An elderly Hunan woman in traditional dark clothing stands resolutely by a weathered wooden door of a modest courtyard home, her weathered face showing firm determination. Dim afternoon light filters through the traditional wooden frame as she gestures emphatically, explaining her decision to replace the door after her relatives have left. The scene captures a moment of practical concern in rural Chinese life, rendered in realistic documentary style with warm earth tones and intimate domestic atmosphere.",
+      "image": "reader_images/reader_20260315_010647.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1700511163,
+      "created_at": "2026-03-15T01:06:47.387182+08:00"
     }
   ],
   "book_total_chars": 92814,
