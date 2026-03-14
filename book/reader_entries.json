@@ -5999,6 +5999,18 @@
       "image_model": "klein",
       "seed": 1778785017,
       "created_at": "2026-03-14T18:52:01.397543+08:00"
+    },
+    {
+      "id": "20260314_185637",
+      "offset_start": 35208,
+      "offset_end": 35324,
+      "text": "」又指着秋園說：「你一\n個官僚太太，肯定不是個好人。」\n60\n\n\f從這天起，之驊和弟弟不敢出門，也不敢到坪裏耍。擔水、摘菜時寧願繞圈走山\n上的野雞路，除非碰到下雨，山上密密的雜草沾上水珠會打溼衣服，不得已才走\n和滿娭毑家並排的前門。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. My response should be ONLY the image prompt in English, with no explanations, translations, or markdown.\n\nThe passage is: \"」又指着秋園說：「你一個官僚太太，肯定不是個好人。」60 從這天起，之驊和弟弟不敢出門，也不敢到坪裏耍。擔水、摘菜時寧願繞圈走山 上的野雞路，除非碰到下雨，山上密密的雜草沾上水珠會打溼衣服，不得已才走 和滿娭毑家並排的前門。\"\n\nI need to extract key elements for the image prompt. The scene involves:\n\n- Characters: Zhihua (之驊) and her brother (弟弟), possibly avoiding someone or something.\n\n- Setting: They are avoiding going out, preferring to take mountain paths (野雞路) for fetching water and picking vegetables. Only in rain, when the dense weeds get wet, they take the front door parallel to Man Aipo's house (滿娭毑家).\n\n- Atmosphere: Fearful, cautious, tense. They are avoiding something, implying a sense of danger or unease.\n\n- Visual elements: Mountain paths, dense weeds, wet clothes, front door of a house, possibly rural or",
+      "image": "reader_images/reader_20260314_185637.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 355804240,
+      "created_at": "2026-03-14T18:56:37.504810+08:00"
     }
   ],
   "book_total_chars": 92814,
