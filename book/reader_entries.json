@@ -4859,6 +4859,18 @@
       "image_model": "zimage",
       "seed": 60472063,
       "created_at": "2026-03-14T12:21:30.248710+08:00"
+    },
+    {
+      "id": "20260314_122336",
+      "offset_start": 29467,
+      "offset_end": 29543,
+      "text": "仁受從沒打罵過孩子，也沒發過脾氣。如今落魄至此，竟因送不起女兒讀書而向\n女兒下跪！之驊被讀書的強烈願望折磨得睡不着覺，一面又心疼父親，不知如何\n是好。",
+      "prompt": "A gaunt father in threadbare traditional Chinese clothing kneels on the worn wooden floor of a dimly lit, sparsely furnished room, his hands clasped together in supplication before his teenage daughter who stands nearby clutching books",
+      "image": "reader_images/reader_20260314_122336.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 860286761,
+      "created_at": "2026-03-14T12:23:36.875930+08:00"
     }
   ],
   "book_total_chars": 92814,
