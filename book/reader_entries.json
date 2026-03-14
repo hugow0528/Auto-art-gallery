@@ -6203,6 +6203,18 @@
       "image_model": "flux",
       "seed": 1154748529,
       "created_at": "2026-03-14T21:12:28.655195+08:00"
+    },
+    {
+      "id": "20260314_211407",
+      "offset_start": 36211,
+      "offset_end": 36297,
+      "text": "兵桃突然衝到爹爹面前\n雙手抱住他，不讓他脫衣服。四老倌拍拍兵桃的肩膀，說：「不怕，爹爹抗得\n住。」說着脫下棉袍，仔細地披在兵桃身上，又輕輕地說：「要是能這樣凍死，\n倒蠻好。",
+      "prompt": "A young child, dressed in a thick, padded cotton robe of a muted historical Chinese style, desperately hugs the legs of an older man who is also warmly dressed in traditional winter garments. The scene is set in a stark, snow-covered courtyard with bare, gnarled trees silhouetted against a pale, cold sky. The atmosphere is one of quiet desperation and tender protection, illuminated by the soft, diffused light of a winter afternoon, rendered in the style of a traditional Chinese ink wash painting with a focus on conveying deep emotion.",
+      "image": "reader_images/reader_20260314_211407.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 860588844,
+      "created_at": "2026-03-14T21:14:07.960520+08:00"
     }
   ],
   "book_total_chars": 92814,
