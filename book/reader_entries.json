@@ -4715,6 +4715,18 @@
       "image_model": "grok-imagine",
       "seed": 179718407,
       "created_at": "2026-03-14T11:41:53.447544+08:00"
+    },
+    {
+      "id": "20260314_115517",
+      "offset_start": 28560,
+      "offset_end": 28630,
+      "text": "全家人仍過着喫了上\n餐沒下頓的日子。秋園白天教書，晚上替人做針線，常常做到深更半夜。\n之驊也幫秋園做活：繡鞋面子上的花，繡做嫁妝的枕頭套子。",
+      "prompt": "A dimly lit, humble room at night, a tired mother in worn clothing sews by a faint oil lamp, while her young daughter carefully embroiders floral patterns on silk beside her. Realist style, muted colors, deep shadows and warm lamplight highlighting their focused faces and hands.",
+      "image": "reader_images/reader_20260314_115517.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1310036045,
+      "created_at": "2026-03-14T11:55:17.588077+08:00"
     }
   ],
   "book_total_chars": 92814,
