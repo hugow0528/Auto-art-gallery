@@ -6575,6 +6575,18 @@
       "image_model": "zimage",
       "seed": 1679383169,
       "created_at": "2026-03-14T23:00:33.844333+08:00"
+    },
+    {
+      "id": "20260314_230216",
+      "offset_start": 38351,
+      "offset_end": 38420,
+      "text": "兵桃把話講到這裡，眼睛一閉，催着四老倌：「爹爹快睏覺，我明天還要起早牀\n去買肉呢。」閉了一會兒嘴，兵桃忽然問：「爹爹，買瘦的還是買肥的？",
+      "prompt": "In a dimly lit traditional Chinese courtyard home at night, a young woman named Bingtao with tired eyes closed sits on a wooden stool beside her elderly father, an old man with a weathered face and simple robe, in the warm glow of a flickering oil lamp casting long shadows on bamboo walls and earthen floor. Bingtao urges him to sleep with a gentle hand gesture, her mouth briefly shut in thought before opening to ask about buying lean or fatty meat tomorrow, evoking a tender, intimate family moment filled with filial care and everyday practicality. Render in realistic ink wash style like classical Chinese guohua painting, with soft moonlight filtering through paper windows, muted earth tones, serene yet poignant atmosphere.",
+      "image": "reader_images/reader_20260314_230216.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 325371169,
+      "created_at": "2026-03-14T23:02:16.280100+08:00"
     }
   ],
   "book_total_chars": 92814,
