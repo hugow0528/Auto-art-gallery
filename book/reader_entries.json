@@ -4619,6 +4619,18 @@
       "image_model": "imagen-4",
       "seed": 785116440,
       "created_at": "2026-03-14T11:14:42.859816+08:00"
+    },
+    {
+      "id": "20260314_111545",
+      "offset_start": 28089,
+      "offset_end": 28177,
+      "text": "晚上終於到了縣城，在飯店住下。秋園的大拇指打了血泡，血泡磨破了，感染髮\n了炎。十指連心，秋園那晚痛得沒睡覺。\n第二天，好不容易挪進了考場，腳趾還是痛得鑽心，秋園根本無心考試。",
+      "prompt": "A young woman, Qiu Yuan, lies awake in a dimly lit, sparsely furnished hotel room in a small county town. Her face is etched with pain, illuminated by a single, weak bedside lamp. The atmosphere is heavy with exhaustion and unspoken anxiety, hinting at a throbbing infection in her hand. The scene is rendered in a melancholic, painterly style reminiscent of Edward Hopper, with muted colors and stark shadows.",
+      "image": "reader_images/reader_20260314_111545.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1505093296,
+      "created_at": "2026-03-14T11:15:45.177158+08:00"
     }
   ],
   "book_total_chars": 92814,
