@@ -4571,6 +4571,18 @@
       "image_model": "imagen-4",
       "seed": 848898777,
       "created_at": "2026-03-14T11:07:28.432298+08:00"
+    },
+    {
+      "id": "20260314_110836",
+      "offset_start": 27835,
+      "offset_end": 27946,
+      "text": "秋園用同樣的理由又一\n次讓他沒走成。\n後來縣上招考新教師和醫生，一九四九年以前的醫生、教師都要重新考試。仁受\n認爲教師和醫生是最好的職業，教師可以培養人才，醫生可以救死扶傷，不管哪\n朝哪代，書都是要人教的，病都是要人看的。",
+      "prompt": "A thoughtful middle-aged Chinese man named Ren sits pensively at a wooden desk in a modest 1940s rural examination hall, surrounded by stacks of exam papers and lanterns casting warm, flickering light, his face illuminated with quiet conviction as he gazes at a blackboard inscribed with \"Teacher\" and \"Doctor\" in elegant calligraphy. The atmosphere is serene yet charged with historical gravity, evoking the pre-1949 era of professional re-certification, with faint shadows of attentive students in the background and scrolls of classical texts on the walls. Render in a realistic oil painting style inspired by Qi Baishi, with earthy tones, soft golden-hour lighting filtering through paper windows, and a mood of noble purpose and timeless respect for knowledge.",
+      "image": "reader_images/reader_20260314_110836.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 138214129,
+      "created_at": "2026-03-14T11:08:36.813876+08:00"
     }
   ],
   "book_total_chars": 92814,
