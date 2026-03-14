@@ -7187,6 +7187,18 @@
       "image_model": "flux-2-dev",
       "seed": 594642633,
       "created_at": "2026-03-15T03:36:41.046314+08:00"
+    },
+    {
+      "id": "20260315_033743",
+      "offset_start": 41446,
+      "offset_end": 41533,
+      "text": "」\n原來秋園也覺得這蘿蔔菜好喫。雞肉的香味不停地散發着。杏梅父母不停地喊之\n驊她們喫雞肉。秋園嘴上答應，就是不當真喫。之驊一碗飯都快喫完了，還沒喫\n雞，不曉得什麼時候才能喫。",
+      "prompt": "A modest kitchen in a simple Chinese home, warm afternoon light filtering through small windows. An older woman sits at a wooden table with younger family members, steam rising from bowls of rice and a plate of braised chicken, while a young girl hesitates with her nearly empty bowl, the aromatic chicken visibly untouched before her. The scene captures a tender moment of familial hospitality and quiet restraint, rendered in a soft, naturalistic style reminiscent of 199",
+      "image": "reader_images/reader_20260315_033743.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 134319645,
+      "created_at": "2026-03-15T03:37:43.871109+08:00"
     }
   ],
   "book_total_chars": 92814,
