@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260315_071934",
+      "filename": "images/artwork_20260315_071934.jpg",
+      "topic": "news headlines of tomorrow",
+      "prompt": "First, the user asks me to create an image generation prompt about \"news headlines of tomorrow.\" I need to incorporate specific elements: surrealist art style, dramatic and intense mood, soft diffused daylight lighting, and a high contrast black and gold color palette.\n\nI must ensure the prompt is descriptive, rich in visual detail, and includes all required elements. It should be 2-4 sentences long, visually stunning, award-winning, and highly detailed. I can only respond with the prompt itself, no explanations, titles, or markdown. Also, I must write exclusively in English.\n\nKey elements to weave in naturally:\n- Surrealist art style: This means the image should have dreamlike, bizarre, or fantastical elements that challenge reality.\n- Dramatic and intense mood: The scene should feel emotionally charged, perhaps with tension or awe.\n- Soft diffused daylight: Lighting should be gentle and evenly spread, not harsh, like daylight through a cloud or filter.\n- High contrast black and gold: Colors should be primarily black and gold with strong contrasts, making elements pop.\n\nThe theme is \"news headlines of tomorrow,\" so I need to imagine futuristic or symbolic representations of news. Surrealism can help with abstract concepts.\n\nBrainstorming ideas:\n- Maybe floating newspapers or screens with headlines in surreal forms.\n- Incorporate elements like clocks, globes, or symbols of technology and information.\n- Use the black and gold palette to create a striking visual.\n\nStructure the prompt:\n- Start with a vivid scene description.\n- Mention the surrealist style and mood.\n- Describe lighting and color palette.\n- Ensure it's detailed and paints a clear mental picture.\n\nAim for 2-4 sentences. Keep it concise but rich.\n\nDraft:\n\"In a surrealist scene, tomorrow's news headlines materialize as floating, molten gold text against a stark black sky, with soft diffused daylight casting ethereal glows on distorted timepieces and fragmented globes, creating a dramatic and",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 635591961,
+      "created_at": "2026-03-15T07:19:34.848678+08:00"
+    },
+    {
       "id": "20260315_065037",
       "filename": "images/artwork_20260315_065037.jpg",
       "topic": "renewable energy and sustainable living",
