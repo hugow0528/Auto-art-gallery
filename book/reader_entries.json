@@ -7319,6 +7319,18 @@
       "image_model": "grok-imagine",
       "seed": 39232735,
       "created_at": "2026-03-15T04:32:21.204597+08:00"
+    },
+    {
+      "id": "20260315_044012",
+      "offset_start": 42123,
+      "offset_end": 42204,
+      "text": "」\n秋園的眼淚又流了出來。\n杏梅的父親右肩扛袋米，左邊腋下夾袋米，飛快地在前面走，和她們保持一段距\n離。母女倆跟在後面。杏梅父親一直送到秋園家後門，將米放下走了。",
+      "prompt": "In a dimly lit, traditional Chinese courtyard during autumn, a woman with tears streaming down her face watches as a man, burdened with sacks of rice on his shoulders, walks away into the twilight. The scene evokes a mood of quiet hardship and emotional sorrow, rendered in a style reminiscent of classical Chinese ink wash painting, with muted colors and a focus on atmospheric lighting.",
+      "image": "reader_images/reader_20260315_044012.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 740183103,
+      "created_at": "2026-03-15T04:40:12.477340+08:00"
     }
   ],
   "book_total_chars": 92814,
