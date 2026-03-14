@@ -5795,6 +5795,18 @@
       "image_model": "gptimage",
       "seed": 1951667688,
       "created_at": "2026-03-14T17:35:41.616905+08:00"
+    },
+    {
+      "id": "20260314_174808",
+      "offset_start": 34167,
+      "offset_end": 34245,
+      "text": "但因爲生了個妹子，惹惱了滿娭毑，\n她出門也咒，進門也咒，一天好幾遍。\n「生伢都不會生，生個賠錢貨。曉得我們滿家男丁金貴，就偏偏不生崽，生個妹\n子想把我氣死。",
+      "prompt": "An elderly Chinese grandmother in traditional dark clothing stands in a dim, cramped farmhouse kitchen, pointing accusingly at a young mother huddled on a wooden bed holding a newborn infant. Her weathered face twists with anger, mouth open in harsh words, while candlelight flickers casting dramatic shadows across the earthen walls. The young mother, wearing a simple blue linen gown, looks down at her baby with exhausted resignation, tears glistening on her pale cheeks.",
+      "image": "reader_images/reader_20260314_174808.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1804630693,
+      "created_at": "2026-03-14T17:48:08.632408+08:00"
     }
   ],
   "book_total_chars": 92814,
