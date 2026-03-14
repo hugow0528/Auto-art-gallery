@@ -5291,6 +5291,18 @@
       "image_model": "grok-imagine",
       "seed": 2069805787,
       "created_at": "2026-03-14T14:08:49.262801+08:00"
+    },
+    {
+      "id": "20260314_140911",
+      "offset_start": 31472,
+      "offset_end": 31553,
+      "text": "早晨起來沒有棉襖穿，人凍得瑟瑟發抖，牙齒咯\n咯響。一天，秋園把之驊叫到身邊，從牀上拿出塊給弟弟們墊尿的爛棉片，安了\n兩根帶子，綁在她身上，權當棉襖，外面加件罩衣。",
+      "prompt": "A shivering young girl in early morning light, teeth chattering from the bitter cold, wearing a makeshift padded garment constructed from worn cotton scraps held together with crude fabric strips, layered beneath a thin outer robe. The scene captures a moment of poverty and familial care in what appears to be a humble interior space, with soft, muted winter lighting that emphasizes the girl's fragile vulnerability against the harsh elements. The artistic style should evoke early 20th-century Chinese realist painting—subdued earth tones, delicate brushwork capturing the texture of patched and tattered fabrics, with an intimate, emotionally poignant atmosphere that conveys both deprivation and the quiet dignity of familial love amid hardship.",
+      "image": "reader_images/reader_20260314_140911.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 908078935,
+      "created_at": "2026-03-14T14:09:11.056955+08:00"
     }
   ],
   "book_total_chars": 92814,
