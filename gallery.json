@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_112538",
+      "filename": "images/artwork_20260314_112538.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "In a desolate, rain-slicked cyberpunk cityscape at night, a lone, bioluminescent jellyfish drifts through submerged, neon-drenched ruins, its ethereal glow a stark contrast to the decaying, holographic advertisements of a forgotten era. The scene is bathed in the cool, melancholic light of towering, violet-hued skyscrapers that cast long, distorted reflections on the flooded streets below, evoking a profound sense of loss and contemplation for a lost marine world. This visually stunning, award-winning artwork captures the fragile beauty of marine life amidst urban decay, rendered in a hyper-detailed, cinematic style with a palette of deep blues and purples.",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 962860607,
+      "created_at": "2026-03-14T11:25:38.534701+08:00"
+    },
+    {
       "id": "20260314_111128",
       "filename": "images/artwork_20260314_111128.jpg",
       "topic": "economic inequality and social justice",
