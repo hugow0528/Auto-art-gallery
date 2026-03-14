@@ -4763,6 +4763,18 @@
       "image_model": "flux-2-dev",
       "seed": 138193788,
       "created_at": "2026-03-14T11:58:21.274176+08:00"
+    },
+    {
+      "id": "20260314_115902",
+      "offset_start": 28823,
+      "offset_end": 28897,
+      "text": "明知家裡是這個樣子，之驊讀書的欲望還是越來越強烈。\n一天傍晚，秋園在坪裏架好門板，把衣料放上面替人裁衣。爲了節省燈油，天不\n斷黑，秋園是不進屋的。",
+      "prompt": "In a dim, outdoor autumn twilight, a woman named Qiuyuan is meticulously cutting fabric on a makeshift table of planks, illuminated by a single, low-burning oil lamp to conserve fuel. The air is cool and crisp, carrying the scent of damp earth and fading leaves, creating a somber yet focused atmosphere. This scene evokes a traditional Chinese ink wash painting style, emphasizing muted colors, soft shadows, and a sense of quiet diligence against the encroaching darkness.",
+      "image": "reader_images/reader_20260314_115902.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 183850469,
+      "created_at": "2026-03-14T11:59:02.656086+08:00"
     }
   ],
   "book_total_chars": 92814,
