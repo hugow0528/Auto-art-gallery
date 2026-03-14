@@ -5759,6 +5759,18 @@
       "image_model": "imagen-4",
       "seed": 726172219,
       "created_at": "2026-03-14T17:18:46.144707+08:00"
+    },
+    {
+      "id": "20260314_172039",
+      "offset_start": 34022,
+      "offset_end": 34087,
+      "text": "快把褲子脫掉，讓我看看。」\n春桃脫下褲子，毛毛的頭髮都露出來了。秋園洗淨手，憑自己生幾個娃娃的經\n驗，將手託在那地方，叫春桃使勁。",
+      "prompt": "In a dimly lit traditional Chinese bedroom with wooden furnishings and flickering candlelight casting intimate shadows, a young woman named Chun Tao stands partially nude from the waist down, her dark pubic hair visibly exposed, while a middle-aged man named Qiu Yuan kneels before her with clean hands gently cupping her intimate area, his expression focused and experienced. The atmosphere is tense yet tender, evoking raw vulnerability and quiet anticipation during a moment of exertion. Render in realistic style inspired by classical Chinese erotic paintings, with warm earthy tones, soft diffused lighting, and intricate details on fabrics and skin textures.",
+      "image": "reader_images/reader_20260314_172039.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2077774878,
+      "created_at": "2026-03-14T17:20:39.805554+08:00"
     }
   ],
   "book_total_chars": 92814,
