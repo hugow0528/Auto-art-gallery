@@ -6155,6 +6155,18 @@
       "image_model": "flux-2-dev",
       "seed": 2099155431,
       "created_at": "2026-03-14T19:55:36.277846+08:00"
+    },
+    {
+      "id": "20260314_200029",
+      "offset_start": 36000,
+      "offset_end": 36084,
+      "text": "沒有牛了，他這冬天怎\n麼過啊！\n晚上繼續鬥爭四老倌。天氣出奇地冷，四老倌站在堂屋中間，穿堂風掀起他的長\n袍，露出了裡面的短褲，褲襠耷拉到膝蓋，兩條瘦瘦的腿就像兩根柴棍。",
+      "prompt": "A stark, dimly lit interior of a rural Chinese home on a frigid winter night. A gaunt, elderly man in a tattered, flowing robe stands amidst a chilling draft, the hem of his robe lifted to reveal thin, stick-like legs and saggy, worn shorts, embodying a desperate struggle against poverty and the cold. The atmosphere is one of hardship and bleakness, rendered in the style of a realist oil painting with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_200029.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1505813988,
+      "created_at": "2026-03-14T20:00:29.643594+08:00"
     }
   ],
   "book_total_chars": 92814,
