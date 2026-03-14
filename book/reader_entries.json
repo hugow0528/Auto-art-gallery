@@ -6047,6 +6047,18 @@
       "image_model": "imagen-4",
       "seed": 1738219848,
       "created_at": "2026-03-14T19:04:21.861075+08:00"
+    },
+    {
+      "id": "20260314_191629",
+      "offset_start": 35464,
+      "offset_end": 35542,
+      "text": "61\n\n\f九\n剛解放那陣，四老倌被劃為中農。土改複查，中農上升一級，成了富農。富農也\n是人民的敵人。宣布那天，衆人集中在四老倌的屋門前，等候對他的發落。",
+      "prompt": "A solemn rural Chinese village scene in the early 1950s: villagers gathered in a tight crowd before a modest mud-brick farmhouse, faces tense and expectant. An older man stands bewildered near his doorway as a work team leader reads aloud from a document on a wooden platform. Muted autumn light casts long shadows across the dirt courtyard, while worn revolutionary banners hang in the background. The mood is heavy with political gravity and collective judgment. Artistic style: documentary realism with muted earth tones, reminiscent of Chinese socialist realism paintings from the 1950s.",
+      "image": "reader_images/reader_20260314_191629.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1928838185,
+      "created_at": "2026-03-14T19:16:29.343024+08:00"
     }
   ],
   "book_total_chars": 92814,
