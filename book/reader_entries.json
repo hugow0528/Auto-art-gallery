@@ -5387,6 +5387,18 @@
       "image_model": "imagen-4",
       "seed": 1383911510,
       "created_at": "2026-03-14T15:05:50.981163+08:00"
+    },
+    {
+      "id": "20260314_150751",
+      "offset_start": 32046,
+      "offset_end": 32112,
+      "text": "冬去春來，萬物復甦。\n清晨，之驊赤腳踩在綴着露珠的青草上，高高興興地去上學。仰望藍悠悠的天\n空，精神抖擻。讀書是件多麼快樂的事啊！",
+      "prompt": "A young boy named Zhi Hua, barefoot and joyful, strides across dew-kissed green grass in an early spring morning scene, gazing upward at a vast, serene blue sky with a spirited expression of delight and vigor. The atmosphere evokes renewal and harmony with nature, with vibrant wildflowers budding, soft mist lingering, and distant misty mountains under golden dawn light filtering through delicate clouds. Rendered in the traditional Chinese ink wash landscape style of shan shui hua, using monochromatic ink tones with subtle blue-green hues, delicate brushstrokes for grass and mist, bird's-eye perspective emphasizing vastness and scholarly tranquility on silk scroll format.",
+      "image": "reader_images/reader_20260314_150751.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1657763771,
+      "created_at": "2026-03-14T15:07:51.374353+08:00"
     }
   ],
   "book_total_chars": 92814,
