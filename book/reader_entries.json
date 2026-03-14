@@ -4523,6 +4523,18 @@
       "image_model": "grok-imagine",
       "seed": 776614786,
       "created_at": "2026-03-14T10:13:44.062667+08:00"
+    },
+    {
+      "id": "20260314_102608",
+      "offset_start": 27602,
+      "offset_end": 27687,
+      "text": "到了那裡，正碰上新兵排隊，一個軍官模樣的人在隊列前\n講話。原來新兵就要開走了。\n秋園靠在鄉政府大門的石獅子旁，一等那軍官講完話，便不管不顧地衝進隊伍，\n拖着子恆就往回走。",
+      "prompt": "A tense moment at a rural government building entrance, where a stone lion statue stands guard by heavy wooden doors. A military officer addresses a line of young recruits in formation, their uniforms crisp and orderly under golden afternoon light. In the foreground, a determined figure in civilian clothes breaks through the gathered soldiers, urgently pulling a young man's arm away from the ranks. The scene captures the chaos of an impromptu separation—dust stirring, soldiers turning in surprise, with a melancholic, desperate atmosphere rendered in the style of Chinese realist painting with muted earth tones and dramatic shadows.",
+      "image": "reader_images/reader_20260314_102608.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1974912287,
+      "created_at": "2026-03-14T10:26:08.954687+08:00"
     }
   ],
   "book_total_chars": 92814,
