@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_162820",
+      "filename": "images/artwork_20260314_162820.jpg",
+      "topic": "blockchain and decentralized future",
+      "prompt": "A breathtaking watercolor landscape bathed in the ethereal glow of an arctic aurora borealis, where swirling cool blues and purples paint the sky above a serene, crystalline sea. Abstract, luminous nodes representing decentralized connections weave through the scene, hinting at a hopeful and uplifting future of interconnectedness, rendered with delicate brushstrokes and soft, diffused light. The overall image evokes a sense of quiet innovation and boundless possibility, with a touch of magic.",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 45361318,
+      "created_at": "2026-03-14T16:28:20.637855+08:00"
+    },
+    {
       "id": "20260314_155613",
       "filename": "images/artwork_20260314_155613.jpg",
       "topic": "ancient traditions meeting the modern world",
