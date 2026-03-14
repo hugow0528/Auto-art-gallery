@@ -6239,6 +6239,18 @@
       "image_model": "imagen-4",
       "seed": 1560942544,
       "created_at": "2026-03-14T21:15:59.809657+08:00"
+    },
+    {
+      "id": "20260314_211635",
+      "offset_start": 36368,
+      "offset_end": 36446,
+      "text": "後來，天氣實在太冷，衆人各自散去。\n兵桃扶着爹爹回到茅屋裡，讓他睡在稻草上，又給蓋上爛棉絮。兵桃緊靠爹爹躺\n着：「爹爹，有金子就拿出來算了，免得皮肉受苦。",
+      "prompt": "A weary young man in ragged clothing carefully tucks a tattered quilt over his elderly father, both lying on a bed of straw inside a dim, rustic hut. The scene is rendered in a realist oil painting style, with a somber, cold atmosphere emphasized by muted colors and a single soft light source from a dying fire.",
+      "image": "reader_images/reader_20260314_211635.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1487482308,
+      "created_at": "2026-03-14T21:16:35.137667+08:00"
     }
   ],
   "book_total_chars": 92814,
