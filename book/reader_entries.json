@@ -7799,6 +7799,18 @@
       "image_model": "flux",
       "seed": 169063059,
       "created_at": "2026-03-15T07:45:34.957945+08:00"
+    },
+    {
+      "id": "20260315_074609",
+      "offset_start": 44790,
+      "offset_end": 44889,
+      "text": "之驊心裡一\n陣發麻，怎麼也不敢捉。最後秋園拿來兩根小棍子將其夾進碗裡，蟲子還在不停\n扭動。\n老天似乎也有意和他們作對，整個冬天雨下個不停，雨點仿佛將鐵板一樣黑沉的\n天幕穿了個洞，風也從洞裡鑽了出來。",
+      "prompt": "A somber, dimly lit scene in a rustic, dimly lit room where a young woman, Qiuyuan, delicately uses two slender chopsticks to transfer a wriggling insect from a surface into a bowl, her face etched with apprehension. Outside, a relentless, heavy rain lashes down, blurring the view through a window to a sky of oppressive, iron-grey clouds, creating a mood of profound melancholy and oppressive gloom. The art style should be reminiscent of traditional Chinese ink wash painting, with a focus on atmospheric perspective and subtle emotional undertones.",
+      "image": "reader_images/reader_20260315_074609.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1590176418,
+      "created_at": "2026-03-15T07:46:09.802256+08:00"
     }
   ],
   "book_total_chars": 92814,
