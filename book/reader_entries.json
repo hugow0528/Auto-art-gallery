@@ -7679,6 +7679,18 @@
       "image_model": "zimage",
       "seed": 417708163,
       "created_at": "2026-03-15T06:54:06.175750+08:00"
+    },
+    {
+      "id": "20260315_065427",
+      "offset_start": 44154,
+      "offset_end": 44237,
+      "text": "宜民說：「等喫了中飯，你們自己到荒貨裏去找，只要你們用得上，都可以拿\n走。」\n那天中午，宜民的堂客炒了一大碗蘿蔔絲炒牛肉，煎了雞蛋，還做了幾樣小菜和\n一大鍋白米飯。",
+      "prompt": "A warm, rustic kitchen scene with a wooden table spread with a steaming bowl of beef stir-fried with radish shreds, golden fried eggs, simple side dishes, and a large pot of white rice, bathed in soft midday light filtering through a window, evoking a sense of humble, domestic abundance.",
+      "image": "reader_images/reader_20260315_065427.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1195826597,
+      "created_at": "2026-03-15T06:54:27.412207+08:00"
     }
   ],
   "book_total_chars": 92814,
