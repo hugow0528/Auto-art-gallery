@@ -5663,6 +5663,18 @@
       "image_model": "gptimage",
       "seed": 143265951,
       "created_at": "2026-03-14T16:51:41.966746+08:00"
+    },
+    {
+      "id": "20260314_165225",
+      "offset_start": 33490,
+      "offset_end": 33565,
+      "text": "做完這些，再出門鋤\n草、種菜、砍柴、耘禾……\n春桃沒有喘息的餘地，挨罵是家常便飯，有時還要挨打。富平凡事跟着父母轉，\n一點都不疼堂客，把她看成個外人。",
+      "prompt": "In a misty rural Chinese landscape painted in traditional **shanshui** ink style with subtle blue-green hues, a weary young woman named Chun Tao, dressed in simple tattered hanfu, toils relentlessly under dim spring sunlight: hoeing weeds in a vegetable patch, planting seedlings, chopping firewood amid rocky outcrops, and weeding rice fields, her face etched with exhaustion and quiet resignation. In the shadowed background, her indifferent husband and stern in-laws observe from a modest thatched hut, treating her as an outsider, their postures cold and distant amid rolling mist-shrouded hills and flowing streams. The atmosphere evokes poignant melancholy and unyielding hardship, with delicate brushwork capturing blurred mountains, sparse trees, and ethereal fog for a contemplative, poetic mood.",
+      "image": "reader_images/reader_20260314_165225.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 826420363,
+      "created_at": "2026-03-14T16:52:25.328137+08:00"
     }
   ],
   "book_total_chars": 92814,
