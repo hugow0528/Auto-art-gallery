@@ -5315,6 +5315,18 @@
       "image_model": "gptimage",
       "seed": 105299917,
       "created_at": "2026-03-14T14:28:32.984225+08:00"
+    },
+    {
+      "id": "20260314_142913",
+      "offset_start": 31627,
+      "offset_end": 31688,
+      "text": "」\n一天早晨，之驊走到半路上，北風不緊不慢地吹着，忽然下起了好大的雪。遠近\n高低，凡是能接觸到雪的地方，瞬間便染成了白色。",
+      "prompt": "A lone figure, Zhi Hua, walks along a rural path as a gentle yet relentless north wind blows. Suddenly, heavy snow begins to fall, instantly blanketing the landscape in pristine white. The scene is rendered in the style of a traditional Chinese ink wash painting, with a serene, hushed atmosphere and soft, diffused lighting.",
+      "image": "reader_images/reader_20260314_142913.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1230706584,
+      "created_at": "2026-03-14T14:29:13.844249+08:00"
     }
   ],
   "book_total_chars": 92814,
