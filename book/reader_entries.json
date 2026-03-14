@@ -6095,6 +6095,18 @@
       "image_model": "imagen-4",
       "seed": 502253142,
       "created_at": "2026-03-14T19:37:50.501530+08:00"
+    },
+    {
+      "id": "20260314_194256",
+      "offset_start": 35685,
+      "offset_end": 35778,
+      "text": "另一牆邊支了塊大青石板，上\n面堆滿了大大小小、高高矮矮的罈子、罐子、缸子，裝着日用、米麵、油鹽醬醋\n等。牀角的牆上釘着幾枚用竹籤做的釘子，釘子上掛着幾個包袋，裡面是一年四\n季的換洗衣物。",
+      "prompt": "Photorealistic scene of a rustic storage corner in a traditional Chinese home, featuring a large bluestone slab against a wall piled with clay jars, pots, and vases of varying sizes. Bamboo nails on the wall hold simple cloth bags with seasonal clothes, under the warm, dim light of a single window casting soft shadows. Atmosphere is humble, orderly, and quietly lived-in.",
+      "image": "reader_images/reader_20260314_194256.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 992793072,
+      "created_at": "2026-03-14T19:42:56.772614+08:00"
     }
   ],
   "book_total_chars": 92814,
