@@ -6635,6 +6635,18 @@
       "image_model": "zimage",
       "seed": 1059677716,
       "created_at": "2026-03-14T23:37:31.285314+08:00"
+    },
+    {
+      "id": "20260314_234144",
+      "offset_start": 38699,
+      "offset_end": 38789,
+      "text": "餵雞不花本，有草、有蟲，還有田裡掉\n的白撿的谷。」\n四老倌明白，兵桃這樣子比自己強，什麼都想得周到。他趕緊說：「兵桃，以後\n的日子，爹爹不管了，由着你去安排，落得爹爹過個清閒日子。",
+      "prompt": "A serene rural Chinese countryside scene in the style of traditional ink wash shan shui painting with watercolor accents, depicting an elderly father in simple hanfu robes smiling contentedly as he converses with his capable young son, who gestures toward a flock of free-range chickens pecking at grass, insects, and scattered rice grains from nearby fields under a soft golden morning light. Mist-shrouded distant mountains and a thatched farmhouse evoke a harmonious, leisurely atmosphere of familial trust and rustic simplicity, rendered with delicate brushstrokes, subtle ink gradients, and sparse composition emphasizing natural balance and human contentment.",
+      "image": "reader_images/reader_20260314_234144.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1460512554,
+      "created_at": "2026-03-14T23:41:44.573575+08:00"
     }
   ],
   "book_total_chars": 92814,
