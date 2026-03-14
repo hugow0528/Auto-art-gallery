@@ -4475,6 +4475,18 @@
       "image_model": "imagen-4",
       "seed": 1315536128,
       "created_at": "2026-03-14T07:57:01.756042+08:00"
+    },
+    {
+      "id": "20260314_080202",
+      "offset_start": 27231,
+      "offset_end": 27328,
+      "text": "一次秋園出了道作文題《我的媽媽》。寶生很快就交了卷，卷子上只寫了一句\n話：「我的媽媽皮紅肉白角兒尖。」剛剛學過一篇叫《菱角》的課文，其中有句\n話講到菱角皮紅肉白角兒尖，他就把這話用來形容媽媽。",
+      "prompt": "In a brightly lit, rustic classroom, a young boy with earnest eyes sits at a wooden desk, quickly finishing an essay titled \"My Mom.\" The passage is filled with natural light, casting a warm, slightly nostalgic glow over the scene, reminiscent of a classic oil painting. The boy's simple, red and white striped shirt stands out against the muted tones of the classroom, hinting at a playful yet focused demeanor as he reflects on his mother.",
+      "image": "reader_images/reader_20260314_080202.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1837666267,
+      "created_at": "2026-03-14T08:02:02.556374+08:00"
     }
   ],
   "book_total_chars": 92814,
