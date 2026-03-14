@@ -5579,6 +5579,18 @@
       "image_model": "imagen-4",
       "seed": 675102819,
       "created_at": "2026-03-14T15:57:55.618637+08:00"
+    },
+    {
+      "id": "20260314_155927",
+      "offset_start": 33054,
+      "offset_end": 33129,
+      "text": "從轎子裡走出一\n個二十多歲的妹子，手裡挽着一個花布包袱，由抬轎子的帶進了滿娭毑的家門。\n這妹子就是新娘子——富平的堂客。她長得蠻高，奇瘦，身子扁扁的。",
+      "prompt": "A slender, tall bride in her early twenties, dressed in traditional attire and carrying a floral cloth bundle, steps out of a sedan chair into the entrance of a traditional Chinese courtyard home. The atmosphere is one of quiet anticipation, with soft, diffused natural light filtering into the entryway. The artistic style should be reminiscent of classical Chinese ink wash paintings, emphasizing delicate brushstrokes and a muted color palette.",
+      "image": "reader_images/reader_20260314_155927.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1713956345,
+      "created_at": "2026-03-14T15:59:27.182545+08:00"
     }
   ],
   "book_total_chars": 92814,
