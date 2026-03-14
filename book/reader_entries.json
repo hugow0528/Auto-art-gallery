@@ -6923,6 +6923,18 @@
       "image_model": "flux",
       "seed": 1138551370,
       "created_at": "2026-03-15T01:43:41.035276+08:00"
+    },
+    {
+      "id": "20260315_014644",
+      "offset_start": 40158,
+      "offset_end": 40231,
+      "text": "」\n「不怕。去討又不是去偷。徐娭毑劃了地主，也帶着正明討飯。」\n秋園連夜從仁受的舊褲子上剪下褲腿，縫成兩個布袋，袋口穿了一根帶子，以便\n鎖緊袋子。",
+      "prompt": "A young woman, with determined eyes and smudged hands, is hunched over a rough wooden table in a dimly lit, humble rural home. Moonlight streams through a small window, illuminating piles of coarse fabric and a pair of newly sewn cloth sacks. The atmosphere is one of quiet desperation and resourcefulness, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of realism.",
+      "image": "reader_images/reader_20260315_014644.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1346955054,
+      "created_at": "2026-03-15T01:46:44.477091+08:00"
     }
   ],
   "book_total_chars": 92814,
