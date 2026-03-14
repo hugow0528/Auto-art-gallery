@@ -5087,6 +5087,18 @@
       "image_model": "zimage",
       "seed": 1670399057,
       "created_at": "2026-03-14T13:14:56.815097+08:00"
+    },
+    {
+      "id": "20260314_131536",
+      "offset_start": 30422,
+      "offset_end": 30497,
+      "text": "天空藍得耀眼，植物綠得耀眼，山坎上裸露的紅土鮮亮得耀眼。提着簸箕撿\n狗糞的老倌子和看牛的細伢子打着呵欠、抹着眼睛，陸陸續續從家裡出來，消失\n在曠野裏。",
+      "prompt": "A hyperrealistic oil painting depicting a vast, vivid landscape under a dazzling blue sky and equally vibrant green foliage. Striking red earth is exposed on a hillside, contrasting with the intense natural colors. In the early morning light, an elderly man with a carrying basket and a young boy watching over cattle yawn and rub their eyes as they emerge from their homes and walk into the wide, open wilderness. The mood is one of quiet, rustic dawn, with a touch of sleepy melancholy.",
+      "image": "reader_images/reader_20260314_131536.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 922986220,
+      "created_at": "2026-03-14T13:15:36.441167+08:00"
     }
   ],
   "book_total_chars": 92814,
