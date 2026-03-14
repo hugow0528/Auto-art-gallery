@@ -4511,6 +4511,18 @@
       "image_model": "grok-imagine",
       "seed": 1413080380,
       "created_at": "2026-03-14T08:53:52.493676+08:00"
+    },
+    {
+      "id": "20260314_101344",
+      "offset_start": 27539,
+      "offset_end": 27602,
+      "text": "同年，政府徵志願軍，子恆報了名。\n子恆不但體檢過了，還成了縣裡第一個空軍。秋園得知這個消息，第二天一早就\n跑到鄉政府去找子恆。",
+      "prompt": "A young woman, Qiu Yuan, rushes with determined urgency towards a rural government office. The scene is bathed in the warm, hopeful glow of early morning sunlight, casting long shadows. The atmosphere is a mix of quiet village life and the underlying excitement of significant news. The art style should be reminiscent of traditional Chinese ink wash painting, with a touch of vibrant realism in Qiu Yuan's attire.",
+      "image": "reader_images/reader_20260314_101344.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 776614786,
+      "created_at": "2026-03-14T10:13:44.062667+08:00"
     }
   ],
   "book_total_chars": 92814,
