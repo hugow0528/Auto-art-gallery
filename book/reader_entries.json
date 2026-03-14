@@ -6887,6 +6887,18 @@
       "image_model": "flux",
       "seed": 978464621,
       "created_at": "2026-03-15T01:30:14.232612+08:00"
+    },
+    {
+      "id": "20260315_013857",
+      "offset_start": 40022,
+      "offset_end": 40084,
+      "text": "」她似乎難以啓齒。\n「麼裏事？」\n「家裡的米都沒收了，只剩下鬥把米。你哥哥不可能那麼快寄錢來，他也負擔不\n起一家子喫空飯的。",
+      "prompt": "In a dimly lit traditional Chinese rural kitchen with sloped tiled roofs and wooden beams, an elderly woman in faded coarse clothing sits hesitantly at a rough-hewn table, her face etched with worry under the flickering glow of an oil lamp. Beside her, an empty rice sack spills out from a bare wooden bin, symbolizing dire poverty, while a concerned middle-aged man leans in, listening intently to her reluctant words about unpaid family burdens and absent remittances. Render in a somber realist style inspired by 19th-century Chinese ink wash paintings, with muted earth tones, soft shadows evoking quiet desperation and resilience in a humble village home.",
+      "image": "reader_images/reader_20260315_013857.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1291320347,
+      "created_at": "2026-03-15T01:38:57.207966+08:00"
     }
   ],
   "book_total_chars": 92814,
