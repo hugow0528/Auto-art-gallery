@@ -5327,6 +5327,18 @@
       "image_model": "zimage",
       "seed": 1230706584,
       "created_at": "2026-03-14T14:29:13.844249+08:00"
+    },
+    {
+      "id": "20260314_143046",
+      "offset_start": 31688,
+      "offset_end": 31751,
+      "text": "之驊折了根樹枝，不時扑打\n身上的雪，不讓它們停留。若衣服弄溼了，實在沒得換。她又脫掉鞋子，塞進書\n包，光着腳踩在冰冷的雪地上。",
+      "prompt": "A young woman, Zhi Hua, stands barefoot in thick, freshly fallen snow, occasionally brushing the snow from her clothes to prevent them from getting wet. She has removed her shoes and stuffed them into her backpack, her feet directly on the icy ground. The scene is set in a serene, wintry landscape, perhaps a forest clearing, with soft, diffused natural light creating a slightly melancholic atmosphere. The artistic style should be reminiscent of traditional Chinese ink wash painting, emphasizing subtle tones and textures.",
+      "image": "reader_images/reader_20260314_143046.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 810944129,
+      "created_at": "2026-03-14T14:30:46.873129+08:00"
     }
   ],
   "book_total_chars": 92814,
