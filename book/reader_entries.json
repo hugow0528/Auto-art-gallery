@@ -4775,6 +4775,18 @@
       "image_model": "gptimage",
       "seed": 183850469,
       "created_at": "2026-03-14T11:59:02.656086+08:00"
+    },
+    {
+      "id": "20260314_120707",
+      "offset_start": 28897,
+      "offset_end": 29001,
+      "text": "之驊又鬥膽提出要去讀書。秋園咔嚓咔嚓剪着布，嘆了口氣，還來不及開口，仁\n受突然從竈屋裡出來了。他手上拎了把菜刀，撲通一聲跪在之驊面前，把菜刀往\n脖子上一擱，說：「明年再不送你讀書，你就用這把菜刀把爸爸殺了！",
+      "prompt": "In a dimly lit traditional Chinese rural kitchen with earthen walls, smoky hearth, and hanging herbs, a stern middle-aged father kneels dramatically on the dirt floor before his wide-eyed teenage son, pressing a gleaming cleaver against his own neck in a tense gesture of desperate resolve. Nearby, a weary mother in simple coarse clothing pauses mid-snip with scissors over faded fabric, her face etched with shock and resignation under flickering oil lamp light. Render in hyper-realistic style inspired by 19th-century Chinese ink wash paintings with dramatic chiaroscuro lighting, evoking raw familial intensity and rural poverty in earthy tones of brown, gray, and muted reds.",
+      "image": "reader_images/reader_20260314_120707.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1011906128,
+      "created_at": "2026-03-14T12:07:07.524695+08:00"
     }
   ],
   "book_total_chars": 92814,
