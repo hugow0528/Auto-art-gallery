@@ -7223,6 +7223,18 @@
       "image_model": "gptimage",
       "seed": 1339329471,
       "created_at": "2026-03-15T03:43:55.432669+08:00"
+    },
+    {
+      "id": "20260315_034454",
+      "offset_start": 41600,
+      "offset_end": 41683,
+      "text": "雞肉真好喫，比蘿蔔菜還好喫。\n喫第二碗飯時，杏梅母親舀了滿滿兩調羹雞肉倒在秋園碗裡，又替之驊舀了兩調\n羹。秋園將飯和雞肉喫完，放下筷子，說：「我們喫飽了，你們慢慢喫。",
+      "prompt": "A warmly lit traditional Chinese dining room with a round wooden table at the center, laden with steaming bowls of white rice, chunks of tender golden-brown chicken, sliced radishes, and vegetables on a lazy Susan. In the foreground, a middle-aged woman with kind features and simple attire spoons heaping ladles of chicken into two rice bowls held by a young man named Qiuyuan and another figure named Zhihua, capturing a moment of familial generosity during the second bowl of the meal; Qiuyuan, looking content and full, sets down his chopsticks amid scattered utensils, bowls, and faint wisps of steam rising in soft, intimate lighting. Render in a realistic style with rich earthy tones, subtle chiaroscuro for depth, and a cozy, harmonious atmosphere evoking Confucian warmth and communal abundance.",
+      "image": "reader_images/reader_20260315_034454.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 310543432,
+      "created_at": "2026-03-15T03:44:54.680067+08:00"
     }
   ],
   "book_total_chars": 92814,
