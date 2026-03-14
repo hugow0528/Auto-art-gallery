@@ -7007,6 +7007,18 @@
       "image_model": "zimage",
       "seed": 357463218,
       "created_at": "2026-03-15T02:01:34.822380+08:00"
+    },
+    {
+      "id": "20260315_020230",
+      "offset_start": 40543,
+      "offset_end": 40634,
+      "text": "快撿瓦片打她們！」\n走了大概三四裏路，秋園帶着之驊拐上一條山路。有個叫朱杏梅的女學生住在那\n裏，先去她家探一探。遠遠就看到朱杏梅家屋頂上炊煙嫋嫋，之驊想杏梅母親大\n概正在竈屋裡做飯。",
+      "prompt": "A young woman in a simple blue jacket leading a girl along a winding mountain path in rural 1940s China, with distant mountains shrouded in soft mist. In the valley below, a modest farmhouse with a stone roof emits thin wisps of炊煙 from its chimney, suggesting a mother preparing lunch inside. Warm golden hour lighting, cinematic realism, soft focus on the figures, earthy and nostalgic atmosphere.",
+      "image": "reader_images/reader_20260315_020230.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1535026271,
+      "created_at": "2026-03-15T02:02:30.348326+08:00"
     }
   ],
   "book_total_chars": 92814,
