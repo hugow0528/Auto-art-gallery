@@ -6731,6 +6731,18 @@
       "image_model": "grok-imagine",
       "seed": 1665310995,
       "created_at": "2026-03-15T00:03:21.420645+08:00"
+    },
+    {
+      "id": "20260315_002252",
+      "offset_start": 39257,
+      "offset_end": 39353,
+      "text": "千真萬確，鹽挖走了。他決心要把這事瞞到底，不讓爹爹再傷心，順手撿起一些\n爛柴雜草，將薯窖邊的新泥蓋住，再去鎮上買肉。走到山上，看見倒在山邊的爛\n瓦片，他又拖了幾捆雜柴，把瓦片蓋了個嚴嚴實實。",
+      "prompt": "A determined young man in a rustic, ancient Chinese village setting, hastily covering a freshly dug hole with loose dirt, withered branches, and straw. The atmosphere is one of quiet desperation and concealment, with soft, diffused daylight filtering through a dusty, overcast sky. The scene should evoke a traditional Chinese ink wash painting style, emphasizing muted earthy tones and a somber mood.",
+      "image": "reader_images/reader_20260315_002252.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1200838923,
+      "created_at": "2026-03-15T00:22:52.810483+08:00"
     }
   ],
   "book_total_chars": 92814,
