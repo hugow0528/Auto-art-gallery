@@ -5831,6 +5831,18 @@
       "image_model": "flux",
       "seed": 1809017185,
       "created_at": "2026-03-14T17:49:49.586875+08:00"
+    },
+    {
+      "id": "20260314_175101",
+      "offset_start": 34407,
+      "offset_end": 34495,
+      "text": "這些人個個橫眉怒目，鐵青着臉進門，看也不看秋園一眼，只顧\n着把屋裡東西往外搬。一會兒工夫，就把家給搬空了。這種場面，土改時仁受和\n秋園見過好多次，心裡早就有了底，這叫掃地出門。",
+      "prompt": "A stark, interior scene in traditional Chinese ink wash painting style, depicting individuals with grim, angry expressions and darkened faces forcefully removing all belongings from a sparsely furnished room. The atmosphere is heavy with despair and finality, illuminated by the harsh, directional light of a single source, casting long shadows as the room is left completely bare, embodying the concept of \"sweeping the floor out the door.",
+      "image": "reader_images/reader_20260314_175101.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1110694278,
+      "created_at": "2026-03-14T17:51:01.182159+08:00"
     }
   ],
   "book_total_chars": 92814,
