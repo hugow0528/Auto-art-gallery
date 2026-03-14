@@ -4823,6 +4823,18 @@
       "image_model": "flux",
       "seed": 1957363162,
       "created_at": "2026-03-14T12:19:09.760450+08:00"
+    },
+    {
+      "id": "20260314_121940",
+      "offset_start": 29131,
+      "offset_end": 29263,
+      "text": "秋園收好東西，一家人進屋喫飯。仁受煮了一鍋莧菜粥，鮮紅鮮紅\n的，偶爾能看到白花花的飯粒在紅湯中閃着光澤。\n白天的燥熱慢慢散去，屋子側邊墈上的樹枝在微風中搖擺着，螢火蟲一閃一閃地\n在頭頂上來回飛舞，蟋蟀開始吟唱……但在之驊的記憶中，那個傍晚只有寂靜，\n死一般的寂靜。",
+      "prompt": "A dimly lit, traditional Chinese courtyard in late autumn, with a family gathered for a simple meal of vibrant red amaranth porridge. Gentle evening light filters through the open doorway, casting soft shadows as tree branches sway outside. Fireflies flicker in the gathering dusk, and the faint sound of crickets suggests a peaceful, yet melancholic, atmosphere. The artistic style should be reminiscent of traditional Chinese ink wash paintings, emphasizing atmosphere and subtle detail.",
+      "image": "reader_images/reader_20260314_121940.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1028690846,
+      "created_at": "2026-03-14T12:19:40.351831+08:00"
     }
   ],
   "book_total_chars": 92814,
