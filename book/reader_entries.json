@@ -5195,6 +5195,18 @@
       "image_model": "imagen-4",
       "seed": 1558435333,
       "created_at": "2026-03-14T13:38:44.230228+08:00"
+    },
+    {
+      "id": "20260314_134935",
+      "offset_start": 31011,
+      "offset_end": 31094,
+      "text": "又這樣喫了兩次，肥肉明顯變小了。一天，之驊正在炒菜，秋園進來看到放在竈\n上的肥肉，說：「這肥肉真不經擦，細了好多。」\n之驊不敢作聲，背對着秋園，裝作專心專意地炒菜。",
+      "prompt": "A rustic, dimly lit kitchen with a steaming stove. A young woman, Zhihua, with her back turned, intently stir-fries vegetables, her expression hidden. Another woman, Qiuyuan, enters, her gaze falling on a visibly diminished piece of fatty meat on the counter, her expression one of mild surprise. The scene should evoke a sense of quiet domesticity and unspoken tension, rendered in the style of traditional Chinese ink wash painting with soft, natural lighting.",
+      "image": "reader_images/reader_20260314_134935.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 897160080,
+      "created_at": "2026-03-14T13:49:35.956299+08:00"
     }
   ],
   "book_total_chars": 92814,
