@@ -5711,6 +5711,18 @@
       "image_model": "flux-2-dev",
       "seed": 1812164921,
       "created_at": "2026-03-14T16:59:18.708386+08:00"
+    },
+    {
+      "id": "20260314_170026",
+      "offset_start": 33783,
+      "offset_end": 33845,
+      "text": "叫麼裏？誰冇生過崽，就你生崽痛，別人都不痛，怕別人不曉得\n你在生崽是不是？想把那些男人都叫來看你分開個胯生崽，蠻好看是不是？",
+      "prompt": "First, the user has provided a Chinese literary passage. I need to create an image-generation prompt based on it in English. The passage is about childbirth, with a tone that seems accusatory or sarcastic, possibly from someone scolding a woman for making a fuss about pain during childbirth.\n\nThe key elements from the passage: it mentions childbirth pain, the idea that others have also experienced it, and a harsh remark about wanting men to watch. The visual scene should capture this atmosphere.\n\nI need to describe a specific visual scene in English for AI image generation. Include setting, atmosphere, characters, and artistic style. Keep it to 2-4 sentences, and English only.\n\nBreaking down the passage:\n\n- The scene likely involves a woman in childbirth or related to childbirth.\n\n- The atmosphere is tense, critical, and perhaps intimate or raw.\n\n- Characters: a woman (possibly in pain), and perhaps another person speaking harshly.\n\n- Setting: could be a domestic or private space where childbirth is happening.\n\nArtistic style: I should choose a style that fits the mood. Since it's literary and emotional, perhaps a realistic or dramatic style.\n\nCrafting the prompt:\n\n- Start with the setting: a dimly lit room, suggesting privacy or hardship.\n\n- Atmosphere: tense, emotional, with a sense of pain and criticism.\n\n- Characters: a woman in labor, and another figure (perhaps a midwife or relative) with a harsh expression.\n\n- Artistic style: photorealistic or",
+      "image": "reader_images/reader_20260314_170026.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 236980574,
+      "created_at": "2026-03-14T17:00:26.829035+08:00"
     }
   ],
   "book_total_chars": 92814,
