@@ -7211,6 +7211,18 @@
       "image_model": "imagen-4",
       "seed": 2071491662,
       "created_at": "2026-03-15T03:43:14.131889+08:00"
+    },
+    {
+      "id": "20260315_034355",
+      "offset_start": 41533,
+      "offset_end": 41600,
+      "text": "當第一碗飯剩下最後一口時，秋園用調羹舀了一塊\n雞肉，連湯一起倒在之驊的飯碗裡，也替自己舀了一調羹。之驊咬了一口雞肉慢\n慢嚼着、品嘗着。",
+      "prompt": "A warm, intimate scene at a simple wooden table, where an older woman gently spoons a piece of simmered chicken with broth from a shared clay pot into a younger woman's rice bowl. The mood is tender and quietly grateful, rendered in a photorealistic style with soft, natural lighting highlighting the steam rising from the food and the focused, appreciative expression on the younger woman's face.",
+      "image": "reader_images/reader_20260315_034355.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1339329471,
+      "created_at": "2026-03-15T03:43:55.432669+08:00"
     }
   ],
   "book_total_chars": 92814,
