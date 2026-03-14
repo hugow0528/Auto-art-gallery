@@ -4535,6 +4535,18 @@
       "image_model": "zimage",
       "seed": 1974912287,
       "created_at": "2026-03-14T10:26:08.954687+08:00"
+    },
+    {
+      "id": "20260314_104904",
+      "offset_start": 27687,
+      "offset_end": 27764,
+      "text": "論力氣，秋園當然拖扯不過子恆，但子恆不敢太違拗。\n一路上，秋園哭着對子恆說：「你當兵去了，一時半會兒回不來。你爸爸身體不\n好，幫不上什麼忙，弟弟妹妹都小。",
+      "prompt": "A young woman, Qiuyuan, with tear-streaked cheeks, pleads with a young man, Ziheng, who is dressed in a simple soldier's uniform. They stand on a dusty, sun-drenched village path, with humble, weathered houses in the background. The atmosphere is one of poignant farewell and unspoken anxiety, rendered in the style of traditional Chinese ink wash painting with a touch of muted watercolor.",
+      "image": "reader_images/reader_20260314_104904.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 2065792593,
+      "created_at": "2026-03-14T10:49:04.841030+08:00"
     }
   ],
   "book_total_chars": 92814,
