@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_094404",
+      "filename": "images/artwork_20260314_094404.jpg",
+      "topic": "ocean conservation and marine life",
+      "prompt": "A majestic, bioluminescent whale, its form rendered in concept art style with ethereal, flowing lines, glides through a surreal underwater forest of glowing kelp and crystalline coral formations. Dappled light, reminiscent of a sun-drenched forest canopy filtering through deep ocean currents, casts an otherworldly glow on the scene, highlighting schools of tiny, iridescent fish that shimmer with impossible colors. The mood is profoundly mysterious and serene, dominated by a cool palette of deep violets, sapphire blues, and shimmering aquamarines, evoking a sense of undiscovered wonder and the fragile beauty of marine conservation.",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1189258058,
+      "created_at": "2026-03-14T09:44:04.146463+08:00"
+    },
+    {
       "id": "20260314_075330",
       "filename": "images/artwork_20260314_075330.jpg",
       "topic": "cybersecurity and privacy in the digital world",
