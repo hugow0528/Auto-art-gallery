@@ -5375,6 +5375,18 @@
       "image_model": "flux-2-dev",
       "seed": 757539920,
       "created_at": "2026-03-14T15:05:15.542214+08:00"
+    },
+    {
+      "id": "20260314_150550",
+      "offset_start": 31950,
+      "offset_end": 32046,
+      "text": "放學回家時，之驊仍打着赤腳，可不能讓唯一一雙好鞋打溼。回到家，她燒了一\n盆好熱的水，滿以爲用滾熱的水泡泡，腳就不會那麼痛了；誰知冰冷的腳突然遇\n到熱水，真好比萬箭穿心，之驊立馬痛得大哭起來。",
+      "prompt": "The passage describes a young girl named Zhihua returning home barefoot after school, trying to protect her only good pair of shoes from getting wet. Upon arriving home, she prepares a basin of very hot water, hoping to soothe her aching feet. However, the sudden intense heat causes her already cold feet to feel as if they are being pierced by a thousand arrows, leading her to cry out in pain. The scene should evoke a sense of hardship and vulnerability, with a slightly melancholic yet intimate atmosphere. The artistic style could be reminiscent of traditional Chinese ink wash painting, emphasizing the textures of rough wooden floors and the stark contrast between the cold, bare feet and the steaming water. Lighting should be dim and natural, perhaps from a window or a single oil lamp, casting long shadows and highlighting the girl's tear-streaked face and her pained expression as she reacts to the scalding water.\n\n**Image Prompt:** A young girl, Zhihua, sits on a rough wooden floor in a dimly lit, humble room, her bare, cold feet tentatively reaching towards a steaming basin of hot water. Her face is contorted in a silent cry of pain as the intense heat hits her skin, tears streaming down her cheeks. The atmosphere is heavy with hardship and vulnerability, rendered in the style of traditional Chinese ink wash painting with soft, diffused lighting casting long shadows, emphasizing the textures of the worn wood and the stark contrast between the girl's pale skin and the dark, churning water. Her",
+      "image": "reader_images/reader_20260314_150550.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1383911510,
+      "created_at": "2026-03-14T15:05:50.981163+08:00"
     }
   ],
   "book_total_chars": 92814,
