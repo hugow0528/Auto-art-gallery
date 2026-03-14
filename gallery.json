@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_125822",
+      "filename": "images/artwork_20260314_125822.jpg",
+      "topic": "space exploration and the cosmos",
+      "prompt": "A lone astronaut, bathed in the ethereal glow of distant moonlight, gazes out from a transparent viewport of a small, intimate spacecraft at a nebula painted in soft pastel hues. The scene is rendered in a highly detailed concept art style, emphasizing the vast, silent beauty of the cosmos with dramatic shadows playing across the astronaut's contemplative face, evoking a profound sense of human connection to the infinite. This award-winning composition should capture the quiet wonder of exploration, with intricate details of the spacecraft's interior contrasting against the breathtaking, painterly expanse of space.",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1649259698,
+      "created_at": "2026-03-14T12:58:22.074894+08:00"
+    },
+    {
       "id": "20260314_122903",
       "filename": "images/artwork_20260314_122903.jpg",
       "topic": "economic inequality and social justice",
