@@ -1,6 +1,16 @@
 {
   "artworks": [
     {
+      "id": "20260314_214915",
+      "filename": "images/artwork_20260314_214915.jpg",
+      "topic": "sports and human physical achievement",
+      "prompt": "An Olympic sprinter bursts through the finish line in a dynamic anime-inspired pose, her muscular form frozen mid-flight as iridescent holographic trails stream behind her, the entire scene illuminated by an ethereal bioluminescent glow that pulses from her accelerated body, casting shimmering aquamarine, rose-gold, and electric violet reflections across the stadium while luminous particles dance in the air around her, creating a vibrant and energetic atmosphere where the boundary between human capability and supernatural radiance blurs into pure athletic transcendence.",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2112325560,
+      "created_at": "2026-03-14T21:49:15.589506+08:00"
+    },
+    {
       "id": "20260314_212738",
       "filename": "images/artwork_20260314_212738.jpg",
       "topic": "health and medicine breakthroughs",
