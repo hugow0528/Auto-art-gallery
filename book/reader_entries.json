@@ -4547,6 +4547,18 @@
       "image_model": "zimage",
       "seed": 2065792593,
       "created_at": "2026-03-14T10:49:04.841030+08:00"
+    },
+    {
+      "id": "20260314_110652",
+      "offset_start": 27764,
+      "offset_end": 27835,
+      "text": "你一走，這個家丟下我一個人怎麼得了。」\n因爲是志願軍，政府並不勉強。子恆的參軍夢就此破滅。\n下半年，東北重工業部來鄉裏招工，子恆考取了統計班。",
+      "prompt": "A young Chinese man named Ziheng stands triumphantly in a bustling rural recruitment office in 1950s Northeast China, holding an acceptance letter for the statistics class from the heavy industry department, his face beaming with renewed hope after his military dreams shattered. His worried mother clutches his arm pleadingly in the dim, crowded room filled with wooden benches, propaganda posters of industrial workers and blast furnaces on the walls, evoking a somber yet determined atmosphere of post-war transition. Rendered in realistic socialist realism style with warm golden lighting filtering through small windows, dramatic shadows, and intricate details of faded Mao-era attire and rural simplicity.",
+      "image": "reader_images/reader_20260314_110652.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1005281072,
+      "created_at": "2026-03-14T11:06:52.122137+08:00"
     }
   ],
   "book_total_chars": 92814,
