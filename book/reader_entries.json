@@ -4559,6 +4559,18 @@
       "image_model": "flux",
       "seed": 1005281072,
       "created_at": "2026-03-14T11:06:52.122137+08:00"
+    },
+    {
+      "id": "20260314_110728",
+      "offset_start": 27764,
+      "offset_end": 27835,
+      "text": "你一走，這個家丟下我一個人怎麼得了。」\n因爲是志願軍，政府並不勉強。子恆的參軍夢就此破滅。\n下半年，東北重工業部來鄉裏招工，子恆考取了統計班。",
+      "prompt": "A solemn, cinematic scene in a dimly lit rural Chinese home at dusk, warm lamplight casting long shadows. A young man in simple clothing stands with a suitcase, facing away from an elderly woman whose face is etched with worry and resignation, her hand resting on a worn wooden table. Moody, realistic style with a focus on emotional atmosphere and dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260314_110728.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 848898777,
+      "created_at": "2026-03-14T11:07:28.432298+08:00"
     }
   ],
   "book_total_chars": 92814,
