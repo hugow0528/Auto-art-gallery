@@ -5783,6 +5783,18 @@
       "image_model": "imagen-4",
       "seed": 1094854382,
       "created_at": "2026-03-14T17:34:59.277955+08:00"
+    },
+    {
+      "id": "20260314_173541",
+      "offset_start": 34087,
+      "offset_end": 34167,
+      "text": "幾把勁一使，毛毛就順利地生了下來。秋園\n用舊布縫了個布袋，裡面裝滿草木灰，墊在春桃身下，生產後的血污就流在這個\n灰袋上。\n春桃還冇滿月就下了牀，屋裡屋外地做事。",
+      "prompt": "In a dimly lit traditional Chinese rural cottage with earthen walls and a low thatched roof, a resilient young woman named Chun Tao, pale and weary yet determined just weeks after childbirth, sweeps the dirt floor with a bamboo broom while her newborn baby sleeps in a simple wooden cradle nearby. Qiuyuan, an elderly midwife in faded coarse cloth garb, kneels beside a blood-stained cloth bag filled with wood ash placed under a low kang bed, the air thick with the scent of herbs and faint smoke from an open hearth. Rendered in a realistic style inspired by 19th-century Chinese ink wash paintings with earthy tones of browns, grays, and muted reds, the scene evokes a mood of quiet endurance and postpartum recovery under soft morning light filtering through paper windows.",
+      "image": "reader_images/reader_20260314_173541.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1951667688,
+      "created_at": "2026-03-14T17:35:41.616905+08:00"
     }
   ],
   "book_total_chars": 92814,
