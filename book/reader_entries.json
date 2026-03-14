@@ -7835,6 +7835,18 @@
       "image_model": "flux",
       "seed": 339673480,
       "created_at": "2026-03-15T07:54:20.626680+08:00"
+    },
+    {
+      "id": "20260315_075559",
+      "offset_start": 45037,
+      "offset_end": 45118,
+      "text": "離過年還有七八天，子恆從學校裏放假回來了。他帶回兩隻鴨子，用報紙包着，\n還有一些糖粒子和糕點，準備過年喫。\n哪知他剛進屋，門吱呀一聲，滿娭毑就進來了，虎視眈眈。",
+      "prompt": "First, the task is to create an image-generation prompt based on a Chinese literary passage. The passage is about Zihang coming home from school before the New Year, bringing ducks and sweets, and as soon as he enters the room, his grandmother comes in, looking fierce.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. The prompt should include setting, atmosphere, characters, and artistic style. Keep it to 2–4 sentences only, and in English only.\n\nKey elements from the passage:\n\n- Time: Close to the New Year, so there might be a festive or preparatory atmosphere.\n\n- Characters: Zihang (a student coming home) and his grandmother (满娭毑, which means grandmother in some dialects, and she's described as \"虎视眈眈,\" meaning glaring or watching fiercely).\n\n- Actions: Zihang enters the room with packages (ducks wrapped in newspaper, sweets), and the grandmother enters immediately after.\n\n- Setting: Indoors, likely a home, with a door that creaks (\"门吱呀一声\").\n\n- Atmosphere: The grandmother's fierce gaze adds tension, so it might be a mix of homecoming warmth and sudden tension.\n\nNow, craft the prompt in English:\n\n- Setting: A rustic home interior, perhaps with traditional Chinese elements, since it's around the New Year.\n\n- Atmosphere: Cozy but tense, with the contrast between the festive preparations and the grandmother's stern arrival.\n\n-",
+      "image": "reader_images/reader_20260315_075559.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1800791931,
+      "created_at": "2026-03-15T07:55:59.179121+08:00"
     }
   ],
   "book_total_chars": 92814,
