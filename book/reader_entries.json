@@ -5231,6 +5231,18 @@
       "image_model": "imagen-4",
       "seed": 1850518190,
       "created_at": "2026-03-14T13:55:59.667667+08:00"
+    },
+    {
+      "id": "20260314_140103",
+      "offset_start": 31190,
+      "offset_end": 31253,
+      "text": "喫不飽加上缺覺，之驊經常頭暈眼花、手足疲軟、渾身無力，常常一坐下就睡着\n了。爲了不讓自己睡着，她自動到教室後面靠牆站着上課。",
+      "prompt": "A exhausted young female student stands weakly against the back wall of a dim, worn classroom, her body slumped and eyes half-closed with deep dark circles, barely holding herself upright from sheer willpower. The overhead fluorescent light casts harsh shadows on her gaunt face and trembling hands, while empty desks and quiet classmates fill the background, conveying profound exhaustion and hunger. Artistic style: realistic digital painting with muted, desaturated tones, soft cinematic lighting, capturing the quiet desperation of a student fighting to stay awake against her depleted body.",
+      "image": "reader_images/reader_20260314_140103.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1132843988,
+      "created_at": "2026-03-14T14:01:03.116444+08:00"
     }
   ],
   "book_total_chars": 92814,
