@@ -4595,6 +4595,18 @@
       "image_model": "zimage",
       "seed": 606183534,
       "created_at": "2026-03-14T11:11:56.371965+08:00"
+    },
+    {
+      "id": "20260314_111409",
+      "offset_start": 28017,
+      "offset_end": 28089,
+      "text": "黃泥衝離縣城有八十裏，沒有車子，得靠\n走路。秋園是包過的小腳，腳板心很空，腳背很高，除大拇指外，四個腳趾都擠\n在一起，走路時大拇指一個勁往前衝。",
+      "prompt": "A weary elderly woman walks slowly along a dusty yellow dirt road under a vast autumn sky, her posture strained as she navigates with bound feet. Close-up on her worn cloth shoes, emphasizing the distorted shape where only the big toe points forward. The atmosphere is one of fatigue and quiet endurance, rendered in a realistic, photographic style with soft, late afternoon light.",
+      "image": "reader_images/reader_20260314_111409.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1460917029,
+      "created_at": "2026-03-14T11:14:09.364453+08:00"
     }
   ],
   "book_total_chars": 92814,
