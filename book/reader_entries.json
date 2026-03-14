@@ -5843,6 +5843,18 @@
       "image_model": "flux-2-dev",
       "seed": 1110694278,
       "created_at": "2026-03-14T17:51:01.182159+08:00"
+    },
+    {
+      "id": "20260314_175456",
+      "offset_start": 34495,
+      "offset_end": 34557,
+      "text": "幸運的是，他們只被「掃\n地」，還沒被趕「出門」。\n滿娭毑手裡拿着秋園那個舊錢夾子，翻來覆去地摸着裡面的夾層，看得出很失\n望。",
+      "prompt": "An elderly Chinese woman in worn traditional clothing sits in a dim, sparsely furnished room, holding an old leather wallet with worn edges, carefully examining its inner compartments with disappointed, hollow eyes. Soft, muted daylight streams through a small window onto the humble wooden table beside her, casting long shadows that emphasize the poverty and quiet desperation of the scene. The composition should evoke a realist oil painting style, with muted earth tones and a somber, intimate mood capturing post-revolutionary rural Chinese domestic life.",
+      "image": "reader_images/reader_20260314_175456.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 78181254,
+      "created_at": "2026-03-14T17:54:56.085762+08:00"
     }
   ],
   "book_total_chars": 92814,
