@@ -9275,6 +9275,18 @@
       "image_model": "imagen-4",
       "seed": 1738916343,
       "created_at": "2026-03-15T18:00:35.254026+08:00"
+    },
+    {
+      "id": "20260315_180135",
+      "offset_start": 52435,
+      "offset_end": 52510,
+      "text": "如今你們就帶\n走，怕他哭，一哭我又心軟，捨不得了。」\n87\n\n\f幾天後，秋園用一塊舊布包了田四僅有的幾件換洗衣物，要之驊馱着田四，說是\n去楊桂生家裡。",
+      "prompt": "A young woman, Qiu Yuan, with a worn cloth bundle in her arms, prepares to depart. She is accompanied by a young boy, Zhi Hua, who is carrying a man named Tian Si. They are on their way to Yang Gui Sheng's home. The scene is set in a rural Chinese village during a slightly overcast day, conveying a sense of gentle melancholy and familial duty. The artistic style should be reminiscent of traditional Chinese ink wash paintings, with soft, muted colors and a focus on atmosphere over sharp detail.",
+      "image": "reader_images/reader_20260315_180135.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 557925651,
+      "created_at": "2026-03-15T18:01:35.240574+08:00"
     }
   ],
   "book_total_chars": 92814,
