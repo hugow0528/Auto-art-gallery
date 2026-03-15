@@ -8855,6 +8855,18 @@
       "image_model": "imagen-4",
       "seed": 1648340805,
       "created_at": "2026-03-15T15:35:35.606101+08:00"
+    },
+    {
+      "id": "20260315_153622",
+      "offset_start": 50072,
+      "offset_end": 50164,
+      "text": "只要有討就\n好，或許能討蠻多東西回來，能喫餐把子飽飯。」\n一路上，之驊和兵桃沒有目的，哪裡有屋就往哪裡走。可往往還沒走到坪裏，就\n有三四條兇猛的狗跑出來吠個不停，手裡的打狗棍根本沒用。",
+      "prompt": "Two weary travelers in tattered clothes walk through a desolate rural Chinese village, approaching weathered stone houses as three aggressive dogs lunge toward them with bared teeth, one man holds a wooden stick raised defensively while the other crouches protectively, misty morning light casting long shadows across muddy ground, harsh realistic style with muted earth tones capturing poverty and desperation.",
+      "image": "reader_images/reader_20260315_153622.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1595794084,
+      "created_at": "2026-03-15T15:36:22.491496+08:00"
     }
   ],
   "book_total_chars": 92814,
