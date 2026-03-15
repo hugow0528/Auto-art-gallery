@@ -11027,6 +11027,18 @@
       "image_model": "grok-imagine",
       "seed": 1448397846,
       "created_at": "2026-03-16T06:00:38.947933+08:00"
+    },
+    {
+      "id": "20260316_060328",
+      "offset_start": 61726,
+      "offset_end": 61789,
+      "text": "走到門口，\n看到滿家的狗正在門口喫白米飯，好大一鉢飯，比一個正勞力喫得還多。這鉢狗\n飯吊起了範麻子的食慾，他恨不得上去跟狗搶。",
+      "prompt": "A starving man in ragged clothes stands at a crumbling adobe doorway, gazing at five or six mangy dogs gathered around a massive clay bowl overflowing with pristine white rice, the grains glistening in harsh midday light; dusty rural courtyard with broken wooden fences and thatched roof, warm golden sunlight casting long shadows, cinematic realism with muted earth tones, capturing the stark desperation and humiliating contrast between the dogs' abundant meal and a human's hollow hunger.",
+      "image": "reader_images/reader_20260316_060328.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 152463406,
+      "created_at": "2026-03-16T06:03:28.790111+08:00"
     }
   ],
   "book_total_chars": 92814,
