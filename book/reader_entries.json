@@ -8819,6 +8819,18 @@
       "image_model": "flux",
       "seed": 1616930932,
       "created_at": "2026-03-15T15:26:52.264861+08:00"
+    },
+    {
+      "id": "20260315_152838",
+      "offset_start": 49928,
+      "offset_end": 49994,
+      "text": "他操起刷子，把之\n驊從上到下刷了一遍。\n「爸爸，今天不是出去玩，也不是出門做客，是去討飯，要那麼乾淨做什麼？」\n「叫花子也要乾淨點。",
+      "prompt": "A weathered father in threadbare clothing gently brushes dust from his young son's shirt in a sparse, modest courtyard with washed laundry hanging nearby; warm morning light illuminates their worn but clean clothes, capturing the tender moment of dignity amid poverty -- a Chinese realist oil painting style with soft natural lighting, emotional depth, muted earth tones.",
+      "image": "reader_images/reader_20260315_152838.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1469057288,
+      "created_at": "2026-03-15T15:28:38.518541+08:00"
     }
   ],
   "book_total_chars": 92814,
