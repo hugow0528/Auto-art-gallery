@@ -9575,6 +9575,18 @@
       "image_model": "klein",
       "seed": 838750958,
       "created_at": "2026-03-15T19:54:58.941590+08:00"
+    },
+    {
+      "id": "20260315_200141",
+      "offset_start": 53820,
+      "offset_end": 53907,
+      "text": "」\n尿火蟲，方言，蚯蚓。\n\n89\n\n\f秋園怕楊桂生夫婦尋人，就去跟附近的鄰居打個招呼。一個老娭毑蹣跚地趕過\n來，憤憤地對秋園說：「你們這家人也是，崽送給誰也不能送給這種人家。",
+      "prompt": "First, the user provides a Chinese literary passage. I need to create an image-generation prompt based on it. The key elements from the passage are:\n\n- The passage mentions \"尿火蟲\" which is a dialect term for earthworm, but that might not be directly relevant for the visual scene.\n\n- The main scene is about Qiuyuan (秋園) going to greet neighbors because she's afraid that Yang Guisheng and his wife might come looking for someone.\n\n- An old woman (老娭毑) hobbles over and says angrily to Qiuyuan: \"You people, you shouldn't give your son to such a family.\"\n\nFrom this, I need to extract the visual elements:\n\n- Setting: Probably a rural or village neighborhood, based on the context.\n\n- Characters: Qiuyuan and an old woman.\n\n- Atmosphere: Tense, anxious, or concerned, as Qiuyuan is worried and the old woman is angry.\n\n- Action: Qiuyuan is greeting neighbors, and an old woman is approaching her.\n\nThe passage is from a Chinese literary work, so the style might be realistic or somewhat dramatic.\n\nNow, the instruction says: \"Describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, any characters present, and artistic style. 2–4 sentences only. English only.\"\n\nSo, my response should be a concise English prompt with 2-4 sentences.\n\nStructure the prompt:\n\n- Start with the setting:",
+      "image": "reader_images/reader_20260315_200141.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 732273842,
+      "created_at": "2026-03-15T20:01:41.519795+08:00"
     }
   ],
   "book_total_chars": 92814,
