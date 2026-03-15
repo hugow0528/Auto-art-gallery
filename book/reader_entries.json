@@ -10967,6 +10967,18 @@
       "image_model": "gptimage",
       "seed": 1890455821,
       "created_at": "2026-03-16T05:47:08.517861+08:00"
+    },
+    {
+      "id": "20260316_055253",
+      "offset_start": 61413,
+      "offset_end": 61480,
+      "text": "101\n\n\f十四\n食堂裏專門安排了一個人砍柴、供竈。冇得柴燒，唯他是問。\n砍柴的人姓範，小時候出天花落下一臉麻子，外號就叫範麻子。",
+      "prompt": "In a rustic Chinese communal cafeteria kitchen during early 20th-century rural China, depict Fan Mazi, a weathered middle-aged man with a pockmarked face from childhood smallpox, intensely chopping firewood with a heavy axe beside a massive stone stove filled with glowing embers and simmering pots. Smoke curls lazily in the dim, warm light filtering through wooden beams and small windows, casting dramatic shadows on stacks of split logs and scattered wood chips, evoking a mood of solitary diligence and humble labor. Render in a realistic ink-wash style inspired by Chinese literary realism, with earthy tones, subtle chiaroscuro lighting, and intricate textures on the man's calloused hands and scarred skin for vivid emotional depth.",
+      "image": "reader_images/reader_20260316_055253.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 717357962,
+      "created_at": "2026-03-16T05:52:53.897816+08:00"
     }
   ],
   "book_total_chars": 92814,
