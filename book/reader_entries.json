@@ -9515,6 +9515,18 @@
       "image_model": "imagen-4",
       "seed": 440967166,
       "created_at": "2026-03-15T19:45:13.004586+08:00"
+    },
+    {
+      "id": "20260315_194711",
+      "offset_start": 53517,
+      "offset_end": 53592,
+      "text": "一雙白白的小手變得黑乎乎的，指甲裏也嵌滿了黑東西。小雞雞露在\n褲子外面，紫紅腫脹。蒼蠅圍着他，飛的飛，爬的爬。\n不過一個月，田四就面目全非，變了個樣。",
+      "prompt": "A desperately impoverished young child with soot-blackened skin and dirt-caked fingernails, standing in squalid conditions with flies swarming around his malnourished, diseased body—a haunting portrait of extreme poverty and neglect. The scene captures the visible deterioration of a child's health over mere weeks, with raw, inflamed skin and pervasive filth. Set in a bleak, desolate environment with harsh, unflinching natural lighting that emphasizes the harsh reality of deprivation. Rendered in a gritty, naturalistic style reminiscent of early 20th-century social realist painting or documentary photography, conveying profound human suffering and social injustice.",
+      "image": "reader_images/reader_20260315_194711.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1574511779,
+      "created_at": "2026-03-15T19:47:11.295376+08:00"
     }
   ],
   "book_total_chars": 92814,
