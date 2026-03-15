@@ -11039,6 +11039,18 @@
       "image_model": "gptimage",
       "seed": 152463406,
       "created_at": "2026-03-16T06:03:28.790111+08:00"
+    },
+    {
+      "id": "20260316_063012",
+      "offset_start": 61789,
+      "offset_end": 61854,
+      "text": "想想也只能裝作沒看見，免得惹\n火燒身，就輕手輕腳地溜走了。\n雞婆樹，方言，矮矮的松樹。\n範麻子一天到晚守在山上砍柴，也難保證供竈。",
+      "prompt": "A solitary figure, a man with a pockmarked face (范麻子), cautiously retreats from view, his movements furtive and light-footed. He is surrounded by low-lying, gnarled pine trees (雞婆樹) on a rugged mountainside. The atmosphere is tense and shadowed, suggesting unspoken danger, with a hint of poverty and struggle in the scene's starkness. The artistic style should be reminiscent of traditional Chinese ink wash painting, emphasizing brushstrokes and atmospheric perspective.",
+      "image": "reader_images/reader_20260316_063012.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 114534649,
+      "created_at": "2026-03-16T06:30:12.352693+08:00"
     }
   ],
   "book_total_chars": 92814,
