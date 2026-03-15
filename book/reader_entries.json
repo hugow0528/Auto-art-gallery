@@ -9155,6 +9155,18 @@
       "image_model": "flux-2-dev",
       "seed": 67494033,
       "created_at": "2026-03-15T17:19:39.291008+08:00"
+    },
+    {
+      "id": "20260315_172040",
+      "offset_start": 51742,
+      "offset_end": 51811,
+      "text": "他住在平江，離賜福山二十多裏路。楊桂生\n四十出頭，長得高高大大，五官也端正。他是個木匠，在武漢一家木器廠做過幾\n年木工，是見過世的精明人。",
+      "prompt": "A weathered Chinese man in his early forties, Yang Guisheng, stands tall and broad-shouldered, his features regular and intelligent. He is dressed in simple working-class attire, perhaps a faded cotton shirt and trousers, carrying the subtle air of a skilled carpenter with years of experience. The scene is set in a rural area near Pingjiang, with the distant, misty outline of Cifu Mountain visible on the horizon, evoking a sense of quiet resilience and worldly wisdom. The lighting is soft, late afternoon sun casting long shadows, rendered in the style of a classic Chinese ink wash painting with a touch of photorealism.",
+      "image": "reader_images/reader_20260315_172040.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 531694606,
+      "created_at": "2026-03-15T17:20:40.873033+08:00"
     }
   ],
   "book_total_chars": 92814,
