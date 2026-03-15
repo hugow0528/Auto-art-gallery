@@ -8495,6 +8495,18 @@
       "image_model": "zimage",
       "seed": 2088021997,
       "created_at": "2026-03-15T13:43:30.614619+08:00"
+    },
+    {
+      "id": "20260315_134743",
+      "offset_start": 48289,
+      "offset_end": 48385,
+      "text": "又湊了些舊棉\n花，彈了一牀極薄的棉絮，捆好，用一根小扁擔穿着，撬在肩上，天不亮就出發\n了。\n\n81\n\n\f四\n秋園那天實在走得快，下午兩點左右就走完了八十裏路，到了湘陰縣城，找了個\n小飯鋪住下。",
+      "prompt": "A Chinese woman in traditional clothing walks alone along a dusty rural road toward a small county town, carrying a shoulder pole with a bundled quilt. Early afternoon light casts long shadows as she approaches weathered buildings and a modest eatery. The scene captures the weary determination of a traveler who has walked eighty li, with golden-hour lighting, dust particles in the air, and a sparse landscape of fields and distant hills. Style: realistic oil painting with muted earth tones, early 20th century Chinese",
+      "image": "reader_images/reader_20260315_134743.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 984800700,
+      "created_at": "2026-03-15T13:47:44.024184+08:00"
     }
   ],
   "book_total_chars": 92814,
