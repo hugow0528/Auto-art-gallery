@@ -8327,6 +8327,18 @@
       "image_model": "flux-2-dev",
       "seed": 2099511523,
       "created_at": "2026-03-15T13:12:06.995221+08:00"
+    },
+    {
+      "id": "20260315_131256",
+      "offset_start": 47435,
+      "offset_end": 47505,
+      "text": "正明的妻子愛梅實在過不下這個日子，回了娘家，算是逃條生路。\n這麼一來，就剩下徐娭毑和徐正明母子相依爲命。\n得虧邱子文和小泉常常接濟徐家母子。",
+      "prompt": "A dim, humble interior at dusk, where an elderly woman with worn hands gratefully receives a small bag of rice from a neighbor's hand, her son watching quietly nearby. Soft light filters through a paper window, casting long shadows and highlighting dust particles in the air, in a style of social realist oil painting with muted colors and somber emotion.",
+      "image": "reader_images/reader_20260315_131256.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1335764325,
+      "created_at": "2026-03-15T13:12:56.769820+08:00"
     }
   ],
   "book_total_chars": 92814,
