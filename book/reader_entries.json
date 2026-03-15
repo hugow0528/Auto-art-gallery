@@ -9407,6 +9407,18 @@
       "image_model": "klein",
       "seed": 1104797765,
       "created_at": "2026-03-15T18:59:27.467004+08:00"
+    },
+    {
+      "id": "20260315_190012",
+      "offset_start": 52998,
+      "offset_end": 53075,
+      "text": "五歲多的賠三坐在地上，把父母和之驊平時給他講的故事畫在一張紙上，因爲他\n不會寫字。\n喫晚飯時，一家人都不說話。平時，賠三、田四都是之驊帶，飯也是之驊喂。",
+      "prompt": "A quiet, humble domestic interior with muted afternoon light filtering through simple windows. A young boy around five years old sits on the worn wooden floor, intently drawing with crayons on a sheet of paper spread before him, his small hands marked with color. The room is sparse—a low table, simple wooden chairs, a few modest possessions. The atmosphere carries a solemn stillness, the kind of quiet that speaks of hardship and unspoken burdens. Artistic style: realistic, slightly muted palette reminiscent of Edward Hopper's domestic scenes, soft natural lighting, emotional depth through composition.",
+      "image": "reader_images/reader_20260315_190012.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 467353620,
+      "created_at": "2026-03-15T19:00:12.498171+08:00"
     }
   ],
   "book_total_chars": 92814,
