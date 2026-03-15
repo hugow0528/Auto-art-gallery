@@ -9863,6 +9863,18 @@
       "image_model": "grok-imagine",
       "seed": 1762020617,
       "created_at": "2026-03-15T22:17:47.972577+08:00"
+    },
+    {
+      "id": "20260315_221845",
+      "offset_start": 55396,
+      "offset_end": 55476,
+      "text": "」\n寶生說：「真蠢，什麼火土灰不火土灰，只要冒煙就行，煙越大越好。檢查的同\n志還真會跑到各個山裏來看嗎？」說罷，他眼珠在人羣中一掃，說：「兵桃呢，\n怎麼不見他？",
+      "prompt": "A rural mountain valley at dawn, with mist lingering between pine trees. A group of worn-looking villagers in simple clothing stands gathered, while a central man with intense eyes scans the crowd with a skeptical expression. Documentary style, muted earthy tones, mood of quiet tension and mundane deception.",
+      "image": "reader_images/reader_20260315_221845.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2139918200,
+      "created_at": "2026-03-15T22:18:45.991423+08:00"
     }
   ],
   "book_total_chars": 92814,
