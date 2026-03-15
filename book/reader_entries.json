@@ -8291,6 +8291,18 @@
       "image_model": "flux-2-dev",
       "seed": 519210144,
       "created_at": "2026-03-15T12:57:19.101218+08:00"
+    },
+    {
+      "id": "20260315_125806",
+      "offset_start": 47288,
+      "offset_end": 47363,
+      "text": "這天一大早，她就上路，去花屋找小泉借錢做衣。\n花屋裡物是人非。\n徐家因爲有田有屋，被劃成了大地主，花屋被收走了，一家人蝸居在從前邱子文\n家的茅屋裡。",
+      "prompt": "A woman in simple, worn clothing approaches a humble, dilapidated thatched hut, its structure suggesting recent hardship and displacement. The surrounding area is sparse, with a few struggling plants, hinting at the loss of a once prosperous \"flower house.\" The atmosphere is somber, with muted, earthy tones and soft, overcast lighting, evoking a sense of melancholy and quiet resilience. The style should be reminiscent of traditional Chinese ink wash painting, emphasizing atmosphere and emotion over sharp detail.",
+      "image": "reader_images/reader_20260315_125806.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1239933347,
+      "created_at": "2026-03-15T12:58:06.494911+08:00"
     }
   ],
   "book_total_chars": 92814,
