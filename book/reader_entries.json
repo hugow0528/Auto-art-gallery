@@ -9167,6 +9167,18 @@
       "image_model": "flux",
       "seed": 531694606,
       "created_at": "2026-03-15T17:20:40.873033+08:00"
+    },
+    {
+      "id": "20260315_173620",
+      "offset_start": 51811,
+      "offset_end": 51924,
+      "text": "因父母年紀大了，就回了家鄉。\n楊桂生進門後就不停地打量賠三和田四，還不停地誇兄弟倆長得好。又坐了一\n陣，他和仁受小聲地說起話來：「你們生活這麼困難，喫了上餐冇得下餐，細伢\n子們正是長身體的時候，連飯都喫不飽，我看了真覺得作孽。",
+      "prompt": "A weathered elderly man with kind eyes stands in a dim, sparsely furnished rural Chinese room, studying two thin young brothers who stand nervously before him. The walls are bare and cracked, a few simple wooden furniture pieces visible, with muted afternoon light filtering through a small window. The scene captures a moment of compassionate concern, rendered in a documentary-style realism with warm but melancholic tones, showing the humble conditions of a poor rural household.",
+      "image": "reader_images/reader_20260315_173620.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 775984077,
+      "created_at": "2026-03-15T17:36:20.275414+08:00"
     }
   ],
   "book_total_chars": 92814,
