@@ -9947,6 +9947,18 @@
       "image_model": "zimage",
       "seed": 1627181463,
       "created_at": "2026-03-15T22:50:22.631187+08:00"
+    },
+    {
+      "id": "20260315_225416",
+      "offset_start": 55819,
+      "offset_end": 55915,
+      "text": "四十多平米的隊部大屋擺滿了高\n高矮矮的凳子，男女老幼擠坐成黑乎乎一片。嘰嘰喳喳的說話聲和喀喀喀的咳嗽\n聲此起彼落。男人們用舊報紙捲成紙煙，一下一下地吸着，點點紅光在黑暗中連\n成一條曲折的光帶。",
+      "prompt": "A dimly lit, crowded village meeting hall filled with people of all ages sitting on mismatched stools, creating a dense, dark mass. The air is thick with the murmur of chatter and the occasional cough, punctuated by the faint red glow of hand-rolled cigarettes being smoked by men, forming a flickering, uneven line of light in the oppressive darkness. The style is gritty realism, with a somber, claustrophobic atmosphere and chiaroscuro lighting.",
+      "image": "reader_images/reader_20260315_225416.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 791146379,
+      "created_at": "2026-03-15T22:54:16.476907+08:00"
     }
   ],
   "book_total_chars": 92814,
