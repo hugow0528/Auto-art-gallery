@@ -8735,6 +8735,18 @@
       "image_model": "flux",
       "seed": 1405619124,
       "created_at": "2026-03-15T14:40:35.908749+08:00"
+    },
+    {
+      "id": "20260315_150258",
+      "offset_start": 49548,
+      "offset_end": 49647,
+      "text": "在此次防洪搶險中，子恆被評爲模範，光榮地加入了共青團。下半年，子恆調回\n了家鄉，在離家十幾裏路的一所山村小學任教。\n\n83\n\n\f五\n秋園走的這二十多天，家裡終於一粒米都沒了，一家人眼看就要餓肚子。",
+      "prompt": "A poignant scene inside a humble rural Chinese mountain village home at dusk, where a young teacher named Ziheng sits at a worn wooden table with his gaunt family—mother, father, and two siblings—their faces etched with hunger and despair as empty rice bowls and scattered grains litter the floor, the last kernel of rice gone after 20 days without supplies. Dim lantern light casts long shadows across cracked mud walls adorned with faded propaganda posters, evoking a somber, impoverished autumn atmosphere heavy with impending starvation and quiet resilience. Render in realistic style inspired by rural Chinese ink wash painting with muted earth tones, soft chiaroscuro lighting, and intricate details on threadbare clothing and weary expressions, cinematic composition with shallow depth of field.",
+      "image": "reader_images/reader_20260315_150258.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1175768639,
+      "created_at": "2026-03-15T15:02:58.604113+08:00"
     }
   ],
   "book_total_chars": 92814,
