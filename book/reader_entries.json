@@ -8999,6 +8999,18 @@
       "image_model": "imagen-4",
       "seed": 1454310729,
       "created_at": "2026-03-15T16:05:28.039128+08:00"
+    },
+    {
+      "id": "20260315_162132",
+      "offset_start": 50824,
+      "offset_end": 50891,
+      "text": "兩人連連說：「勞慰 ，\n勞慰。」\n討得半邊黃瓜，之驊又問大叔這是什麼地方，得知是平江慄山裏。之驊又問離湘\n陰還有多遠，聽說有二三十裏。",
+      "prompt": "A rustic, sun-drenched scene in a rural Chinese village, circa early 20th century. Two figures, one elderly and one younger, stand near a simple wooden cart laden with produce, perhaps a humble market stall. The air is warm and hazy, with dappled sunlight filtering through leafy trees onto dusty ground. The mood is one of quiet exchange and gentle inquiry, rendered in the style of traditional Chinese ink wash painting with subtle color accents.",
+      "image": "reader_images/reader_20260315_162132.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 2125085270,
+      "created_at": "2026-03-15T16:21:32.997607+08:00"
     }
   ],
   "book_total_chars": 92814,
