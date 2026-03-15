@@ -9623,6 +9623,18 @@
       "image_model": "klein",
       "seed": 1192662822,
       "created_at": "2026-03-15T21:13:51.423300+08:00"
+    },
+    {
+      "id": "20260315_211528",
+      "offset_start": 54064,
+      "offset_end": 54157,
+      "text": "」\n回到家裡，秋園連忙燒了一壺開水，泡了些艾葉，把田四頭上的香灰洗盡，露出\n了白白的頭皮。頭頂幾個小瘡有些流膿，秋園每天用棉花蘸鹽水，洗去流出來的\n膿水，一分錢沒花，不到一個星期就好了。",
+      "prompt": "A mother gently tends to her young son's scalp under the warm, soft light of a simple home, carefully applying saline-soaked cotton to small sores. The scene is rendered in a soft-focus, realistic oil painting style, conveying an atmosphere of quiet devotion and domestic care in modest surroundings.",
+      "image": "reader_images/reader_20260315_211528.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1922966188,
+      "created_at": "2026-03-15T21:15:28.967166+08:00"
     }
   ],
   "book_total_chars": 92814,
