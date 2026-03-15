@@ -11195,6 +11195,18 @@
       "image_model": "zimage",
       "seed": 775224836,
       "created_at": "2026-03-16T07:25:14.973145+08:00"
+    },
+    {
+      "id": "20260316_073852",
+      "offset_start": 62678,
+      "offset_end": 62756,
+      "text": "張跛子就是有些下流。夏天他穿一條奇大無比的抄頭短褲，歇氣時，一隻腳擱得\n老高，褲襠裏那物件一覽無餘。堂客們見他就走。鄉裏的細伢子們喜歡三五成羣\n在一起耍。",
+      "prompt": "A rural Chinese village scene in high summer, bathed in harsh, bright sunlight. A gruff, middle-aged man named Zhang Bozi, wearing comically oversized, short shorts, is lounging with one leg propped high, his illicit parts exposed. Several young boys, depicted with playful mischief, are gathered nearby, peeking and whispering, their faces illuminated by the intense sunlight. The artistic style should be a slightly exaggerated, almost folk-art realism, emphasizing the heat and the slightly scandalous nature of the scene.",
+      "image": "reader_images/reader_20260316_073852.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1877498761,
+      "created_at": "2026-03-16T07:38:52.127337+08:00"
     }
   ],
   "book_total_chars": 92814,
