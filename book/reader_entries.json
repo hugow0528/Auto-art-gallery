@@ -8867,6 +8867,18 @@
       "image_model": "gptimage",
       "seed": 1595794084,
       "created_at": "2026-03-15T15:36:22.491496+08:00"
+    },
+    {
+      "id": "20260315_153824",
+      "offset_start": 50164,
+      "offset_end": 50233,
+      "text": "狗一叫，就有細伢\n子出來看，一看是討飯的，就支使狗來咬，狗吠叫得更加兇猛，還作勢欲撲。之\n驊和兵桃只能且戰且退，別說討東西，膽子都嚇破了。",
+      "prompt": "A dark, narrow alleyway in traditional China, cobblestone ground slick with recent rain, stone walls damp and moss-covered. Two young children, raggedly dressed, are backing away in fear from a snarling, low-slung dog lunging towards them, its teeth bared. The atmosphere is tense and oppressive, with muted, dramatic lighting casting deep shadows, evoking a sense of immediate peril. Rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of dramatic realism.",
+      "image": "reader_images/reader_20260315_153824.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1814288852,
+      "created_at": "2026-03-15T15:38:25.014631+08:00"
     }
   ],
   "book_total_chars": 92814,
