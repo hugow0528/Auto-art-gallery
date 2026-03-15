@@ -8579,6 +8579,18 @@
       "image_model": "imagen-4",
       "seed": 608547840,
       "created_at": "2026-03-15T13:57:44.293750+08:00"
+    },
+    {
+      "id": "20260315_140017",
+      "offset_start": 48722,
+      "offset_end": 48793,
+      "text": "秋園向老倌子打聽西河壩小學還有多遠。老倌子說：「還有七裏路，不過小學已\n經被大水衝掉了。」\n此時，秋園感到寸步難行，肩上的薄棉絮似有千斤重。",
+      "prompt": "A weary traveler named Qiuyuan, middle-aged with weathered features and thin cotton bedding slung heavily over his slumped shoulders like a thousand-pound burden, stands frozen on a muddy rural path in autumn twilight, his face etched with despair as he gazes at the path ahead.[1][2] Beside him, an elderly peasant in ragged robes gestures toward distant flood-ravaged ruins of a small school on the Xihe Dam, where turbulent river waters have swept away wooden structures amid swirling debris, misty mountains layering into foggy horizons with meandering paths and voids of negative space.[5][6] Rendered in traditional Chinese shan shui ink wash style with monochromatic tones, high perspective, and contrasting void-substance dynamics—dense foreground figures against ethereal mist-shrouded backgrounds—for a moody atmosphere of exhaustion, loss, and infinite desolation.[3][4]",
+      "image": "reader_images/reader_20260315_140017.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 137694745,
+      "created_at": "2026-03-15T14:00:17.679880+08:00"
     }
   ],
   "book_total_chars": 92814,
