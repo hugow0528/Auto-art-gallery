@@ -10691,6 +10691,18 @@
       "image_model": "flux",
       "seed": 1173593727,
       "created_at": "2026-03-16T03:48:48.507906+08:00"
+    },
+    {
+      "id": "20260316_035319",
+      "offset_start": 59779,
+      "offset_end": 59884,
+      "text": "之驊下定決心去偷。晚上等仁受、秋園睡熟了，之驊推醒賠三，拿個撮箕就出了\n門，直奔小水衝裏。\n那裡已是一片黑壓壓的人頭。姐弟倆趕緊走到田裡，賠三端着撮箕，之驊對準老\n禾線雙手死勁勒，一勒一把谷，勒了滿滿一撮箕。",
+      "prompt": "The passage describes a scene of stealing grain at night. Let me identify the key elements:\n\n- Characters: 之驊 (Zhi Hua) and 賠三 (Pei San) - two siblings/children\n- Action: Stealing grain from the field at night\n- Setting: 小水衝裏 (Xiao Shui Chong - a field/paddy area), at night\n- Details: They use a 撮箕 (dust pan/basket) to collect grain from the rice stalks (老禾线 - old rice stalks)\n- Atmosphere: Nighttime, dark, many people already there (\"一片黑壓壓的人頭\" - a sea of dark heads)\n\nThis is likely from 楊本芬's \"秋園\" (Endless August) - a novel about famine and survival in rural China.\n\nNow I need to create a visual prompt that captures:\n- Night scene in a rural Chinese field\n- Two children stealing/gathering grain\n- Dark, tense atmosphere\n- Could be realistic or have a particular artistic style\n\nLet me craft a vivid image generation prompt:\n\nThe scene shows a dark night in a rural Chinese village, with two young children (a boy and a girl) crouching in a rice paddy field, urgently gathering grain from old rice stalks into a large bamboo basket. The atmosphere is tense and desperate. The sky is dark blue-black with faint moonlight. Many other dark figures can be seen in the distance, also working in the fields. The",
+      "image": "reader_images/reader_20260316_035319.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 2005523269,
+      "created_at": "2026-03-16T03:53:19.896456+08:00"
     }
   ],
   "book_total_chars": 92814,
