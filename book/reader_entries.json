@@ -9239,6 +9239,18 @@
       "image_model": "imagen-4",
       "seed": 1215322775,
       "created_at": "2026-03-15T17:53:01.976084+08:00"
+    },
+    {
+      "id": "20260315_175640",
+      "offset_start": 52243,
+      "offset_end": 52305,
+      "text": "他們也是一片好\n心。」\n過了五六天，楊桂生夫婦果真又來了，看樣子是真心誠意要帶個崽。秋園對他們\n說：「兩兄弟，隨你們選一個。",
+      "prompt": "A solemn Chinese village interior with warm afternoon light filtering through paper windows. A dignified woman stands beside two young boys, one perhaps eight and one five, while a middle-aged couple kneels respectfully before them, their faces showing genuine hope and concern. The room contains simple wooden furniture and woven baskets, with a subtle atmosphere of weight and tenderness. Traditional Chinese ink painting style with soft, realistic details, muted earth tones capturing the emotional gravity of this moment of potential separation and new beginning.",
+      "image": "reader_images/reader_20260315_175640.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 65118710,
+      "created_at": "2026-03-15T17:56:40.416129+08:00"
     }
   ],
   "book_total_chars": 92814,
