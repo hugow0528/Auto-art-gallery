@@ -10643,6 +10643,18 @@
       "image_model": "grok-imagine",
       "seed": 1752328201,
       "created_at": "2026-03-16T03:38:16.992013+08:00"
+    },
+    {
+      "id": "20260316_034422",
+      "offset_start": 59554,
+      "offset_end": 59638,
+      "text": "喫飯時，仁受卻一反往日的溫文爾雅，變得惡形惡狀：不怕醜地發出驚人的咀嚼\n聲，眼睛一紅，脖子一伸，喉嚨裏又是一聲驚人的咕咚聲，喫完還貪婪地望着飯\n鉢，伸出舌頭舔了又舔。",
+      "prompt": "A man named Ren Shou sits at a traditional round Chinese banquet table laden with rice bowls and communal dishes on a wooden lazy Susan, in a warmly lit family-style restaurant adorned with red silk drapes, golden cranes, and bamboo wall panels. He devours his meal with grotesque abandon, cheeks bulging from loud chewing, red eyes bulging hungrily, neck craned forward as he gulps with an audible throat bulge, then greedily licks his empty rice bowl with a protruding tongue, ignoring decorum amid scattered chopsticks and steaming platters. Render in hyper-realistic style with dramatic chiaroscuro lighting casting shadows on his feral expression, evoking a tense, gluttonous atmosphere in earthy tones of mahogany and gold.",
+      "image": "reader_images/reader_20260316_034422.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 862799320,
+      "created_at": "2026-03-16T03:44:22.152026+08:00"
     }
   ],
   "book_total_chars": 92814,
