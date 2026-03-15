@@ -8831,6 +8831,18 @@
       "image_model": "grok-imagine",
       "seed": 1469057288,
       "created_at": "2026-03-15T15:28:38.518541+08:00"
+    },
+    {
+      "id": "20260315_153002",
+      "offset_start": 49994,
+      "offset_end": 50072,
+      "text": "早點回來呀，莫讓家裡人擔心。」聽仁受聲音不對，之驊\n抬頭一看，爸爸眼裡滿含着淚，一副無奈的表情。\n「爸爸，不要緊，有人好大年紀都討飯，我一個細妹子要什麼緊！",
+      "prompt": "In a modest, warmly lit traditional Chinese home during a family reunion dinner, a young girl named Zhi Hua looks up with determined eyes at her father, whose face is etched with无奈 and brimming with tears, his expression a poignant mix of worry and resignation. The intimate scene captures their emotional exchange—her youthful defiance contrasting his paternal anguish—surrounded by subtle festive elements like red lanterns and a simple wooden table with steaming dishes. Render in a realistic cinematic style with soft golden lighting, dramatic close-up composition, high detail on facial emotions, evoking heartfelt melancholy in the style of cinematic drama photography.",
+      "image": "reader_images/reader_20260315_153002.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1272372889,
+      "created_at": "2026-03-15T15:30:02.509313+08:00"
     }
   ],
   "book_total_chars": 92814,
