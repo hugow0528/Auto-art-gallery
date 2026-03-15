@@ -10871,6 +10871,18 @@
       "image_model": "zimage",
       "seed": 309490766,
       "created_at": "2026-03-16T05:00:43.413178+08:00"
+    },
+    {
+      "id": "20260316_051342",
+      "offset_start": 60820,
+      "offset_end": 60890,
+      "text": "那人這才爬起身，飛快地跑了。\n之驊牽着秋園進屋。秋園臉色蒼白，使勁咬住嘴脣，她不能哭，怕吵醒兩個小\n的。過了一會兒，她喃喃開腔道：「是富平。",
+      "prompt": "A young woman, pale-faced and biting her lip to suppress tears, is led into a dimly lit, humble room by a man. The atmosphere is tense and sorrowful, hinting at hidden distress. Soft, ambient light, perhaps from a single oil lamp, casts long shadows, emphasizing the quiet, contained grief. The scene should be rendered in a style reminiscent of classical Chinese ink wash painting, focusing on subtle emotional expression and evocative atmosphere.",
+      "image": "reader_images/reader_20260316_051342.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 734530530,
+      "created_at": "2026-03-16T05:13:42.974818+08:00"
     }
   ],
   "book_total_chars": 92814,
