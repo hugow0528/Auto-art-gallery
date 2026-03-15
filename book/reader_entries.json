@@ -7991,6 +7991,18 @@
       "image_model": "gptimage",
       "seed": 552241962,
       "created_at": "2026-03-15T11:42:30.864106+08:00"
+    },
+    {
+      "id": "20260315_114325",
+      "offset_start": 45806,
+      "offset_end": 45881,
+      "text": "山雖不高，卻\n也連綿起伏。山上的雜柴幾乎砍得一根不剩。那些爲數不多不準砍的樹，充其量\n也就一人多高，樹上的枝杈被劈得很毒，棵棵都是傷痕累累、可憐兮兮。",
+      "prompt": "A barren hillside rolls across the scene, nearly all vegetation stripped away leaving only bare earth. A few stunted trees, barely taller than a person, stand isolated on the slope with brutally severed branches and scarred trunks, their wounded forms somehow still alive but visibly suffering. Pale, harsh light illuminates the desolate landscape, conveying a mood of environmental destruction and quiet tragedy.",
+      "image": "reader_images/reader_20260315_114325.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1991639835,
+      "created_at": "2026-03-15T11:43:25.095203+08:00"
     }
   ],
   "book_total_chars": 92814,
