@@ -10787,6 +10787,18 @@
       "image_model": "flux",
       "seed": 1776594666,
       "created_at": "2026-03-16T04:43:13.766157+08:00"
+    },
+    {
+      "id": "20260316_044715",
+      "offset_start": 60398,
+      "offset_end": 60470,
+      "text": "這點錢還買不到十碗煮南瓜呢。」\n勒了谷的手掌，第二天又紅又腫，之驊想擰條毛巾洗臉都擰不得，火辣辣地痛。\n有了一點米喫，仁受的精神和臉色都好多了。",
+      "prompt": "A peasant woman with swollen, reddened hands, grimacing in pain, struggles to wring out a wet towel. The lighting is dim and harsh, emphasizing the bleakness of a simple, sparsely furnished room. In the background, a small bowl of rice sits on a rough wooden table, hinting at a slight improvement in circumstances. The style should be reminiscent of realist oil paintings, capturing the raw hardship and subtle hope of the scene.",
+      "image": "reader_images/reader_20260316_044715.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 581725973,
+      "created_at": "2026-03-16T04:47:15.570657+08:00"
     }
   ],
   "book_total_chars": 92814,
