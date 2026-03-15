@@ -9191,6 +9191,18 @@
       "image_model": "klein",
       "seed": 1250943867,
       "created_at": "2026-03-15T17:36:42.840101+08:00"
+    },
+    {
+      "id": "20260315_174840",
+      "offset_start": 51924,
+      "offset_end": 52001,
+      "text": "要是信得過我，就\n讓我帶一個過去，給我做崽，保管有喫有穿，絕不虧待他，以後也會儘量送他讀\n書。」\n仁受聽着，沒有作聲。\n過幾天，楊桂生又把他的堂客帶來了。",
+      "prompt": "A humble, dimly lit interior of a traditional Chinese dwelling, circa late Qing dynasty. Soft, diffused lamplight illuminates dust motes dancing in the air, casting long shadows. A middle-aged man, Ren Shou, sits stoically on a simple wooden stool, his face etched with quiet contemplation. Beside him, a woman with weary eyes and worn clothing, Yang Guisheng's wife, stands deferentially, her hands clasped tightly. The overall mood is one of somber resignation and unspoken tension, rendered in the style of a classical Chinese ink wash painting with subtle, muted colors.",
+      "image": "reader_images/reader_20260315_174840.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 768555740,
+      "created_at": "2026-03-15T17:48:40.829267+08:00"
     }
   ],
   "book_total_chars": 92814,
