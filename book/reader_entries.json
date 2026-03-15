@@ -10043,6 +10043,18 @@
       "image_model": "klein",
       "seed": 860381033,
       "created_at": "2026-03-15T23:22:12.319471+08:00"
+    },
+    {
+      "id": "20260315_233556",
+      "offset_start": 56344,
+      "offset_end": 56426,
+      "text": "要使大家有個思想準備，不\n要修起水庫來，只想回家睏覺。我們要搶時間，提前完成任務。」\n二痞子沒講兩句，痞話就上來了，自言自語說：「七天七夜不跟堂客睏覺，咯何\n得了？",
+      "prompt": "A group of Chinese workers in 1950s-era rural setting gather around a dirt construction site for a reservoir project, with one man standing gesturing emphatically while giving",
+      "image": "reader_images/reader_20260315_233556.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1473665023,
+      "created_at": "2026-03-15T23:35:56.568610+08:00"
     }
   ],
   "book_total_chars": 92814,
