@@ -8675,6 +8675,18 @@
       "image_model": "imagen-4",
       "seed": 1919437261,
       "created_at": "2026-03-15T14:33:06.905619+08:00"
+    },
+    {
+      "id": "20260315_143651",
+      "offset_start": 49254,
+      "offset_end": 49325,
+      "text": "剛轉到一處高地\n上，只聽得轟隆一聲，眨眼間，大堤被衝開一個口子，緊接着，大堤就像撕布一\n樣，幾分鐘就倒了好長一段……\n眨眼間，整個大垸被淹沒。",
+      "prompt": "A breached ancient Chinese river dike, torn like ragged cloth, unleashing a torrent of muddy water that rapidly submerges a vast, fertile plain. The scene is dramatically lit by a stormy, twilight sky, casting a desperate, chaotic atmosphere. Style: traditional Chinese ink wash painting with heightened dramatic realism.",
+      "image": "reader_images/reader_20260315_143651.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1613735102,
+      "created_at": "2026-03-15T14:36:51.960055+08:00"
     }
   ],
   "book_total_chars": 92814,
