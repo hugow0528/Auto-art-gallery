@@ -9827,6 +9827,18 @@
       "image_model": "klein",
       "seed": 1474815486,
       "created_at": "2026-03-15T22:02:33.323498+08:00"
+    },
+    {
+      "id": "20260315_220416",
+      "offset_start": 55139,
+      "offset_end": 55201,
+      "text": "火把燃着紅紅的火，連成一串，好比幾條火龍，向各個山裏遊去。山裏漆黑而神\n祕，夜來風無頭無序地吹，把人們的瞌睡攪得稀薄透明。",
+      "prompt": "A chain of torches, like scarlet dragons, snake into the pitch-black, mysterious mountains. The wind, erratic and unseen, whips through the dark, rendering sleep thin and translucent. Cinematic lighting, high contrast, dark fantasy, atmospheric, by Zdzisław Beksiński.",
+      "image": "reader_images/reader_20260315_220416.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1366149030,
+      "created_at": "2026-03-15T22:04:16.515086+08:00"
     }
   ],
   "book_total_chars": 92814,
