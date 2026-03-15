@@ -8375,6 +8375,18 @@
       "image_model": "imagen-4",
       "seed": 2095505045,
       "created_at": "2026-03-15T13:16:03.422489+08:00"
+    },
+    {
+      "id": "20260315_131727",
+      "offset_start": 47638,
+      "offset_end": 47763,
+      "text": "「徐娭毑，你何裏變成咯種模樣……」秋園一把抓住她的手，哽咽得說不下去。\n徐娭毑苦笑，語調平靜：「唉，也不知前世造了什麼孽，這左邊奶子上先是長了\n個瘡，敷了些草藥也不見好，後來這瘡就開始爛，越爛越大，現在總有碗口大\n了……」\n徐娭毑得的其實是乳腺癌。",
+      "prompt": "A melancholic, intimate scene in a dimly lit, humble rural Chinese home. An older woman, Xu Lai Po, with a pained, resigned smile, clutches her chest, revealing a large, ulcerated wound on her breast, starkly contrasted against her worn, simple clothing. The atmosphere is heavy with sorrow and unspoken suffering, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260315_131727.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1522867331,
+      "created_at": "2026-03-15T13:17:27.163111+08:00"
     }
   ],
   "book_total_chars": 92814,
