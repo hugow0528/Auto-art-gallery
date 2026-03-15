@@ -8963,6 +8963,18 @@
       "image_model": "zimage",
       "seed": 1635362550,
       "created_at": "2026-03-15T15:58:17.884982+08:00"
+    },
+    {
+      "id": "20260315_160140",
+      "offset_start": 50585,
+      "offset_end": 50666,
+      "text": "隨她去講！」\n最後一家是個男人，他坐在屋檐下，面前放了一籃黃瓜。之驊說：「大叔，討點\n子，討點子，我們一整天都冇喫東西。」\n那男的狐疑地問：「你們都是地主階級吧？",
+      "prompt": "A weathered Chinese man in a blue tunic sits on a wooden stool beneath the eave of a mud-brick farmhouse, a wicker basket of fresh cucumbers beside him. A gaunt woman in a faded dress stands before him with cupped hands, her face showing hunger and desperation. The man narrows his eyes with suspicion, his hand hovering near the basket. Rural",
+      "image": "reader_images/reader_20260315_160140.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 87461427,
+      "created_at": "2026-03-15T16:01:40.871536+08:00"
     }
   ],
   "book_total_chars": 92814,
