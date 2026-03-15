@@ -10859,6 +10859,18 @@
       "image_model": "gptimage",
       "seed": 1476225313,
       "created_at": "2026-03-16T04:58:13.448179+08:00"
+    },
+    {
+      "id": "20260316_050043",
+      "offset_start": 60758,
+      "offset_end": 60820,
+      "text": "那人還不放手，撕扯着秋園的衣服。\n之驊似懂非懂，不知爲什麼他們打起架來了，嚇得大叫：「爸爸！」仁受聽見動\n靜，摸着牆出來了。",
+      "prompt": "A dimly lit 1940s Chinese village house interior, a woman in a blue traditional qipao struggles against a man gripping her sleeve, her clothing torn at the shoulder. A young girl in a white blouse stands nearby with arms outstretched, crying \"Papa!\" tears streaming down her face. A middle-aged blind man in a长衫 emerges through a doorway, one hand reaching out, his face contorted with alarm. Dark dramatic lighting, oil painting style, tense atmosphere, emotional realism.",
+      "image": "reader_images/reader_20260316_050043.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 309490766,
+      "created_at": "2026-03-16T05:00:43.413178+08:00"
     }
   ],
   "book_total_chars": 92814,
