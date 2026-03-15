@@ -8279,6 +8279,18 @@
       "image_model": "zimage",
       "seed": 46315008,
       "created_at": "2026-03-15T12:56:32.823412+08:00"
+    },
+    {
+      "id": "20260315_125719",
+      "offset_start": 47222,
+      "offset_end": 47288,
+      "text": "可她連件不打補丁的衣服都沒有，就決定\n向小泉借幾塊錢做件衣。\n仁受劃了舊官吏後，秋園就失去了新民小學的教職，跟花屋那邊的來往也少了。",
+      "prompt": "A modest woman in worn, patched clothing stands in a humble interior during the early 20th century, her expression contemplative as she considers borrowing money from Xiaoquan to purchase fabric for a new dress. The scene is dimly lit by natural light filtering through paper windows, casting soft shadows across sparse furnishings. In the background, faint silhouettes suggest the distance growing between her and her former connections—the school where she taught and the prosperous merchant household she once visited. Render in a muted, melancholic watercolor style with emphasis on the textures of old fabric and the quiet dignity of poverty.",
+      "image": "reader_images/reader_20260315_125719.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 519210144,
+      "created_at": "2026-03-15T12:57:19.101218+08:00"
     }
   ],
   "book_total_chars": 92814,
