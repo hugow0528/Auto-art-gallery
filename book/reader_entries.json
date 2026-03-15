@@ -9935,6 +9935,18 @@
       "image_model": "klein",
       "seed": 976786805,
       "created_at": "2026-03-15T22:49:08.390123+08:00"
+    },
+    {
+      "id": "20260315_225022",
+      "offset_start": 55755,
+      "offset_end": 55819,
+      "text": "92\n\n\f十\n好容易熬到冬天，各種農活都做完了。不過，修煙家衝水庫的戰鬥卻打響了。\n修水庫之前，滿寶生召開了一次全隊動員大會。",
+      "prompt": "A cold winter village square where a crowd of farmers gathers for a mobilization meeting, with Man Baosheng standing on a wooden platform addressing the villagers, their breath visible in the frosty air, flag banners waving, the collective energy and determination evident on their faces, rendered in realistic social realism style with natural winter lighting and warm earth tones.",
+      "image": "reader_images/reader_20260315_225022.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1627181463,
+      "created_at": "2026-03-15T22:50:22.631187+08:00"
     }
   ],
   "book_total_chars": 92814,
