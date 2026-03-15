@@ -10763,6 +10763,18 @@
       "image_model": "zimage",
       "seed": 1105651968,
       "created_at": "2026-03-16T04:33:37.119013+08:00"
+    },
+    {
+      "id": "20260316_044104",
+      "offset_start": 60250,
+      "offset_end": 60329,
+      "text": "天曉得你們餓得好厲害。」子恆哽咽道，說\n罷大哭起來。\n子恆是回家送糧票和錢的。他每天可以分到八兩米，每月有三十三塊錢工資，每\n月最少也要節約出十斤糧票給家裡。",
+      "prompt": "A young man, Ziheng, is shown weeping in a dimly lit, sparse room, clutching a small ration of rice and a few coins. The atmosphere is heavy with poverty and sacrifice, rendered in a melancholic, realist style with chiaroscuro lighting to emphasize the somber mood. He is alone, conveying the personal burden of his family's hardship.",
+      "image": "reader_images/reader_20260316_044104.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 315672395,
+      "created_at": "2026-03-16T04:41:04.146009+08:00"
     }
   ],
   "book_total_chars": 92814,
