@@ -9419,6 +9419,18 @@
       "image_model": "flux-2-dev",
       "seed": 467353620,
       "created_at": "2026-03-15T19:00:12.498171+08:00"
+    },
+    {
+      "id": "20260315_190239",
+      "offset_start": 53075,
+      "offset_end": 53147,
+      "text": "沒\n了田四，之驊端起飯碗，喉嚨就堵住了，只想哭。\n\n88\n\n\f八\n一個月好長啊！真是度日如年。\n好不容易熬到了那天，之驊天不亮就起來做好了飯菜。",
+      "prompt": "A Chinese woman in traditional clothing stands alone in a dimly lit village kitchen before dawn, stirring a pot over a low fire. Warm orange light illuminates her sorrowful face as she prepares a meal, surrounded by dark shadows and the quiet stillness of early morning. The",
+      "image": "reader_images/reader_20260315_190239.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 89187341,
+      "created_at": "2026-03-15T19:02:39.327373+08:00"
     }
   ],
   "book_total_chars": 92814,
