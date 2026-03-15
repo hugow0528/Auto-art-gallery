@@ -8891,6 +8891,18 @@
       "image_model": "grok-imagine",
       "seed": 72429951,
       "created_at": "2026-03-15T15:49:36.944464+08:00"
+    },
+    {
+      "id": "20260315_155019",
+      "offset_start": 50233,
+      "offset_end": 50303,
+      "text": "好不容易走進一個沒有狗的屋場，有個女人坐在門口。之驊和兵桃連忙走過去\n說：「嬸嬸，討點子，討點子。」她把手一揮：「自己都冇得喫，還有把你！",
+      "prompt": "A rustic, sun-drenched courtyard in rural China, devoid of dogs. An older woman, her face etched with hardship but possessing a resilient spirit, sits on a worn doorstep, hands resting on her lap. Two children, one named Zhihua and the other Bingtao, approach her with hopeful expressions, their clothes simple and mended. The atmosphere is one of quiet poverty tinged with a flicker of anticipation, rendered in the style of a traditional Chinese ink wash painting with soft, natural light.",
+      "image": "reader_images/reader_20260315_155019.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 860854631,
+      "created_at": "2026-03-15T15:50:19.487131+08:00"
     }
   ],
   "book_total_chars": 92814,
