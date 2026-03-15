@@ -9707,6 +9707,18 @@
       "image_model": "zimage",
       "seed": 1969404881,
       "created_at": "2026-03-15T21:32:30.826637+08:00"
+    },
+    {
+      "id": "20260315_213443",
+      "offset_start": 54470,
+      "offset_end": 54534,
+      "text": "寶生說：「冇得鍋子好，免得大家找藉口，回家搞飯磨洋\n工。我們要全心全意往共產主義跑。」\n一天早晨，隊長安排全隊用糞水給油菜淋肥。",
+      "prompt": "A group of farmers in 1960s rural China stand in a vast yellow rapeseed field at dawn, carrying wooden buckets filled with manure water on bamboo poles across their shoulders. The leader directs the team toward the bright yellow rapeseed plants, morning mist hovering above the fertile earth, with simple clothing and determined expressions. The scene captures an earnest, industrious collective farming moment with soft golden sunrise lighting illuminating the workers' silhouettes against the endless yellow field.",
+      "image": "reader_images/reader_20260315_213443.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 235327290,
+      "created_at": "2026-03-15T21:34:43.665870+08:00"
     }
   ],
   "book_total_chars": 92814,
