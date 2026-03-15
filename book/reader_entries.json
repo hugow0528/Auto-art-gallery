@@ -9971,6 +9971,18 @@
       "image_model": "klein",
       "seed": 2032674604,
       "created_at": "2026-03-15T22:57:31.491448+08:00"
+    },
+    {
+      "id": "20260315_225948",
+      "offset_start": 55985,
+      "offset_end": 56048,
+      "text": "「這瞌睡何裏消滅嘍？我長到六十三歲，還是頭一回聽到。」一向膽小怕事的長\n生老倌居然第一個開了口，他是跟坐在側邊的二痞子說的。",
+      "prompt": "A dimly lit, traditional Chinese teahouse interior, filled with a smoky, quiet atmosphere. An elderly man with a timid expression, Changsheng, sits nervously, facing another man with a rough demeanor, Erpizi, who leans in to speak. The scene should be rendered in a style reminiscent of traditional Chinese ink wash painting, with a focus on subtle shadows and expressive character postures.",
+      "image": "reader_images/reader_20260315_225948.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2095914096,
+      "created_at": "2026-03-15T22:59:48.742180+08:00"
     }
   ],
   "book_total_chars": 92814,
