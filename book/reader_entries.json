@@ -9911,6 +9911,18 @@
       "image_model": "grok-imagine",
       "seed": 1166018499,
       "created_at": "2026-03-15T22:40:35.976544+08:00"
+    },
+    {
+      "id": "20260315_224840",
+      "offset_start": 55683,
+      "offset_end": 55755,
+      "text": "當時，兵桃偷偷離開人羣，走到曬穀坪上。他看見\n一牀破爛曬墊滾成筒丟在地上，就爬了進去，穩穩噹噹睡了一晚好覺，連蚊子都\n找不到他，更別提滿寶生了。",
+      "prompt": "A young boy, Bingtao, has crawled inside a rolled-up, tattered straw mat, using it as a makeshift tent on a moonlit threshing ground. The atmosphere is serene and quiet, emphasizing his successful escape and deep sleep. The scene should be rendered in a realistic, slightly melancholic art style with soft, diffused moonlight casting long shadows across the dusty ground.",
+      "image": "reader_images/reader_20260315_224840.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 619067806,
+      "created_at": "2026-03-15T22:48:40.577405+08:00"
     }
   ],
   "book_total_chars": 92814,
