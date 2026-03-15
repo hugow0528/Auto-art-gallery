@@ -11183,6 +11183,18 @@
       "image_model": "flux-2-dev",
       "seed": 1958706441,
       "created_at": "2026-03-16T07:24:03.900416+08:00"
+    },
+    {
+      "id": "20260316_072514",
+      "offset_start": 62607,
+      "offset_end": 62678,
+      "text": "張跛子的田裡功夫也做得細緻。他犁一天田，身上從不沾一點泥水；他整好的菜\n土就像一本書，有稜有角。大家對此嘆爲觀止，不知他怎麼會有這樣的絕招。",
+      "prompt": "A weathered farmer, Zhang Pozi, stands in a meticulously plowed field, his simple clothes utterly free of mud despite his labor. The tilled soil is perfectly squared, resembling the sharp lines of an open book under a clear, bright sky, conveying an atmosphere of skilled craftsmanship and quiet wonder. The style should be realistic with a touch of idealized perfection, emphasizing the clean, precise nature of the work.",
+      "image": "reader_images/reader_20260316_072514.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 775224836,
+      "created_at": "2026-03-16T07:25:14.973145+08:00"
     }
   ],
   "book_total_chars": 92814,
