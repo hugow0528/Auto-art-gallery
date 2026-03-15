@@ -8639,6 +8639,18 @@
       "image_model": "gptimage",
       "seed": 79411473,
       "created_at": "2026-03-15T14:11:49.998646+08:00"
+    },
+    {
+      "id": "20260315_141255",
+      "offset_start": 49029,
+      "offset_end": 49111,
+      "text": "他又黑又瘦，整\n個人都變了個模樣。秋園見到他那一剎那，幾乎沒認出來。子恆見到秋園也愣了\n半天，做夢也沒想到母親會來找他。\n秋園叫子恆給了老倌子兩萬塊，老倌子回去了。",
+      "prompt": "A weathered Chinese mother in traditional clothing embraces her emaciated, dark-skinned son in a humble rural setting; his face shows shock and disbelief at her sudden appearance, while an elderly man in the background accepts money and turns to leave. Soft golden afternoon light streams through a simple wooden window, casting warm highlights on their faces. The scene carries the emotional weight of separation and reunion, rendered in a realistic Chinese ink-wash painting style with subtle emotional depth and natural lighting.",
+      "image": "reader_images/reader_20260315_141255.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 111598432,
+      "created_at": "2026-03-15T14:12:56.021526+08:00"
     }
   ],
   "book_total_chars": 92814,
