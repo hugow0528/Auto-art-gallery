@@ -11219,6 +11219,18 @@
       "image_model": "flux-2-dev",
       "seed": 2031748717,
       "created_at": "2026-03-16T07:39:43.313535+08:00"
+    },
+    {
+      "id": "20260316_074542",
+      "offset_start": 62756,
+      "offset_end": 62839,
+      "text": "張跛子碰到了，就把細伢子的褲子飛快地朝下一脫，一隻手裝模作樣\n地在口袋裡摸刀，一邊說：「把你的雞雞割掉。」他不厭其煩地開這類玩笑，細\n伢子們嫌死了他，遠遠望見他就躲。",
+      "prompt": "In a narrow, sun-dappled alley of a traditional Chinese village with whitewashed walls, sloped tiled roofs, and cobblestone paths lined by potted plants, Zhang the Lame—a grizzled middle-aged man with a limp, ragged clothes, and a mischievous grin—swiftly yanks down the loose pants of a wide-eyed young boy, his other hand dramatically fumbling in his pocket as if drawing a knife, while sneering \"I'll cut off your little pecker.\" The boy recoils in terror and disgust, frozen mid-step with hands clutching futilely at his exposed lower body, evoking a tense, humorous yet unsettling rural prank amid dusty air and distant village murmurs. Render in realistic digital art style inspired by rural Chinese ink wash paintings, with warm golden hour lighting casting long shadows, high detail on weathered faces and textures, dramatic chiaroscuro mood blending playful menace and childhood fright.",
+      "image": "reader_images/reader_20260316_074542.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 169167193,
+      "created_at": "2026-03-16T07:45:42.449191+08:00"
     }
   ],
   "book_total_chars": 92814,
