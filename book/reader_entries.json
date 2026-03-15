@@ -9263,6 +9263,18 @@
       "image_model": "flux-2-dev",
       "seed": 860713182,
       "created_at": "2026-03-15T17:59:17.458671+08:00"
+    },
+    {
+      "id": "20260315_180035",
+      "offset_start": 52370,
+      "offset_end": 52435,
+      "text": "他們回去時，秋園小聲說：「一筆寫不出兩個『楊』字，都是一家人了，田四過\n去了，請你們好好待他，以後送他讀書。過幾天我自己送過去。",
+      "prompt": "In a serene autumn garden pathway at dusk, under a canopy of fiery red maple leaves and golden ginkgo branches swaying gently in the breeze, an elderly woman in traditional flowing hanfu whispers earnestly to a young couple beside her, their faces illuminated by the soft, warm glow of a paper lantern. The atmosphere evokes quiet familial warmth and solemn promise, with distant misty hills and a thatched village hut in the background, rendered in the intricate style of classical Chinese ink wash painting with subtle watercolor accents for vivid seasonal depth and emotional intimacy.",
+      "image": "reader_images/reader_20260315_180035.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1738916343,
+      "created_at": "2026-03-15T18:00:35.254026+08:00"
     }
   ],
   "book_total_chars": 92814,
