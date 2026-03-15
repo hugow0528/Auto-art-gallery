@@ -9791,6 +9791,18 @@
       "image_model": "grok-imagine",
       "seed": 1168063293,
       "created_at": "2026-03-15T21:55:30.862626+08:00"
+    },
+    {
+      "id": "20260315_215611",
+      "offset_start": 54923,
+      "offset_end": 55007,
+      "text": "各人帶個火把，先到隊部集\n合。\n四老倌輕手輕腳起來，先紮好兩個火把，才把兵桃喊醒。兵桃瞌睡矇矓地擦着眼\n睛，對四老倌說：「爹爹，我好累，肚子又餓，一雙腳硬是冇一點力氣。",
+      "prompt": "A dimly lit, rustic interior of a humble dwelling at dawn, with a young boy, Bing Tao, looking weary and hungry as he rubs his eyes. His father, Si Lao Guan, carefully prepares two torches, casting a flickering, warm glow on their faces and the simple wooden furniture. The atmosphere is one of quiet fatigue and gentle paternal care, rendered in a traditional Chinese ink wash painting style with soft, diffused lighting.",
+      "image": "reader_images/reader_20260315_215611.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 789843030,
+      "created_at": "2026-03-15T21:56:11.077577+08:00"
     }
   ],
   "book_total_chars": 92814,
