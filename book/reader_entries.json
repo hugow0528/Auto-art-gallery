@@ -9779,6 +9779,18 @@
       "image_model": "gptimage",
       "seed": 1984522783,
       "created_at": "2026-03-15T21:54:48.309266+08:00"
+    },
+    {
+      "id": "20260315_215530",
+      "offset_start": 54850,
+      "offset_end": 54923,
+      "text": "冷卻後的火土灰一般用作肥料。\n高音喇叭連夜響起來：「社員同志請注意，社員同志請注意……」要求社員帶好\n鋤頭、柴刀，到各個山裏去鏟草皮、燒火土灰 。",
+      "prompt": "A stark, twilight scene in a rural Chinese village. Figures, silhouetted against a fading sky, carry farming tools like hoes and machetes, their faces determined as they head towards the misty, silhouetted mountains. The atmosphere is one of communal labor and quiet urgency, with a hint of the coming night. The style is reminiscent of social realist oil paintings, with a muted, earthy color palette.",
+      "image": "reader_images/reader_20260315_215530.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1168063293,
+      "created_at": "2026-03-15T21:55:30.862626+08:00"
     }
   ],
   "book_total_chars": 92814,
