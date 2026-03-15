@@ -10907,6 +10907,18 @@
       "image_model": "zimage",
       "seed": 1050151061,
       "created_at": "2026-03-16T05:31:09.896556+08:00"
+    },
+    {
+      "id": "20260316_053628",
+      "offset_start": 61080,
+      "offset_end": 61181,
+      "text": "」無聲的眼淚汩汩而下。\n之驊氣急敗壞地向仁受說了事情的經過。仁受呆呆站了一陣，只聽啪的一聲，他\n重重地扇了自己一個耳光。隨後，他慢慢走向桌子，拿起竹草做的煙鬥和紙媒\n子，放上葉子煙，把紙媒子靠近煤油燈。",
+      "prompt": "A somber historical scene in dim lamplight: an older man in traditional Chinese clothing slumps at a wooden table, one hand holding a bamboo pipe, the other striking a match. His face is etched with deep regret, illuminated by the single flickering flame. A younger man stands nearby, watching with pained helplessness, in the style of a moody cinematic oil painting.",
+      "image": "reader_images/reader_20260316_053628.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 295640259,
+      "created_at": "2026-03-16T05:36:28.154466+08:00"
     }
   ],
   "book_total_chars": 92814,
