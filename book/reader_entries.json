@@ -10715,6 +10715,18 @@
       "image_model": "flux-2-dev",
       "seed": 1918848680,
       "created_at": "2026-03-16T03:54:21.130006+08:00"
+    },
+    {
+      "id": "20260316_035849",
+      "offset_start": 59967,
+      "offset_end": 60102,
+      "text": "」\n將谷倒進鍋裏，點燃竈火，把谷焙乾、焙燥，隨後才能脫殼。谷在鍋裏發出的熱\n氣充滿了整個竈屋，那股清香似乎手都抓得到。家裡沒有脫粒工具，磨子也沒\n有，只好把谷倒在桌上，拿升筒在穀子上碾來碾去，碾一陣，簸一陣，總算把谷\n殼基本上除掉了，只剩下嫩穀子和不夠乾燥的穀子搞不掉。",
+      "prompt": "A traditional earthen kitchen filled with warm golden steam rising from a wok over a crackling fire, where a woman in rustic clothing carefully tends to roasting grain, the fragrant aroma visible as swirling mist. On a worn wooden table beside her, she vigorously rubs dried grain in a shallow wooden bowl with a cylindrical wooden roller, surrounded by piles of separated husks. Soft warm light from the fire illuminates her focused face and weathered hands, capturing an intimate moment of traditional rural grain processing. Style: Chinese folk art meets realistic documentary, warm earthy tones, volumetric lighting.",
+      "image": "reader_images/reader_20260316_035849.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 522257970,
+      "created_at": "2026-03-16T03:58:49.691599+08:00"
     }
   ],
   "book_total_chars": 92814,
