@@ -11003,6 +11003,18 @@
       "image_model": "flux-2-dev",
       "seed": 847330274,
       "created_at": "2026-03-16T05:55:29.513684+08:00"
+    },
+    {
+      "id": "20260316_055806",
+      "offset_start": 61566,
+      "offset_end": 61657,
+      "text": "食堂的柴燒得快，特別是煮革新飯，一餐飯要燒兩餐飯的柴。砍下不久的柴是生\n柴，要等幹了才能燒。食堂鬧柴荒，往往是柴還沒幹或連半乾都沒有就要燒，煙\n燻得人睜不開眼，整個食堂裏烏煙瘴氣。",
+      "prompt": "A dimly lit, smoke-filled canteen interior during a harsh winter. Wisps of acrid smoke obscure the rough wooden tables and benches where gaunt figures huddle, their faces smudged and eyes squinting against the choking air. The scene is rendered in a gritty, realist style reminiscent of Soviet-era propaganda posters, emphasizing hardship and scarcity.",
+      "image": "reader_images/reader_20260316_055806.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1469282170,
+      "created_at": "2026-03-16T05:58:06.376055+08:00"
     }
   ],
   "book_total_chars": 92814,
