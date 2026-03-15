@@ -10775,6 +10775,18 @@
       "image_model": "imagen-4",
       "seed": 315672395,
       "created_at": "2026-03-16T04:41:04.146009+08:00"
+    },
+    {
+      "id": "20260316_044313",
+      "offset_start": 60329,
+      "offset_end": 60398,
+      "text": "臨走時，他把身上所有的錢和糧票都留在家\n裏。\n秋園說：「你總要留一個月夥食費出來，總不能餓一個月吧！」\n子恆說：「我不怕，我問同事借得到。",
+      "prompt": "A tender, bittersweet moment in a modest 1950s Chinese home, with a young man placing money and ration coupons on a wooden table while an elderly woman watches with concerned eyes, rendered in soft watercolor style with warm morning light.",
+      "image": "reader_images/reader_20260316_044313.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1776594666,
+      "created_at": "2026-03-16T04:43:13.766157+08:00"
     }
   ],
   "book_total_chars": 92814,
