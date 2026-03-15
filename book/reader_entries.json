@@ -10475,6 +10475,18 @@
       "image_model": "klein",
       "seed": 992102338,
       "created_at": "2026-03-16T02:30:53.471896+08:00"
+    },
+    {
+      "id": "20260316_025642",
+      "offset_start": 58670,
+      "offset_end": 58758,
+      "text": "過了年，之驊加入了共青團。隊上成立了突擊隊，之驊又參加了突擊隊。\n滿寶生要求突擊隊員走在羣衆前面，起模範帶頭作用。他說：「你們可以先挖禾\n草，去年禾草留得長，就是爲了漚肥用。",
+      "prompt": "After the new year, Zhihua joined the Communist Youth League and then the assault team. An older male leader with a stern but encouraging expression instructs the team members, urging them to lead the masses by example in a rural Chinese field circa the 1960s. The atmosphere is one of earnest dedication, with soft, natural lighting illuminating the scene as the young members prepare to dig for fertilizer grass. Realistic, historical style.",
+      "image": "reader_images/reader_20260316_025642.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1166060441,
+      "created_at": "2026-03-16T02:56:42.893234+08:00"
     }
   ],
   "book_total_chars": 92814,
