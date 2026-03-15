@@ -7967,6 +7967,18 @@
       "image_model": "flux",
       "seed": 123268228,
       "created_at": "2026-03-15T11:39:54.904792+08:00"
+    },
+    {
+      "id": "20260315_114144",
+      "offset_start": 45743,
+      "offset_end": 45806,
+      "text": "離禾坪百米開外有口泥塘，幾隻鴨\n子在塘裏戲水，塘水被鴨子攪得渾黃。\n走過禾坪就是田壟，田壟夾在羣山之間，中間有彎彎曲曲的小路。",
+      "prompt": "A serene rural landscape with a muddy pond a hundred meters beyond a rice field, where several ducks paddle through turbid, ochre-colored water they've stirred up. Beyond the paddies stretch undulating mountain ranges framing winding, serpentine pathways through agricultural furrows. The scene captures the humble poetry of countryside life with soft, diffused light filtering through mist that clings to the distant peaks. Render in the monochromatic ink-wash style of traditional Chinese landscape painting, emphasizing atmospheric depth, delicate brushwork, and the contemplative emptiness that balances detailed foreground elements of water, vegetation, and meandering paths.",
+      "image": "reader_images/reader_20260315_114144.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 919155761,
+      "created_at": "2026-03-15T11:41:44.035907+08:00"
     }
   ],
   "book_total_chars": 92814,
