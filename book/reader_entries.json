@@ -9227,6 +9227,18 @@
       "image_model": "flux",
       "seed": 678624051,
       "created_at": "2026-03-15T17:50:56.867360+08:00"
+    },
+    {
+      "id": "20260315_175301",
+      "offset_start": 52173,
+      "offset_end": 52243,
+      "text": "孩子留在自己身邊，也實在可憐。要\n是帶過去，喫得飽、穿得暖，又有書讀，倒是件好事。\n仁受說：「如果真心要帶，肯定還會來，再來就答應他們好了。",
+      "prompt": "In a dimly lit traditional Chinese courtyard home during early evening, a thoughtful middle-aged man in Qing dynasty scholar robes stands pensively by a wooden table, gazing at a small child huddled nearby with a worn blanket, evoking a poignant atmosphere of familial dilemma and quiet compassion. Subtle warm lantern light casts soft shadows on ink-washed scrolls and simple furnishings, highlighting the child's innocent face and the man's furrowed brow as he contemplates separation. Rendered in the intricate style of 19th-century Chinese ancestor paintings, with delicate brushwork, muted earth tones, and a melancholic mood emphasizing filial piety and emotional restraint.",
+      "image": "reader_images/reader_20260315_175301.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1215322775,
+      "created_at": "2026-03-15T17:53:01.976084+08:00"
     }
   ],
   "book_total_chars": 92814,
