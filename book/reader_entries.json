@@ -8183,6 +8183,18 @@
       "image_model": "imagen-4",
       "seed": 1783336226,
       "created_at": "2026-03-15T12:38:38.783184+08:00"
+    },
+    {
+      "id": "20260315_123920",
+      "offset_start": 46783,
+      "offset_end": 46869,
+      "text": "78\n\n\f端陽節那天，賣黃鱔的來了。秋園沒買，正好老和尚也在場。他好高興，眼睛都\n笑成了一條縫，說：「黃鱔、泥鰍肚裡有好多蛋，喫一次，不曉得要傷幾多性\n命，數都數不清。",
+      "prompt": "In a sunlit courtyard of an ancient Chinese Buddhist temple on Duanwu Festival, a humble vendor stands before a woven basket overflowing with wriggling yellow eels and loaches, their slick bodies glistening under dappled light filtering through tiled roofs and overhanging eaves. Nearby, an elderly monk in simple gray robes beams with squinted eyes narrowed into joyful slits, gesturing emphatically at the eels while Qiu Yuan watches indifferently amid incense smoke curling from a bronze burner. Render in warm, golden-hour lighting with a serene yet compassionate atmosphere, in the intricate style of traditional Chinese ink wash painting blended with realistic details, emphasizing moral contemplation and rustic textures.",
+      "image": "reader_images/reader_20260315_123920.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 526977386,
+      "created_at": "2026-03-15T12:39:20.472321+08:00"
     }
   ],
   "book_total_chars": 92814,
