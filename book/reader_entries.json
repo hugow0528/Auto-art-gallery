@@ -9035,6 +9035,18 @@
       "image_model": "zimage",
       "seed": 976747931,
       "created_at": "2026-03-15T16:24:16.053437+08:00"
+    },
+    {
+      "id": "20260315_163939",
+      "offset_start": 51059,
+      "offset_end": 51130,
+      "text": "這時，仁受從竈屋裡端出一碗稀溜\n溜的菜粥，之驊接在手裡，眼淚吧嗒吧嗒地掉下來，整天的委屈盡在其中。\n仁受說：「莫哭莫哭，趕緊喫完，洗洗睡覺吧。",
+      "prompt": "A weathered elderly man in worn traditional clothing gently holds out a steaming bowl of thin vegetable porridge to a young person with tear-streaked face, standing in a dimly lit, humble kitchen with earthen walls and a wood-fired stove, warm candlelight casting soft shadows, captured in the style of Chinese realist folk painting with muted earth tones and emotional tenderness.",
+      "image": "reader_images/reader_20260315_163939.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1742614243,
+      "created_at": "2026-03-15T16:39:39.680663+08:00"
     }
   ],
   "book_total_chars": 92814,
