@@ -8363,6 +8363,18 @@
       "image_model": "zimage",
       "seed": 1927563129,
       "created_at": "2026-03-15T13:15:32.594586+08:00"
+    },
+    {
+      "id": "20260315_131603",
+      "offset_start": 47567,
+      "offset_end": 47638,
+      "text": "徐娭毑富態的圓臉瘦脫了形，人只\n剩下一把骨頭，風吹都會倒。她左胸纏着一大團破布，整個人向右面傾倒，仿佛\n失去平衡的不倒翁，跟個老乞婆一模一樣。",
+      "prompt": "A frail, emaciated elderly woman, her once plump face now gaunt and bone-like, leans precariously to the right as if about to topple, a large bundle of rags tightly wrapped around her left chest. She resembles a desperate old beggar, her posture unstable like a falling tumbler. The scene is rendered in a style reminiscent of a stark, high-contrast charcoal sketch, with a somber, melancholic atmosphere and dim, diffused lighting that emphasizes her extreme fragility and worn appearance.",
+      "image": "reader_images/reader_20260315_131603.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 2095505045,
+      "created_at": "2026-03-15T13:16:03.422489+08:00"
     }
   ],
   "book_total_chars": 92814,
