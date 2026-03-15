@@ -10331,6 +10331,18 @@
       "image_model": "flux-2-dev",
       "seed": 1461329471,
       "created_at": "2026-03-16T01:32:03.006107+08:00"
+    },
+    {
+      "id": "20260316_013954",
+      "offset_start": 57930,
+      "offset_end": 58000,
+      "text": "水庫開工那天，鑼鼓喧天。山坡上插着紅旗，豎着一塊塊標語牌，上頭寫着「戰\n天鬥地，改造自然；一不怕苦，二不怕死；鼓足幹勁，力爭上遊」等口號。",
+      "prompt": "A monumental day of dam construction breaking ground in revolutionary China, with mountains alive with crimson flags fluttering against a dramatic sky, wooden propaganda billboards planted across the hillside bearing bold ideological slogans in black characters, crowds of workers in period clothing gathered below amid billowing dust and the thunderous clash of gongs and drums, the atmosphere charged with collective fervor and optimism, rendered in a heroic socialist realist style with warm, golden-hour lighting that bathes the scene in determined glory, capturing the raw energy of human will against nature's might.",
+      "image": "reader_images/reader_20260316_013954.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 459045599,
+      "created_at": "2026-03-16T01:39:54.578594+08:00"
     }
   ],
   "book_total_chars": 92814,
