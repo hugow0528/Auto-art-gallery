@@ -9023,6 +9023,18 @@
       "image_model": "zimage",
       "seed": 1407017227,
       "created_at": "2026-03-15T16:22:56.334640+08:00"
+    },
+    {
+      "id": "20260315_162416",
+      "offset_start": 50966,
+      "offset_end": 51059,
+      "text": "好不容易回到了家，之驊將那半條黃瓜交給仁受。可憐她一天粒米未沾，全身巴\n熱巴熱，腳板發脹。之驊走近水缸，舀了一瓢冷水，咕咚咕咚喝了個夠，然後用\n手抹着嘴巴，勉強對賠三和田四擠出個笑容。",
+      "prompt": "A worn traditional Chinese village house interior with earthen walls and dim afternoon light; a thin young woman in a faded blue tunic with sweat-stained clothes stands beside a large water jar, exhausted and flushed, holding out half a cucumber to an older man while gulping down water with cupped hands, her bare feet swollen and tired; she forces a weary, strained smile toward two other weathered men sitting in the corner, the scene capturing the poignant struggle of poverty",
+      "image": "reader_images/reader_20260315_162416.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 976747931,
+      "created_at": "2026-03-15T16:24:16.053437+08:00"
     }
   ],
   "book_total_chars": 92814,
