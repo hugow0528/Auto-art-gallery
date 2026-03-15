@@ -8927,6 +8927,18 @@
       "image_model": "grok-imagine",
       "seed": 240328001,
       "created_at": "2026-03-15T15:53:13.393990+08:00"
+    },
+    {
+      "id": "20260315_155507",
+      "offset_start": 50426,
+      "offset_end": 50510,
+      "text": "隨便什麼東西把點子我們。」\n之驊的衣服雖說打了補丁，但拾掇得很乾淨，人也長得眉清目秀。那大嬸對着之\n驊上下打量一番，說：「看樣子你家是大地主，剝削了好多人吧，活該受罪。",
+      "prompt": "A young boy, Zhi Hua, with neatly mended but clean clothes and a handsome, clear-cut face, stands before a stern, matronly woman. The woman, with a critical gaze, scrutinizes him, her expression suggesting judgment and a hint of accusation. The scene is set in a humble, dimly lit interior, perhaps a rural dwelling, with an atmosphere of social tension and poverty. The artistic style is realistic with a touch of chiaroscuro to emphasize the starkness and the characters' emotions.",
+      "image": "reader_images/reader_20260315_155507.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 620109189,
+      "created_at": "2026-03-15T15:55:07.784955+08:00"
     }
   ],
   "book_total_chars": 92814,
