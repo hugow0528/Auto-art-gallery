@@ -8627,6 +8627,18 @@
       "image_model": "zimage",
       "seed": 1235775981,
       "created_at": "2026-03-15T14:08:58.158593+08:00"
+    },
+    {
+      "id": "20260315_141149",
+      "offset_start": 48965,
+      "offset_end": 49029,
+      "text": "走到西河壩小學所在地，學校已無影無蹤，眼前是一個足有六七畝大的水塘。\n幸虧老倌子地形人頭熟，帶着秋園幾經周折，終於找到了子恆。",
+      "prompt": "A weathered old man guides a woman through misty reeds toward a large pond where a school once stood, ancient trees half-submerged in murky water, golden autumn light filtering through bare branches, cinematic widescreen shot in melancholic traditional Chinese landscape painting style with soft diffused lighting.",
+      "image": "reader_images/reader_20260315_141149.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 79411473,
+      "created_at": "2026-03-15T14:11:49.998646+08:00"
     }
   ],
   "book_total_chars": 92814,
