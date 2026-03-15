@@ -10343,6 +10343,18 @@
       "image_model": "grok-imagine",
       "seed": 459045599,
       "created_at": "2026-03-16T01:39:54.578594+08:00"
+    },
+    {
+      "id": "20260316_014045",
+      "offset_start": 57930,
+      "offset_end": 58000,
+      "text": "水庫開工那天，鑼鼓喧天。山坡上插着紅旗，豎着一塊塊標語牌，上頭寫着「戰\n天鬥地，改造自然；一不怕苦，二不怕死；鼓足幹勁，力爭上遊」等口號。",
+      "prompt": "Workers and machinery gather on a hillside at the start of reservoir construction, under a sky filled with the energy of beating drums and gongs. Red flags wave briskly beside wooden slogan boards bearing bold Chinese characters, all under a clear, optimistic light. The scene is rendered in the vibrant, heroic style of a mid-20th century socialist realist propaganda poster.",
+      "image": "reader_images/reader_20260316_014045.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1245916393,
+      "created_at": "2026-03-16T01:40:45.813160+08:00"
     }
   ],
   "book_total_chars": 92814,
