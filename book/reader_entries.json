@@ -9491,6 +9491,18 @@
       "image_model": "grok-imagine",
       "seed": 1456770467,
       "created_at": "2026-03-15T19:37:53.026097+08:00"
+    },
+    {
+      "id": "20260315_193835",
+      "offset_start": 53364,
+      "offset_end": 53439,
+      "text": "秋園輕輕推開大門，眼\n前這一幕頓時讓她們驚呆了。之驊手裡的野菊花一下掉在了地上。\n堂屋裡八仙桌的桌腳上綁着一把竹椅子，一根布繩子將田四攔腰綁在椅子上。",
+      "prompt": "Inside a dimly lit, old-fashioned Chinese hall, two women in simple traditional clothing stand frozen in shock. One has just dropped a bouquet of wild chrysanthemums, her eyes wide with horror. A man is tightly bound with cloth ropes to a bamboo chair, which is itself lashed to the legs of a heavy wooden table. Dramatic, moody lighting from a single window, photorealistic style with a tense, vintage atmosphere.",
+      "image": "reader_images/reader_20260315_193835.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 777736465,
+      "created_at": "2026-03-15T19:38:35.744403+08:00"
     }
   ],
   "book_total_chars": 92814,
