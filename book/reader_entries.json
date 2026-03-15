@@ -10403,6 +10403,18 @@
       "image_model": "zimage",
       "seed": 1477331388,
       "created_at": "2026-03-16T01:55:21.132949+08:00"
+    },
+    {
+      "id": "20260316_015546",
+      "offset_start": 58226,
+      "offset_end": 58296,
+      "text": "畚箕是滿地亂丟的，爲了讓兵桃輕鬆些，之驊每次都有意揀爛\n畚箕上泥巴。兵桃一邊跑，泥巴一邊從爛洞裡往下漏，還沒跑到工地，泥巴差不\n多就漏光了。",
+      "prompt": "A dusty construction site in rural China at dawn, with scattered broken dustpans littering the foreground mud, their rotten holes leaking thick brown sludge in trails behind a young worker named Bingtao running desperately toward distant work sheds, while Zhihua kneels nearby intentionally picking at a basket's frayed edges to ease her burden. The gritty, laborious atmosphere evokes quiet sympathy amid hazy morning mist and scattered debris, rendered in the style of traditional Chinese ink wash painting with layered perspectives—detailed foreground substance contrasting misty middle-ground voids and ethereal background hills. Monochromatic tones of deep blacks, subtle grays, and raw umber dominate, with dynamic brushstrokes capturing motion, hardship, and sparse negative space for a contemplative, poignant mood.",
+      "image": "reader_images/reader_20260316_015546.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 38451223,
+      "created_at": "2026-03-16T01:55:46.960131+08:00"
     }
   ],
   "book_total_chars": 92814,
