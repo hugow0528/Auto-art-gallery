@@ -9119,6 +9119,18 @@
       "image_model": "flux",
       "seed": 267465464,
       "created_at": "2026-03-15T17:02:22.294693+08:00"
+    },
+    {
+      "id": "20260315_170521",
+      "offset_start": 51527,
+      "offset_end": 51597,
+      "text": "山上的雜柴就像剃頭師傅剃光頭一樣，\n被剃得一根不剩。連田埂和路邊的雜草都被割光了。\n一天，秋園替人做了一身新衣，換到兩升米，決定煮餐乾飯喫。",
+      "prompt": "A desolate hillside stripped bare of vegetation under a pale sky, contrasting with an intimate interior scene where a woman in worn clothing tends to a small iron pot of steaming rice over a fire in a sparse, humble hut. Photorealistic, with a mood of quiet resilience amidst bleak surroundings, soft interior firelight against the grey daylight from a small window.",
+      "image": "reader_images/reader_20260315_170521.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1665413273,
+      "created_at": "2026-03-15T17:05:21.614338+08:00"
     }
   ],
   "book_total_chars": 92814,
