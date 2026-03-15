@@ -10919,6 +10919,18 @@
       "image_model": "klein",
       "seed": 295640259,
       "created_at": "2026-03-16T05:36:28.154466+08:00"
+    },
+    {
+      "id": "20260316_054033",
+      "offset_start": 61181,
+      "offset_end": 61275,
+      "text": "他雙手抖得厲害，好久才點上火，撲哧\n一吹，紙媒子的明火滅了，冒出點火星，點着了煙草。仁受猛吸一口，腮幫子深\n\n100\n\n\f陷下去，吐煙時，他起身在房裡踱步，一邊喃喃地說：「這日子冇法過了！",
+      "prompt": "A man with deeply sunken cheeks, his hands trembling, lights a pipe in a dimly lit, sparsely furnished room. Wisps of smoke curl from his mouth as he paces, a look of despair on his face. The scene is rendered in the style of a melancholic ink wash painting, with deep shadows and muted tones evoking a sense of poverty and desperation.",
+      "image": "reader_images/reader_20260316_054033.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1331535058,
+      "created_at": "2026-03-16T05:40:33.490934+08:00"
     }
   ],
   "book_total_chars": 92814,
