@@ -9719,6 +9719,18 @@
       "image_model": "zimage",
       "seed": 235327290,
       "created_at": "2026-03-15T21:34:43.665870+08:00"
+    },
+    {
+      "id": "20260315_213607",
+      "offset_start": 54534,
+      "offset_end": 54633,
+      "text": "那日有大霜。有個社員說：「隊\n長，今天霜太大，早晨潑不得油菜，下午融了霜才能潑。」隊長覺得有道理，就\n決定改爲下午潑。滿寶生立馬跑到鄉裏，添油加醋地反映情況：「社員拖後腿，\n做事不積極，不願出早工。",
+      "prompt": "A vast, frost-covered rapeseed field stretches under a pale, early morning sun in a traditional Chinese ink wash painting style. A lone, hunched figure of a farmer, bundled against the cold, walks between the shimmering white stalks, their breath misting in the frigid air. The atmosphere is serene yet tinged with a sense of quiet diligence, with subtle, cool-toned lighting emphasizing the delicate frost patterns on the plants.",
+      "image": "reader_images/reader_20260315_213607.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1610173822,
+      "created_at": "2026-03-15T21:36:07.388671+08:00"
     }
   ],
   "book_total_chars": 92814,
