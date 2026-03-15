@@ -10103,6 +10103,18 @@
       "image_model": "zimage",
       "seed": 701987816,
       "created_at": "2026-03-15T23:50:56.183011+08:00"
+    },
+    {
+      "id": "20260315_235320",
+      "offset_start": 56688,
+      "offset_end": 56753,
+      "text": "寶生一覺醒過來，樣子兇得像只老虎，桌子一拍，說：「開會開會！大家打起精\n神來，不要再困啦！你們爲什麼對消滅瞌睡有嚴重的牴觸情緒？",
+      "prompt": "A fierce man with wild hair and tiger-like eyes stands at a wooden table in a dim meeting room, one hand slamming down hard while the other points aggressively at sleepy colleagues, his face twisted with impatient fury, harsh overhead light casting dramatic shadows across his contorted features, other drowsy attendees slumped in wooden chairs looking startled and exhausted, 1950s Chinese political poster style with bold contrasts and intense emotional energy.",
+      "image": "reader_images/reader_20260315_235320.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1680674036,
+      "created_at": "2026-03-15T23:53:20.180760+08:00"
     }
   ],
   "book_total_chars": 92814,
