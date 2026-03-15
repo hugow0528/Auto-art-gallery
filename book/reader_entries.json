@@ -10547,6 +10547,18 @@
       "image_model": "gptimage",
       "seed": 1228681586,
       "created_at": "2026-03-16T03:05:01.895733+08:00"
+    },
+    {
+      "id": "20260316_030555",
+      "offset_start": 59061,
+      "offset_end": 59145,
+      "text": "寒風一吹，腿腳上仿佛有無數刀子划過。\n秋園被安排在食堂裏蒸飯、抹桌子。滿婆婆滿娭毑管夥食。\n柴、米、油、鹽在一間房裡，米缸側邊放了好幾種大小不同的竹筒，從半兩到三\n兩。",
+      "prompt": "An elderly Chinese woman in traditional padded clothing stands in a modest rural canteen kitchen during winter,",
+      "image": "reader_images/reader_20260316_030555.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1634181474,
+      "created_at": "2026-03-16T03:05:55.913302+08:00"
     }
   ],
   "book_total_chars": 92814,
