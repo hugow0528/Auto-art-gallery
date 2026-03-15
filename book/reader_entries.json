@@ -10283,6 +10283,18 @@
       "image_model": "flux",
       "seed": 1036262655,
       "created_at": "2026-03-16T01:00:41.674541+08:00"
+    },
+    {
+      "id": "20260316_010332",
+      "offset_start": 57587,
+      "offset_end": 57716,
+      "text": "我堂客生老三時，我一個\n通宵冇睏覺。第二天下午，我堂客說，『我看你實在想困了，到隔壁房裡去躺一\n下吧，有事我叫你。』我跨過門檻到了隔壁房裡，坐到牀邊眯了下眼睛，迷迷糊\n糊好像看到少川的堂客手裡提了個紅布袋經過我面前，對我齜牙咧嘴地一笑，就\n進了我堂客的房間。",
+      "prompt": "In a dimly lit, traditional Chinese bedroom with wooden bedframe and threshold doorway, a weary man in simple period attire sits slumped on the bed edge, eyes half-closed in drowsy haze, as a ghostly woman in flowing red silk robes carrying a crimson cloth bag passes eerily before him. She grins menacingly with bared teeth, her pale face distorted in supernatural menace, while soft afternoon light filters through paper windows casting long shadows and a surreal, foggy atmosphere evoking uncanny dread. Render in the wuxia fantasy style of A Chinese Ghost Story, with canted camera angle, silky drapes billowing ethereally, vibrant orange-blue hues, and painterly details of mist and supernatural glow.",
+      "image": "reader_images/reader_20260316_010332.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 905821325,
+      "created_at": "2026-03-16T01:03:32.682280+08:00"
     }
   ],
   "book_total_chars": 92814,
