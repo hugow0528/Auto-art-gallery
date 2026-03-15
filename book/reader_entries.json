@@ -8747,6 +8747,18 @@
       "image_model": "zimage",
       "seed": 1175768639,
       "created_at": "2026-03-15T15:02:58.604113+08:00"
+    },
+    {
+      "id": "20260315_150356",
+      "offset_start": 49647,
+      "offset_end": 49730,
+      "text": "這天，正喝着稀溜溜的菜粥，之驊對仁受說：「我要出去討飯，這樣餓下去生不\n如死。出去多少能討點回來。」\n「你一個細妹子出去讓人好不放心，萬一出個什麼差錯，真是不得了。",
+      "prompt": "A young girl, frail and dressed in patched, simple clothing, stands tentatively at the threshold of a dimly lit, rustic dwelling. Her face, etched with hunger and a flicker of desperation, looks towards the viewer. The atmosphere is somber and impoverished, with soft, diffused morning light filtering in from a poorly constructed doorway, casting long shadows. The style is reminiscent of realist oil painting, with a focus on conveying hardship and quiet resilience.",
+      "image": "reader_images/reader_20260315_150356.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 7053851,
+      "created_at": "2026-03-15T15:03:56.727825+08:00"
     }
   ],
   "book_total_chars": 92814,
