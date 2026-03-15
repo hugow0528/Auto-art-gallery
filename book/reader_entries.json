@@ -11123,6 +11123,18 @@
       "image_model": "grok-imagine",
       "seed": 759582975,
       "created_at": "2026-03-16T06:55:46.474134+08:00"
+    },
+    {
+      "id": "20260316_065659",
+      "offset_start": 62239,
+      "offset_end": 62316,
+      "text": "半路上鑽出一個張跛子，\n他悄悄地緊跟着範麻子，時不時用那隻好腳踢範麻子的膝蓋窩。範麻子撲通一聲\n跪在地上，爬起來又走，張跛子又踢，一路跪跪走走地到了隊部。",
+      "prompt": "A dusty, uneven path leads to a simple village headquarters building. A hunched, limping man (Zhang Pozi) repeatedly kicks the knee of a man with a pockmarked face (Fan Mazi), causing him to fall and struggle to rise. The atmosphere is one of harshness and humiliation, depicted in a gritty, realistic oil painting style with stark, unforgiving sunlight.",
+      "image": "reader_images/reader_20260316_065659.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 738664641,
+      "created_at": "2026-03-16T06:56:59.427933+08:00"
     }
   ],
   "book_total_chars": 92814,
