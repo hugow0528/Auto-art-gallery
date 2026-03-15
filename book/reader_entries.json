@@ -11087,6 +11087,18 @@
       "image_model": "flux",
       "seed": 681412138,
       "created_at": "2026-03-16T06:48:54.207530+08:00"
+    },
+    {
+      "id": "20260316_064915",
+      "offset_start": 61991,
+      "offset_end": 62073,
+      "text": "半路上，迎面碰到了滿寶生，他對着柴擔看了又看，說：「放下解開。」\n範麻子老老實實照做了。\n「你砍了雞婆樹。」\n範麻子一臉苦相，支支吾吾道：「滿隊長，我也是冇辦法。",
+      "prompt": "A weathered, rural Chinese road in the early 20th century, with a man named Fan Mazi, his face etched with hardship, reluctantly setting down a heavy load of firewood. He is confronted by a stern-faced official, Man Baosheng, who examines the wood with a critical eye. The atmosphere is somber, with a muted, earthy color palette and the harsh, direct light of midday casting sharp shadows. The style should evoke realistic, historical Chinese woodblock prints.",
+      "image": "reader_images/reader_20260316_064915.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1525232138,
+      "created_at": "2026-03-16T06:49:15.791540+08:00"
     }
   ],
   "book_total_chars": 92814,
