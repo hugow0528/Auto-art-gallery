@@ -9287,6 +9287,18 @@
       "image_model": "flux",
       "seed": 557925651,
       "created_at": "2026-03-15T18:01:35.240574+08:00"
+    },
+    {
+      "id": "20260315_181547",
+      "offset_start": 52510,
+      "offset_end": 52592,
+      "text": "二十幾裏路，之驊和秋園輪流馱着田四。之驊不時從路邊摘些野花逗他，田四笑\n個不停。秋園心事重重，一路上時不時地重複着：「田四，乖乖崽，媽媽是冇得\n辦法才走了這步棋。",
+      "prompt": "A weary mother walks along a dusty country road carrying a small child on her back, while another woman plucks wildflowers from the roadside to entertain the laughing boy, whose joy contrasts with the mother's heavy heart and distant gaze — warm afternoon light casts long shadows across the path",
+      "image": "reader_images/reader_20260315_181547.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1388681979,
+      "created_at": "2026-03-15T18:15:47.900852+08:00"
     }
   ],
   "book_total_chars": 92814,
