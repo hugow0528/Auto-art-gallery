@@ -9203,6 +9203,18 @@
       "image_model": "gptimage",
       "seed": 768555740,
       "created_at": "2026-03-15T17:48:40.829267+08:00"
+    },
+    {
+      "id": "20260315_174950",
+      "offset_start": 52001,
+      "offset_end": 52081,
+      "text": "和楊桂生長得正相反，堂客矮小、乾瘦、\n黑不溜秋。夫妻倆很不般配。這堂客沒生育過，家裡喫飯的少，日子倒是過得不\n錯。夫妻倆又提出要帶賠三或田四做崽，好話都講盡了。",
+      "prompt": "A stooped, wizened, dark-skinned woman, noticeably shorter and thinner than her unseen husband, stands in a humble, dimly lit home. The atmosphere is one of quiet resignation and unspoken longing, perhaps hinting at their desire for a child. The scene is rendered in a traditional Chinese ink wash painting style, with muted colors and a focus on expressive brushstrokes to convey the characters' inner state.",
+      "image": "reader_images/reader_20260315_174950.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 596959787,
+      "created_at": "2026-03-15T17:49:50.153451+08:00"
     }
   ],
   "book_total_chars": 92814,
