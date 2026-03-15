@@ -9683,6 +9683,18 @@
       "image_model": "gptimage",
       "seed": 200496440,
       "created_at": "2026-03-15T21:29:20.512142+08:00"
+    },
+    {
+      "id": "20260315_213206",
+      "offset_start": 54401,
+      "offset_end": 54470,
+      "text": "滿寶生跟着東家進西家出，比誰都積極。見到第一\n口好端端的鍋時，隊長還在舉棋不定，寶生一鋤頭下去，一口錚亮鐵鍋立刻四分\n五裂，成了幾塊廢鐵。",
+      "prompt": "A rural Chinese village courtyard during a collective farming movement, with a determined young man named Baosheng in worn peasant clothes swinging a heavy hoe decisively at a sturdy iron wok resting on the dusty ground, shattering it into jagged, gleaming fragments that scatter like broken dreams. The team captain stands nearby in hesitation, his face etched with uncertainty under the harsh midday sun casting long shadows, evoking a tense atmosphere of impulsive destruction and rural hardship. Render in a realistic ink-wash style inspired by Chinese woodblock prints, with dramatic chiaroscuro lighting, earthy tones, and intricate details on the fractured metal shards.",
+      "image": "reader_images/reader_20260315_213206.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1184867678,
+      "created_at": "2026-03-15T21:32:06.604455+08:00"
     }
   ],
   "book_total_chars": 92814,
