@@ -9551,6 +9551,18 @@
       "image_model": "imagen-4",
       "seed": 1081836462,
       "created_at": "2026-03-15T19:49:06.835003+08:00"
+    },
+    {
+      "id": "20260315_195238",
+      "offset_start": 53673,
+      "offset_end": 53756,
+      "text": "三人哭成一堆。\n哭了一陣，秋園才抱起田四去找楊桂生夫婦。前前後後找遍了，連個人影都沒\n有。秋園想找點喫的餵飽田四再走，可屋裡什麼也沒有，只在一張桌上看到半瓶\n芝麻。",
+      "prompt": "A distressed mother cradles her crying child in a dim, sparse interior, her face streaked with tears. Soft, gloomy natural light from a small window falls on a lone half-empty bottle of sesame seeds on a wooden table, evoking a mood of desolate poverty. Realistic style, somber and intimate atmosphere.",
+      "image": "reader_images/reader_20260315_195238.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 2132030831,
+      "created_at": "2026-03-15T19:52:38.702318+08:00"
     }
   ],
   "book_total_chars": 92814,
