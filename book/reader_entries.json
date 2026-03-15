@@ -7871,6 +7871,18 @@
       "image_model": "flux-2-dev",
       "seed": 1808853802,
       "created_at": "2026-03-15T08:02:26.733245+08:00"
+    },
+    {
+      "id": "20260315_090405",
+      "offset_start": 45263,
+      "offset_end": 45334,
+      "text": "只見二菊左手端着水煙筒，右手拿着紙媒子噗地\n一吹，紙媒子燃了，冒着火星，點着了煙鬥。二菊呼嚕嚕長吸一口，一雙小眼睛\n飛快地眨着，眼看十分陶醉。",
+      "prompt": "A close-up realist painting of a woman named Erju in a traditional Chinese interior, holding a water pipe. She blows on a paper spill to ignite it, then lights the tobacco, her eyes closed in deep satisfaction as she takes a long draw. The atmosphere is serene and intimate, lit by the warm glow of the burning ember and soft ambient light.",
+      "image": "reader_images/reader_20260315_090405.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 869809854,
+      "created_at": "2026-03-15T09:04:05.606306+08:00"
     }
   ],
   "book_total_chars": 92814,
