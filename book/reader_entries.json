@@ -9071,6 +9071,18 @@
       "image_model": "flux-2-dev",
       "seed": 1256361340,
       "created_at": "2026-03-15T16:54:49.509469+08:00"
+    },
+    {
+      "id": "20260315_165610",
+      "offset_start": 51290,
+      "offset_end": 51352,
+      "text": "沒了松針可喫，毛蟲成坨成\n坨地從樹上滾下來，掉到地上的毛蟲慌慌張張地到處爬，尋找松針。只兩天時\n間，附近山上的松針就喫光了。",
+      "prompt": "A forest clearing scattered with fallen pine trees under a gray overcast sky, hundreds of fuzzy green-and-black caterpillars滚落 in cascading waves from bare branches, while countless more frantically crawl across the forest floor searching desperately for food among the stripped pine needles. The atmosphere is tense and chaotic, with the visual of devastation visible on every tree. Photorealistic nature documentary style with soft diffused lighting and macro detail on the crawling insects.",
+      "image": "reader_images/reader_20260315_165610.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1307367442,
+      "created_at": "2026-03-15T16:56:10.081131+08:00"
     }
   ],
   "book_total_chars": 92814,
