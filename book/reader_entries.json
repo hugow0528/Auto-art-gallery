@@ -7943,6 +7943,18 @@
       "image_model": "gptimage",
       "seed": 2119680375,
       "created_at": "2026-03-15T11:32:24.634370+08:00"
+    },
+    {
+      "id": "20260315_113323",
+      "offset_start": 45601,
+      "offset_end": 45681,
+      "text": "在黃泥衝雖只住了一年，秋園卻覺得像過了一個世紀。新年剛過幾天，一家人便\n毫不猶豫地搬到了賜福山。\n賜福山是一座小小的寺廟，離黃泥衝只過三條田塍，仍在羣山之中。",
+      "prompt": "A small family carrying bundled possessions walks along a narrow dirt path winding through terraced rice fields toward a modest stone temple nestled among rolling misty mountains, early spring atmosphere, soft diffused light through thin clouds, subtle winter残余 in the bare trees, quiet and contemplative mood, Chinese landscape painting style with cinematic depth.",
+      "image": "reader_images/reader_20260315_113323.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 801071578,
+      "created_at": "2026-03-15T11:33:23.902396+08:00"
     }
   ],
   "book_total_chars": 92814,
