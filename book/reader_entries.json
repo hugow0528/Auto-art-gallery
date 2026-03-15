@@ -9887,6 +9887,18 @@
       "image_model": "imagen-4",
       "seed": 575461171,
       "created_at": "2026-03-15T22:19:47.234309+08:00"
+    },
+    {
+      "id": "20260315_222331",
+      "offset_start": 55552,
+      "offset_end": 55615,
+      "text": "只\n聽生柴發出噼噼啪啪的響聲，濃煙滾滾而上，慢慢和別處的濃煙合在一起，嫋嫋\n地升向天空，越升越高，直到和雲融合，變得縹緲無痕。",
+      "prompt": "The crackling of burning firewood rises into the air, merging with other plumes of smoke and ascending towards a vast, cloudy sky. The scene is rendered in a dramatic, painterly style with a focus on atmospheric perspective, using chiaroscuro lighting to emphasize the rising smoke against a muted, overcast sky. A sense of quiet melancholy pervades the image.",
+      "image": "reader_images/reader_20260315_222331.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 111160386,
+      "created_at": "2026-03-15T22:23:31.283984+08:00"
     }
   ],
   "book_total_chars": 92814,
