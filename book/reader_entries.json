@@ -8099,6 +8099,18 @@
       "image_model": "flux-2-dev",
       "seed": 10634559,
       "created_at": "2026-03-15T12:12:49.754701+08:00"
+    },
+    {
+      "id": "20260315_121805",
+      "offset_start": 46417,
+      "offset_end": 46481,
+      "text": "原來菜籃裏被人塞進\n了活蹦亂跳的黃鱔、泥鰍，也有死的。活的要趕緊放生，死的要挖洞埋掉，搞得\n他手忙腳亂。這都是細伢子們的惡作劇。",
+      "prompt": "A flustered middle-aged Chinese man in a simple rural courtyard stands amid chaos, his woven vegetable basket overturned on the dirt ground spilling out live wriggling yellow eels and mud loaches thrashing wildly alongside a few dead ones, his hands raised in panic as he tries to scoop them up. Mischievous children peek from behind a weathered wooden fence in the background, giggling at their prank, under a warm afternoon sun casting dappled shadows through nearby trees. Rendered in hyper-realistic digital art style with vibrant earthy tones, dynamic motion blur on the eels, and a humorous yet frantic atmosphere evoking traditional Chinese village life.",
+      "image": "reader_images/reader_20260315_121805.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 535903942,
+      "created_at": "2026-03-15T12:18:05.179543+08:00"
     }
   ],
   "book_total_chars": 92814,
