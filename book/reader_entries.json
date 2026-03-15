@@ -7883,6 +7883,18 @@
       "image_model": "flux",
       "seed": 869809854,
       "created_at": "2026-03-15T09:04:05.606306+08:00"
+    },
+    {
+      "id": "20260315_104008",
+      "offset_start": 45334,
+      "offset_end": 45402,
+      "text": "秋園站在一旁懸着心，不曉得又要出什麼事，焦急地等着她開口。\n一鍋煙吸完，二菊才張口說：「我娘身體不好，我住在賜福山，照看娘蠻不方\n便。",
+      "prompt": "A woman with a deeply worried expression stands in a dimly lit, traditional Chinese courtyard, her hands clasped anxiously. She is exhaling smoke from a cigarette, her gaze downcast as if lost in thought or burdened by unspoken concerns. The atmosphere is heavy with anticipation and a sense of unease, rendered in a realistic painting style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260315_104008.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1651154945,
+      "created_at": "2026-03-15T10:40:08.663416+08:00"
     }
   ],
   "book_total_chars": 92814,
