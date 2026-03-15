@@ -10619,6 +10619,18 @@
       "image_model": "flux",
       "seed": 853687519,
       "created_at": "2026-03-16T03:35:27.787070+08:00"
+    },
+    {
+      "id": "20260316_033746",
+      "offset_start": 59403,
+      "offset_end": 59469,
+      "text": "你們乾脆把人講出來，要不乾脆去找寶生把我換\n掉。你們咯樣亂講真是不好。」\n大家一肚子的氣，心裡明明白白，只是不能講，真是啞巴喫黃連。",
+      "prompt": "A group of tense villagers gathered in the dim interior of an old wooden building, their faces etched with suppressed frustration and unspoken words under the harsh light of a single bare bulb. Cinematic realism with dramatic shadows, capturing the heavy atmosphere of a bitter, silent confrontation.",
+      "image": "reader_images/reader_20260316_033746.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 2101635305,
+      "created_at": "2026-03-16T03:37:46.168325+08:00"
     }
   ],
   "book_total_chars": 92814,
