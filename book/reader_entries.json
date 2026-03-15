@@ -10127,6 +10127,18 @@
       "image_model": "flux",
       "seed": 1843756674,
       "created_at": "2026-03-15T23:53:43.394707+08:00"
+    },
+    {
+      "id": "20260315_235524",
+      "offset_start": 56753,
+      "offset_end": 56832,
+      "text": "只知道困、困、\n困，不發言，不爲修水庫獻計，一副與自己冇得關係的樣子……你、你，還有\n你，講講看，到底是什麼意思？」\n二痞子說：「滿隊長，是你先帶頭睡覺的呀。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about someone complaining that people are just sleepy and not contributing to building a reservoir, and then a character named \"二痞子\" (Er Pizi, which might mean \"second rascal\" or a nickname) responds by saying, \"Captain Man, you were the one who started sleeping first.\"\n\nI need to describe a specific visual scene in English, suitable for AI image generation. It should include setting, atmosphere, characters present, and artistic style. Keep it to 2–4 sentences only, and in English only.\n\nKey elements from the passage:\n- People are困 (sleepy, tired).\n- Someone is accusing others of not speaking up or contributing to the reservoir project.\n- The response points out that the leader (Captain Man) was the first to sleep.\n- Setting: likely related to a reservoir construction site or a meeting about it.\n- Characters: Captain Man (满队长), 二痞子 (Er Pizi), and possibly others.\n- Atmosphere: tension, accusation, fatigue.\n\nVisual elements:\n- Setting: A rustic, possibly outdoor or makeshift meeting area near a reservoir construction site. Could be in a village or rural area.\n- Characters: A group of tired-looking workers or villagers, with one figure (Captain Man) being confronted by another (Er Pizi).\n- Atmosphere: Lethargic, tense, with a sense of frustration or irony.\n- Artistic",
+      "image": "reader_images/reader_20260315_235524.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 295171558,
+      "created_at": "2026-03-15T23:55:25.032439+08:00"
     }
   ],
   "book_total_chars": 92814,
