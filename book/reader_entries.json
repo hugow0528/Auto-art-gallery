@@ -10487,6 +10487,18 @@
       "image_model": "imagen-4",
       "seed": 1166060441,
       "created_at": "2026-03-16T02:56:42.893234+08:00"
+    },
+    {
+      "id": "20260316_025804",
+      "offset_start": 58758,
+      "offset_end": 58848,
+      "text": "」\n此時，田裡結着厚厚的冰，像面晶瑩透亮的大鏡子。禾草足有五六寸長，就像無\n數插着筷子的竹筒擺在一張巨大的餐桌上。\n突擊隊員掮着鋤頭走到田邊，用鋤頭將冰打碎，再踩下去，冷自不必說。",
+      "prompt": "A stark, frozen field under a pale winter sky, the thick ice forming a cracked mirror-like surface reflecting sparse grass stalks standing like chopsticks in bamboo tubes. Several determined突击队员 in heavy coats swing hoes to break the ice, their breath visible in the frigid air, captured in a realistic style with a cold, desaturated color palette emphasizing the harshness of manual labor in deep winter.",
+      "image": "reader_images/reader_20260316_025804.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 2022764815,
+      "created_at": "2026-03-16T02:58:04.795807+08:00"
     }
   ],
   "book_total_chars": 92814,
