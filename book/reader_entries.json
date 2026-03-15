@@ -9587,6 +9587,18 @@
       "image_model": "klein",
       "seed": 732273842,
       "created_at": "2026-03-15T20:01:41.519795+08:00"
+    },
+    {
+      "id": "20260315_200206",
+      "offset_start": 53820,
+      "offset_end": 53907,
+      "text": "」\n尿火蟲，方言，蚯蚓。\n\n89\n\n\f秋園怕楊桂生夫婦尋人，就去跟附近的鄰居打個招呼。一個老娭毑蹣跚地趕過\n來，憤憤地對秋園說：「你們這家人也是，崽送給誰也不能送給這種人家。",
+      "prompt": "An elderly Chinese woman with gray hair and wrinkled face shuffles forward on unsteady legs, her weathered hands gesturing emphatically as she speaks with evident indignation to a younger woman in a simple blue dress standing in a humble rural courtyard. The scene is bathed in soft afternoon light, with mud-brick walls and simple wooden doors behind them, capturing the tense moment of",
+      "image": "reader_images/reader_20260315_200206.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1314723881,
+      "created_at": "2026-03-15T20:02:06.216867+08:00"
     }
   ],
   "book_total_chars": 92814,
