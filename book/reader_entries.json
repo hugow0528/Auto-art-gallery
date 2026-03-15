@@ -10943,6 +10943,18 @@
       "image_model": "grok-imagine",
       "seed": 1518055726,
       "created_at": "2026-03-16T05:43:23.752384+08:00"
+    },
+    {
+      "id": "20260316_054630",
+      "offset_start": 61344,
+      "offset_end": 61413,
+      "text": "」\n仁受額頭冒汗，嘴脣顫抖，樣子嚇死人。之驊戰戰兢兢地從地上撿起菜刀放進竈\n屋。回過身來，看到秋園在幫仁受揩汗，之驊趕緊溜進了自己的房間。",
+      "prompt": "In a dimly lit traditional Chinese kitchen at dusk, with flickering lantern light casting long shadows over a rustic stove and scattered vegetables on the dirt floor, a terrified man named Ren sweats profusely from his forehead, his lips trembling in horror as another figure, Qiuyuan, gently wipes his brow with a cloth. Nearby, Zhihua, wide-eyed and trembling, cautiously picks up a bloodied vegetable knife from the ground and places it into the stove alcove, then glances back at the tense scene before slipping guiltily toward a shadowed doorway. The atmosphere is thick with suspense and dread, rendered in a realistic style inspired by Chinese ink wash painting with muted earth tones, dramatic chiaroscuro lighting, and intricate details on wooden beams and humble furnishings.",
+      "image": "reader_images/reader_20260316_054630.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1976449428,
+      "created_at": "2026-03-16T05:46:30.062757+08:00"
     }
   ],
   "book_total_chars": 92814,
