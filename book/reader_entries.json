@@ -8219,6 +8219,18 @@
       "image_model": "gptimage",
       "seed": 97851820,
       "created_at": "2026-03-15T12:42:09.003232+08:00"
+    },
+    {
+      "id": "20260315_124249",
+      "offset_start": 46945,
+      "offset_end": 47023,
+      "text": "之驊學着老和尚的口氣問：「老和尚，今天麼裏事得罪了你老人家，氣衝衝\n的？」\n老和尚說：「殺條黃鱔，一刀下去，血直滴。血滴滴、血滴滴，來世冤孽，何得\n脫絆？",
+      "prompt": "A weathered, elderly Buddhist monk with a sorrowful expression sits in a dimly lit, ancient temple courtyard. Bloodstains, like droplets, are subtly visible on his robes and the stone ground, hinting at a past event. The atmosphere is heavy with melancholy and a sense of karmic retribution, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of dramatic chiaroscuro.",
+      "image": "reader_images/reader_20260315_124249.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2006038403,
+      "created_at": "2026-03-15T12:42:49.418474+08:00"
     }
   ],
   "book_total_chars": 92814,
