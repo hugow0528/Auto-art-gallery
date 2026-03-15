@@ -9047,6 +9047,18 @@
       "image_model": "imagen-4",
       "seed": 1742614243,
       "created_at": "2026-03-15T16:39:39.680663+08:00"
+    },
+    {
+      "id": "20260315_165318",
+      "offset_start": 51130,
+      "offset_end": 51211,
+      "text": "」\n\n85\n\n\f六\n一天晚上，一家人躺在牀上，被附近山上奇怪的聲音吵醒了。那是一種落雨般密\n集的聲音，但明明沒有下雨。一早起來，發現屋檐下、臺階上是成堆的綠毛蟲。",
+      "prompt": "A family awakens in the dead of night, startled by an eerie, rain-like sound cascading down the mountainside, their faces illuminated by pale moonlight streaming through windows. Dawn breaks to reveal hundreds of bright green caterpillars blanketing the eaves, steps, and surrounding surfaces in a writhing, living carpet. The scene captures gothic horror and natural eeriness—dense clusters of lime-green insects against weathered stone and wood, creating an unsettling yet visually striking tableau. Rendered in a detailed, hyperrealistic style with cool, shadowy lighting and vibrant pops of acidic green, evoking a sense of intrusion and quiet dread.",
+      "image": "reader_images/reader_20260315_165318.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1692385577,
+      "created_at": "2026-03-15T16:53:18.568165+08:00"
     }
   ],
   "book_total_chars": 92814,
