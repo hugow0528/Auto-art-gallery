@@ -10823,6 +10823,18 @@
       "image_model": "grok-imagine",
       "seed": 218378580,
       "created_at": "2026-03-16T04:52:00.815670+08:00"
+    },
+    {
+      "id": "20260316_045412",
+      "offset_start": 60546,
+      "offset_end": 60617,
+      "text": "田野的風很涼爽，螢火蟲閃着亮光在頭\n頂穿梭飛舞。\n身上慢慢覺得涼快了。之驊跟仁受帶着兩個弟弟先進屋，安頓他們睡覺。秋園太\n累，在竹牀上睡着了。",
+      "prompt": "A serene rural evening scene, with a gentle breeze rustling through a field of tall grass. Fireflies twinkle and dart through the dusky air, illuminating the scene with a soft, magical glow. In the foreground, a young woman named Qiuyuan sleeps peacefully on a bamboo bed under the open sky, her face relaxed and a feeling of gentle weariness about her. The overall mood is tranquil and slightly melancholic, rendered in a soft, painterly style reminiscent of Impressionism.",
+      "image": "reader_images/reader_20260316_045412.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1404269602,
+      "created_at": "2026-03-16T04:54:12.834779+08:00"
     }
   ],
   "book_total_chars": 92814,
