@@ -8351,6 +8351,18 @@
       "image_model": "flux",
       "seed": 1281057770,
       "created_at": "2026-03-15T13:14:16.580362+08:00"
+    },
+    {
+      "id": "20260315_131532",
+      "offset_start": 47567,
+      "offset_end": 47638,
+      "text": "徐娭毑富態的圓臉瘦脫了形，人只\n剩下一把骨頭，風吹都會倒。她左胸纏着一大團破布，整個人向右面傾倒，仿佛\n失去平衡的不倒翁，跟個老乞婆一模一樣。",
+      "prompt": "A skeletal elderly beggar woman, her round, once-plump face emaciated to the bone, leans precariously to the right as if about to fall. Her left chest is tightly bound with a large wad of dirty rags, and her overall appearance is that of a tattered, unbalanced tumbleweed. The scene is set in a desolate, dusty alleyway with muted, low-key lighting, emphasizing her frail state and the harshness of her existence, rendered in a gritty, realistic art style.",
+      "image": "reader_images/reader_20260315_131532.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1927563129,
+      "created_at": "2026-03-15T13:15:32.594586+08:00"
     }
   ],
   "book_total_chars": 92814,
