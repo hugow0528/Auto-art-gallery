@@ -8399,6 +8399,18 @@
       "image_model": "imagen-4",
       "seed": 607962247,
       "created_at": "2026-03-15T13:21:15.403242+08:00"
+    },
+    {
+      "id": "20260315_132144",
+      "offset_start": 47763,
+      "offset_end": 47826,
+      "text": "那時人們沒這個常識，也沒錢看病，徐娭毑只能讓奶\n子爛下去……整個人散發着撲鼻惡臭，去要飯都沒人敢攏近。\n只有邱家人繼續看顧她。",
+      "prompt": "A starving elderly woman, her body emaciated and gaunt, suffers from a festering, open wound on her chest, emitting a palpable aura of decay and sickness. She is depicted in a dim, impoverished alleyway, the air thick with a visible stench of rot, deterring anyone from approaching her. Despite her abject state, a single, compassionate family member is shown tending to her with quiet devotion, their faces etched with sorrow and resilience. The artistic style should be gritty realism with a somber, muted color palette, emphasizing the harshness of life and the faint glimmer of human kindness.",
+      "image": "reader_images/reader_20260315_132144.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 799388153,
+      "created_at": "2026-03-15T13:21:44.807527+08:00"
     }
   ],
   "book_total_chars": 92814,
