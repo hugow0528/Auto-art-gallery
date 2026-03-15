@@ -10007,6 +10007,18 @@
       "image_model": "flux-2-dev",
       "seed": 546238903,
       "created_at": "2026-03-15T23:01:56.758146+08:00"
+    },
+    {
+      "id": "20260315_230317",
+      "offset_start": 56118,
+      "offset_end": 56215,
+      "text": "瞌睡長在眼睛裡，不困夠覺眼睛就打不開，總不會把眼睛挖出來\n吧。」\n大家哄地笑起來。\n滿寶生不睬長生老倌，只管說自己的：「我這次打算開七天七夜的會，除了帶嫩\n伢細崽的堂客們回去，正勞力一律不回家。",
+      "prompt": "A lively rural Chinese village gathering at dusk in early 20th-century style, inside a dimly lit communal hall filled with laughing peasants clustered around wooden tables strewn with tea bowls and lanterns casting warm golden glows. In the foreground, a stern middle-aged man in simple farmer's tunic gestures emphatically with one hand while speaking, ignoring a sleepy elderly villager rubbing his heavy-lidded eyes beside him, as a diverse crowd of robust laborers and women with young children erupts in hearty, open-mouthed laughter, their faces animated with mirth and camaraderie. Render in realistic oil painting style like Norman Rockwell meets Chinese ink wash, with earthy tones, dramatic chiaroscuro lighting emphasizing joyful chaos and rustic textures.",
+      "image": "reader_images/reader_20260315_230317.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 24536514,
+      "created_at": "2026-03-15T23:03:17.405807+08:00"
     }
   ],
   "book_total_chars": 92814,
