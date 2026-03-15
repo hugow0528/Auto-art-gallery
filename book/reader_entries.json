@@ -10295,6 +10295,18 @@
       "image_model": "grok-imagine",
       "seed": 905821325,
       "created_at": "2026-03-16T01:03:32.682280+08:00"
+    },
+    {
+      "id": "20260316_011334",
+      "offset_start": 57716,
+      "offset_end": 57782,
+      "text": "就在這時，我堂客大叫一聲，我一個激靈，覺得不對頭，少\n川的堂客上半年生毛毛就生死了。我嚇得一步跳進房裡，還是晚了，我堂客已經\n死了。",
+      "prompt": "A dimly lit, rustic Sichuanese room, heavy with the oppressive atmosphere of sudden tragedy. A woman lies still on a simple bed, her face pale and eyes closed, clearly deceased. The protagonist, a man with a look of utter shock and horror etched onto his face, has just stumbled into the room, his body tensed as if he has witnessed an unbearable sight. The style should be reminiscent of traditional Chinese ink wash painting with dramatic chiaroscuro lighting, emphasizing the stark contrast between light and shadow to heighten the sense of dread and despair.",
+      "image": "reader_images/reader_20260316_011334.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1224571721,
+      "created_at": "2026-03-16T01:13:34.989794+08:00"
     }
   ],
   "book_total_chars": 92814,
