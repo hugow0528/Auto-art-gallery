@@ -8591,6 +8591,18 @@
       "image_model": "flux",
       "seed": 137694745,
       "created_at": "2026-03-15T14:00:17.679880+08:00"
+    },
+    {
+      "id": "20260315_140611",
+      "offset_start": 48793,
+      "offset_end": 48871,
+      "text": "但聽見老倌子說小學已被\n水衝走，她實在擔心子恆的安危，恨不能插上翅膀飛到西河壩。\n兩萬塊，相當於如今的人民幣兩元。\n夜深人靜，秋園不辨方向，便請老倌子帶路。",
+      "prompt": "A worried mother in traditional Chinese clothing stands at dusk on a muddy riverbank, following an elderly farmer through floodwaters, with destroyed buildings and debris visible in the misty autumn evening, cinematic realism with moody lighting.",
+      "image": "reader_images/reader_20260315_140611.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 764844324,
+      "created_at": "2026-03-15T14:06:11.885034+08:00"
     }
   ],
   "book_total_chars": 92814,
