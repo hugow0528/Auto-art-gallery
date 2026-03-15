@@ -10259,6 +10259,18 @@
       "image_model": "flux",
       "seed": 1356387777,
       "created_at": "2026-03-16T00:55:08.082083+08:00"
+    },
+    {
+      "id": "20260316_005822",
+      "offset_start": 57421,
+      "offset_end": 57490,
+      "text": "但她也怕遲到而被滿寶生剋扣她家的口糧。幸好兵桃天不亮就來叫她一同去\n水庫工地。\n平日村裏人湊在一起，最喜歡說鬼故事。一次，全隊去鋤紅薯苗。",
+      "prompt": "A young woman with determined eyes, her hair tied back, hurries along a dirt path before dawn, carrying a simple tool. The air is cool and misty, hinting at the vastness of a nearby reservoir construction site. In the background, the faint silhouettes of villagers gather, their faces illuminated by the dim, pre-dawn light, creating a mood of shared labor and whispered tales. The artistic style should be a blend of realistic rural depiction with a touch of atmospheric, almost ethereal lighting.",
+      "image": "reader_images/reader_20260316_005822.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1363576425,
+      "created_at": "2026-03-16T00:58:22.422152+08:00"
     }
   ],
   "book_total_chars": 92814,
