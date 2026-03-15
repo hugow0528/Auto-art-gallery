@@ -9611,6 +9611,18 @@
       "image_model": "flux",
       "seed": 973555349,
       "created_at": "2026-03-15T20:59:39.883512+08:00"
+    },
+    {
+      "id": "20260315_211351",
+      "offset_start": 53983,
+      "offset_end": 54064,
+      "text": "」\n秋園說：「沒有得東西。他看我們家困難，冇飯喫，好心把細伢子帶過來做崽，\n說有喫有穿，還送他讀書。」\n老娭毑說：「楊桂生堂客說，你們得了他們三擔谷，花了大價錢。",
+      "prompt": "A rural Chinese village scene from the early 20th century, depicting a modest family's modest dwelling with traditional architecture—weathered wooden beams, simple clay walls, and a humble courtyard. An elderly woman and a younger woman stand in conversation near the entrance, their expressions reflecting a mix of gratitude and concern, while a young child plays nearby in worn clothing. The setting is rendered in muted, earthy tones with soft, diffused natural light filtering through the trees, capturing the quiet poverty and human kindness of village life during a time of hardship. The artistic style should evoke traditional Chinese ink painting sensibilities merged with realistic detail—intimate, melancholic, and deeply human.",
+      "image": "reader_images/reader_20260315_211351.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1192662822,
+      "created_at": "2026-03-15T21:13:51.423300+08:00"
     }
   ],
   "book_total_chars": 92814,
