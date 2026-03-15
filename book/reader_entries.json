@@ -10115,6 +10115,18 @@
       "image_model": "flux-2-dev",
       "seed": 1680674036,
       "created_at": "2026-03-15T23:53:20.180760+08:00"
+    },
+    {
+      "id": "20260315_235343",
+      "offset_start": 56688,
+      "offset_end": 56753,
+      "text": "寶生一覺醒過來，樣子兇得像只老虎，桌子一拍，說：「開會開會！大家打起精\n神來，不要再困啦！你們爲什麼對消滅瞌睡有嚴重的牴觸情緒？",
+      "prompt": "A dimly lit, cluttered meeting room at night, with one fierce man in a shirt slamming his hand on a wooden table, while several exhausted colleagues slump in chairs around him, captured in dramatic chiaroscuro lighting with a gritty, realistic oil painting style.",
+      "image": "reader_images/reader_20260315_235343.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1843756674,
+      "created_at": "2026-03-15T23:53:43.394707+08:00"
     }
   ],
   "book_total_chars": 92814,
