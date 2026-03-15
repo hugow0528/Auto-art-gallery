@@ -9923,6 +9923,18 @@
       "image_model": "gptimage",
       "seed": 619067806,
       "created_at": "2026-03-15T22:48:40.577405+08:00"
+    },
+    {
+      "id": "20260315_224908",
+      "offset_start": 55683,
+      "offset_end": 55755,
+      "text": "當時，兵桃偷偷離開人羣，走到曬穀坪上。他看見\n一牀破爛曬墊滾成筒丟在地上，就爬了進去，穩穩噹噹睡了一晚好覺，連蚊子都\n找不到他，更別提滿寶生了。",
+      "prompt": "A serene rural Chinese threshing ground at dusk under a vast starry sky, with scattered grain sheaves and a rolled-up tattered straw mat lying abandoned on the dusty earth, its frayed edges catching faint moonlight. Inside the dim, cozy cylinder of the mat, a young boy named Bingtao sleeps soundly curled up, his peaceful face hidden from swarming mosquitoes and invisible threats, evoking a mood of hidden tranquility and innocent escape. Render in the traditional ink-wash shanshui style of Song dynasty masters like Guo Xi, using delicate brushstrokes in monochromatic blacks and grays, with misty negative space, layered depth planes, and subtle atmospheric perspective for a sense of ethereal calm and harmony with nature.",
+      "image": "reader_images/reader_20260315_224908.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 976786805,
+      "created_at": "2026-03-15T22:49:08.390123+08:00"
     }
   ],
   "book_total_chars": 92814,
