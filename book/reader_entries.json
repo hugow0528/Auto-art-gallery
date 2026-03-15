@@ -10835,6 +10835,18 @@
       "image_model": "zimage",
       "seed": 1404269602,
       "created_at": "2026-03-16T04:54:12.834779+08:00"
+    },
+    {
+      "id": "20260316_045652",
+      "offset_start": 60617,
+      "offset_end": 60693,
+      "text": "之驊想等弟弟們睡了再叫醒她。\n把兄弟倆哄睡後，仁受對之驊說：「你去場院把椅子搬進來，順帶把你媽媽喊\n醒，讓她回屋睡。」\n之驊走到禾坪裏，秋園正睡得香甜。",
+      "prompt": "The passage describes a scene where a character named Zhihua is waiting for his younger brothers to fall asleep before waking up his mother. After successfully lulling the brothers to sleep, Zhihua is instructed by Renshou to fetch chairs from the courtyard and wake his mother, Qiuyuan, who is sleeping soundly in the field.\n\nPrompt: A young boy, Zhihua, stands in a moonlit, rustic courtyard with a few scattered chairs. He is about to wake his sleeping mother, Qiuyuan, who is dozing peacefully outdoors in the dim light, perhaps near harvested fields. The atmosphere is quiet and serene, with a touch of wistfulness. The art style should be reminiscent of traditional Chinese ink wash painting, emphasizing soft textures and muted colors.A young boy, Zhihua, stands in a moonlit, rustic courtyard with a few scattered chairs. He is about to wake his sleeping mother, Qiuyuan, who is dozing peacefully outdoors in the dim light, perhaps near harvested fields. The atmosphere is quiet and serene, with a touch of wistfulness. The art style should be reminiscent of traditional Chinese ink wash painting, emphasizing soft textures and muted colors.",
+      "image": "reader_images/reader_20260316_045652.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 303316800,
+      "created_at": "2026-03-16T04:56:52.522146+08:00"
     }
   ],
   "book_total_chars": 92814,
