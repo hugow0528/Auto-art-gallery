@@ -10931,6 +10931,18 @@
       "image_model": "klein",
       "seed": 1331535058,
       "created_at": "2026-03-16T05:40:33.490934+08:00"
+    },
+    {
+      "id": "20260316_054323",
+      "offset_start": 61275,
+      "offset_end": 61344,
+      "text": "這日\n子冇法過了！」\n突然，仁受的怒火又像火山一樣爆發了，從不罵人的他居然用粗話罵起人來，然\n後定定地看着地上的菜刀，吼道：「我要宰了他！",
+      "prompt": "A tense, dimly lit Hong Kong kitchen at night, cluttered with scattered vegetables and a gleaming cleaver on the grimy floor, where a middle-aged Chinese man named Ren bursts with volcanic rage—veins bulging on his forehead, eyes fixed murderously on the knife, mouth open in a roar of profanity. His face contorts in explosive fury, sweat beading under harsh fluorescent light casting dramatic shadows, evoking a gritty Cantonese drama atmosphere of raw desperation and pent-up violence. Render in hyper-realistic digital art style like a cinematic still from a Wong Kar-wai film, with high contrast lighting, muted earth tones, and intense emotional depth.",
+      "image": "reader_images/reader_20260316_054323.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1518055726,
+      "created_at": "2026-03-16T05:43:23.752384+08:00"
     }
   ],
   "book_total_chars": 92814,
