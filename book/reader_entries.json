@@ -10415,6 +10415,18 @@
       "image_model": "grok-imagine",
       "seed": 38451223,
       "created_at": "2026-03-16T01:55:46.960131+08:00"
+    },
+    {
+      "id": "20260316_015852",
+      "offset_start": 58296,
+      "offset_end": 58392,
+      "text": "不久，上面來人檢查修水庫的進度。\n天上飄着毛毛雪，大家站在齊小腿肚的泥巴裏。寒風呼呼吹過，挖土的、擔土\n的、打夯的全被吹得不成人形，頭髮亂七八糟，臉凍成了灰白色，嘴巴哆嗦得連\n句話都講不出。",
+      "prompt": "A photorealistic scene of exhausted workers laboring in a muddy reservoir construction site during a bleak winter day. A light snow falls as windswept figures, their hair disheveled and faces pale with cold, struggle to dig and carry earth in the freezing mud. The mood is one of harsh, gritty realism under a heavy, overcast sky.",
+      "image": "reader_images/reader_20260316_015852.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 46737329,
+      "created_at": "2026-03-16T01:58:52.617260+08:00"
     }
   ],
   "book_total_chars": 92814,
