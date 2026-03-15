@@ -10499,6 +10499,18 @@
       "image_model": "imagen-4",
       "seed": 2022764815,
       "created_at": "2026-03-16T02:58:04.795807+08:00"
+    },
+    {
+      "id": "20260316_025917",
+      "offset_start": 58848,
+      "offset_end": 58921,
+      "text": "那些大\n大小小的冰塊有稜有角，一腳踩下去，就像有萬千把尖刀從四面八方刺向腳丫\n子。腳雖已凍得麻木，仍能感到陣陣刺痛。有時，水中還會沁出殷紅的血來。",
+      "prompt": "A close-up view of a human foot stepping onto jagged, angular ice blocks in a frozen, shallow water puddle on a bleak winter landscape, sharp crystalline edges piercing the numb, pale skin with droplets of bright crimson blood seeping out and mixing into the icy water, evoking intense pain amid numbness. The atmosphere is harsh and unforgiving, with dim, cold blue-gray lighting from a pale overcast sky, misty fog swirling around scattered ice chunks, and subtle steam rising from fresh wounds. Rendered in hyper-realistic digital art style inspired by surrealism, dramatic chiaroscuro contrasts, high detail on textures of fractured ice and glistening blood, wide-angle lens for immersive tension.",
+      "image": "reader_images/reader_20260316_025917.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 798672429,
+      "created_at": "2026-03-16T02:59:17.977369+08:00"
     }
   ],
   "book_total_chars": 92814,
