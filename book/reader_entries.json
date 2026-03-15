@@ -9179,6 +9179,18 @@
       "image_model": "gptimage",
       "seed": 775984077,
       "created_at": "2026-03-15T17:36:20.275414+08:00"
+    },
+    {
+      "id": "20260315_173642",
+      "offset_start": 51811,
+      "offset_end": 51924,
+      "text": "因父母年紀大了，就回了家鄉。\n楊桂生進門後就不停地打量賠三和田四，還不停地誇兄弟倆長得好。又坐了一\n陣，他和仁受小聲地說起話來：「你們生活這麼困難，喫了上餐冇得下餐，細伢\n子們正是長身體的時候，連飯都喫不飽，我看了真覺得作孽。",
+      "prompt": "In a dimly lit, humble rural Chinese home with weathered wooden beams and sparse furnishings, Yang Guisheng, a middle-aged man with a concerned expression, leans in to whisper intently to Ren Shou, while two sturdy young brothers, Pei San and Tian Si, sit nearby being closely observed with admiring glances. The atmosphere is one of quiet poverty and familial worry, with soft natural light filtering through paper windows onto a simple wooden table holding meager remnants of a meal, evoking empathy for the children's underfed frames during their growth years. Rendered in a realistic style inspired by Chinese ink wash painting with muted earth tones, warm golden highlights on faces, and a somber, compassionate mood.",
+      "image": "reader_images/reader_20260315_173642.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1250943867,
+      "created_at": "2026-03-15T17:36:42.840101+08:00"
     }
   ],
   "book_total_chars": 92814,
