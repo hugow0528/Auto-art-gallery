@@ -8315,6 +8315,18 @@
       "image_model": "flux",
       "seed": 283226152,
       "created_at": "2026-03-15T13:11:25.184233+08:00"
+    },
+    {
+      "id": "20260315_131206",
+      "offset_start": 47363,
+      "offset_end": 47435,
+      "text": "徐老先生一直病懨懨的，沒幾年就死了，倒沒受什麼罪。徐正明原\n本就是個桐油缸，肩不能扛、手不能提，眼神又不好，沒了田租，一家人就失去\n了生活來源。",
+      "prompt": "A somber, dimly lit interior of a traditional Chinese dwelling, with an elderly, frail man lying weakly on a bed, his eyes unfocused and his body emaciated. Beside him, a man with a hunched posture and a worried expression attempts to tend to him, while in the background, a woman and a child huddle together, their faces etched with despair. The scene should be rendered in a somber, realistic style reminiscent of traditional Chinese ink wash painting, emphasizing the muted colors and the heavy atmosphere of poverty and illness.",
+      "image": "reader_images/reader_20260315_131206.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 2099511523,
+      "created_at": "2026-03-15T13:12:06.995221+08:00"
     }
   ],
   "book_total_chars": 92814,
