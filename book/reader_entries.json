@@ -10067,6 +10067,18 @@
       "image_model": "flux",
       "seed": 2027910266,
       "created_at": "2026-03-15T23:39:23.074313+08:00"
+    },
+    {
+      "id": "20260315_234443",
+      "offset_start": 56487,
+      "offset_end": 56553,
+      "text": "有麼裏好笑？未必你們心裡不是咯樣想\n的，只怕比我想得還痞。」\n又一陣鬨笑。\n會議堅持了三天三夜，隊部大屋被男人們的捲菸燻得烏煙瘴氣。",
+      "prompt": "A dimly lit, spacious rural meeting hall in mid-20th-century China, thick with hazy blue-gray cigarette smoke swirling like fog, filling the air during a tense three-day revolutionary team conference that has persisted into the night. Dozens of rugged peasant men in simple cotton jackets and caps crowd around a wooden table littered with tea bowls and ashtrays overflowing with stubs, their faces illuminated by flickering oil lamps and kerosene lanterns, some erupting in boisterous laughter while others lean in animatedly, gesturing emphatically amid the chaotic, charged atmosphere of debate and camaraderie. Render in a gritty realist style inspired by 1930s-1940s Chinese woodblock prints and socialist propaganda art, with dramatic chiaroscuro lighting casting deep shadows, earthy tones of browns, grays, and muted yellows, evoking exhaustion, defiance, and raw human intensity.",
+      "image": "reader_images/reader_20260315_234443.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1704188839,
+      "created_at": "2026-03-15T23:44:43.369919+08:00"
     }
   ],
   "book_total_chars": 92814,
