@@ -10367,6 +10367,18 @@
       "image_model": "grok-imagine",
       "seed": 789166032,
       "created_at": "2026-03-16T01:44:33.320793+08:00"
+    },
+    {
+      "id": "20260316_014830",
+      "offset_start": 58083,
+      "offset_end": 58153,
+      "text": "挖土的人站在冰碴子裡凍得直打戰。\n革新飯，在蒸熟的鉢子飯裏摻點水，再蒸一次，以增大其體積。\n飯送到工地來喫，是每人每頓不到三兩米的革新飯 。",
+      "prompt": "A gaunt laborer shivers in a desolate, frozen landscape, surrounded by ice shards under a pale, weak sun. Close-up on a steaming bowl of watery, re-steamed rice, its meager portion barely filling the bowl, presented in a stark, realist style with a muted color palette and somber lighting to emphasize hardship. A wide shot of a construction site with figures toiling in the cold, their faces etched with exhaustion, while others carry small portions of the unappetizing rice. Realistic, gritty documentary style, desaturated colors, cold blue and grey tones, harsh natural light casting long shadows.",
+      "image": "reader_images/reader_20260316_014830.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1799323041,
+      "created_at": "2026-03-16T01:48:30.524344+08:00"
     }
   ],
   "book_total_chars": 92814,
