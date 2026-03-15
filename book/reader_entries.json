@@ -10535,6 +10535,18 @@
       "image_model": "flux-2-dev",
       "seed": 1076062130,
       "created_at": "2026-03-16T03:01:59.994619+08:00"
+    },
+    {
+      "id": "20260316_030501",
+      "offset_start": 59061,
+      "offset_end": 59145,
+      "text": "寒風一吹，腿腳上仿佛有無數刀子划過。\n秋園被安排在食堂裏蒸飯、抹桌子。滿婆婆滿娭毑管夥食。\n柴、米、油、鹽在一間房裡，米缸側邊放了好幾種大小不同的竹筒，從半兩到三\n兩。",
+      "prompt": "A chilly autumn wind cuts across exposed legs like knives, creating a harsh, biting atmosphere in a dimly lit, rustic kitchen. An elderly woman, with a stern expression, oversees a young woman named Qiuyuan as she diligently steams rice and wipes down rough wooden tables. Shelves nearby are stocked with basic necessities: firewood, rice in a large earthenware jar, oil, and salt, with various bamboo measuring cups of different sizes neatly arranged beside the rice bin. The scene should be rendered in a style reminiscent of traditional Chinese ink wash painting, emphasizing the starkness of the environment and the weariness of the characters.",
+      "image": "reader_images/reader_20260316_030501.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1228681586,
+      "created_at": "2026-03-16T03:05:01.895733+08:00"
     }
   ],
   "book_total_chars": 92814,
