@@ -10799,6 +10799,18 @@
       "image_model": "zimage",
       "seed": 581725973,
       "created_at": "2026-03-16T04:47:15.570657+08:00"
+    },
+    {
+      "id": "20260316_044745",
+      "offset_start": 60398,
+      "offset_end": 60470,
+      "text": "這點錢還買不到十碗煮南瓜呢。」\n勒了谷的手掌，第二天又紅又腫，之驊想擰條毛巾洗臉都擰不得，火辣辣地痛。\n有了一點米喫，仁受的精神和臉色都好多了。",
+      "prompt": "A close-up, slightly desaturated photograph captures a young boy's rough, red, and swollen hand, the knuckles prominent, resting on a coarse wooden table. The background is dimly lit, hinting at poverty and a sparse interior, with a single bowl of pale, watery rice visible in the foreground, suggesting a meager meal. The mood is somber yet hopeful, focusing on the tactile pain and the small comfort of sustenance.",
+      "image": "reader_images/reader_20260316_044745.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 84549826,
+      "created_at": "2026-03-16T04:47:45.887863+08:00"
     }
   ],
   "book_total_chars": 92814,
