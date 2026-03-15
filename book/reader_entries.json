@@ -8783,6 +8783,18 @@
       "image_model": "imagen-4",
       "seed": 856033,
       "created_at": "2026-03-15T15:13:58.148678+08:00"
+    },
+    {
+      "id": "20260315_151643",
+      "offset_start": 49791,
+      "offset_end": 49853,
+      "text": "還是我去。我\n去邀兵桃，有個伴膽子大些。」\n第二天一早，兵桃就來了。之驊背上打了兩個補丁的布袋，裡面放了一隻碗、一\n雙筷子。",
+      "prompt": "Early morning sunlight filters through a misty rural courtyard in ancient China, where a young boy named Bingtao stands at the threshold of a humble wooden door, his patched cloth shoulder bag bulging with a simple bowl and chopsticks pair. Zhihua, resolute and companion-ready, gestures invitingly toward the winding dirt path ahead, evoking a sense of bold camaraderie and quiet anticipation. Rendered in the traditional ink-wash style of Song Dynasty Chinese landscape painting, with layered misty depths, sparse monochromatic tones, bold brushstrokes on rice paper, subtle voids of negative space, and a serene, harmonious atmosphere.",
+      "image": "reader_images/reader_20260315_151643.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 2119161564,
+      "created_at": "2026-03-15T15:16:44.022096+08:00"
     }
   ],
   "book_total_chars": 92814,
