@@ -9731,6 +9731,18 @@
       "image_model": "grok-imagine",
       "seed": 1610173822,
       "created_at": "2026-03-15T21:36:07.388671+08:00"
+    },
+    {
+      "id": "20260315_213800",
+      "offset_start": 54633,
+      "offset_end": 54694,
+      "text": "隊長不但不批評，還依着他們，早晨油菜就冇潑得\n成。」\n公社從這兩回看上了滿寶生，覺得他有文化，覺悟高，工作積極，是塊好料。",
+      "prompt": "A young Chinese man in 1950s rural attire stands in a golden rapeseed field at dawn, surrounded by commune officials observing him with approval. The morning mist rises over the agricultural landscape as the man works diligently among the bright yellow flowers, symbolizing his diligence and potential. The scene is rendered in the style of socialist realism painting, with warm golden lighting and a documentary aesthetic capturing the idealistic rural development era.",
+      "image": "reader_images/reader_20260315_213800.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 616077312,
+      "created_at": "2026-03-15T21:38:00.800000+08:00"
     }
   ],
   "book_total_chars": 92814,
