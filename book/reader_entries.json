@@ -9563,6 +9563,18 @@
       "image_model": "flux",
       "seed": 2132030831,
       "created_at": "2026-03-15T19:52:38.702318+08:00"
+    },
+    {
+      "id": "20260315_195458",
+      "offset_start": 53756,
+      "offset_end": 53820,
+      "text": "秋園倒了一點放在之驊口袋裡，要她在路上餵給田四喫。\n秋園對田四說：「田四，我們回家，再不來了，再不把你送人了，要死也死在一\n起。",
+      "prompt": "A weathered Chinese woman in simple rural clothing kneels on a dusty dirt path, gently pressing food into a young boy's pocket while speaking intently to him, her face etched with desperate love and sorrow; behind them, a barren autumn field stretches under gray overcast skies, the dying",
+      "image": "reader_images/reader_20260315_195458.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 838750958,
+      "created_at": "2026-03-15T19:54:58.941590+08:00"
     }
   ],
   "book_total_chars": 92814,
