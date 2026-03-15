@@ -7955,6 +7955,18 @@
       "image_model": "gptimage",
       "seed": 801071578,
       "created_at": "2026-03-15T11:33:23.902396+08:00"
+    },
+    {
+      "id": "20260315_113954",
+      "offset_start": 45681,
+      "offset_end": 45743,
+      "text": "一棟泥巴屋\n子，三面環山，屋子正前方是個禾坪。一隻大公雞帶着一羣母雞在坪裏追跑，扒\n拉着浮土，一見人來，咯咯叫聲便響成一片。",
+      "prompt": "A rustic mud-brick house nestled in a remote rural setting, surrounded by three sides of steep, mist-shrouded mountains in the traditional Chinese **shanshui** style, with a flat threshing ground (heping) extending openly in front under soft morning light filtering through haze. A large, vibrant red-combed rooster leads a flock of hens energetically chasing and scratching in the loose, dusty soil, their feathers fluffed in sudden alarm as they cluck noisily at an approaching human figure, capturing a lively, chaotic village atmosphere with earthy browns, greens, and subtle blue-green mineral tones. Render in meticulous **gongbi** ink and wash technique on silk scroll, evoking Song dynasty landscape serenity blended with dynamic peasant life, high detail, contemplative mood.",
+      "image": "reader_images/reader_20260315_113954.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 123268228,
+      "created_at": "2026-03-15T11:39:54.904792+08:00"
     }
   ],
   "book_total_chars": 92814,
