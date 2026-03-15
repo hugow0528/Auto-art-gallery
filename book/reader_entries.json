@@ -8807,6 +8807,18 @@
       "image_model": "flux",
       "seed": 227712491,
       "created_at": "2026-03-15T15:26:26.728857+08:00"
+    },
+    {
+      "id": "20260315_152652",
+      "offset_start": 49853,
+      "offset_end": 49928,
+      "text": "四老倌給他們一人準備了一根棍子，說討飯棍討飯棍，不拿根棍子就不\n像討飯的樣子，還可以趕狗防身。\n之驊走到坪裏的時候，仁受手裡拿把刷子，從房裡追了出來。",
+      "prompt": "An elderly bearded man in worn traditional Chinese clothing stands in a dusty rural courtyard, handing worn wooden sticks to a group of beggars, with a humble mud-brick house and drying laundry behind. A young man in a blue",
+      "image": "reader_images/reader_20260315_152652.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1616930932,
+      "created_at": "2026-03-15T15:26:52.264861+08:00"
     }
   ],
   "book_total_chars": 92814,
