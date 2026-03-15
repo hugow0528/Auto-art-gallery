@@ -10319,6 +10319,18 @@
       "image_model": "imagen-4",
       "seed": 2063632996,
       "created_at": "2026-03-16T01:19:41.697621+08:00"
+    },
+    {
+      "id": "20260316_013202",
+      "offset_start": 57859,
+      "offset_end": 57930,
+      "text": "95\n\n\f突然，有人尖叫一聲：「看，講鬼鬼就來了！」\n大家一看，原來是滿寶生正從遠處向茅棚走來。呼啦一聲，大家衝出茅棚，衝向\n雨中的紅薯地。",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to respond ONLY with the image prompt in English — no explanations, no translations, no markdown. So, my response should be purely the prompt.\n\nThe passage is: \"突然，有人尖叫一聲：「看，講鬼鬼就來了！」大家一看，原來是滿寶生正從遠處向茅棚走來。呼啦一聲，大家衝出茅棚，衝向雨中的紅薯地。\"\n\nTranslated to English: \"Suddenly, someone screamed: 'Look, talking about ghosts, here comes one!' Everyone looked and saw that it was Man Baosheng walking from the distance towards the thatched shed. With a whoosh, everyone rushed out of the shed and ran towards the sweet potato field in the rain.\"\n\nI need to craft a vivid, detailed English image-generation prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nKey elements from the passage:\n\n- Setting: A thatched shed (茅棚), rainy day, sweet potato field (紅薯地) in the rain.\n\n- Characters: A group of people (大家) rushing out of the shed, and Man Baosheng (滿寶生) walking from the distance.\n\n- Atmosphere: Sudden, dramatic, perhaps eerie or tense due to the mention of ghosts, but it turns out to be a person. The",
+      "image": "reader_images/reader_20260316_013202.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1461329471,
+      "created_at": "2026-03-16T01:32:03.006107+08:00"
     }
   ],
   "book_total_chars": 92814,
