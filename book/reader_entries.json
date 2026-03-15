@@ -8711,6 +8711,18 @@
       "image_model": "flux-2-dev",
       "seed": 1121815957,
       "created_at": "2026-03-15T14:38:55.580355+08:00"
+    },
+    {
+      "id": "20260315_143924",
+      "offset_start": 49396,
+      "offset_end": 49468,
+      "text": "豬、狗、牛、羊在水裡掙扎，偶而發出哭一般的叫聲。\n好在多數垸內居民已轉移到安全地點，不然不知道要淹死幾多人。\n子恆安排秋園在一個女學生家裡住下。",
+      "prompt": "A grim, stormy flood scene at dusk, with pigs, dogs, cows, and sheep struggling in murky, churning brown water amidst the partially submerged roofs of a village, their terrified expressions visible under the gloomy light of torrential rain, photorealistic style with a mood of desperate survival.",
+      "image": "reader_images/reader_20260315_143924.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 555622780,
+      "created_at": "2026-03-15T14:39:24.113253+08:00"
     }
   ],
   "book_total_chars": 92814,
