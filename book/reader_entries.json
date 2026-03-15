@@ -10235,6 +10235,18 @@
       "image_model": "imagen-4",
       "seed": 1819798861,
       "created_at": "2026-03-16T00:51:29.784291+08:00"
+    },
+    {
+      "id": "20260316_005150",
+      "offset_start": 57283,
+      "offset_end": 57358,
+      "text": "細伢們揀着長的含在嘴裡，小手凍得通紅。\n滿地的泥濘曬乾了，煙家衝水庫也正式開工了。\n秋園家離煙家衝水庫工地有三裏多路，除了過一條壟，其餘都是傍山小路。",
+      "prompt": "Children with chapped red hands hold long reeds to their mouths, standing in a muddy Chinese village street as winter frost begins to crack the drying earth; in the distance, workers gather at a newly begun reservoir construction site surrounded by bare hills, with a solitary mountain path winding through autumn fields toward distant farmhouses in the gray twilight of a cold rural landscape.",
+      "image": "reader_images/reader_20260316_005150.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 188142218,
+      "created_at": "2026-03-16T00:51:50.976812+08:00"
     }
   ],
   "book_total_chars": 92814,
