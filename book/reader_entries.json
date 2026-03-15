@@ -8423,6 +8423,18 @@
       "image_model": "imagen-4",
       "seed": 1314705853,
       "created_at": "2026-03-15T13:22:52.532293+08:00"
+    },
+    {
+      "id": "20260315_132338",
+      "offset_start": 47910,
+      "offset_end": 47995,
+      "text": "徐娭毑自己也知道。她雖然臭不可聞，走路歪倒，竟也保持着一種奇特的尊嚴\n——奶子爛成那樣，不曉得有多疼，她硬是忍得住，吭都不吭一聲，從不在人前\n喊疼，只是平靜地等待死去。",
+      "prompt": "A close-up portrait of an elderly Chinese woman, her face etched with silent pain but composed with unwavering dignity, sitting in a dimly lit room. Her posture is frail yet upright, her eyes holding a profound, quiet acceptance, with the hint of soiled bandages visible under her simple clothing. Photorealistic style, somber mood, dramatic chiaroscuro lighting emphasizing texture and resilience.",
+      "image": "reader_images/reader_20260315_132338.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1543193797,
+      "created_at": "2026-03-15T13:23:38.979323+08:00"
     }
   ],
   "book_total_chars": 92814,
