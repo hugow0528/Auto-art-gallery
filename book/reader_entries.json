@@ -11063,6 +11063,18 @@
       "image_model": "gptimage",
       "seed": 2142034543,
       "created_at": "2026-03-16T06:33:18.921003+08:00"
+    },
+    {
+      "id": "20260316_064641",
+      "offset_start": 61930,
+      "offset_end": 61991,
+      "text": "於是，他砍了四棵雞婆\n樹，捆成兩捆，分別將扁擔兩頭戳進去，掮在肩上，身子一閃，兩捆柴就平衡\n了，然後忽閃忽閃地朝食堂走去。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage describes a man cutting four trees, bundling them into two bundles, inserting a carrying pole through them, balancing them on his shoulders, and then walking towards a cafeteria.\n\nThe key elements from the passage:\n- He cuts four \"雞婆樹\" – I need to translate this. \"雞婆樹\" might refer to a type of tree, but for the prompt, I can keep it as \"chicken tree\" or use a generic term. Since the prompt should be in English, I'll use a descriptive term. Perhaps \"four slender trees\" or specify a type if known, but it's not crucial. I'll go with \"four trees\" for simplicity.\n- He bundles them into two bundles and uses a扁擔 (biǎndan), which is a carrying pole.\n- He balances them on his shoulders and walks towards a食堂 (shítáng), meaning cafeteria or dining hall.\n- The scene is dynamic: \"身子一閃\" (body flashes or moves quickly), \"忽閃忽閃地\" (flickering or swaying as he walks).\n\nNow, I need to craft a vivid, detailed English image-generation prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nThe prompt should be 2–4 sentences only, in English only. No explanations, no translations, no markdown",
+      "image": "reader_images/reader_20260316_064641.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1661098512,
+      "created_at": "2026-03-16T06:46:41.270764+08:00"
     }
   ],
   "book_total_chars": 92814,
