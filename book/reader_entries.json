@@ -8663,6 +8663,18 @@
       "image_model": "flux",
       "seed": 168035419,
       "created_at": "2026-03-15T14:15:15.671597+08:00"
+    },
+    {
+      "id": "20260315_143306",
+      "offset_start": 49182,
+      "offset_end": 49254,
+      "text": "他告訴秋園，倒\n垸子之前一點預兆也沒有，只看到堤外的水越漲越高，政府就組織大家日夜防洪\n搶險。幹部、老師、羣衆苦戰十天十夜，都以爲隱患皆已排除。",
+      "prompt": "Exhausted villagers, cadres, and teachers stand along a massive mud dyke at sunset, their bodies slumped with fatigue after ten days and nights of flood defense. Dark storm clouds swirl above while the swollen river surges dangerously close to the crumbling embankment, lanterns and torches casting flickering orange light across drenched clothing and desperate faces. Dramatic realistic style with muted earth tones, showing the weight of exhaustion and the looming catastrophe.",
+      "image": "reader_images/reader_20260315_143306.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1919437261,
+      "created_at": "2026-03-15T14:33:06.905619+08:00"
     }
   ],
   "book_total_chars": 92814,
