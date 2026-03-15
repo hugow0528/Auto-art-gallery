@@ -10667,6 +10667,18 @@
       "image_model": "flux",
       "seed": 87245348,
       "created_at": "2026-03-16T03:44:45.015623+08:00"
+    },
+    {
+      "id": "20260316_034612",
+      "offset_start": 59638,
+      "offset_end": 59710,
+      "text": "青黃不接的時候最是難熬。稻穀開始泛黃，遠遠望去，好像錦旗上的流蘇。\n多數人家幾天都見不到一粒米。村裏人慢慢開始在晚上摸到偏僻的田裡去偷谷\n子。",
+      "prompt": "A moonlit rural Chinese village at dusk during the lean season, with distant rice fields glowing in faint golden hues like tassels on a brocade banner, their stalks bending heavily yet unharvested under a starry sky. In the shadowy foreground, a ragged peasant figure in worn robes crouches stealthily among the crops, clutching a small sack of pilfered grains, his face tense with desperation amid misty fields and thatched huts. Rendered in traditional shan shui ink wash style with subtle blue-green tones, evoking a moody atmosphere of quiet hardship and poetic melancholy, soft ethereal lighting from the rising moon casting long shadows over the undulating landscape.",
+      "image": "reader_images/reader_20260316_034612.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1298865509,
+      "created_at": "2026-03-16T03:46:12.356408+08:00"
     }
   ],
   "book_total_chars": 92814,
