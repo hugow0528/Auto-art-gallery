@@ -10091,6 +10091,18 @@
       "image_model": "klein",
       "seed": 1066366329,
       "created_at": "2026-03-15T23:47:29.734368+08:00"
+    },
+    {
+      "id": "20260315_235056",
+      "offset_start": 56615,
+      "offset_end": 56688,
+      "text": "滿寶生硬撐着，結果越撐越不行，腦殼\n終於像個黑雞婆樣，停在桌上不動了。\n衆人見滿寶生睡着了，於是放心大膽地呼呼大睡起來，一時鼾聲大作，蔚爲壯\n觀。",
+      "prompt": "A rustic dimly lit room at night, Man Baosheng, a weary man in simple clothes, has collapsed face-down on a wooden table, exhausted. Around him, several other figures are sprawled awkwardly on benches and chairs in deep, loud slumber, their mouths agape, in a scene of collective fatigue. Style is realistic oil painting with warm, low lamplight casting long shadows, conveying a mood of quiet humor and utter human exhaustion.",
+      "image": "reader_images/reader_20260315_235056.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 701987816,
+      "created_at": "2026-03-15T23:50:56.183011+08:00"
     }
   ],
   "book_total_chars": 92814,
