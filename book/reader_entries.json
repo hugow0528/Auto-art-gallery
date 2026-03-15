@@ -9959,6 +9959,18 @@
       "image_model": "zimage",
       "seed": 791146379,
       "created_at": "2026-03-15T22:54:16.476907+08:00"
+    },
+    {
+      "id": "20260315_225731",
+      "offset_start": 55915,
+      "offset_end": 55985,
+      "text": "滿寶生坐在長桌前深思了一會兒，一開口就把大夥嚇了一跳。他說：「這次動員\n會要開七天七夜，目的呢，只有一個，就是消滅瞌睡。」\n會場一陣騷動。",
+      "prompt": "A weary man in a worn-out coat stands at a long wooden table in a dim, crowded meeting hall, addressing a sea of restless, shocked faces under the flickering light of a single hanging lantern, rendered in the style of dramatic realism with a mood of surreal exhaustion and tension.",
+      "image": "reader_images/reader_20260315_225731.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 2032674604,
+      "created_at": "2026-03-15T22:57:31.491448+08:00"
     }
   ],
   "book_total_chars": 92814,
