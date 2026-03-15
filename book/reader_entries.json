@@ -10307,6 +10307,18 @@
       "image_model": "zimage",
       "seed": 1224571721,
       "created_at": "2026-03-16T01:13:34.989794+08:00"
+    },
+    {
+      "id": "20260316_011941",
+      "offset_start": 57782,
+      "offset_end": 57859,
+      "text": "」\n根華繪聲繪色地講着，聽得人毛骨悚然。大雨變成了淅淅瀝瀝的小雨，鬼故事讓\n本就有些寂寂的茅棚顯得鬼氣森森。大家都拿眼睛往後看，生怕有什麼鬼魅附在\n身上。",
+      "prompt": "A dimly lit thatched cottage on a rainy night, Chinese villagers huddled together listening to a ghost story, eerie greenish mist seeping through bamboo walls, a flickering oil lamp casting trembling shadows across terrified faces, everyone looking over their shoulders in fear, rain dripping through the roof, atmospheric horror in dark blue-green tones with dramatic chiaroscuro lighting",
+      "image": "reader_images/reader_20260316_011941.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 2063632996,
+      "created_at": "2026-03-16T01:19:41.697621+08:00"
     }
   ],
   "book_total_chars": 92814,
