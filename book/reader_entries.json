@@ -9815,6 +9815,18 @@
       "image_model": "flux",
       "seed": 196599802,
       "created_at": "2026-03-15T22:00:58.900140+08:00"
+    },
+    {
+      "id": "20260315_220233",
+      "offset_start": 55074,
+      "offset_end": 55139,
+      "text": "到了隊部，滿寶生要大家把火把點燃，說：「你們不要在一個山坳裏磨洋工，沙\n坡裏、絲茅衝、蛇嘴嶺……凡是本隊的山都可以去，分開行動。",
+      "prompt": "A group of people stand at a village headquarters (\"隊部\") at night, illuminated by flickering torches. They are preparing to split up and move into various mountainous areas like \"沙坡裏\" (Sandy Slope), \"絲茅衝\" (Sima Gully), and \"蛇嘴嶺\" (Snake Mouth Ridge), indicated by glowing embers and the suggestion of rugged terrain. The atmosphere is one of urgent departure, with dramatic chiaroscuro lighting casting long shadows, rendered in a dark, painterly style reminiscent of historical Chinese ink wash paintings with a touch of dramatic realism.",
+      "image": "reader_images/reader_20260315_220233.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1474815486,
+      "created_at": "2026-03-15T22:02:33.323498+08:00"
     }
   ],
   "book_total_chars": 92814,
