@@ -8939,6 +8939,18 @@
       "image_model": "flux-2-dev",
       "seed": 620109189,
       "created_at": "2026-03-15T15:55:07.784955+08:00"
+    },
+    {
+      "id": "20260315_155757",
+      "offset_start": 50510,
+      "offset_end": 50585,
+      "text": "」\n轉身走進竈屋，拿了一個菜餅子給兵桃，卻沒給之驊。\n之驊頓時羞得要哭起來了，轉身就走。兵桃趕過來，牽着之驊的衣角，一個勁\n說：「要麼裏緊，要麼裏緊！",
+      "prompt": "A dimly lit, rustic kitchen interior. A young girl, Bingtao, with a pleading expression, tugs at the sleeve of another girl, Zhihua, who is about to flee, face flushed with shame. The atmosphere is heavy with unspoken tension and a sense of childhood injustice. The style is reminiscent of a poignant ink wash painting with soft, earthy tones.",
+      "image": "reader_images/reader_20260315_155757.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1706197901,
+      "created_at": "2026-03-15T15:57:57.872279+08:00"
     }
   ],
   "book_total_chars": 92814,
