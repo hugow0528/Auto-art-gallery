@@ -11135,6 +11135,18 @@
       "image_model": "grok-imagine",
       "seed": 738664641,
       "created_at": "2026-03-16T06:56:59.427933+08:00"
+    },
+    {
+      "id": "20260316_065925",
+      "offset_start": 62316,
+      "offset_end": 62378,
+      "text": "張跛子不是本地人。他過去住在垸子裡，三十好幾才來隊上落戶。他說他不喜歡\n垸子裡，那裡經常遭大水。好在他沒兒沒女，冇得牽掛。",
+      "prompt": "A solitary man with a slight limp stands in the doorway of a simple rural house at dusk, his silhouette framed against the warm glow of a clay stove inside. The atmosphere is quiet and weathered, with a vast, flat landscape stretching behind him under a soft golden hour sky, evoking a sense of resilience and solitude. Documentary style, realistic and textured.",
+      "image": "reader_images/reader_20260316_065925.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 943069105,
+      "created_at": "2026-03-16T06:59:25.351353+08:00"
     }
   ],
   "book_total_chars": 92814,
