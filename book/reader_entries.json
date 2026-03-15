@@ -8651,6 +8651,18 @@
       "image_model": "flux-2-dev",
       "seed": 111598432,
       "created_at": "2026-03-15T14:12:56.021526+08:00"
+    },
+    {
+      "id": "20260315_141515",
+      "offset_start": 49111,
+      "offset_end": 49182,
+      "text": "82\n\n\f秋園對子恆說：「四個多月沒收到你的信，實在放心不下，才決定來尋你的。」\n子恆說自己根本忘記了時間，不曉得有四個多月沒給家裡寫信。",
+      "prompt": "A cinematic scene of two figures, Qiuyuan and Ziheng, in a softly lit, intimate interior. The atmosphere is tense with unspoken emotion, rendered in a dramatic chiaroscuro style with warm, dim lighting highlighting their solemn expressions.",
+      "image": "reader_images/reader_20260315_141515.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 168035419,
+      "created_at": "2026-03-15T14:15:15.671597+08:00"
     }
   ],
   "book_total_chars": 92814,
