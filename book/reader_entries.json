@@ -8039,6 +8039,18 @@
       "image_model": "gptimage",
       "seed": 1438626797,
       "created_at": "2026-03-15T11:45:40.194123+08:00"
+    },
+    {
+      "id": "20260315_115521",
+      "offset_start": 46106,
+      "offset_end": 46187,
+      "text": "老和尚俗名叫甘瑞玉，法號叫靜明。他年輕時是個好篾匠，做上門手藝。那時他\n就信佛，到別人家做手藝，隨身帶個瓦罐子煮飯，只喫自己的光飯，不喫別人的\n菜，怕沾了葷腥。",
+      "prompt": "A young, devout Buddhist monk, named Jingming (formerly Gan Ruiyu), with weathered hands skilled in weaving bamboo, sits by a simple hearth. He wears a plain, earth-toned monk's robe, a clay pot bubbling with plain rice beside him, a testament to his vow against consuming meat. The scene is lit by the warm, flickering glow of the fire, casting long shadows in a humble, rustic dwelling, evoking a mood of quiet devotion and self-discipline. The style should be reminiscent of traditional Chinese ink wash painting, with a focus on subtle textures and serene atmosphere.",
+      "image": "reader_images/reader_20260315_115521.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 76384435,
+      "created_at": "2026-03-15T11:55:21.153902+08:00"
     }
   ],
   "book_total_chars": 92814,
