@@ -10055,6 +10055,18 @@
       "image_model": "flux-2-dev",
       "seed": 1473665023,
       "created_at": "2026-03-15T23:35:56.568610+08:00"
+    },
+    {
+      "id": "20260315_233923",
+      "offset_start": 56426,
+      "offset_end": 56487,
+      "text": "」\n\n93\n\n\f聲音雖細，大家都聽得一清二楚，齊刷刷望着二痞子，笑個不停。二痞子一本正\n經地用眼睛掃着大家，說：「笑麼裏？",
+      "prompt": "A rowdy group of villagers in a dusty Chinese courtyard burst into laughter, their faces twisted with mirth as they stare at a rough-looking young man in traditional rural attire standing awkwardly at the center. The man, with a slightly scruffy appearance and a serious expression, sweeps his gaze across the amused crowd with an air of bewilderment and dignity, asking \"Laughing at what?\" Soft golden afternoon light bathes the mud-brick walls and weathered wooden tables, capturing this candid moment of village life. The scene is rendered in a warm, slightly",
+      "image": "reader_images/reader_20260315_233923.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 2027910266,
+      "created_at": "2026-03-15T23:39:23.074313+08:00"
     }
   ],
   "book_total_chars": 92814,
