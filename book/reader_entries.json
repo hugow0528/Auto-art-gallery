@@ -10607,6 +10607,18 @@
       "image_model": "zimage",
       "seed": 1355591354,
       "created_at": "2026-03-16T03:18:37.564794+08:00"
+    },
+    {
+      "id": "20260316_033527",
+      "offset_start": 59332,
+      "offset_end": 59403,
+      "text": "97\n\n\f「有人偷米。」人們議論紛紛。\n滿娭毑站在堂屋中間，兩手叉腰，大聲大氣地說：「你們莫亂講，食堂就兩個\n人，不是我偷了，就是她偷了。",
+      "prompt": "A bustling, dimly lit village hall in rural China, with a stern-faced woman in her sixties, hands on her hips, confronting a younger woman. The atmosphere is tense and accusatory, with villagers whispering in the background. The art style should be reminiscent of traditional Chinese ink wash painting, with a focus on dramatic chiaroscuro lighting to emphasize the characters' expressions and the somber mood.",
+      "image": "reader_images/reader_20260316_033527.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 853687519,
+      "created_at": "2026-03-16T03:35:27.787070+08:00"
     }
   ],
   "book_total_chars": 92814,
