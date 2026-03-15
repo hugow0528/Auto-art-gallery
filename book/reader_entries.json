@@ -11255,6 +11255,18 @@
       "image_model": "imagen-4",
       "seed": 1038658715,
       "created_at": "2026-03-16T07:48:39.580520+08:00"
+    },
+    {
+      "id": "20260316_075327",
+      "offset_start": 63043,
+      "offset_end": 63114,
+      "text": "雖說有點討人嫌，張跛子也算個老實巴交的人，站着不講，跌倒不響，還有點\n蠢。那次消滅瞌睡的會議，張跛子正好回了垸子裡，沒趕上參加，覺得好可惜。",
+      "prompt": "A rustic village courtyard at dusk, where Zhang Bozi, a simple-looking man with a slight limp, leans on a wooden crutch. He gazes into the distance with a quiet expression of regret, the warm, fading light casting long shadows and enhancing the mundane, slightly melancholic atmosphere, rendered in a realistic style with earthy tones.",
+      "image": "reader_images/reader_20260316_075327.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1478639541,
+      "created_at": "2026-03-16T07:53:27.166359+08:00"
     }
   ],
   "book_total_chars": 92814,
