@@ -9503,6 +9503,18 @@
       "image_model": "gptimage",
       "seed": 777736465,
       "created_at": "2026-03-15T19:38:35.744403+08:00"
+    },
+    {
+      "id": "20260315_194512",
+      "offset_start": 53439,
+      "offset_end": 53517,
+      "text": "田\n四閉着眼睛，頭一栽一栽地打瞌睡。他頭上大概生了瘡，敬菩薩的香灰撒了一\n頭，灰在頭上結了殼，好像戴了一頂灰帽子。小臉髒兮兮的，前襟溼溼的，粘了\n些飯渣子。",
+      "prompt": "A close-up portrait of a young boy named Tian Si dozing off with eyes closed and head drooping forward, his scalp covered in a crusty shell of incense ash resembling a dusty gray hat, small dirty face smudged with grime, front of his ragged clothes soaked and stuck with rice crumbs, in a dimly lit humble temple interior with flickering candlelight casting soft shadows. The atmosphere evokes quiet poverty and exhaustion, rendered in a realistic style inspired by 19th-century Chinese ink wash painting blended with photorealism, warm earthy tones, subtle textures on skin and fabric for a poignant, melancholic mood.",
+      "image": "reader_images/reader_20260315_194512.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 440967166,
+      "created_at": "2026-03-15T19:45:13.004586+08:00"
     }
   ],
   "book_total_chars": 92814,
