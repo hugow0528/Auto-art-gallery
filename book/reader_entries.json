@@ -8147,6 +8147,18 @@
       "image_model": "zimage",
       "seed": 1630048171,
       "created_at": "2026-03-15T12:19:43.487939+08:00"
+    },
+    {
+      "id": "20260315_122032",
+      "offset_start": 46574,
+      "offset_end": 46650,
+      "text": "人有麼裏味？只怪世上人腦殼不清醒，要爭名奪利、\n爭長論短，想不到要修來生，脫離這個五濁惡世。造孽啊造孽！」\n一次中午過後，老和尚來家，問他們喫了飯沒有。",
+      "prompt": "A wizened, elderly Buddhist monk with a kind but weary face stands at the entrance of a humble, traditional Chinese dwelling. The late afternoon sun casts long shadows, illuminating dust motes dancing in the air, hinting at the passage of time and the weariness of the world. The atmosphere is one of quiet contemplation, tinged with the unspoken lament of a \"five defilements evil world\" (五濁惡世). The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with subtle use of color and emphasis on conveying emotion through brushstrokes.",
+      "image": "reader_images/reader_20260315_122032.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 296564398,
+      "created_at": "2026-03-15T12:20:32.394213+08:00"
     }
   ],
   "book_total_chars": 92814,
