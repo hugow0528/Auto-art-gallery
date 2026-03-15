@@ -8243,6 +8243,18 @@
       "image_model": "flux",
       "seed": 2002341057,
       "created_at": "2026-03-15T12:43:28.262311+08:00"
+    },
+    {
+      "id": "20260315_125526",
+      "offset_start": 47092,
+      "offset_end": 47156,
+      "text": "」\n\n79\n\n\f三\n子恆一連四個多月都沒寄錢回家，家裡就要揭不開鍋了。有消息傳來，洞庭湖區\n漲大水，倒了很多垸子，淹死了不少人。",
+      "prompt": "A desolate flooded landscape under a gloomy sky, with collapsed embankments and scattered rooftops piercing muddy brown water. A weary mother and child sit huddled on a remaining section of a thatched roof, their expressions etched with despair, rendered in a somber, realistic oil painting style with muted colors and dramatic lighting.",
+      "image": "reader_images/reader_20260315_125526.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 634626430,
+      "created_at": "2026-03-15T12:55:26.357779+08:00"
     }
   ],
   "book_total_chars": 92814,
