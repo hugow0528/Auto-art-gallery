@@ -8135,6 +8135,18 @@
       "image_model": "imagen-4",
       "seed": 1323947855,
       "created_at": "2026-03-15T12:19:19.455631+08:00"
+    },
+    {
+      "id": "20260315_121943",
+      "offset_start": 46481,
+      "offset_end": 46574,
+      "text": "熟起來後，老和尚除了念經拜佛，就是來家串門，目的只有一個：開導秋園他們\n信佛、修來生。\n「人活在世上有麼裏味？餓也餓得死，脹也脹得死，淹也淹得死，燒也燒得死，\n病也病得死，跌也跌得死。",
+      "prompt": "In a dimly lit traditional Chinese courtyard home at dusk, an elderly Buddhist monk in weathered saffron robes sits cross-legged on a wooden stool across from a weary middle-aged man named Qiuyuan and his solemn family gathered around a low table laden with tea and incense. The monk gestures emphatically with prayer beads in hand, his face etched with fervent wisdom, preaching life's futile sufferings—hunger, bloating, drowning, burning, illness, and falls—while faint golden light from a paper lantern casts long shadows evoking existential melancholy. Render in intricate ink-wash style inspired by Ming dynasty paintings, with subtle atmospheric haze, earthy tones, and symbolic motifs of flickering flames and turbulent waters in the background.",
+      "image": "reader_images/reader_20260315_121943.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1630048171,
+      "created_at": "2026-03-15T12:19:43.487939+08:00"
     }
   ],
   "book_total_chars": 92814,
