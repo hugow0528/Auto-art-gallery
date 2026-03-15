@@ -10523,6 +10523,18 @@
       "image_model": "flux",
       "seed": 1338583844,
       "created_at": "2026-03-16T03:00:35.015931+08:00"
+    },
+    {
+      "id": "20260316_030159",
+      "offset_start": 58991,
+      "offset_end": 59061,
+      "text": "只\n好把鋤頭輕輕放下去，兩手抓住鋤頭把，用暗勁把禾草翻轉。\n收工了，從田裡上來，腿腳上粘滿爛泥，拖着一雙無跟的爛鞋子，呵着一雙凍僵\n了的手。",
+      "prompt": "A weary farmer, hands chapped and red from the cold, retrieves a hoe from muddy soil. He's dressed in worn, patched clothing, his feet encased in shapeless, mud-caked shoes. The scene is set in a harvested rice paddy under a pale, overcast sky, conveying a somber, quiet atmosphere of end-of-day labor. Realistic oil painting, muted tones, soft, diffused light.",
+      "image": "reader_images/reader_20260316_030159.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1076062130,
+      "created_at": "2026-03-16T03:01:59.994619+08:00"
     }
   ],
   "book_total_chars": 92814,
