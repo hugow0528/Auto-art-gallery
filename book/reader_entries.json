@@ -8603,6 +8603,18 @@
       "image_model": "grok-imagine",
       "seed": 764844324,
       "created_at": "2026-03-15T14:06:11.885034+08:00"
+    },
+    {
+      "id": "20260315_140657",
+      "offset_start": 48793,
+      "offset_end": 48871,
+      "text": "但聽見老倌子說小學已被\n水衝走，她實在擔心子恆的安危，恨不能插上翅膀飛到西河壩。\n兩萬塊，相當於如今的人民幣兩元。\n夜深人靜，秋園不辨方向，便請老倌子帶路。",
+      "prompt": "A dimly lit muddy path winds through a flooded rural village at night, illuminated only by a flickering lantern held by an elderly man. A worried middle-aged woman, Qiuyuan, follows closely behind him, her face etched with anxiety as she looks toward the dark silhouette of distant riverbanks. The scene is rendered in a somber, cinematic style with a muted color palette, heavy shadows, and a fine mist in the air, conveying urgency and deep concern.",
+      "image": "reader_images/reader_20260315_140657.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 18400096,
+      "created_at": "2026-03-15T14:06:57.894054+08:00"
     }
   ],
   "book_total_chars": 92814,
