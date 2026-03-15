@@ -10571,6 +10571,18 @@
       "image_model": "klein",
       "seed": 1864947354,
       "created_at": "2026-03-16T03:07:12.297486+08:00"
+    },
+    {
+      "id": "20260316_030737",
+      "offset_start": 59145,
+      "offset_end": 59252,
+      "text": "滿娭毑每天將各家的米量好，放在一個個搪瓷鉢裏，鉢子上寫着名字。各人\n將自家米分成三餐的量，洗好放到蒸籠裏。秋園只管燒火。\n滿娭毑腰上系條圍裙，給每家量米時，隨手抓上一把放進圍裙口袋裡，偷偷帶回\n家去，神不知鬼不覺。",
+      "prompt": "A weathered elderly Chinese woman in a traditional village kitchen, wearing a faded apron tied at her waist, carefully measures rice into white enamel bowls labeled with family names, her weathered hands moving with practiced precision. Soft, golden afternoon light filters through paper windows, casting warm shadows across worn wooden surfaces and ceramic vessels arranged in neat rows. The scene captures a moment of quiet domesticity tinged with subtle mischief—her hand discretely slipping extra grains into her apron pocket while her granddaughter tends the fire in the background, rendered in the soft, nostalgic aesthetic of traditional Chinese ink painting combined with realistic detail, emphasizing aged textures, candid human warmth, and the intimate geometry of a humble village home.",
+      "image": "reader_images/reader_20260316_030737.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 698884661,
+      "created_at": "2026-03-16T03:07:37.873774+08:00"
     }
   ],
   "book_total_chars": 92814,
