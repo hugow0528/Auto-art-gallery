@@ -8447,6 +8447,18 @@
       "image_model": "flux-2-dev",
       "seed": 970445549,
       "created_at": "2026-03-15T13:25:47.514226+08:00"
+    },
+    {
+      "id": "20260315_132627",
+      "offset_start": 47995,
+      "offset_end": 48081,
+      "text": "一臉福相的徐娭毑，這輩子實在冇享到什麼福。過了不長的日子，她果真死去\n了。\n秋園找到小泉，說想借幾塊錢做件衣。小泉說：「梁老師，從前多承你看顧我，\n就不要說借不借的話了。",
+      "prompt": "In a dimly lit, humble autumn garden shrouded in melancholic twilight fog, with fallen leaves carpeting the ground and withered branches evoking quiet sorrow, portray the kind-faced elderly woman Xu Po Po—round-cheeked with a benevolent yet weary expression—lying peacefully in eternal repose on a simple wooden bed, her life of unfulfilled blessings now ended. Nearby, the earnest young man Qiu Yuan, dressed in modest rural attire, approaches his friend Xiao Quan, a compassionate figure with gentle features, humbly extending his hand to ask for money to sew a mourning garment, their faces illuminated by soft, golden lantern light casting long shadows of grief and quiet solidarity. Render in the style of traditional Chinese ink wash painting blended with subtle realism, emphasizing yijing artistic conception—poignant mood of transience, emotional depth through sparse composition, earthy tones of ochre and muted grays, high contrast lighting to heighten the bittersweet harmony of loss and human kindness.",
+      "image": "reader_images/reader_20260315_132627.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1243975354,
+      "created_at": "2026-03-15T13:26:27.877675+08:00"
     }
   ],
   "book_total_chars": 92814,
