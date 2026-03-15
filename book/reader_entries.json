@@ -9659,6 +9659,18 @@
       "image_model": "flux",
       "seed": 639161589,
       "created_at": "2026-03-15T21:17:32.299100+08:00"
+    },
+    {
+      "id": "20260315_212551",
+      "offset_start": 54249,
+      "offset_end": 54332,
+      "text": "父母拿他冇法子，只能任他遊手好閒在村裏浪。\n到二十歲，滿寶生長成了個高高瘦瘦的後生，一張尖臉，背有些駝。爲了討女人\n喜歡，他講起話來有意女聲女氣，看起女人來色眯眯的。",
+      "prompt": "A tall, thin young man with a pointed face and slight驼背 hunch stands idly in a dusty rural Chinese village, his posture slouched as he watches women passing by with lingering, lecherous eyes. The afternoon sun casts long shadows across the mud walls and thatched roofs of simple farmhouses. Traditional loose-fitting clothing hangs loosely on his slender frame. Style: traditional Chinese ink painting with subtle realistic details, muted earth tones, capturing the lazy, licentious atmosphere of a idle countryside youth.",
+      "image": "reader_images/reader_20260315_212551.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1776325451,
+      "created_at": "2026-03-15T21:25:51.762848+08:00"
     }
   ],
   "book_total_chars": 92814,
