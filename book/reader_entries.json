@@ -10379,6 +10379,18 @@
       "image_model": "flux-2-dev",
       "seed": 1799323041,
       "created_at": "2026-03-16T01:48:30.524344+08:00"
+    },
+    {
+      "id": "20260316_014925",
+      "offset_start": 58153,
+      "offset_end": 58226,
+      "text": "幾天下來，大家餓得前胸\n貼後背，怎麼鼓足幹勁都無濟於事。\n之驊和兵桃是老搭檔：兵桃擔泥巴，之驊上泥巴。黃泥巴粘在鋤頭上，要費好大\n力氣才能弄下來。",
+      "prompt": "Two exhausted workers in threadbare clothes struggle to apply thick yellow clay to a粗糙 mud wall at a rural construction site, their gaunt frames and sunken cheeks revealing days of hunger; one figure holds a heavy hoe caked with stubborn clay while the other desperately scrapes it clean, both hunched in weary determination under harsh midday sun, rendered in realist oil painting style with muted earth tones and dramatic chiaroscuro lighting emphasizing their suffering and resilience.",
+      "image": "reader_images/reader_20260316_014925.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 131044046,
+      "created_at": "2026-03-16T01:49:25.597231+08:00"
     }
   ],
   "book_total_chars": 92814,
