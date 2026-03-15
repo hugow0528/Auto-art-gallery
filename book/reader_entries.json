@@ -10223,6 +10223,18 @@
       "image_model": "flux",
       "seed": 22645155,
       "created_at": "2026-03-16T00:49:23.652831+08:00"
+    },
+    {
+      "id": "20260316_005129",
+      "offset_start": 57283,
+      "offset_end": 57358,
+      "text": "細伢們揀着長的含在嘴裡，小手凍得通紅。\n滿地的泥濘曬乾了，煙家衝水庫也正式開工了。\n秋園家離煙家衝水庫工地有三裏多路，除了過一條壟，其餘都是傍山小路。",
+      "prompt": "In a traditional Chinese **shanshui** ink painting style with delicate brushwork and misty blue-green hues, depict a group of young children along a rugged mountainside path near a newly opened reservoir construction site, their small hands flushed bright red from the cold as they pick and suck on long wild herbs. The ground shows cracked, sun-dried mud amidst rolling hills and a distant water reservoir under an overcast autumn sky, with sparse barren trees and winding trails evoking quiet hardship and rural isolation. Soft diffused lighting filters through lingering fog, capturing a melancholic, poetic atmosphere of poverty and nature's rhythm.[1][2][3]",
+      "image": "reader_images/reader_20260316_005129.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1819798861,
+      "created_at": "2026-03-16T00:51:29.784291+08:00"
     }
   ],
   "book_total_chars": 92814,
