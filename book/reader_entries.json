@@ -9371,6 +9371,18 @@
       "image_model": "imagen-4",
       "seed": 452104410,
       "created_at": "2026-03-15T18:53:41.088910+08:00"
+    },
+    {
+      "id": "20260315_185516",
+      "offset_start": 52871,
+      "offset_end": 52934,
+      "text": "她連忙對秋園說：「媽媽莫傷心，隔一\n個月，我們就來看田四。一個月，一天也不能多。」\n回到家裡，賠三可憐兮兮地坐在門檻上等她們。",
+      "prompt": "A Chinese mother and young daughter in simple rural clothing embrace outside a modest earthen cottage, the mother wiping tears as the child comforts her with gentle words; in the doorway sits a young boy with a forlorn expression, sitting on the wooden threshold watching them return, bathed in soft golden afternoon light, in the style of Chinese realist folk painting with muted earth tones and intimate domestic atmosphere.",
+      "image": "reader_images/reader_20260315_185516.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 2068812636,
+      "created_at": "2026-03-15T18:55:16.275227+08:00"
     }
   ],
   "book_total_chars": 92814,
