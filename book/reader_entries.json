@@ -9107,6 +9107,18 @@
       "image_model": "flux",
       "seed": 1446556077,
       "created_at": "2026-03-15T17:00:13.577729+08:00"
+    },
+    {
+      "id": "20260315_170222",
+      "offset_start": 51454,
+      "offset_end": 51527,
+      "text": "各家各戶都要\n扒許多松針，準備過冬。之驊總是很早起來，用耙子挑着畚箕上山，搶個第一，\n不要好久就能扒上一擔。\n蟲災造成了嚴重的柴荒，有米卻沒柴煮。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about families collecting pine needles for winter, and specifically focuses on a character named Zhihua who wakes up early to gather them. There's also mention of a severe fuel shortage due to insect infestation, leading to a situation where there's rice but no firewood to cook it.\n\nI need to create a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. The prompt should include artistic style, mood, lighting, and specific visual elements. I must respond ONLY with the image prompt in English — no explanations, no translations, no markdown.\n\nKey elements from the passage:\n\n- Setting: Probably a rural area, likely in the mountains or hills where pine trees are present. It's early morning since Zhihua wakes up early.\n\n- Characters: Zhihua, using a rake and carrying baskets to collect pine needles.\n\n- Atmosphere: There's a sense of urgency or diligence because Zhihua aims to be first. Also, the broader context of fuel shortage adds a layer of hardship or struggle.\n\n- Visual elements: Pine needles, rake, baskets, mountainous terrain, early morning light.\n\n- Artistic style: Since it's a literary passage, perhaps a realistic or impressionistic style to convey the mood. But I need to specify in the prompt.\n\n- Mood: Diligent, somber due to the fuel shortage, but also perhaps hopeful or resilient.\n\n-",
+      "image": "reader_images/reader_20260315_170222.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 267465464,
+      "created_at": "2026-03-15T17:02:22.294693+08:00"
     }
   ],
   "book_total_chars": 92814,
