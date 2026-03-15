@@ -11159,6 +11159,18 @@
       "image_model": "zimage",
       "seed": 1726125021,
       "created_at": "2026-03-16T07:00:48.853053+08:00"
+    },
+    {
+      "id": "20260316_070345",
+      "offset_start": 62467,
+      "offset_end": 62539,
+      "text": "要說醜，他可算隊上第一醜。\n這個醜人有潔癖。洗衣時，先燒一堆稻草灰，把稻草灰放進桶裏用熱水泡，再把\n稻草水倒在一塊布上，濾出的淨水才拿來泡衣服。",
+      "prompt": "An unkempt, yet meticulous man with a pronounced stoop is carefully tending a small fire of straw, his face etched with a mixture of concentration and weariness. He is preparing a lye solution by boiling water with straw ash in a large wooden bucket, filtering the resultant liquid through a cloth. The scene is dimly lit by the fire's glow, casting long shadows in a rustic, humble dwelling, evoking a mood of quiet, persistent labor. Style: Realistic oil painting with a focus on texture and subdued, earthy tones.",
+      "image": "reader_images/reader_20260316_070345.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1775618813,
+      "created_at": "2026-03-16T07:03:45.690096+08:00"
     }
   ],
   "book_total_chars": 92814,
