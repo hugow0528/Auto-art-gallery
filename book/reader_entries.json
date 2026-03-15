@@ -8387,6 +8387,18 @@
       "image_model": "flux-2-dev",
       "seed": 1522867331,
       "created_at": "2026-03-15T13:17:27.163111+08:00"
+    },
+    {
+      "id": "20260315_132115",
+      "offset_start": 47763,
+      "offset_end": 47826,
+      "text": "那時人們沒這個常識，也沒錢看病，徐娭毑只能讓奶\n子爛下去……整個人散發着撲鼻惡臭，去要飯都沒人敢攏近。\n只有邱家人繼續看顧她。",
+      "prompt": "A weathered, emaciated elderly woman, Xu Ai-jie, sits hunched in a dimly lit, sparse peasant hut, her body visibly ravaged by an untreated infection, emanating a palpable aura of decay and illness. A cloud of flies buzzes near her, repelling unseen onlookers. Despite the overwhelming stench and her pitiful state, a small, determined family member, a Qiu family member, gently tends to her with a look of quiet compassion, their faces etched with hardship and empathy. The scene is rendered in a gritty, realistic oil painting style with stark chiaroscuro lighting, emphasizing the grim reality and the enduring human connection.",
+      "image": "reader_images/reader_20260315_132115.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 607962247,
+      "created_at": "2026-03-15T13:21:15.403242+08:00"
     }
   ],
   "book_total_chars": 92814,
