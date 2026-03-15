@@ -11147,6 +11147,18 @@
       "image_model": "gptimage",
       "seed": 943069105,
       "created_at": "2026-03-16T06:59:25.351353+08:00"
+    },
+    {
+      "id": "20260316_070048",
+      "offset_start": 62378,
+      "offset_end": 62467,
+      "text": "張跛子六歲時得了小兒麻痹症，左腿肌肉萎縮，又細又短，走起路來一跳一跳，\n屁股翹得老高。他有張窪臉，眼睛、鼻子、嘴巴都往臉中央湊，擠在一起，兩隻\n眼裡布滿血絲，一天到晚眨個不停。",
+      "prompt": "A hyperrealistic portrait of a middle-aged man with a severely atrophied left leg, walking with a pronounced limp that causes his hip to jut upward. His face is deeply wrinkled with features clustered tightly at the center, his bloodshot eyes constantly blinking. The mood is somber and gritty, rendered in the style of social realism with harsh, directional lighting.",
+      "image": "reader_images/reader_20260316_070048.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1726125021,
+      "created_at": "2026-03-16T07:00:48.853053+08:00"
     }
   ],
   "book_total_chars": 92814,
