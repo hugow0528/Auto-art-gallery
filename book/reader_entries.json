@@ -8699,6 +8699,18 @@
       "image_model": "imagen-4",
       "seed": 1957698833,
       "created_at": "2026-03-15T14:37:35.926605+08:00"
+    },
+    {
+      "id": "20260315_143855",
+      "offset_start": 49325,
+      "offset_end": 49396,
+      "text": "無邊的綠油油的莊稼不見了，只剩一片汪洋，氣勢極\n其壯觀。到處都是門板、木箱、木櫃、桌椅、板凳……洪水戲弄着它們，時而輕\n輕託起，忽而重重摔下。",
+      "prompt": "A vast flood scene transforms endless green farmland into a turbulent expanse of dark water. Wooden furniture, door panels, cabinets, and stools float chaotically, some gently bobbing on rolling waves, others crashing beneath the surface. Dramatic chiaroscuro lighting illuminates the chaos against moody, overcast skies, with a hyperrealistic style capturing the powerful, destructive beauty of the flood.",
+      "image": "reader_images/reader_20260315_143855.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1121815957,
+      "created_at": "2026-03-15T14:38:55.580355+08:00"
     }
   ],
   "book_total_chars": 92814,
