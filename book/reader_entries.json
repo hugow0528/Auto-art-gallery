@@ -9131,6 +9131,18 @@
       "image_model": "imagen-4",
       "seed": 1665413273,
       "created_at": "2026-03-15T17:05:21.614338+08:00"
+    },
+    {
+      "id": "20260315_171830",
+      "offset_start": 51597,
+      "offset_end": 51674,
+      "text": "可家裡冇得一根\n柴。之驊和弟弟上山去撿，只撿了筷子粗的一段樹枝。爲了煮飯，秋園只好把家\n裏僅有的一張舊竹牀打爛燒了。\n\n86\n\n\f七\n此地水田多，旱地少。",
+      "prompt": "In a humble, sparsely furnished room with a dirt floor, two young boys, their faces smudged with soot, gather a few thin, twig-like branches for a meager fire. The atmosphere is one of quiet desperation, illuminated by the dim, flickering light of a dying hearth. The interior is rendered in a style reminiscent of traditional Chinese ink wash paintings, emphasizing stark lines and a muted, earthy palette.",
+      "image": "reader_images/reader_20260315_171830.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1633573977,
+      "created_at": "2026-03-15T17:18:30.107487+08:00"
     }
   ],
   "book_total_chars": 92814,
