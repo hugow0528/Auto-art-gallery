@@ -9743,6 +9743,18 @@
       "image_model": "zimage",
       "seed": 616077312,
       "created_at": "2026-03-15T21:38:00.800000+08:00"
+    },
+    {
+      "id": "20260315_214232",
+      "offset_start": 54694,
+      "offset_end": 54781,
+      "text": "於\n是着意培養他當了積極分子，入了黨。二十幾歲的後生就當上了生產隊長，從此\n成了村裡的風雲人物，一天到晚在村裏吆喝，隊上的事情都要他說了算，就連家\n裏鬧矛盾也要請他到場解決。",
+      "prompt": "A confident young man in his twenties stands at the center of a dusty rural Chinese village courtyard, surrounded by elderly villagers and farmers seeking his judgment on a family dispute. He wears a simple blue worker's jacket with a red armband, one hand raised assertively while gesturing with authority. The scene captures 1960s-70s rural China: mud-brick walls, drying corn cobs, a water well, with afternoon golden light casting long shadows. Photorealistic documentary style, warm earth tones, cinematic composition emphasizing the young leader's commanding presence amid the traditional village setting.",
+      "image": "reader_images/reader_20260315_214232.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1521985257,
+      "created_at": "2026-03-15T21:42:32.558439+08:00"
     }
   ],
   "book_total_chars": 92814,
