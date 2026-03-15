@@ -8267,6 +8267,18 @@
       "image_model": "flux",
       "seed": 1678268310,
       "created_at": "2026-03-15T12:56:10.335898+08:00"
+    },
+    {
+      "id": "20260315_125632",
+      "offset_start": 47156,
+      "offset_end": 47222,
+      "text": "而子恆正是在湖區教書。給他寫了許多\n信，都石沉大海。秋園越想越怕，整天如熱鍋上的螞蟻，坐立不安。\n考慮再三，秋園決定去垸子裡找子恆。",
+      "prompt": "A young woman, Qiu Yuan, paces anxiously in a dimly lit, rustic lakeside village, her face etched with worry. The atmosphere is tense and fearful, with shadows playing across the humble dwellings. She clutches a bundle of letters, her resolve hardening as she prepares to search for Zi Heng. The art style should be reminiscent of traditional Chinese ink wash painting, with a touch of melancholic realism.",
+      "image": "reader_images/reader_20260315_125632.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 46315008,
+      "created_at": "2026-03-15T12:56:32.823412+08:00"
     }
   ],
   "book_total_chars": 92814,
