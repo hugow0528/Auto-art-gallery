@@ -9983,6 +9983,18 @@
       "image_model": "gptimage",
       "seed": 2095914096,
       "created_at": "2026-03-15T22:59:48.742180+08:00"
+    },
+    {
+      "id": "20260315_230019",
+      "offset_start": 55985,
+      "offset_end": 56048,
+      "text": "「這瞌睡何裏消滅嘍？我長到六十三歲，還是頭一回聽到。」一向膽小怕事的長\n生老倌居然第一個開了口，他是跟坐在側邊的二痞子說的。",
+      "prompt": "An elderly Chinese man with weathered face and gray hair, wearing traditional rural clothing, sits on a wooden bench in a dusty village courtyard, leaning toward a young ruffian beside him with an expression of startled curiosity, his thin hands gesturing as if to emphasize his unprecedented words. The setting is a rustic rural China with mud walls and wooden beams under warm afternoon light, capturing a moment of social tension and surprise between the timid old man and the troublemaker.",
+      "image": "reader_images/reader_20260315_230019.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 663710843,
+      "created_at": "2026-03-15T23:00:19.711133+08:00"
     }
   ],
   "book_total_chars": 92814,
