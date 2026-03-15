@@ -10139,6 +10139,18 @@
       "image_model": "gptimage",
       "seed": 295171558,
       "created_at": "2026-03-15T23:55:25.032439+08:00"
+    },
+    {
+      "id": "20260315_235913",
+      "offset_start": 56832,
+      "offset_end": 56907,
+      "text": "你不睡，我們何裏敢睡？你趴在桌\n子上困了半天，還咧着嘴笑，是不是夢見和堂客睏覺啦？」\n滿寶生說：「二痞子，你不要耍嘴皮子，我就眯了下眼睛，何裏要不得？",
+      "prompt": "A dimly lit, rustic wooden room, filled with the soft glow of a single oil lamp. A young boy, Man Bao Sheng, with a mischievous grin, dozes with his head on a worn wooden table, while another boy, Er Pizi, playfully nudges him awake. The scene is rendered in a traditional Chinese ink wash painting style, evoking a sense of quiet domesticity and youthful innocence, with subtle brushstrokes and a muted color palette.",
+      "image": "reader_images/reader_20260315_235913.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1636277180,
+      "created_at": "2026-03-15T23:59:13.221654+08:00"
     }
   ],
   "book_total_chars": 92814,
