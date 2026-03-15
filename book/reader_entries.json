@@ -11171,6 +11171,18 @@
       "image_model": "imagen-4",
       "seed": 1775618813,
       "created_at": "2026-03-16T07:03:45.690096+08:00"
+    },
+    {
+      "id": "20260316_072403",
+      "offset_start": 62539,
+      "offset_end": 62607,
+      "text": "這水洗起來有泡泡，滑溜溜\n的，像擦了肥皁。對張跛子來說，稻草一天都少不得。他用稻草擦桌子、洗碗、\n洗鍋，還把一根稻草纏在手指上當牙刷使。",
+      "prompt": "In a dimly lit, rustic Chinese village kitchen with weathered wooden beams and earthen floors, an elderly man named Zhang Bozi, with a slight limp, hunches over a worn table scrubbing vigorously with a bundle of straw, foamy soapy bubbles sliding slickly like soap over pots, bowls, and dishes. He wraps another straw strand tightly around his gnarled finger, using it as an improvised toothbrush, his face weathered and focused amid hanging dried peppers and simple clay hearth. Render in warm golden-hour lighting with soft shadows, evoking humble rural resilience in a realistic style inspired by traditional Chinese ink wash paintings blended with photorealism, highly detailed textures on straw and suds, serene yet gritty atmosphere.",
+      "image": "reader_images/reader_20260316_072403.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1958706441,
+      "created_at": "2026-03-16T07:24:03.900416+08:00"
     }
   ],
   "book_total_chars": 92814,
