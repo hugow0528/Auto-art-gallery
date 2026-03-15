@@ -8075,6 +8075,18 @@
       "image_model": "imagen-4",
       "seed": 2052384336,
       "created_at": "2026-03-15T12:07:08.833396+08:00"
+    },
+    {
+      "id": "20260315_120733",
+      "offset_start": 46261,
+      "offset_end": 46352,
+      "text": "廟裡擺着觀音、如來、十八羅漢，還有一些叫不出名字的菩薩。\n老和尚黃皮寡瘦，灰白的光腦殼上，九個白點十分顯眼。他生活清苦，炒菜時，\n一隻手抓着油瓶，顫顫巍巍地滴上一滴，生怕失手倒多了。",
+      "prompt": "In a dimly lit, ancient Chinese Buddhist temple hall filled with ornate statues of Guanyin, the Buddha, eighteen Arhats, and nameless Bodhisattvas on gilded altars adorned with incense burners and flickering butter lamps, an elderly monk with sallow, emaciated skin and a bald head marked by nine prominent white scars stands by a simple wooden stove. He trembles as he holds an oil bottle aloft with one bony hand, a single drop poised to fall into a sizzling wok, his face etched with ascetic frugality and serene devotion. Render in realistic style with warm golden candlelight casting long shadows, earthy tones of aged wood and incense smoke creating a humble, mystical atmosphere, highly detailed, cinematic composition.",
+      "image": "reader_images/reader_20260315_120733.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2122011085,
+      "created_at": "2026-03-15T12:07:33.702762+08:00"
     }
   ],
   "book_total_chars": 92814,
