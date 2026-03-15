@@ -9995,6 +9995,18 @@
       "image_model": "klein",
       "seed": 663710843,
       "created_at": "2026-03-15T23:00:19.711133+08:00"
+    },
+    {
+      "id": "20260315_230156",
+      "offset_start": 56048,
+      "offset_end": 56118,
+      "text": "「長生老倌，你莫逞能，有本事就問滿寶生。」二痞子回答。\n長生老倌禁不起他激，乾咳了幾聲，就對着滿寶生大聲說：「滿寶生，這個瞌睡\n何裏消滅？",
+      "prompt": "A weathered, elderly man with a stern expression, possibly a scholar or elder, stands outdoors facing a younger man named Man Bao Sheng, who is also looking determined. The atmosphere is tense and confrontational, set against a backdrop of traditional Chinese architecture or a natural landscape. The artistic style should be reminiscent of classic Chinese ink wash painting, with dramatic lighting emphasizing the characters' faces and the weight of the spoken challenge.",
+      "image": "reader_images/reader_20260315_230156.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 546238903,
+      "created_at": "2026-03-15T23:01:56.758146+08:00"
     }
   ],
   "book_total_chars": 92814,
