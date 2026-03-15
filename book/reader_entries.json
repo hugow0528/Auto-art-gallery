@@ -8159,6 +8159,18 @@
       "image_model": "flux-2-dev",
       "seed": 296564398,
       "created_at": "2026-03-15T12:20:32.394213+08:00"
+    },
+    {
+      "id": "20260315_123014",
+      "offset_start": 46650,
+      "offset_end": 46716,
+      "text": "之驊就反問：「你喫了嗎？」\n「還有麼裏，早喫了。我是過午不食，未必你們還不曉得！」他臉上那種自豪\n感，好像做了什麼了不得的大好事。",
+      "prompt": "A man with a smug, proud expression, as if he's accomplished something grand, declares he has already eaten and practices intermittent fasting. He stands in a humble, rustic kitchen with dim, natural light filtering through a small window, emphasizing the simple, almost austere atmosphere. The style should be reminiscent of traditional Chinese ink wash painting with a touch of realism, focusing on the character's posture and facial expression.",
+      "image": "reader_images/reader_20260315_123014.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1356926839,
+      "created_at": "2026-03-15T12:30:15.082840+08:00"
     }
   ],
   "book_total_chars": 92814,
