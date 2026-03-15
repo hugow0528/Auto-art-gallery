@@ -8843,6 +8843,18 @@
       "image_model": "grok-imagine",
       "seed": 1272372889,
       "created_at": "2026-03-15T15:30:02.509313+08:00"
+    },
+    {
+      "id": "20260315_153535",
+      "offset_start": 50072,
+      "offset_end": 50164,
+      "text": "只要有討就\n好，或許能討蠻多東西回來，能喫餐把子飽飯。」\n一路上，之驊和兵桃沒有目的，哪裡有屋就往哪裡走。可往往還沒走到坪裏，就\n有三四條兇猛的狗跑出來吠個不停，手裡的打狗棍根本沒用。",
+      "prompt": "Two young travelers, Zihua and Bingtao, wander aimlessly down a dusty, sun-drenched road, their faces etched with a hopeful weariness. As they approach a small cluster of houses in the distance, a pack of ferocious dogs erupts from the shadows, their barks echoing menacingly in the dry, rural air. The scene is rendered in a gritty, realistic style with harsh, midday lighting that emphasizes the dust and desperation of their journey.",
+      "image": "reader_images/reader_20260315_153535.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1648340805,
+      "created_at": "2026-03-15T15:35:35.606101+08:00"
     }
   ],
   "book_total_chars": 92814,
