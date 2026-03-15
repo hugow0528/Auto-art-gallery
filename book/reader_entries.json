@@ -8555,6 +8555,18 @@
       "image_model": "grok-imagine",
       "seed": 1849472455,
       "created_at": "2026-03-15T13:53:27.780881+08:00"
+    },
+    {
+      "id": "20260315_135708",
+      "offset_start": 48626,
+      "offset_end": 48722,
+      "text": "孤零零地走呀走，終於看到河堤的坡下有個小茅棚。秋園彎着腰，小心翼翼地挪\n到坡下棚子邊上。就着月光，她看到棚子裡鋪着稻草，上面坐着一個六十多歲的\n老倌子，旁邊放着一個小爐鍋、一雙筷子、一隻碗。",
+      "prompt": "A solitary figure, Qiu Yuan, cautiously approaches a small thatched hut nestled at the base of a riverbank slope under the pale glow of moonlight. Inside the humble shelter, an elderly man, over sixty years old, sits on a bed of straw, a simple cooking setup of a small pot, chopsticks, and a bowl beside him. The scene evokes a quiet, poignant atmosphere, rendered in the style of a classical Chinese ink wash painting with soft, diffused moonlight and muted earthy tones.",
+      "image": "reader_images/reader_20260315_135708.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1146635232,
+      "created_at": "2026-03-15T13:57:08.552989+08:00"
     }
   ],
   "book_total_chars": 92814,
