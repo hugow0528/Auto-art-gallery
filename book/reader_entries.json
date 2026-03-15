@@ -8687,6 +8687,18 @@
       "image_model": "flux-2-dev",
       "seed": 1613735102,
       "created_at": "2026-03-15T14:36:51.960055+08:00"
+    },
+    {
+      "id": "20260315_143735",
+      "offset_start": 49254,
+      "offset_end": 49325,
+      "text": "剛轉到一處高地\n上，只聽得轟隆一聲，眨眼間，大堤被衝開一個口子，緊接着，大堤就像撕布一\n樣，幾分鐘就倒了好長一段……\n眨眼間，整個大垸被淹沒。",
+      "prompt": "A massive earthen dike ruptures with catastrophic force, water surging through the breach like a tidal wave in slow-motion devastation, the embankment tearing apart like fabric in seconds. Floodwaters engulf an entire village basin in moments, submerging buildings, fields, and landscape under a churning torrent of muddy brown water, with debris and wreckage swirling in the current. The sky is dark and ominous, casting dramatic shadows across the scene of destruction. Paint this in a classical Chinese landscape style with dramatic chiaroscuro lighting, emphasizing the raw power of nature and human vulnerability against catastrophic forces.",
+      "image": "reader_images/reader_20260315_143735.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1957698833,
+      "created_at": "2026-03-15T14:37:35.926605+08:00"
     }
   ],
   "book_total_chars": 92814,
