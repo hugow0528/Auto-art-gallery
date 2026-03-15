@@ -8015,6 +8015,18 @@
       "image_model": "grok-imagine",
       "seed": 2053287949,
       "created_at": "2026-03-15T11:44:31.180446+08:00"
+    },
+    {
+      "id": "20260315_114502",
+      "offset_start": 45881,
+      "offset_end": 46030,
+      "text": "二菊的房子原是寺廟西邊的三間雜屋，泥磚牆裂着寬縫，一副年久失修、搖搖欲\n墜的模樣。三間房並排，其中一間大一點的做困房，用泥磚砌四個墩，擱上木\n\n76\n\n\f板，就算兩張牀；中間那間做竈房，用泥磚砌個竈，再砌個四方墩，上面放幾塊\n舊木板，算是張喫飯桌子，然後擺上幾把用禾繩纏了又纏、綁了又綁的破椅子。",
+      "prompt": "A dilapidated, run-down rural dwelling with cracked mud-brick walls stands precariously, adjacent to a former temple. Inside, one room serves as a bedroom with simple wooden plank beds on brick supports, while another functions as a kitchen and dining area with a makeshift table and heavily repaired chairs, all under a somber, overcast sky. The style is gritty realism with a touch of melancholic atmosphere.",
+      "image": "reader_images/reader_20260315_114502.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 39414342,
+      "created_at": "2026-03-15T11:45:02.641090+08:00"
     }
   ],
   "book_total_chars": 92814,
