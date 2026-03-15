@@ -8471,6 +8471,18 @@
       "image_model": "gptimage",
       "seed": 757648040,
       "created_at": "2026-03-15T13:41:21.387768+08:00"
+    },
+    {
+      "id": "20260315_134230",
+      "offset_start": 48146,
+      "offset_end": 48214,
+      "text": "秋園一貫穿\n大襟衣，這回小泉幫她裁了一件開胸衣。秋園在邊上看，只見小泉在衣服兩邊腰\n子上各打了兩個褶，裁了領子，做了扣袖，釘上白色紐扣。",
+      "prompt": "A quiet domestic scene where Qiuyuan watches as Xiaoquan carefully sews white buttons onto a pale blue open-chested garment, the fabric draped with soft pleats at the waist. Warm afternoon light from a window illuminates the detailed needlework and the focused expression on Xiaoquan's face, rendered in a soft, realistic watercolor style.",
+      "image": "reader_images/reader_20260315_134230.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1349667631,
+      "created_at": "2026-03-15T13:42:30.623388+08:00"
     }
   ],
   "book_total_chars": 92814,
