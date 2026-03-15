@@ -9839,6 +9839,18 @@
       "image_model": "klein",
       "seed": 1366149030,
       "created_at": "2026-03-15T22:04:16.515086+08:00"
+    },
+    {
+      "id": "20260315_220638",
+      "offset_start": 55201,
+      "offset_end": 55317,
+      "text": "四老倌和幾個人走到沙坡裏。這個黃泥巴山上實在沒得草皮可鏟，要有也早就鏟\n光了。幾個人拄着鋤頭站在那兒，唉聲嘆氣。\n過了一陣，滿寶生巡查到這兒，一看大家還沒動手，氣就上來了，說：「真是個\n木腦殼，沒草皮，砍樹枝、斫雜柴，都可以燒灰。",
+      "prompt": "A desolate, sun-baked yellow mud slope with sparse, dry earth, devoid of grass. Several weathered men, leaning on their hoes, stand dejectedly, their faces etched with weariness. The harsh midday sun casts sharp shadows, emphasizing the barrenness and a somber, resigned mood. Cinematic, realistic style.",
+      "image": "reader_images/reader_20260315_220638.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 901335292,
+      "created_at": "2026-03-15T22:06:38.471584+08:00"
     }
   ],
   "book_total_chars": 92814,
