@@ -11015,6 +11015,18 @@
       "image_model": "gptimage",
       "seed": 1469282170,
       "created_at": "2026-03-16T05:58:06.376055+08:00"
+    },
+    {
+      "id": "20260316_060038",
+      "offset_start": 61657,
+      "offset_end": 61726,
+      "text": "社員們意見很大，罵罵咧咧，一肚子怨\n氣都發泄在範麻子身上。範麻子只是不作聲。\n一天，範麻子想去跟滿寶生反映下情況，看能不能再增加個人砍柴。",
+      "prompt": "A dimly lit, rustic communal hall in a rural Chinese village. Several weary-looking villagers, their faces etched with discontent, are gathered, muttering angrily and gesturing towards a solitary, stoic figure, Fan Mazi, who stands silently amidst their complaints. The atmosphere is heavy with unspoken resentment and a palpable sense of hardship. The scene should be rendered in a dramatic, chiaroscuro style reminiscent of traditional Chinese ink wash painting, emphasizing the stark contrast between light and shadow to convey the somber mood.",
+      "image": "reader_images/reader_20260316_060038.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1448397846,
+      "created_at": "2026-03-16T06:00:38.947933+08:00"
     }
   ],
   "book_total_chars": 92814,
