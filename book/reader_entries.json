@@ -10955,6 +10955,18 @@
       "image_model": "grok-imagine",
       "seed": 1976449428,
       "created_at": "2026-03-16T05:46:30.062757+08:00"
+    },
+    {
+      "id": "20260316_054708",
+      "offset_start": 61344,
+      "offset_end": 61413,
+      "text": "」\n仁受額頭冒汗，嘴脣顫抖，樣子嚇死人。之驊戰戰兢兢地從地上撿起菜刀放進竈\n屋。回過身來，看到秋園在幫仁受揩汗，之驊趕緊溜進了自己的房間。",
+      "prompt": "A dimly lit, rustic kitchen interior in traditional Chinese style. A man, Ren Shou, sweats profusely with trembling lips, his face contorted in fear. Another man, Zhi Hua, nervously picks up a cleaver from the floor, while a woman, Qiu Yuan, gently wipes Ren Shou's forehead. The atmosphere is tense and filled with apprehension, rendered in a realistic, painterly style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_054708.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1890455821,
+      "created_at": "2026-03-16T05:47:08.517861+08:00"
     }
   ],
   "book_total_chars": 92814,
