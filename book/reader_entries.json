@@ -9479,6 +9479,18 @@
       "image_model": "zimage",
       "seed": 608383584,
       "created_at": "2026-03-15T19:36:26.295707+08:00"
+    },
+    {
+      "id": "20260315_193752",
+      "offset_start": 53364,
+      "offset_end": 53439,
+      "text": "秋園輕輕推開大門，眼\n前這一幕頓時讓她們驚呆了。之驊手裡的野菊花一下掉在了地上。\n堂屋裡八仙桌的桌腳上綁着一把竹椅子，一根布繩子將田四攔腰綁在椅子上。",
+      "prompt": "A traditional Chinese farmhouse hall at autumn dusk, an elderly woman and a young girl stand frozen at the doorway, their faces twisted in horror as they stare at a tragic sight: a young boy is bound by a cloth rope around his waist to a bamboo chair that is tied to the leg of an Eight Immortals table, wild yellow chrysanthemums scattered on the stone floor. Soft golden light streams through the window, casting long shadows across the dusty wooden floor, while dust motes float in the air, creating an atmosphere of quiet desperation and shock. The",
+      "image": "reader_images/reader_20260315_193752.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1456770467,
+      "created_at": "2026-03-15T19:37:53.026097+08:00"
     }
   ],
   "book_total_chars": 92814,
