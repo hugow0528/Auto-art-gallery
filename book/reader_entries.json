@@ -10847,6 +10847,18 @@
       "image_model": "flux",
       "seed": 303316800,
       "created_at": "2026-03-16T04:56:52.522146+08:00"
+    },
+    {
+      "id": "20260316_045813",
+      "offset_start": 60693,
+      "offset_end": 60758,
+      "text": "之驊把椅子送進房裡，返身剛跨過門檻，就\n見一個黑影子躥上來，猛撲在秋園身上。秋園驚醒了，拼命掙扎着坐起來，抬手\n給了那人一個耳光。",
+      "prompt": "In a dimly lit traditional Chinese bedroom at night, with wooden furniture and flickering candlelight casting long shadows, Qiuyuan—a startled young woman in disheveled night robes—sits up abruptly on her bed, her face twisted in shock and fury as she delivers a sharp slap to the dark silhouette of an intruder lunging at her. Zhihua stands frozen in the doorway, chair in hand, eyes wide in mid-motion after crossing the threshold, capturing the chaotic instant of surprise and violence. Render in dramatic chiaroscuro style inspired by Chinese ink painting and cinematic realism, with tense atmosphere, muted earth tones, and dynamic motion blur emphasizing the pounce and struggle.",
+      "image": "reader_images/reader_20260316_045813.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1476225313,
+      "created_at": "2026-03-16T04:58:13.448179+08:00"
     }
   ],
   "book_total_chars": 92814,
