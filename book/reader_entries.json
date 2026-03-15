@@ -9647,6 +9647,18 @@
       "image_model": "imagen-4",
       "seed": 123769336,
       "created_at": "2026-03-15T21:17:11.130908+08:00"
+    },
+    {
+      "id": "20260315_211732",
+      "offset_start": 54157,
+      "offset_end": 54249,
+      "text": "田四很快又長出了黑油油的頭髮。\n此後一直沒見過楊桂生一家，他們似乎從這世上蒸發了。\n\n90\n\n\f九\n滿娭毑的細崽滿寶生好容易熬到了小學畢業，回到村裏，田不想種，事不想做，\n書也讀不進。",
+      "prompt": "A young Chinese boy, Manbaosheng, slouches idly on the worn wooden steps of a rustic village home in rural China, surrounded by overgrown fields and dilapidated farm tools symbolizing neglected labor, his face etched with listless boredom under the hazy afternoon sun filtering through misty hills. An elderly grandmother watches from the shadowed doorway, her expression a mix of weary concern, while empty books lie discarded nearby amid cracked earth and distant tiled-roof houses. Rendered in a melancholic realist style inspired by rural Chinese ink wash paintings with muted earth tones, soft diffused lighting evoking stagnation and quiet despair.",
+      "image": "reader_images/reader_20260315_211732.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 639161589,
+      "created_at": "2026-03-15T21:17:32.299100+08:00"
     }
   ],
   "book_total_chars": 92814,
