@@ -7859,6 +7859,18 @@
       "image_model": "flux-2-dev",
       "seed": 1141823440,
       "created_at": "2026-03-15T08:01:05.620993+08:00"
+    },
+    {
+      "id": "20260315_080226",
+      "offset_start": 45194,
+      "offset_end": 45263,
+      "text": "最難熬的冬天終於過去了。\n\n74\n\n\f第五章 賜福山\n\n75\n\n\f一\n一天，滿家的二菊走來家裡，樣子挺友好。\n秋園連忙遞上水煙筒和紙媒子。",
+      "prompt": "A friendly woman in traditional Hanfu arrives at a modest rural Chinese home in early spring, standing in a courtyard while the hostess hurried forward with a wooden water pipe and glowing paper tinder in hand. Soft morning light bathes the mud walls and simple wooden furniture, with bare trees beginning to show new buds, conveying the relief of winter's end. The scene",
+      "image": "reader_images/reader_20260315_080226.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1808853802,
+      "created_at": "2026-03-15T08:02:26.733245+08:00"
     }
   ],
   "book_total_chars": 92814,
