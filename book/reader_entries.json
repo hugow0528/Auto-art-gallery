@@ -9251,6 +9251,18 @@
       "image_model": "gptimage",
       "seed": 65118710,
       "created_at": "2026-03-15T17:56:40.416129+08:00"
+    },
+    {
+      "id": "20260315_175917",
+      "offset_start": 52305,
+      "offset_end": 52370,
+      "text": "」\n田四還不到兩周歲，會走路了，特別愛笑，一笑起來兩眼彎彎，十分好看。楊桂\n生夫婦說：「小的帶得親，大的怕帶不親。」就選中了田四。",
+      "prompt": "A heartwarming scene in a traditional Chinese courtyard bathed in soft golden afternoon light, featuring a cherubic toddler boy, Tian Si, not yet two years old, toddling unsteadily on plump legs with a radiant smile that bends his eyes into joyful crescents, captivating the gaze of the approving couple Yang Guisheng and his wife who stand nearby with tender expressions, selecting him as their favored child. The atmosphere is intimate and affectionate, with subtle details like scattered wooden toys, bamboo screens, and hints of everyday rural life rendered in meticulous gongbi style of traditional Chinese ink painting on silk, emphasizing spirit resonance through delicate brushstrokes, harmonious composition, and elegant white space for a serene, symbolic mood of familial warmth and vitality.",
+      "image": "reader_images/reader_20260315_175917.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 860713182,
+      "created_at": "2026-03-15T17:59:17.458671+08:00"
     }
   ],
   "book_total_chars": 92814,
