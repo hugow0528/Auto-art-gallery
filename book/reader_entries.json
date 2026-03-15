@@ -10595,6 +10595,18 @@
       "image_model": "flux",
       "seed": 760410943,
       "created_at": "2026-03-16T03:18:15.018947+08:00"
+    },
+    {
+      "id": "20260316_031837",
+      "offset_start": 59252,
+      "offset_end": 59332,
+      "text": "大家端飯時都兩眼放光，只想菩薩保佑，飯蒸得又硬又多。飯端在手裡，掂了又\n掂，看有幾重；食指按了又按，看是硬還是爛。慢慢地，大夥都覺得這飯不對\n勁：蒸得少且爛。",
+      "prompt": "A dimly lit, spartan communal dining hall in a time of scarcity. Gaunt, hopeful faces, eyes wide with anticipation, gather around worn wooden tables laden with steaming bowls. The atmosphere is thick with a mixture of desperation and fragile faith, illuminated by the harsh glow of a single bare bulb. The scene is rendered in a gritty, realistic style, evoking a sense of profound hunger and dawning disappointment.",
+      "image": "reader_images/reader_20260316_031837.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1355591354,
+      "created_at": "2026-03-16T03:18:37.564794+08:00"
     }
   ],
   "book_total_chars": 92814,
