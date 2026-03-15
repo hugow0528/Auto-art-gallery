@@ -10751,6 +10751,18 @@
       "image_model": "gptimage",
       "seed": 1367821934,
       "created_at": "2026-03-16T04:02:22.334151+08:00"
+    },
+    {
+      "id": "20260316_043337",
+      "offset_start": 60185,
+      "offset_end": 60250,
+      "text": "子恆將飯碗端在手裡，低着頭沒喫。一看，子恆眼睛紅紅的，之驊嚇到\n了。\n秋園忙問：「出了什麼事？」\n「飯裏這麼多谷，你們都喫得下去。",
+      "prompt": "First, the task is to create an image-generation prompt based on the given Chinese literary passage. I need to extract the key elements from the passage to craft a vivid, detailed English prompt.\n\nThe passage translates to: \"Zihua (or Zihong, but based on context, it might be a name; I'll use the given names) held the rice bowl in his hands, lowering his head without eating. At a glance, Zihong's eyes were red, which startled Zhi Hua. Qiuyuan hurriedly asked, 'What happened?' 'There's so much chaff in the rice, how can you all eat it?'\"\n\nFrom this, I need to describe a specific visual scene. The setting is likely a simple, perhaps humble, dining environment. Characters present: Zihua (or Zihong), Zhi Hua, and Qiuyuan. Atmosphere: tense, emotional, with a sense of distress or discomfort.\n\nKey visual elements:\n- Zihua holding a rice bowl, head lowered.\n- Red eyes, indicating crying or emotional distress.\n- Zhi Hua being startled.\n- Qiuyuan asking a question.\n- The rice bowl with chaff (husks or impurities) in the rice.\n- The overall mood is somber, possibly reflecting hardship.\n\nArtistic style: Since it's a literary passage, I should aim for a realistic or dramatic style that captures the emotion. Maybe something like \"realistic painting\" or \"dramatic lighting",
+      "image": "reader_images/reader_20260316_043337.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1105651968,
+      "created_at": "2026-03-16T04:33:37.119013+08:00"
     }
   ],
   "book_total_chars": 92814,
