@@ -8615,6 +8615,18 @@
       "image_model": "gptimage",
       "seed": 18400096,
       "created_at": "2026-03-15T14:06:57.894054+08:00"
+    },
+    {
+      "id": "20260315_140858",
+      "offset_start": 48871,
+      "offset_end": 48965,
+      "text": "老倌子提出要兩萬塊 ，秋園答應\n送到就給錢。老倌子便接過棉絮，帶頭爬上河堤，沿着河堤一路向前。路上，老\n倌子告訴秋園，他的老伴、三個崽、兩個媳婦，在此次大水中都淹死了，只剩下\n他一條老命。",
+      "prompt": "A weathered old man, his face etched with profound grief, trudges along a desolate, muddy riverbank under a perpetually overcast sky. He carries a bundle of cotton wadding, his shoulders slumped with the weight of loss, while a younger figure, presumably Qiu Yuan, follows behind, their expression somber. The scene is rendered in a melancholic, painterly style reminiscent of traditional Chinese ink wash paintings, emphasizing the vastness of the desolate landscape and the isolation of the surviving figure. The atmosphere is heavy with the recent devastation of a flood, conveyed through muted, earthy tones and a sense of quiet despair.",
+      "image": "reader_images/reader_20260315_140858.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1235775981,
+      "created_at": "2026-03-15T14:08:58.158593+08:00"
     }
   ],
   "book_total_chars": 92814,
