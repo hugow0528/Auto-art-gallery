@@ -8171,6 +8171,18 @@
       "image_model": "imagen-4",
       "seed": 1356926839,
       "created_at": "2026-03-15T12:30:15.082840+08:00"
+    },
+    {
+      "id": "20260315_123838",
+      "offset_start": 46716,
+      "offset_end": 46783,
+      "text": "老和尚大部分時間都處在飢餓中。一旦喫飯便飢不擇食、狼吞虎咽，咀嚼飯菜時\n發出好大的吧唧吧唧聲，別人見了，還以爲他喫的是什麼山珍海味。",
+      "prompt": "An elderly Buddhist monk sits alone in a sparse monastery dining hall with wooden beams and latticed windows filtering soft, muted light, hunched intently over a simple bowl of rice and vegetables. His weathered face shows deep concentration as he eats voraciously, cheeks working, making loud smacking sounds that echo in the quiet space—the contrast between his desperate hunger and the humble meal creating a poignant moment of human vulnerability within sacred walls. The scene is rendered in muted earth tones with careful attention to the textures of worn wood, simple pottery, and aged hands, capturing both the ascetic simplicity of monastic life and the raw physicality of hunger. Style: contemplative realism with warm, diffused lighting suggesting either early morning or late afternoon within the monastery.",
+      "image": "reader_images/reader_20260315_123838.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1783336226,
+      "created_at": "2026-03-15T12:38:38.783184+08:00"
     }
   ],
   "book_total_chars": 92814,
