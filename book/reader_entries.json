@@ -8915,6 +8915,18 @@
       "image_model": "flux",
       "seed": 218957422,
       "created_at": "2026-03-15T15:51:56.841153+08:00"
+    },
+    {
+      "id": "20260315_155313",
+      "offset_start": 50365,
+      "offset_end": 50426,
+      "text": "」\n84\n\n\f之驊們又到了另外一家。門口有個五十多歲的婦女，慈眉善目。之驊兩眼放光，\n大聲對她說：「嬸嬸，討點子，討點子。",
+      "prompt": "A warmly lit, humble doorway of an old house. A kind-faced, middle-aged woman with gentle eyes stands by the entrance, a soft smile on her lips. A young man with bright, eager eyes, dressed in simple attire, gestures enthusiastically towards her, a hopeful expression on his face. The scene is rendered in a traditional Chinese ink wash painting style, with a soft, natural light.",
+      "image": "reader_images/reader_20260315_155313.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 240328001,
+      "created_at": "2026-03-15T15:53:13.393990+08:00"
     }
   ],
   "book_total_chars": 92814,
