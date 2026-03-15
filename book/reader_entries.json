@@ -9359,6 +9359,18 @@
       "image_model": "imagen-4",
       "seed": 1223286298,
       "created_at": "2026-03-15T18:50:14.614436+08:00"
+    },
+    {
+      "id": "20260315_185341",
+      "offset_start": 52871,
+      "offset_end": 52934,
+      "text": "她連忙對秋園說：「媽媽莫傷心，隔一\n個月，我們就來看田四。一個月，一天也不能多。」\n回到家裡，賠三可憐兮兮地坐在門檻上等她們。",
+      "prompt": "A poignant autumn evening scene in a traditional Chinese courtyard home: a young woman returns through the wooden gate, her face etched with empathy as she glances toward the humble door threshold where Pei San sits pitifully, slumped with bowed head and tattered clothes, evoking quiet sorrow and familial longing. Faded golden sunlight filters through crimson maple leaves and weary branches of Qiuyuan's garden in the background, casting long melancholic shadows over cracked stone paths and a distant thatched roof, with a pensive, subdued atmosphere of impermanence and emotional restraint. Render in the style of Ming dynasty ink wash painting with subtle watercolor accents, soft diffused lighting, intricate architectural details, and a muted earth-tone palette for a deeply introspective, poetic mood.",
+      "image": "reader_images/reader_20260315_185341.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 452104410,
+      "created_at": "2026-03-15T18:53:41.088910+08:00"
     }
   ],
   "book_total_chars": 92814,
