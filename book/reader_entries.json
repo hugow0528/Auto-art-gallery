@@ -9539,6 +9539,18 @@
       "image_model": "flux-2-dev",
       "seed": 19495806,
       "created_at": "2026-03-15T19:48:04.857639+08:00"
+    },
+    {
+      "id": "20260315_194906",
+      "offset_start": 53592,
+      "offset_end": 53673,
+      "text": "秋園連忙解下田四身上的帶子，輕輕\n地抱起他。田四被弄醒了，一個激靈，睜開驚恐的眼睛。當他看清是秋園時，哇\n的一聲大哭起來，鑽在秋園懷裡，緊緊抓住秋園的衣服不放手。",
+      "prompt": "First, the user provides a Chinese literary passage. Let me translate it to understand the scene:\n\n\"秋園連忙解下田四身上的帶子，輕輕地抱起他。田四被弄醒了，一個激靈，睜開驚恐的眼睛。當他看清是秋園時，哇的一聲大哭起來，鑽在秋園懷裡，緊緊抓住秋園的衣服不放手。\"\n\nTranslation: \"Qiu Yuan quickly untied the strap from Tian Si's body and gently picked him up. Tian Si was awakened, startled, and opened his eyes in fear. When he saw it was Qiu Yuan, he burst into tears, burrowing into Qiu Yuan's arms, tightly clutching Qiu Yuan's clothes and not letting go.\"\n\nNow, I need to create an image-generation prompt based on this passage. The prompt should be in English, 2–4 sentences only, and include setting, atmosphere, characters, and artistic style. I must respond only with the prompt, no explanations or extra text.\n\nKey elements from the passage:\n\n- Characters: Qiu Yuan and Tian Si. Qiu Yuan is comforting Tian Si, who is scared and then relieved.\n\n- Actions: Qiu Yuan unties a strap, picks up Tian Si, who wakes up frightened, then cries and clings to Qiu Yuan.\n\n- Atmosphere: Initially tense or fearful when Tian Si wakes up, then emotional and comforting when he recognizes Qiu Yuan.\n\n- Setting: Not explicitly described,",
+      "image": "reader_images/reader_20260315_194906.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1081836462,
+      "created_at": "2026-03-15T19:49:06.835003+08:00"
     }
   ],
   "book_total_chars": 92814,
