@@ -9671,6 +9671,18 @@
       "image_model": "imagen-4",
       "seed": 1776325451,
       "created_at": "2026-03-15T21:25:51.762848+08:00"
+    },
+    {
+      "id": "20260315_212920",
+      "offset_start": 54332,
+      "offset_end": 54401,
+      "text": "人見人嫌。\n滿寶生走運是從村裏辦食堂那會兒開始的。爲了支援大煉鋼鐵，村裏辦起了食\n堂，各家的柴米油鹽都歸了公。\n隊長帶着幾個後生滿處找鐵。",
+      "prompt": "A rural Chinese village during the Great Leap Forward era, 1958, with a communal cafeteria bustling under a hazy sun: villagers in faded Mao suits donate household rice, oil, salt, and firewood into large public vats, while the stern team captain leads a group of young men scavenging scrap iron from piles of farm tools, abandoned carts, and rusty debris scattered across dusty fields. Atmosphere of fervent collectivism mixed with subtle hardship, warm golden lighting casting long shadows, realistic style inspired by socialist realism posters with earthy tones of ochre, gray, and faded blue, highly detailed, cinematic composition.",
+      "image": "reader_images/reader_20260315_212920.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 200496440,
+      "created_at": "2026-03-15T21:29:20.512142+08:00"
     }
   ],
   "book_total_chars": 92814,
