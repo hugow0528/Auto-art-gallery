@@ -10739,6 +10739,18 @@
       "image_model": "klein",
       "seed": 485884506,
       "created_at": "2026-03-16T03:59:15.567113+08:00"
+    },
+    {
+      "id": "20260316_040222",
+      "offset_start": 60102,
+      "offset_end": 60185,
+      "text": "早晨，秋園用這米煮了一爐鍋飯。家裡僅有一些生薑，就把生薑放在碗裡搗爛，\n拌上鹽，算是菜。他們正喫得津津有味，子恆回來了。之驊連忙起身，替子恆盛\n\n98\n\n\f了一碗。",
+      "prompt": "A humble, sun-drenched kitchen in an autumn garden. Steam rises from a simple meal of rice, with a small bowl of mashed ginger and salt beside it. A young boy, Zhihua, respectfully offers a steaming bowl to an elder, Ziheng, who has just returned. The scene is rendered in a warm, slightly painterly style, evoking a feeling of contentment and familial warmth.",
+      "image": "reader_images/reader_20260316_040222.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1367821934,
+      "created_at": "2026-03-16T04:02:22.334151+08:00"
     }
   ],
   "book_total_chars": 92814,
