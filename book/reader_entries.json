@@ -9059,6 +9059,18 @@
       "image_model": "grok-imagine",
       "seed": 1692385577,
       "created_at": "2026-03-15T16:53:18.568165+08:00"
+    },
+    {
+      "id": "20260315_165449",
+      "offset_start": 51211,
+      "offset_end": 51290,
+      "text": "這成千上萬的毛蟲讓人全身直起雞皮疙瘩。仁受趕緊把它們掃進撮箕。之驊挖好\n洞，把它們一撮箕一撮箕地倒進去埋掉。\n跑上山一看，松樹一夜之間只剩下了光禿禿的樹枝。",
+      "prompt": "A horrifying landscape of desolate pine trees stripped bare to skeletal branches overnight by an infestation of thousands of caterpillars, rendered in a dark, unsettling impressionist style with muted greens and browns. Two figures are visible in the middle ground—one frantically sweeping writhing caterpillars into a dustpan while the other digs a grave-like pit in the earth, their movements urgent and distressed. The atmosphere is deeply eerie and apocalyptic, with the morning light casting long shadows across the barren forest floor, emphasizing the ecological devastation and the visceral horror of nature's destruction.",
+      "image": "reader_images/reader_20260315_165449.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1256361340,
+      "created_at": "2026-03-15T16:54:49.509469+08:00"
     }
   ],
   "book_total_chars": 92814,
