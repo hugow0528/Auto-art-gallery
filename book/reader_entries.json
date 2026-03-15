@@ -9323,6 +9323,18 @@
       "image_model": "imagen-4",
       "seed": 970374505,
       "created_at": "2026-03-15T18:21:33.975554+08:00"
+    },
+    {
+      "id": "20260315_184429",
+      "offset_start": 52656,
+      "offset_end": 52723,
+      "text": "秋園動了幾下筷子就\n放了碗。之驊一看，她眼裡全是淚。見之驊看，秋園趕緊別過臉去。\n喫罷飯，之驊帶着田四玩了一陣子，然後抱他坐在椅子上。",
+      "prompt": "A dimly lit, rustic dining room in autumn, with a simple wooden table. A young woman, Qiu Yuan, with tear-filled eyes, turns away shyly from a man, Zhi Hua. The atmosphere is melancholic and intimate, rendered in the style of a classical Chinese ink wash painting with soft, diffused lighting.",
+      "image": "reader_images/reader_20260315_184429.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 931560783,
+      "created_at": "2026-03-15T18:44:29.215601+08:00"
     }
   ],
   "book_total_chars": 92814,
