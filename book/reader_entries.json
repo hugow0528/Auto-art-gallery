@@ -10031,6 +10031,18 @@
       "image_model": "gptimage",
       "seed": 293546342,
       "created_at": "2026-03-15T23:18:05.349814+08:00"
+    },
+    {
+      "id": "20260315_232212",
+      "offset_start": 56277,
+      "offset_end": 56344,
+      "text": "」\n二痞子看到滿寶生未對長生老倌發脾氣，膽子大了些，問道：「坐在椅子上可以\n睡覺啵？」\n滿寶生說：「坐着閉下眼睛可以，會還是要繼續開。",
+      "prompt": "A rustic village meeting room at night, dimly lit by an oil lamp. An elderly man with a weary expression sits on a simple wooden chair, addressing a hesitant younger man standing nearby. Realistic style, subdued colors, conveying a tense yet mundane atmosphere.",
+      "image": "reader_images/reader_20260315_232212.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 860381033,
+      "created_at": "2026-03-15T23:22:12.319471+08:00"
     }
   ],
   "book_total_chars": 92814,
