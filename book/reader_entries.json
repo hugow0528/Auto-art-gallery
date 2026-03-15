@@ -9215,6 +9215,18 @@
       "image_model": "imagen-4",
       "seed": 596959787,
       "created_at": "2026-03-15T17:49:50.153451+08:00"
+    },
+    {
+      "id": "20260315_175056",
+      "offset_start": 52081,
+      "offset_end": 52173,
+      "text": "仁受和秋園當時沒答應，直到他們走了，才慎重商量起來。商量來，商量去，秋\n園也鬆了口。倆人都認爲，楊桂生夫婦都四十出頭了，應該是真心想帶個崽傳宗\n接代，要是不把崽當人看，又何必要帶呢？",
+      "prompt": "A middle-aged Chinese couple sitting close together in a humble dimly-lit room after visitors have left, engaged in serious whispered conversation, their faces showing careful deliberation and gradual agreement; the woman touches the man's arm gently as if conceding; worn wooden furniture, simple earthen walls, warm candlelight casting soft shadows, traditional rural Chinese interior of the 1940s, quiet intimate atmosphere, subtle emotional tension of a life-changing decision, realistic oil painting style with soft muted colors.",
+      "image": "reader_images/reader_20260315_175056.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 678624051,
+      "created_at": "2026-03-15T17:50:56.867360+08:00"
     }
   ],
   "book_total_chars": 92814,
