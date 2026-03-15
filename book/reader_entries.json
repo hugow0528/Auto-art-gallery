@@ -8987,6 +8987,18 @@
       "image_model": "flux-2-dev",
       "seed": 2126574149,
       "created_at": "2026-03-15T16:04:23.238468+08:00"
+    },
+    {
+      "id": "20260315_160528",
+      "offset_start": 50736,
+      "offset_end": 50824,
+      "text": "」之驊伶牙俐齒地講話，只想討好他。\n勞慰，方言，謝謝。\n那男人從籃裏拿出一條老黃瓜，金黃金黃的，一剖兩瓣，摳下籽來，放進一隻破\n碗，說得留着做種，然後給之驊和兵桃各人半邊黃瓜。",
+      "prompt": "A weathered farmer in a simple cloth jacket stands in a sunlit rural courtyard, carefully halving a golden-yellow heirloom cucumber with a small knife while a boy and a girl watch eagerly nearby. The ancient cucumber glows with warm amber light against the rustic browns of the scene, its seeds being scooped into a chipped earthen bowl.",
+      "image": "reader_images/reader_20260315_160528.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1454310729,
+      "created_at": "2026-03-15T16:05:28.039128+08:00"
     }
   ],
   "book_total_chars": 92814,
