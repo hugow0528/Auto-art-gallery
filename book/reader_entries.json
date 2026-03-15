@@ -9143,6 +9143,18 @@
       "image_model": "klein",
       "seed": 1633573977,
       "created_at": "2026-03-15T17:18:30.107487+08:00"
+    },
+    {
+      "id": "20260315_171939",
+      "offset_start": 51674,
+      "offset_end": 51742,
+      "text": "秋園那包過的腳不能打赤腳，只能做點旱地上的事。因\n此，一年到頭家裡的工分少得可憐，分的糧食也少得可憐。\n一天，家裡來了個本家，叫楊桂生。",
+      "prompt": "A humble, overcast autumn courtyard scene in a traditional Chinese village, with a woman with bound feet performing simple chores on dry land, her meager earnings implied by the sparse surroundings. The atmosphere is one of quiet hardship and resilience, with a hint of anticipation for a visitor, Yang Guisheng, whose arrival is signaled by a shift in the quietude. The artistic style should be reminiscent of ink wash painting, with muted colors and a focus on atmospheric perspective.",
+      "image": "reader_images/reader_20260315_171939.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 67494033,
+      "created_at": "2026-03-15T17:19:39.291008+08:00"
     }
   ],
   "book_total_chars": 92814,
