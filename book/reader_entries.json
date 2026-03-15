@@ -9635,6 +9635,18 @@
       "image_model": "flux",
       "seed": 1922966188,
       "created_at": "2026-03-15T21:15:28.967166+08:00"
+    },
+    {
+      "id": "20260315_211711",
+      "offset_start": 54157,
+      "offset_end": 54249,
+      "text": "田四很快又長出了黑油油的頭髮。\n此後一直沒見過楊桂生一家，他們似乎從這世上蒸發了。\n\n90\n\n\f九\n滿娭毑的細崽滿寶生好容易熬到了小學畢業，回到村裏，田不想種，事不想做，\n書也讀不進。",
+      "prompt": "A close-up portrait of a man with newly grown dark, glossy hair, sitting alone at the edge of a quiet, sun-drenched rural village, his expression weary and introspective; behind him, a younger man lounges listlessly against a weathered wall, the atmosphere thick with melancholy and stagnation, rendered in soft natural light with desaturated, earthy tones.",
+      "image": "reader_images/reader_20260315_211711.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 123769336,
+      "created_at": "2026-03-15T21:17:11.130908+08:00"
     }
   ],
   "book_total_chars": 92814,
