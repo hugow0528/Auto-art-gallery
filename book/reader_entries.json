@@ -8567,6 +8567,18 @@
       "image_model": "zimage",
       "seed": 1146635232,
       "created_at": "2026-03-15T13:57:08.552989+08:00"
+    },
+    {
+      "id": "20260315_135744",
+      "offset_start": 48626,
+      "offset_end": 48722,
+      "text": "孤零零地走呀走，終於看到河堤的坡下有個小茅棚。秋園彎着腰，小心翼翼地挪\n到坡下棚子邊上。就着月光，她看到棚子裡鋪着稻草，上面坐着一個六十多歲的\n老倌子，旁邊放着一個小爐鍋、一雙筷子、一隻碗。",
+      "prompt": "A solitary figure in traditional Chinese dress descends a moonlit embankment toward a humble thatched shelter nestled in autumn shadows, moving with careful, deliberate steps. Inside the simple dwelling, an elderly man in his sixties sits on scattered straw, a small clay brazier and simple wooden bowl beside him, bathed in soft silver moonlight that filters through gaps in the roof. The scene captures a moment of quiet desolation and unexpected human presence, rendered in the monochromatic tones and atmospheric mist characteristic of classical Chinese landscape painting, with emphasis on negative space, subtle ink gradations, and the poignant contrast between emptiness and intimate human refuge. The composition employs traditional vertical perspective with the figures small against the vast, misty landscape, evoking melancholy, solitude, and the resilience of humble survival beneath an indifferent night sky.",
+      "image": "reader_images/reader_20260315_135744.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 608547840,
+      "created_at": "2026-03-15T13:57:44.293750+08:00"
     }
   ],
   "book_total_chars": 92814,
