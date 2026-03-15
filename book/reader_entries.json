@@ -10583,6 +10583,18 @@
       "image_model": "zimage",
       "seed": 698884661,
       "created_at": "2026-03-16T03:07:37.873774+08:00"
+    },
+    {
+      "id": "20260316_031814",
+      "offset_start": 59252,
+      "offset_end": 59332,
+      "text": "大家端飯時都兩眼放光，只想菩薩保佑，飯蒸得又硬又多。飯端在手裡，掂了又\n掂，看有幾重；食指按了又按，看是硬還是爛。慢慢地，大夥都覺得這飯不對\n勁：蒸得少且爛。",
+      "prompt": "A group of people, with desperate eyes, huddle around bowls of rice, scrutinizing each grain with intense focus and suspicion. The atmosphere is tense and somber, lit by a dim, harsh light that emphasizes the meager portions. The art style should be reminiscent of gritty realism, capturing the palpable hunger and disappointment on their faces as they discover the rice is both scarce and mushy.",
+      "image": "reader_images/reader_20260316_031814.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 760410943,
+      "created_at": "2026-03-16T03:18:15.018947+08:00"
     }
   ],
   "book_total_chars": 92814,
