@@ -10151,6 +10151,18 @@
       "image_model": "klein",
       "seed": 1636277180,
       "created_at": "2026-03-15T23:59:13.221654+08:00"
+    },
+    {
+      "id": "20260316_000110",
+      "offset_start": 56907,
+      "offset_end": 56987,
+      "text": "你這樣\n對抗生產運動，會喫虧的！」\n一時間，除了煙霧嗆出的咳嗽聲，再無人聲。\n到了第七天晚上，滿寶生宣布散會。大家如逢大赦，一個個東倒西歪、踉踉蹌蹌\n地回家了。",
+      "prompt": "A dimly lit, smoke-filled meeting hall on the seventh evening, where exhausted workers stumble out in disarray after days of arduous production struggle sessions, their bodies bent and weary, moving like shadows through thick haze. The atmosphere is oppressive yet tinged with relief, captured in a socialist realist style with muted, desaturated colors—grays, browns, and sickly yellows—emphasizing both the physical toll and psychological strain of the movement. Cigarette smoke coils through shafts of weak lamplight, obscuring faces and creating an almost dreamlike quality of collective exhaustion. The composition conveys a sense of liberation mixed with depletion, as figures dissolve into the murky background like ghosts departing a gathering place.",
+      "image": "reader_images/reader_20260316_000110.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 517714297,
+      "created_at": "2026-03-16T00:01:10.039076+08:00"
     }
   ],
   "book_total_chars": 92814,
