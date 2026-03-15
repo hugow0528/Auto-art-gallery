@@ -10271,6 +10271,18 @@
       "image_model": "flux-2-dev",
       "seed": 1363576425,
       "created_at": "2026-03-16T00:58:22.422152+08:00"
+    },
+    {
+      "id": "20260316_010041",
+      "offset_start": 57490,
+      "offset_end": 57587,
+      "text": "忽然天降大\n雨，大家跑到一個堆放稻草的茅棚裏躲雨，一屁股在稻草上坐下來。\n有個叫根華的人，三十多歲，他的堂客生毛毛死了有一個月，他又和大家講起這\n件事：「要說世上冇鬼，我覺得硬是有，我就看到了。",
+      "prompt": "A sudden downpour drenches a rural Chinese village as villagers huddle inside a rustic thatched shed filled with golden straw, their figures casting warm shadows against the dim interior illuminated by stormy light filtering through gaps in the roof. An weathered man in his thirties sits heavily on the straw, his face etched with grief and haunted intensity as he begins recounting a supernatural encounter to his gathered companions. The scene captures the intimate, shadowy atmosphere of traditional village life—earthy textures of straw and wood, the cool blue-grey tones of the rainstorm outside contrasting with warm amber tones within, rendered in a classical ink-wash painting style with dramatic chiaroscuro lighting. Convey the tension between everyday rural simplicity and the uncanny presence of the supernatural lurking beneath.",
+      "image": "reader_images/reader_20260316_010041.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1036262655,
+      "created_at": "2026-03-16T01:00:41.674541+08:00"
     }
   ],
   "book_total_chars": 92814,
