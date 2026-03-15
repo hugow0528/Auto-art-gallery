@@ -10895,6 +10895,18 @@
       "image_model": "gptimage",
       "seed": 490649910,
       "created_at": "2026-03-16T05:16:22.915086+08:00"
+    },
+    {
+      "id": "20260316_053109",
+      "offset_start": 60982,
+      "offset_end": 61080,
+      "text": "繩子也好，菜刀也好，你去死吧！\n沒死之前，我不想戴綠帽子！」\n那一瞬間，之驊對仁受有種陌生感，心中升起了恨意。\n秋園一愣，幾步退到牆邊，背靠着牆定定站着，嘴巴癟了半天，終於擠出一句\n話：「你真惡！",
+      "prompt": "A tense confrontation unfolds in a dimly lit, sparsely furnished room, with dramatic chiaroscuro lighting highlighting the emotional turmoil. One character, Zhihua, recoils against a bare wall, eyes wide with a mixture of shock and dawning hatred, their face contorted in a silent scream. Across from them, Renshou stands with an unreadable expression, a sense of estrangement palpable in the air. The scene is rendered in a style reminiscent of dramatic Baroque painting, emphasizing the raw, visceral emotion.",
+      "image": "reader_images/reader_20260316_053109.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1050151061,
+      "created_at": "2026-03-16T05:31:09.896556+08:00"
     }
   ],
   "book_total_chars": 92814,
