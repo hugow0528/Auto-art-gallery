@@ -7979,6 +7979,18 @@
       "image_model": "gptimage",
       "seed": 919155761,
       "created_at": "2026-03-15T11:41:44.035907+08:00"
+    },
+    {
+      "id": "20260315_114230",
+      "offset_start": 45743,
+      "offset_end": 45806,
+      "text": "離禾坪百米開外有口泥塘，幾隻鴨\n子在塘裏戲水，塘水被鴨子攪得渾黃。\n走過禾坪就是田壟，田壟夾在羣山之間，中間有彎彎曲曲的小路。",
+      "prompt": "A muddy pond with several ducks splashing, stirring the water into a murky yellow, is situated a hundred meters from a leveled field. Beyond the field, terraced fields are nestled between rolling mountains, with a winding path running through them. The scene is rendered in a traditional Chinese landscape painting style, with a soft, diffused light and a serene, pastoral atmosphere.",
+      "image": "reader_images/reader_20260315_114230.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 552241962,
+      "created_at": "2026-03-15T11:42:30.864106+08:00"
     }
   ],
   "book_total_chars": 92814,
