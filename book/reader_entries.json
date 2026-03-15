@@ -9467,6 +9467,18 @@
       "image_model": "flux",
       "seed": 552258634,
       "created_at": "2026-03-15T19:20:22.822617+08:00"
+    },
+    {
+      "id": "20260315_193626",
+      "offset_start": 53285,
+      "offset_end": 53364,
+      "text": "也許牽着田四的小\n手，正打算出去坐人家？等田四看到秋園和自己，一定會咯咯笑個不停，把一雙\n眼睛笑得彎彎的。\n楊桂生家是獨屋，大門虛掩着，之驊的心突突跳個不停。",
+      "prompt": "A young girl with rosy cheeks, possibly named Tian Si, is depicted with a joyous, infectious smile, her eyes crinkling into crescents as she laughs. She is reaching out, perhaps holding a small hand, ready to venture outside. The scene is set before a traditional Chinese house with its main door slightly ajar, creating a sense of anticipation and perhaps a touch of unease as another character, Zhi Hua, experiences a rapidly beating heart. The artistic style should be reminiscent of traditional Chinese ink wash paintings, with a soft, diffused light that enhances the atmosphere of innocent delight and underlying tension.",
+      "image": "reader_images/reader_20260315_193626.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 608383584,
+      "created_at": "2026-03-15T19:36:26.295707+08:00"
     }
   ],
   "book_total_chars": 92814,
