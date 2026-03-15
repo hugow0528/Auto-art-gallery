@@ -8543,6 +8543,18 @@
       "image_model": "grok-imagine",
       "seed": 1354257294,
       "created_at": "2026-03-15T13:51:55.376590+08:00"
+    },
+    {
+      "id": "20260315_135327",
+      "offset_start": 48528,
+      "offset_end": 48626,
+      "text": "秋園一直走到月亮\n從雲層裏鑽了出來。清冷的月光照得大地一片慘白，星星越來越多，密密麻麻\n的，好像螞蟻在打架。秋園茫然四顧，萬籟俱寂，看不到盡頭的河堤上沒有房\n屋，沒有人煙，只有點點時隱時現的磷火。",
+      "prompt": "A lone wanderer named Qiuyuan stands bewildered on an endless, desolate river embankment under a cold, pale moonlight that bathes the earth in ghostly white, with the moon emerging from drifting clouds and stars densely swarming like fighting ants across the vast night sky. Flickering will-o'-the-wisps faintly appear and vanish in the silent, barren landscape devoid of houses or people, evoking a haunting, eerie atmosphere of isolation and mystery. Render in a surreal ink wash painting style inspired by Chinese literati art, with high contrast lighting, misty fog, and a wide-angle composition emphasizing infinite emptiness.",
+      "image": "reader_images/reader_20260315_135327.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1849472455,
+      "created_at": "2026-03-15T13:53:27.780881+08:00"
     }
   ],
   "book_total_chars": 92814,
