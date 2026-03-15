@@ -11231,6 +11231,18 @@
       "image_model": "flux",
       "seed": 169167193,
       "created_at": "2026-03-16T07:45:42.449191+08:00"
+    },
+    {
+      "id": "20260316_074711",
+      "offset_start": 62839,
+      "offset_end": 62967,
+      "text": "一天，大家正在隊部等滿寶生派工。幾個四五歲的細伢子在坪裏玩，張跛子又故\n技重演。這時，從一堆柴後面鑽出幾個上十歲的細伢子，趁張跛子不注意，不費\n吹灰之力就把他放倒在地，扯下他的短褲做繡球拋，一邊說：「你喜歡看別人打\n光胯，看人家雞雞，今天讓我們看看你的。",
+      "prompt": "A dusty, sun-drenched village square in rural China, circa early 20th century. Several young boys, aged roughly four to ten, are roughhousing near a pile of firewood. The atmosphere is one of boisterous, mischievous chaos, captured in a style reminiscent of traditional Chinese ink wash paintings with a touch of gritty realism.",
+      "image": "reader_images/reader_20260316_074711.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1161217267,
+      "created_at": "2026-03-16T07:47:11.597053+08:00"
     }
   ],
   "book_total_chars": 92814,
