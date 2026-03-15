@@ -8087,6 +8087,18 @@
       "image_model": "flux",
       "seed": 2122011085,
       "created_at": "2026-03-15T12:07:33.702762+08:00"
+    },
+    {
+      "id": "20260315_121249",
+      "offset_start": 46352,
+      "offset_end": 46417,
+      "text": "加上老眼昏花，腦殼\n簡直栽到了鍋裏，整個臉都貼了上去，看着就像是用鼻子嗅聞。\n有時也能看到他提個籃子去買豆腐，回來時總是氣鼓鼓的。",
+      "prompt": "First, the user gives a Chinese literary passage: \"加上老眼昏花，腦殼簡直栽到了鍋裏，整個臉都貼了上去，看着就像是用鼻子嗅聞。有時也能看到他提個籃子去買豆腐，回來時總是氣鼓鼓的。\" I need to create an image-generation prompt based on this in English.\n\nKey elements from the passage:\n\n- An elderly person with poor eyesight (老眼昏花).\n\n- Their head is practically in a pot (腦殼簡直栽到了鍋裏), with their whole face pressed against it, as if sniffing with their nose.\n\n- Sometimes, they are seen carrying a basket to buy tofu, and returning always looking angry or sullen (氣鼓鼓的).\n\nI need to describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, characters, and artistic style. Keep it to 2–4 sentences, and respond only with the image prompt in English—no explanations, translations, or markdown.\n\nStructure the prompt:\n\n- **Setting**: Probably a kitchen or a market scene. From the passage, one scene is with a pot, suggesting a kitchen. Another is going to buy tofu, which might be in a street or market.\n\n- **Atmosphere**: From the text, the first part seems intimate or humorous, with the person closely inspecting something in a pot. The second part has a sullen mood when returning from buying tofu.\n\n- **Characters**: An",
+      "image": "reader_images/reader_20260315_121249.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 10634559,
+      "created_at": "2026-03-15T12:12:49.754701+08:00"
     }
   ],
   "book_total_chars": 92814,
