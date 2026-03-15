@@ -9767,6 +9767,18 @@
       "image_model": "flux-2-dev",
       "seed": 42636089,
       "created_at": "2026-03-15T21:54:01.669064+08:00"
+    },
+    {
+      "id": "20260315_215448",
+      "offset_start": 54781,
+      "offset_end": 54850,
+      "text": "打完早禾不久，隊部接到通知，有檢查團來村裏檢查積肥運動。\n燒火土灰，將草皮鏟成一堆，其下挖洞，再將枯枝敗葉塞入洞中，隨後點火\n燒至成灰。",
+      "prompt": "A rustic village scene at dusk, with farmers in worn clothing shoveling earth and tending smoky piles of burning grass and branches. Hazy golden light filters through the smoke, casting long shadows across the harvested field, captured in a realistic painting style with earthy tones.",
+      "image": "reader_images/reader_20260315_215448.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1984522783,
+      "created_at": "2026-03-15T21:54:48.309266+08:00"
     }
   ],
   "book_total_chars": 92814,
