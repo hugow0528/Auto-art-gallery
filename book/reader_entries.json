@@ -9443,6 +9443,18 @@
       "image_model": "zimage",
       "seed": 239543862,
       "created_at": "2026-03-15T19:03:02.484294+08:00"
+    },
+    {
+      "id": "20260315_191807",
+      "offset_start": 53147,
+      "offset_end": 53222,
+      "text": "喫罷飯，之驊就催着秋園\n上路，只想早點看到田四。之驊精神抖擻、兩腳如飛，走一段就停下來等一會兒\n秋園。她還沿路摘了一大把野菊花抓在手裡，想討田四喜歡。",
+      "prompt": "A young woman with energetic spirit strides eagerly along a rural path, her movements swift and animated as she pauses occasionally to wait for her companion. Beside her walks another woman moving more slowly, her hands clutching a vibrant bouquet of wild chrysanthemums gathered along the roadside. The scene captures a moment of anticipation and affection—one character eager to reach their destination while the other thoughtfully collects flowers as a gift. The artistic style should evoke classical Chinese landscape painting with its emphasis on human figures in natural settings, rendered in soft ink washes with delicate brushwork, featuring muted earth tones and negative space that suggests the expansive countryside around them.",
+      "image": "reader_images/reader_20260315_191807.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 461666165,
+      "created_at": "2026-03-15T19:18:07.578909+08:00"
     }
   ],
   "book_total_chars": 92814,
