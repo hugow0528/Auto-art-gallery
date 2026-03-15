@@ -8519,6 +8519,18 @@
       "image_model": "flux",
       "seed": 1572789070,
       "created_at": "2026-03-15T13:48:59.125457+08:00"
+    },
+    {
+      "id": "20260315_134938",
+      "offset_start": 48385,
+      "offset_end": 48467,
+      "text": "買了一小碗稀飯，幾口就喝掉了，真是牙齒縫都沒塞滿。人已精疲\n力盡，早早就躺下了，想要好好睏一夜，第二天還有八十裏路要走。\n第二天天不亮，秋園就起來，空着肚子上了路。",
+      "prompt": "A lone, exhausted traveler walks down a dusty road in the pre-dawn twilight, with a faint glow on the horizon suggesting an imminent sunrise. The atmosphere is one of quiet fatigue and determination, rendered in a muted, impressionistic style with soft, diffused lighting. Sparse, dry vegetation lines the path, emphasizing the vastness of the journey ahead.",
+      "image": "reader_images/reader_20260315_134938.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 557070633,
+      "created_at": "2026-03-15T13:49:38.676798+08:00"
     }
   ],
   "book_total_chars": 92814,
