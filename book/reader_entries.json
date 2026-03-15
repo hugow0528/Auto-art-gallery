@@ -8063,6 +8063,18 @@
       "image_model": "imagen-4",
       "seed": 726554480,
       "created_at": "2026-03-15T12:06:26.094363+08:00"
+    },
+    {
+      "id": "20260315_120708",
+      "offset_start": 46187,
+      "offset_end": 46261,
+      "text": "慢慢地，他佛緣越結越深，便跑到大廟裡受了戒，半路出家做\n了和尚。\n一家人同老和尚處得很融洽，之驊經常帶着弟弟去廟裡玩，不像在黃泥衝，連門\n都不敢出。",
+      "prompt": "In a serene temple courtyard under soft afternoon light, a young boy leads his shy younger brother by the hand toward a kindly old monk seated on a stone step. The warm, harmonious atmosphere is rendered in the gentle style of Chinese ink wash painting, with detailed temple architecture and dappled sunlight filtering through ancient trees.",
+      "image": "reader_images/reader_20260315_120708.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 2052384336,
+      "created_at": "2026-03-15T12:07:08.833396+08:00"
     }
   ],
   "book_total_chars": 92814,
