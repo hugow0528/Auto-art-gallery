@@ -7919,6 +7919,18 @@
       "image_model": "flux",
       "seed": 1282591967,
       "created_at": "2026-03-15T11:29:19.278419+08:00"
+    },
+    {
+      "id": "20260315_113140",
+      "offset_start": 45540,
+      "offset_end": 45601,
+      "text": "」\n秋園家有四間房，二菊在賜福山的房子只有三間。不花一分錢就多了一間房，還\n能毫不顧忌地和野男人鬼混，二菊心滿意足地走了。",
+      "prompt": "A satisfied woman in elegant traditional Chinese robes strides confidently away from a luxurious **autumn garden** compound with **four ornate pavilions** featuring upturned roofs, intricate balustrades, and winding paths amid rockeries, blooming chrysanthemums, and golden foliage under a soft, hazy sunset glow. In the shadowed background, a secretive male figure lurks near the third pavilion of a nearby three-room house on a misty hill, evoking an atmosphere of illicit triumph and sensual freedom. Render in the style of classical Chinese ink-wash painting with vibrant Ming dynasty accents, dramatic chiaroscuro lighting, and a harmonious balance of natural yin-yang elements.[1][2][3]",
+      "image": "reader_images/reader_20260315_113140.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1324875577,
+      "created_at": "2026-03-15T11:31:40.979941+08:00"
     }
   ],
   "book_total_chars": 92814,
