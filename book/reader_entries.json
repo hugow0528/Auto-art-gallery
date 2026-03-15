@@ -10019,6 +10019,18 @@
       "image_model": "gptimage",
       "seed": 24536514,
       "created_at": "2026-03-15T23:03:17.405807+08:00"
+    },
+    {
+      "id": "20260315_231805",
+      "offset_start": 56215,
+      "offset_end": 56277,
+      "text": "隊上開幾天夥食，飯也不用回家喫。\n這裡冇得牀，誰也困不成，瞌睡自然就冇得了。不睏覺，可以省出好多時間，修\n水庫時好大幹快上。",
+      "prompt": "A bustling construction site at a massive Chinese water reservoir project like the Three Gorges Dam, with tireless workers in simple uniforms energetically shoveling earth and pouring concrete under harsh sunlight, no beds or sleeping quarters in sight, evoking relentless vigor and communal spirit. The atmosphere buzzes with determination and exhaustion, dusty air thick with labor's heat, rugged terrain scarred by heavy machinery and half-built dams against misty mountains. Render in realistic cinematic style like a propaganda poster by Dong Xiwen, dramatic golden hour lighting casting long shadows, high detail, epic scale, motivational mood.",
+      "image": "reader_images/reader_20260315_231805.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 293546342,
+      "created_at": "2026-03-15T23:18:05.349814+08:00"
     }
   ],
   "book_total_chars": 92814,
