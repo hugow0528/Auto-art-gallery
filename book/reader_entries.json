@@ -13463,6 +13463,18 @@
       "image_model": "flux",
       "seed": 1200241027,
       "created_at": "2026-03-16T23:59:20.063756+08:00"
+    },
+    {
+      "id": "20260317_001201",
+      "offset_start": 74920,
+      "offset_end": 75004,
+      "text": "過了橋，走上一段不長的斜坡，就\n到了學校。\n「共產主義勞動大學」幾個字在陽光下閃閃發亮。走進學校大門，之驊激動得面\n紅耳赤，聽到自己的心在咚咚響，幾乎要從胸腔裏跳出來。",
+      "prompt": "A young man, Zhi Hua, with flushed cheeks and a pounding heart, stands at the entrance of the \"Communism Labor University.\" The large characters of the university's name gleam brightly in the warm, golden sunlight. The scene is set on a slightly sloped path leading up to an open gate, evoking a sense of youthful excitement and hopeful anticipation. Rendered in a vibrant, slightly idealized socialist realist style, with a bright, optimistic lighting.",
+      "image": "reader_images/reader_20260317_001201.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1250990378,
+      "created_at": "2026-03-17T00:12:01.424528+08:00"
     }
   ],
   "book_total_chars": 92814,
