@@ -13895,6 +13895,18 @@
       "image_model": "flux",
       "seed": 121246626,
       "created_at": "2026-03-17T02:54:41.260380+08:00"
+    },
+    {
+      "id": "20260317_031836",
+      "offset_start": 77066,
+      "offset_end": 77151,
+      "text": "山上的蚊蟲小咬十分多，不出一個星期，大家就被咬得體無完膚，個個成了爛腳\n棍。江浙的同學一進山就水土不服，發冷、發燒、打擺子……幾乎人人都會生\n病，每天都有五六個請假的。",
+      "prompt": "A mountainous wilderness landscape shrouded in misty, humid atmosphere where a group of young scholars in traditional Chinese garments appear weakened and afflicted, their bodies marked with insect bites and sores, some limping or supported by others. The scene captures the harsh reality of mountain life with dense vegetation, swarms of insects visible in the air, and a sense of physical suffering and discomfort permeating the composition. The artistic style should evoke early 20th-century Chinese ink painting with muted, earthy tones—browns, grays, and pale greens—creating a somber, melancholic mood that emphasizes human fragility against nature's indifference. Emphasize the contrast between the majestic but oppressive mountain setting and the vulnerable, sickly figures struggling within it, with dramatic lighting that casts shadows across their faces and bodies.",
+      "image": "reader_images/reader_20260317_031836.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 2089177176,
+      "created_at": "2026-03-17T03:18:36.220211+08:00"
     }
   ],
   "book_total_chars": 92814,
