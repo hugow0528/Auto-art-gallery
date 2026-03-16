@@ -11807,6 +11807,18 @@
       "image_model": "grok-imagine",
       "seed": 629175159,
       "created_at": "2026-03-16T13:28:36.928741+08:00"
+    },
+    {
+      "id": "20260316_133232",
+      "offset_start": 66090,
+      "offset_end": 66160,
+      "text": "仁受看着這碗雞肉，心裡好激\n動，顫抖着接過去，搛出一塊吹了吹，正想往口裡塞，筷子忽然停在嘴邊。他把\n全家人叫到身邊，非要每人喫一塊雞肉不可。",
+      "prompt": "In a warmly lit traditional Chinese dining room with a round wooden table centered under a red lantern glow, a trembling middle-aged man named Ren Shou holds chopsticks paused mid-air with a steaming piece of tender chicken hovering near his excited lips, his eyes wide with emotion as he gazes at a simple clay bowl of golden chicken meat. His entire family—parents, spouse, and children—gathers closely around the table cluttered with shared dishes on a lazy Susan, their faces a mix of surprise and affection in the intimate, hierarchical family atmosphere. Render in realistic oil painting style by Norman Rockwell, evoking heartfelt nostalgia, soft chiaroscuro lighting highlighting the chopsticks' delicate suspension and familial unity.",
+      "image": "reader_images/reader_20260316_133232.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1389689838,
+      "created_at": "2026-03-16T13:32:32.139954+08:00"
     }
   ],
   "book_total_chars": 92814,
