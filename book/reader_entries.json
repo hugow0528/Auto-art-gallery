@@ -11963,6 +11963,18 @@
       "image_model": "imagen-4",
       "seed": 1475163438,
       "created_at": "2026-03-16T14:08:08.538598+08:00"
+    },
+    {
+      "id": "20260316_140906",
+      "offset_start": 66813,
+      "offset_end": 66880,
+      "text": "不承認就天天抓\n你來鬥，還怕你不承認！」這晚的批鬥就以滿寶生這番話作爲結束。\n秋園疲憊不堪地回到家裡，頭髮都汗溼了，溼漉漉地貼在臉上。",
+      "prompt": "A lone woman, Qiu Yuan, walks home in exhaustion, her hair damp and clinging to her face, under the dim, oppressive lighting of a bleak, post-struggle environment. The scene should evoke a sense of weariness and quiet desperation, rendered in a realistic, gritty style reminiscent of social realist painting.",
+      "image": "reader_images/reader_20260316_140906.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1873064176,
+      "created_at": "2026-03-16T14:09:06.669720+08:00"
     }
   ],
   "book_total_chars": 92814,
