@@ -14111,6 +14111,18 @@
       "image_model": "klein",
       "seed": 258919377,
       "created_at": "2026-03-17T04:00:27.864494+08:00"
+    },
+    {
+      "id": "20260317_040325",
+      "offset_start": 78334,
+      "offset_end": 78405,
+      "text": "過往行人和隊上的人把秋園團團圍住，個個眼淚巴巴，想出各種話來勸慰她：\n「你兒子從來不玩水，是鬼把你兒子找去了。前幾天也死了個十多歲的男娃子。",
+      "prompt": "First, the user provides a Chinese literary passage: \"過往行人和隊上的人把秋園團團圍住，個個眼淚巴巴，想出各種話來勸慰她： 「你兒子從來不玩水，是鬼把你兒子找去了。前幾天也死了個十多歲的男娃子。\"\n\nI need to translate and understand this passage to create an image-generation prompt. The passage describes a scene where passersby and people from the team (possibly a community or group) surround a woman named Qiuyuan (秋園), all with teary eyes, trying to comfort her with various words: \"Your son never played in the water; it was a ghost that took your son away. A few days ago, a teenage boy also died.\"\n\nKey elements:\n\n- Setting: A public or communal space where people have gathered.\n\n- Characters: Qiuyuan (the grieving mother), surrounded by passersby and team members.\n\n- Atmosphere: Sad, somber, filled with grief and attempts at consolation.\n\n- Visual details: People with teary eyes, a crowd encircling Qiuyuan, expressions of sorrow.\n\nNow, I must craft an image-generation prompt in English that captures this scene. The prompt should be vivid, detailed, and suitable for AI image generation. It should include artistic style, mood, lighting, and specific visual elements.\n\nInstructions: Respond ONLY with the image prompt in English — no explanations, no translations, no markdown. The",
+      "image": "reader_images/reader_20260317_040325.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 1471303116,
+      "created_at": "2026-03-17T04:03:25.725339+08:00"
     }
   ],
   "book_total_chars": 92814,
