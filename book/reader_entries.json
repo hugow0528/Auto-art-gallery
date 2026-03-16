@@ -12023,6 +12023,18 @@
       "image_model": "flux",
       "seed": 341435015,
       "created_at": "2026-03-16T14:21:04.526495+08:00"
+    },
+    {
+      "id": "20260316_142149",
+      "offset_start": 67026,
+      "offset_end": 67103,
+      "text": "仁受的身體一天不如一天，漸漸由原來的乾瘦變爲水腫，腫腫消消，消消腫腫，\n就這樣拖着。\n「一腫一消，黃土一堆。」一家人提心弔膽地過着日子，好怕那一天到來。",
+      "prompt": "A gaunt, elderly man lies on a simple bed in a dim, sparsely furnished room, his face and limbs showing signs of painful swelling. His anxious family members watch nearby in the shadows, their faces etched with dread under the soft, melancholic light of a single oil lamp, rendered in a style of realistic social realism with muted, earthy tones.",
+      "image": "reader_images/reader_20260316_142149.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 344219451,
+      "created_at": "2026-03-16T14:21:49.386563+08:00"
     }
   ],
   "book_total_chars": 92814,
