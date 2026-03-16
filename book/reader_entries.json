@@ -12323,6 +12323,18 @@
       "image_model": "zimage",
       "seed": 1878734147,
       "created_at": "2026-03-16T16:11:36.263610+08:00"
+    },
+    {
+      "id": "20260316_161401",
+      "offset_start": 68572,
+      "offset_end": 68638,
+      "text": "秋園把去洛陽的打算告訴子恆。子恆教書，住在學校。他說：「媽媽啊，這事只\n好您自己拿主意了。您的處境實在太難，這日子苦得好似沒個頭。",
+      "prompt": "The passage describes a somber conversation between a mother and her son, Qiu Yuan and Zi Heng, about her difficult decision to move to Luoyang. Zi Heng, a teacher living at his school, expresses his sympathy for his mother's plight, acknowledging the hardship and seemingly endless nature of her current life.\n\nPrompt: A dimly lit, sparse room in a traditional Chinese schoolhouse. Qiu Yuan, a weary woman with etched lines of worry on her face, sits opposite her son, Zi Heng, a thoughtful young man in simple scholar's robes. Dust motes dance in the single shaft of weak sunlight piercing the gloom, highlighting the palpable atmosphere of quiet resignation and maternal concern. Oil painting, muted earth tones, chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_161401.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 371129038,
+      "created_at": "2026-03-16T16:14:01.869986+08:00"
     }
   ],
   "book_total_chars": 92814,
