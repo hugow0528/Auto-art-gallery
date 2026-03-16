@@ -12743,6 +12743,18 @@
       "image_model": "imagen-4",
       "seed": 174765586,
       "created_at": "2026-03-16T18:46:24.803673+08:00"
+    },
+    {
+      "id": "20260316_190655",
+      "offset_start": 70864,
+      "offset_end": 70954,
+      "text": "秋成買好車票送他\n們上車，分手時給了秋園五個高粱窩窩頭。這是秋園和秋成最後一次見面。\n\n117\n\n\f五\n到了宜春火車站，身上還剩一角六分錢，之驊給家裡寫了封信，花八分錢寄了出\n去。",
+      "prompt": "In a dimly lit, bustling train station in Yichun, autumn wind blows through the open doors. A young woman, Qiu Yuan, stands on the platform, clutching a small bundle and a few coins, her face etched with a mixture of sadness and resolve as she watches her companions board the train. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with muted colors and a focus on atmospheric perspective, capturing the melancholic beauty of a farewell.",
+      "image": "reader_images/reader_20260316_190655.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1385781743,
+      "created_at": "2026-03-16T19:06:55.584936+08:00"
     }
   ],
   "book_total_chars": 92814,
