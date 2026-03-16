@@ -13559,6 +13559,18 @@
       "image_model": "flux",
       "seed": 379069575,
       "created_at": "2026-03-17T00:41:09.427369+08:00"
+    },
+    {
+      "id": "20260317_004329",
+      "offset_start": 75346,
+      "offset_end": 75409,
+      "text": "我家庭困難，想儘快參加工作，請老師幫\n忙。」她暗暗算了算：學制一年，畢業時才十九歲，就能當個中學老師賺錢養家\n了，這多麼好啊！",
+      "prompt": "A determined young woman, appearing around 18 years old, stands in a modest, sunlit classroom filled with simple wooden desks. She looks hopeful, her expression conveying a strong desire to work and support her family. The scene should evoke a sense of quiet ambition and the possibility of a brighter future, rendered in a gentle, slightly nostalgic oil painting style with soft, warm lighting.",
+      "image": "reader_images/reader_20260317_004329.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 885102108,
+      "created_at": "2026-03-17T00:43:29.805865+08:00"
     }
   ],
   "book_total_chars": 92814,
