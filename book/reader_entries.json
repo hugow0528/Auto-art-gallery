@@ -13067,6 +13067,18 @@
       "image_model": "zimage",
       "seed": 412783101,
       "created_at": "2026-03-16T21:56:09.428081+08:00"
+    },
+    {
+      "id": "20260316_215651",
+      "offset_start": 72671,
+      "offset_end": 72755,
+      "text": "」\n子恆有一次回信說，賜福山的屋子已經不像個家了，一點點家具全被人搬光了，\n連碗筷都沒了，好一點的門框也被撬掉了。他還說，秋園若回湖南，不住老屋\n了，就和他住在學校裏。",
+      "prompt": "A desolate, rundown mountain dwelling, stripped bare of furniture and even doorframes, bathed in the melancholic light of a fading autumn afternoon. Empty shelves and scattered debris tell a story of abandonment, with a single, forlorn figure standing in the doorway, gazing out at the sparse, autumnal landscape. Realistic oil painting, conveying a sense of deep loss and quiet resignation.",
+      "image": "reader_images/reader_20260316_215651.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2014642146,
+      "created_at": "2026-03-16T21:56:51.720016+08:00"
     }
   ],
   "book_total_chars": 92814,
