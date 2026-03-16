@@ -11843,6 +11843,18 @@
       "image_model": "flux",
       "seed": 116177697,
       "created_at": "2026-03-16T13:33:35.148496+08:00"
+    },
+    {
+      "id": "20260316_134356",
+      "offset_start": 66233,
+      "offset_end": 66315,
+      "text": "何必呢？你身體\n好了，我們家就好了，以後再買只雞大家喫就是，有什麼稀奇囉。只是你不能一\n次喫完，得分成兩餐喫，如今五臟六腑都虧空了，一次喫完怕受不了，反倒壞了\n事。",
+      "prompt": "A scene inside a traditional Chinese home, illuminated by soft, diffused natural light filtering through paper screens. A frail elder, looking weak but with a determined expression, sits at a low wooden table. On the table, a steaming bowl of chicken soup is placed, with one portion already served, suggesting care and measured consumption, in a style reminiscent of traditional Chinese ink wash painting with a focus on subtle textures and a muted color palette. The atmosphere is one of quiet concern and gentle resilience.",
+      "image": "reader_images/reader_20260316_134356.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 244413729,
+      "created_at": "2026-03-16T13:43:56.827194+08:00"
     }
   ],
   "book_total_chars": 92814,
