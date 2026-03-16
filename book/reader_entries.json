@@ -13619,6 +13619,18 @@
       "image_model": "flux-2-dev",
       "seed": 146747412,
       "created_at": "2026-03-17T01:15:53.247581+08:00"
+    },
+    {
+      "id": "20260317_011629",
+      "offset_start": 75630,
+      "offset_end": 75706,
+      "text": "秋園除了做衣服，也喜歡出工，尤其喜歡收棉花和摘西紅柿。\n收棉花時，婦女們個個背個竹簍子，摘下棉花就隨手丟到簍子裡，邊摘邊暢快地\n聊天、開玩笑、拉家常。",
+      "prompt": "A group of Chinese women in colorful clothing harvest cotton in a sun-drenched autumn field, each carrying a bamboo basket on their back as they pick fluffy white cotton bolls. Warm golden afternoon light bathes the landscape, their faces animated with laughter and conversation as they work together in the fields. The scene captures the joyful camaraderie of rural harvest season, rendered in a warm, realistic style with soft natural lighting and rich earth tones.",
+      "image": "reader_images/reader_20260317_011629.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 474507894,
+      "created_at": "2026-03-17T01:16:29.947583+08:00"
     }
   ],
   "book_total_chars": 92814,
