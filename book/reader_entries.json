@@ -12659,6 +12659,18 @@
       "image_model": "gptimage",
       "seed": 434369323,
       "created_at": "2026-03-16T18:18:27.972727+08:00"
+    },
+    {
+      "id": "20260316_183528",
+      "offset_start": 70442,
+      "offset_end": 70508,
+      "text": "秋園也加入了他們的行列。\n火車發出一聲長鳴，緩緩開動了。子恆上站臺送他們，揮着手跟着火車跑。隨着\n一陣急促的咣當咣當聲，火車加速了。",
+      "prompt": "A cinematic scene at a historic railway platform at dusk, with a steam train accelerating away, billowing gray smoke. A young man in 1930s attire runs alongside the tracks, waving farewell, his figure blurred with motion. The mood is bittersweet and nostalgic, rendered in the style of a dramatic oil painting with soft, golden-hour lighting.",
+      "image": "reader_images/reader_20260316_183528.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1062028697,
+      "created_at": "2026-03-16T18:35:28.541927+08:00"
     }
   ],
   "book_total_chars": 92814,
