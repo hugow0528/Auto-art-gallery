@@ -13007,6 +13007,18 @@
       "image_model": "flux",
       "seed": 413908270,
       "created_at": "2026-03-16T20:38:22.440036+08:00"
+    },
+    {
+      "id": "20260316_203847",
+      "offset_start": 72366,
+      "offset_end": 72436,
+      "text": "」歇工後，她一下帶了七八個婦女來看秋園穿的衣服，還搶\n着試穿。這些女人一個個粗手大腳，皮膚黝黑，衣着破舊，看得出是終日勞作、\n心眼實在的人。",
+      "prompt": "A group of seven or eight weathered, sun-darkened women with calloused hands, dressed in patched and worn clothing, eagerly surround a figure named Qiuyuan. They are in a rustic, sun-drenched outdoor setting, perhaps a courtyard or field edge, with an atmosphere of bustling, honest labor and communal curiosity. The style should be reminiscent of realist oil paintings, with warm, natural lighting highlighting the texture of their skin and garments, emphasizing their hardworking nature and genuine expressions.",
+      "image": "reader_images/reader_20260316_203847.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 65102662,
+      "created_at": "2026-03-16T20:38:47.843697+08:00"
     }
   ],
   "book_total_chars": 92814,
