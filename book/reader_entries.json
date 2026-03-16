@@ -13151,6 +13151,18 @@
       "image_model": "zimage",
       "seed": 731467702,
       "created_at": "2026-03-16T22:07:54.078020+08:00"
+    },
+    {
+      "id": "20260316_221101",
+      "offset_start": 73181,
+      "offset_end": 73270,
+      "text": "俗話\n說：「挑擔不走，壓死條狗。」\n第一天結束前，之驊用鏟子把挑的沙鏟得四四方方，技術員來量沙，她賺了一塊\n二毛錢。之驊高興得不得了：一天一塊二，十天十二塊，三十天就有三十六塊。",
+      "prompt": "A young woman, Zhi Hua, with a determined expression, levels a pile of sand with a shovel. The scene is a dusty, sun-drenched construction site, hinting at a hot, late afternoon. The atmosphere is one of hopeful drudgery, captured in a realistic, slightly desaturated photographic style.",
+      "image": "reader_images/reader_20260316_221101.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1804968156,
+      "created_at": "2026-03-16T22:11:01.967770+08:00"
     }
   ],
   "book_total_chars": 92814,
