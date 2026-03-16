@@ -13379,6 +13379,18 @@
       "image_model": "imagen-4",
       "seed": 1768851152,
       "created_at": "2026-03-16T23:38:06.844852+08:00"
+    },
+    {
+      "id": "20260316_234221",
+      "offset_start": 74408,
+      "offset_end": 74494,
+      "text": "」\n秋園何嘗不清楚：回去等於送死，自己沒請假就跑出來（她這種四類分子是不會\n準假的），不餓死也得被鬥死。\n陳大姐又說：「王家臺的書記，老婆死了好多年了，一直想找個合適的人。",
+      "prompt": "A woman, face etched with worry and determination, stands in a sparsely furnished, dimly lit room. Outside, a bleak, oppressive landscape hints at societal danger and hardship, possibly a rural, impoverished setting during a tumultuous period in Chinese history. The atmosphere is heavy with unspoken fear and a desperate longing for safety, rendered in a gritty, realistic style with chiaroscuro lighting to emphasize the dramatic tension.",
+      "image": "reader_images/reader_20260316_234221.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 549966570,
+      "created_at": "2026-03-16T23:42:21.830778+08:00"
     }
   ],
   "book_total_chars": 92814,
