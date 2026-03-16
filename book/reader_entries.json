@@ -14039,6 +14039,18 @@
       "image_model": "klein",
       "seed": 1284294634,
       "created_at": "2026-03-17T03:54:47.592560+08:00"
+    },
+    {
+      "id": "20260317_035521",
+      "offset_start": 78023,
+      "offset_end": 78103,
+      "text": "王成恩立馬請了三條船打撈。船夫們彎腰曲背，拿着帶鐵鉤的長竹竿一下一下在\n水中尋找，從三點多到六點多，仍未打撈上來。船夫們累得氣喘籲籲、汗流浹\n背，堅決不幹了。",
+      "prompt": "Three traditional wooden boats float on murky river water at golden hour, their hulls gently rocking. Bare-torsoed boatmen with weathered skin crouch and strain, lowering long bamboo poles with iron hooks into the dark water, their bodies twisted in exhausted effort. Sweat glistens on their curved backs as they search the depths, with one man wiping his brow while another gestures in frustration. The scene is rendered in a cinematic realistic style with warm sunset lighting filtering through clouds, capturing the gritty determination and physical toll of this futile salvage operation.",
+      "image": "reader_images/reader_20260317_035521.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 2053256338,
+      "created_at": "2026-03-17T03:55:21.692284+08:00"
     }
   ],
   "book_total_chars": 92814,
