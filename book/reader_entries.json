@@ -14135,6 +14135,18 @@
       "image_model": "gptimage",
       "seed": 273870534,
       "created_at": "2026-03-17T04:04:32.864561+08:00"
+    },
+    {
+      "id": "20260317_042142",
+      "offset_start": 78507,
+      "offset_end": 78580,
+      "text": "」\n月亮冰冷地掛在天上。月光下，大堤邊一棵棵挺立着的樹木此時都變成了面目猙\n獰的惡鬼，好像隨時會撲過來把好人喫掉。秋園覺得自己是在做着長長的噩夢。",
+      "prompt": "A lone figure, Qiu Yuan, stands on a desolate embankment under a cold, piercing moonlight. The skeletal trees lining the dike twist into grotesque, demonic shapes, their branches like clawing specters reaching out from the shadows. The atmosphere is one of suffocating dread and a chilling nightmare, rendered in a dark, gothic art style with stark chiaroscuro lighting that emphasizes the terrifying transformation of nature.",
+      "image": "reader_images/reader_20260317_042142.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1248225489,
+      "created_at": "2026-03-17T04:21:42.698739+08:00"
     }
   ],
   "book_total_chars": 92814,
