@@ -13451,6 +13451,18 @@
       "image_model": "gptimage",
       "seed": 252018633,
       "created_at": "2026-03-16T23:53:24.810576+08:00"
+    },
+    {
+      "id": "20260316_235920",
+      "offset_start": 74853,
+      "offset_end": 74920,
+      "text": "木橋有一米多寬，是用\n很粗的木頭拼起來的，橋墩也由粗大的樹木做成，走在上面非常安全。河水清澈\n透明，陽光在上面灑下一層碎金，光芒刺目。",
+      "prompt": "A wide, sturdy wooden bridge made of thick logs spans a clear river, its surface sparkling with dazzling, fragmented sunlight. The water is so transparent that the riverbed is visible, and the dappled light creates a shimmering, golden effect on the surface. The scene is peaceful and safe, rendered in a realistic, slightly painterly style with a focus on natural light.",
+      "image": "reader_images/reader_20260316_235920.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1200241027,
+      "created_at": "2026-03-16T23:59:20.063756+08:00"
     }
   ],
   "book_total_chars": 92814,
