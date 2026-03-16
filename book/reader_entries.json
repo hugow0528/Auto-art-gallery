@@ -11507,6 +11507,18 @@
       "image_model": "zimage",
       "seed": 188104990,
       "created_at": "2026-03-16T12:11:36.853471+08:00"
+    },
+    {
+      "id": "20260316_121235",
+      "offset_start": 64378,
+      "offset_end": 64466,
+      "text": "她昂着頭，本想大步流星朝前走，無奈褲襠\n裏有把白菜，必須收斂步子，否則白菜會從褲腳管裏掉出來。她先將大步改爲小\n步，後來大概白菜有些下滑，又將小步改成碎步，很是艱難地走回了家。",
+      "prompt": "A peasant woman, head held high but with a determined, slightly awkward gait, walks down a dusty, sun-drenched village path. She's trying to maintain composure despite a large cabbage bulging conspicuously from her trousers, forcing her into tiny, shuffling steps. The scene is rendered in the style of traditional Chinese ink wash painting, with a warm, late afternoon light casting long shadows and a slightly humorous, yet poignant atmosphere.",
+      "image": "reader_images/reader_20260316_121235.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1964696861,
+      "created_at": "2026-03-16T12:12:35.529245+08:00"
     }
   ],
   "book_total_chars": 92814,
