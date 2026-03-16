@@ -14243,6 +14243,18 @@
       "image_model": "gptimage",
       "seed": 499378247,
       "created_at": "2026-03-17T05:03:36.756422+08:00"
+    },
+    {
+      "id": "20260317_050635",
+      "offset_start": 79117,
+      "offset_end": 79210,
+      "text": "」\n王成恩說：「你千萬不要做傻事，在家裡歇着，我一開完會就回來。」交代再三\n後才去開會。\n秋園心想：這一天終於到了。\n她選了幾件最喜歡的衣服，想要像平常一樣穿得乾乾淨淨、整整齊齊地上路。",
+      "prompt": "An elderly Chinese woman in a simple 1960s rural home carefully selects her favorite clothes from a wooden wardrobe, her weathered hands touching a clean blue jacket with quiet dignity. Soft morning light streams through a small window, illuminating dust particles in the air as she folds a white blouse with deliberate, measured movements. The modest room contains only essential furniture—a bed, a table, a mirror—",
+      "image": "reader_images/reader_20260317_050635.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1016236008,
+      "created_at": "2026-03-17T05:06:35.193385+08:00"
     }
   ],
   "book_total_chars": 92814,
