@@ -11459,6 +11459,18 @@
       "image_model": "zimage",
       "seed": 1815178341,
       "created_at": "2026-03-16T11:48:23.743936+08:00"
+    },
+    {
+      "id": "20260316_114850",
+      "offset_start": 64146,
+      "offset_end": 64225,
+      "text": "大家還是紋絲不動、閉口不語，滿屋人像木頭樣。\n秋園和八娭毑去給隊上的白菜施肥。八娭毑五十多歲，長得五大三粗，一輩子沒\n生育過，丈夫幾年前去世，如今是個孤寡人。",
+      "prompt": "A dimly lit rural Chinese room filled with villagers frozen like wooden statues, sitting rigidly with mouths sealed shut and eyes averted in tense silence, their faces etched with stoic resignation under flickering lantern light. Outside a misty autumn field, a robust fifty-something widow with weathered, broad features and sturdy build scatters fertilizer among rows of crisp white cabbages, her solitary figure evoking quiet hardship and isolation. Render in a realistic style inspired by Chinese ink wash painting with earthy tones, soft diffused morning fog, and a melancholic, introspective mood.",
+      "image": "reader_images/reader_20260316_114850.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 932482645,
+      "created_at": "2026-03-16T11:48:50.355201+08:00"
     }
   ],
   "book_total_chars": 92814,
