@@ -12455,6 +12455,18 @@
       "image_model": "zimage",
       "seed": 1435255391,
       "created_at": "2026-03-16T16:43:30.908615+08:00"
+    },
+    {
+      "id": "20260316_165947",
+      "offset_start": 69254,
+      "offset_end": 69321,
+      "text": "化驗室裏有兩個老師。王老師三十來歲，能說會道，拉得一手好二胡。他沒一點\n老師的架子，一有空就拿出他的二胡拉起來，周圍老圍着一圈同學。",
+      "prompt": "A warm, inviting chemistry laboratory in China with worn wooden desks and glass bottles on shelves. A charismatic male teacher in his thirties sits on a stool playing a traditional erhu, his face relaxed with expression, while a circle of curious students gathered around him, some leaning in to listen, others smiling at the music. Soft afternoon light streams through windows, creating an intimate, joyful atmosphere with a documentary or illustrative style capturing everyday academic life.",
+      "image": "reader_images/reader_20260316_165947.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 723135811,
+      "created_at": "2026-03-16T16:59:47.706723+08:00"
     }
   ],
   "book_total_chars": 92814,
