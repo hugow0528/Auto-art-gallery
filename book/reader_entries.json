@@ -13679,6 +13679,18 @@
       "image_model": "flux",
       "seed": 1260352261,
       "created_at": "2026-03-17T01:32:51.661321+08:00"
+    },
+    {
+      "id": "20260317_013757",
+      "offset_start": 76021,
+      "offset_end": 76092,
+      "text": "」王成恩說：「你儘管留點私房錢，留得越多越好，\n我只要有飯喫、有衣穿就夠了。」\n八十三歲的王家娭毑對秋園也呵護有加。秋園做飯，娭毑就幫忙燒火。",
+      "prompt": "An elderly Chinese couple in a rustic village kitchen, bathed in warm golden lamplight filtering through a paper window. An aged woman tends a traditional clay stove with a metal wok, feeding wood into the fire while her husband sits nearby on a wooden stool, his weathered face gentle and serene. The scene captures intimate domestic tranquility—simple pottery bowls stacked on shelves, smoke curling softly upward, earthen walls casting long shadows. Rendered in the style of classical Chinese ink painting with soft watercolor washes, emphasizing tender moments of everyday rural life and quiet companionship, with muted earth tones and delicate brushwork.",
+      "image": "reader_images/reader_20260317_013757.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1239978675,
+      "created_at": "2026-03-17T01:37:57.660188+08:00"
     }
   ],
   "book_total_chars": 92814,
