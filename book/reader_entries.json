@@ -11939,6 +11939,18 @@
       "image_model": "zimage",
       "seed": 1226123100,
       "created_at": "2026-03-16T14:02:10.187870+08:00"
+    },
+    {
+      "id": "20260316_140237",
+      "offset_start": 66666,
+      "offset_end": 66736,
+      "text": "秋園氣得渾身發抖。\n張跛子陰陽怪氣地說：「你好闊啊！人家冇飯喫，你還有錢買雞喫。」\n說着，他對秋園當胸一推，秋園就從堂屋這頭跌撞到了那頭。",
+      "prompt": "A heated confrontation in a dim, rustic Chinese hall, with Qiuyuan trembling in anger after being shoved by a mocking, leering Zhang the Lame. Dramatic chiaroscuro lighting, tense atmosphere, in the style of expressive historical ink painting with dynamic brushstrokes.",
+      "image": "reader_images/reader_20260316_140237.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1396108939,
+      "created_at": "2026-03-16T14:02:37.296036+08:00"
     }
   ],
   "book_total_chars": 92814,
