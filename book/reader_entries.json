@@ -11663,6 +11663,18 @@
       "image_model": "imagen-4",
       "seed": 1208959752,
       "created_at": "2026-03-16T13:02:25.048647+08:00"
+    },
+    {
+      "id": "20260316_130358",
+      "offset_start": 65330,
+      "offset_end": 65399,
+      "text": "106\n\n\f食堂實在沒東西煮了，只得解散。最後一餐飯是將稻草洗淨，鍘成寸把長，放進\n鍋裏煮。鍋裏不斷冒着熱氣，竈屋裡充滿了苦澀的味道。",
+      "prompt": "An austere, dimly lit kitchen with steam rising from a large pot on a rustic stove, filling the air with a palpable sense of desperation and a slightly acrid scent. A few gaunt, weary figures in simple, worn clothing stand around, their faces etched with hunger and resignation. The artistic style should be reminiscent of a gritty, realist oil painting with muted earth tones and dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_130358.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1126816895,
+      "created_at": "2026-03-16T13:03:58.691045+08:00"
     }
   ],
   "book_total_chars": 92814,
