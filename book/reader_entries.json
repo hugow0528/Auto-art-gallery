@@ -13547,6 +13547,18 @@
       "image_model": "klein",
       "seed": 644870944,
       "created_at": "2026-03-17T00:37:51.286993+08:00"
+    },
+    {
+      "id": "20260317_004109",
+      "offset_start": 75284,
+      "offset_end": 75346,
+      "text": "學校有師範班、林業班、農業班、機械班和預科班。師範班學制一年，預科班五\n年，其他都是四年。\n之驊說：「老師，我要到師範班。",
+      "prompt": "A young boy, Zhihua, stands determinedly in a sun-dappled classroom filled with wooden desks and simple educational posters from early 20th century China. He looks towards a teacher, his expression earnest as he states his desire to join the normal school program. The atmosphere is one of quiet study and burgeoning ambition, rendered in a realistic, slightly nostalgic artistic style.",
+      "image": "reader_images/reader_20260317_004109.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 379069575,
+      "created_at": "2026-03-17T00:41:09.427369+08:00"
     }
   ],
   "book_total_chars": 92814,
