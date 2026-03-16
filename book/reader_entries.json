@@ -13607,6 +13607,18 @@
       "image_model": "zimage",
       "seed": 2019764658,
       "created_at": "2026-03-17T01:04:03.725665+08:00"
+    },
+    {
+      "id": "20260317_011553",
+      "offset_start": 75630,
+      "offset_end": 75706,
+      "text": "秋園除了做衣服，也喜歡出工，尤其喜歡收棉花和摘西紅柿。\n收棉花時，婦女們個個背個竹簍子，摘下棉花就隨手丟到簍子裡，邊摘邊暢快地\n聊天、開玩笑、拉家常。",
+      "prompt": "A serene autumn cotton field bathed in warm, golden sunlight, where a group of cheerful peasant women in traditional clothing move through rows of fluffy white cotton plants, each carrying a woven bamboo basket. The women are captured in moments of joyful labor—some reaching upward to pluck cotton bolls, others laughing and chatting animatedly, their faces radiant with contentment. The scene is rendered in the bright, flat style of Huxian peasant paintings with bold colors, thick outlines, and decorative repetition of the cotton plants and figures filling the entire composition. The atmosphere is one of communal harmony, abundance, and simple happiness, with the harvest baskets gradually filling and the women's animated gestures suggesting carefree conversation and camaraderie among friends.",
+      "image": "reader_images/reader_20260317_011553.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 146747412,
+      "created_at": "2026-03-17T01:15:53.247581+08:00"
     }
   ],
   "book_total_chars": 92814,
