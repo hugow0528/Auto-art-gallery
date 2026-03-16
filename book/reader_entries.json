@@ -12227,6 +12227,18 @@
       "image_model": "klein",
       "seed": 1114808587,
       "created_at": "2026-03-16T15:51:49.820495+08:00"
+    },
+    {
+      "id": "20260316_155234",
+      "offset_start": 68076,
+      "offset_end": 68166,
+      "text": "難過的是接下來家裡諸事全要靠媽媽一個人撐着，不忍心啊！\n報到前的半個月，之驊常常天不亮就起牀，要麼出工，要麼挖土，要麼上山搞柴\n火，直做到月亮出來才回家……恨不得把家裡的事全做完。",
+      "prompt": "A young figure in worn clothing digs in a terraced field at dawn, back bent over a shovel as mist rises from the earth, their small silhouette framed by distant mountains. The sky transitions from deep indigo to soft amber as they work continuously, sweat glistening on their face in the pale morning light. As the sun sets, the figure climbs a mountain trail carrying bundled firewood, silhouetted against the emerging full moon, capturing the emotional weight of reluctant love and sacrifice.",
+      "image": "reader_images/reader_20260316_155234.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 2013096339,
+      "created_at": "2026-03-16T15:52:34.438912+08:00"
     }
   ],
   "book_total_chars": 92814,
