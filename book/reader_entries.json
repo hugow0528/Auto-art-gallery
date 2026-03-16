@@ -12407,6 +12407,18 @@
       "image_model": "gptimage",
       "seed": 1437287127,
       "created_at": "2026-03-16T16:39:33.833694+08:00"
+    },
+    {
+      "id": "20260316_163955",
+      "offset_start": 68954,
+      "offset_end": 69028,
+      "text": "池裡醃漬着蘿蔔、白菜、雪裡蕻等，醃好的菜用個長耙齒\n勾上來，放在篾籮裏瀝水，最後裝壇和封壇。一年四季都有事做，之驊便與廠子\n聯繫好，每個星期去洗菜。",
+      "prompt": "First, the user wants me to create an image-generation prompt based on the given Chinese literary passage. The passage describes: a pond where vegetables like radishes, cabbage, and potherb mustard are being pickled. The pickled vegetables are hooked up with a long rake, placed in bamboo baskets to drain water, and finally packed into jars and sealed. It mentions that there's work all year round, and someone named Zhihua arranges with the factory to go wash vegetables every week.\n\nI need to describe a specific visual scene in English that captures this. The prompt should be suitable for AI image generation, so it needs to be vivid and detailed. It should include setting, atmosphere, characters present, and artistic style. The response must be 2–4 sentences only, in English only, with no explanations, translations, or markdown.\n\nKey elements from the passage:\n- Setting: A pond or vat for pickling vegetables, likely in a factory or workshop setting.\n- Actions: Vegetables being hooked with a long rake, draining in bamboo baskets, packing into jars.\n- Characters: Zhihua is mentioned, but not explicitly in the scene described. The passage says \"之驊便與廠子聯繫好，每個星期去洗菜\" which means Zhihua arranges with the factory to go wash vegetables every week. So, Zhihua might be involved in washing vegetables, but the specific scene described is about pickling and draining.\n- Atmosphere:",
+      "image": "reader_images/reader_20260316_163955.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 531201973,
+      "created_at": "2026-03-16T16:39:55.974742+08:00"
     }
   ],
   "book_total_chars": 92814,
