@@ -13523,6 +13523,18 @@
       "image_model": "zimage",
       "seed": 540550325,
       "created_at": "2026-03-17T00:36:29.442972+08:00"
+    },
+    {
+      "id": "20260317_003715",
+      "offset_start": 75222,
+      "offset_end": 75284,
+      "text": "」\n老師說：「這個班本月上山勞動去了。你把手伸給我看看。」\n之驊把手平直地伸出來。老師沒說什麼，他是看之驊的手有沒有做過事。",
+      "prompt": "A stern teacher in a simple tunic stands beside a young student in a bare classroom, examining the student's outstretched palm with a critical gaze. The student stands quietly, hand held flat and straight, as if awaiting judgment on their character. Soft afternoon light streams through dusty windows onto worn wooden desks, creating a contemplative atmosphere. Realistic oil painting style with muted earth tones, capturing the weight of expectation and the humble vulnerability of youth in mid-20th century rural China.",
+      "image": "reader_images/reader_20260317_003715.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1559179497,
+      "created_at": "2026-03-17T00:37:15.886497+08:00"
     }
   ],
   "book_total_chars": 92814,
