@@ -13103,6 +13103,18 @@
       "image_model": "flux-2-dev",
       "seed": 2035431856,
       "created_at": "2026-03-16T21:59:18.346810+08:00"
+    },
+    {
+      "id": "20260316_220245",
+      "offset_start": 72949,
+      "offset_end": 73019,
+      "text": "劣質的煙草味交織着汗臭味，燻得人只想嘔吐。之驊\n閉緊眼睛，抿着嘴巴，任由車子開去。\n總算到了永寧縣，下了汽車，她一路打聽，終於找到了建築隊。",
+      "prompt": "A young woman in 1960s Chinese attire stands at a dusty county town bus stop, squinting against the harsh sunlight as she holds a simple cloth bag, her expression weary but determined. Behind her, a dilapidated bus pulls away in a cloud of dust, while ahead stretch crude temporary structures and construction scaffolding marking the entrance to a work site. The scene captures the stark, rustic atmosphere of rural mid-century China with muted earth tones, strong directional sunlight casting",
+      "image": "reader_images/reader_20260316_220245.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1477016687,
+      "created_at": "2026-03-16T22:02:45.352615+08:00"
     }
   ],
   "book_total_chars": 92814,
