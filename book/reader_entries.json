@@ -11975,6 +11975,18 @@
       "image_model": "imagen-4",
       "seed": 1873064176,
       "created_at": "2026-03-16T14:09:06.669720+08:00"
+    },
+    {
+      "id": "20260316_141049",
+      "offset_start": 66880,
+      "offset_end": 66955,
+      "text": "109\n\n\f仁受見了，連忙問：「出了什麼事？」\n秋園說：「我買的那隻雞，硬說我是偷的。」\n連續幾個晚上，秋園都被叫去批鬥，但她死也不承認雞是偷的。",
+      "prompt": "In a dimly lit rural courtyard during a tense evening struggle session from China's Cultural Revolution era, a defiant young woman named Qiuyuan stands alone on a makeshift stage under harsh lantern light, her face etched with unyielding resolve as accusatory villagers in faded Mao suits point fingers and shout, shadows of a stolen chicken crate looming nearby. The atmosphere is thick with oppression and injustice, dust swirling in the flickering glow amid propaganda banners and wooden benches. Rendered in a realistic style inspired by Chinese woodblock prints with dramatic chiaroscuro lighting, earthy tones of red and gray, evoking yijing's moody artistic conception of resilience amid turmoil.",
+      "image": "reader_images/reader_20260316_141049.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 524024912,
+      "created_at": "2026-03-16T14:10:49.908129+08:00"
     }
   ],
   "book_total_chars": 92814,
