@@ -14663,6 +14663,18 @@
       "image_model": "imagen-4",
       "seed": 1860674605,
       "created_at": "2026-03-17T07:51:03.512843+08:00"
+    },
+    {
+      "id": "20260317_075146",
+      "offset_start": 81476,
+      "offset_end": 81543,
+      "text": "病仍不見好。一日，秋園餵完藥，王成恩伸出乾巴巴的手拍拍牀沿，說：「你坐\n下，我有幾句話對你說。我的病，看樣子不會好了，死是遲早的事。",
+      "prompt": "A dimly lit, sparsely furnished room in an old Chinese courtyard house, filled with the melancholic atmosphere of late autumn. An elderly, frail man with dry, wrinkled hands sits on the edge of a simple wooden bed, his gaze serious and resigned as he speaks to a younger person, unseen but implied to be listening attentively. The scene should be rendered in a style reminiscent of traditional Chinese ink wash painting, with muted colors, soft brushstrokes, and a focus on conveying emotional depth through subtle details and shadows.",
+      "image": "reader_images/reader_20260317_075146.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 979687033,
+      "created_at": "2026-03-17T07:51:46.227205+08:00"
     }
   ],
   "book_total_chars": 92814,
