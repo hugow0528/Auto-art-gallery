@@ -12491,6 +12491,18 @@
       "image_model": "imagen-4",
       "seed": 277268323,
       "created_at": "2026-03-16T17:13:37.524925+08:00"
+    },
+    {
+      "id": "20260316_171514",
+      "offset_start": 69399,
+      "offset_end": 69475,
+      "text": "一日，之驊在值班室的牀上睡得迷迷糊糊，只聽嘭一聲，有什麼東西丟了進\n來。她彈起身，一看地上有本書，連忙撿起來。書名叫《牛虻》，一翻開，裡面\n夾了一封信。",
+      "prompt": "A dimly lit, utilitarian sleeping quarter with a simple bed. A young woman, Zhi Hua, with startled eyes, sits up from her slumber, a book titled \"The Gadfly\" with a letter peeking out clutched in her hand. The atmosphere is one of sudden intrusion and discovery, rendered in a style reminiscent of dramatic realism with soft, atmospheric lighting.",
+      "image": "reader_images/reader_20260316_171514.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 607209160,
+      "created_at": "2026-03-16T17:15:14.770963+08:00"
     }
   ],
   "book_total_chars": 92814,
