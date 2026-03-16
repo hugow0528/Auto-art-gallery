@@ -11987,6 +11987,18 @@
       "image_model": "flux",
       "seed": 524024912,
       "created_at": "2026-03-16T14:10:49.908129+08:00"
+    },
+    {
+      "id": "20260316_141143",
+      "offset_start": 66880,
+      "offset_end": 66955,
+      "text": "109\n\n\f仁受見了，連忙問：「出了什麼事？」\n秋園說：「我買的那隻雞，硬說我是偷的。」\n連續幾個晚上，秋園都被叫去批鬥，但她死也不承認雞是偷的。",
+      "prompt": "A tense night scene inside a dimly lit, sparse room during the Cultural Revolution, with Qiu Yuan standing defiantly under a harsh single lightbulb, surrounded by shadowy, accusing figures. Dramatic realism, high contrast lighting, conveying oppression and silent resistance.",
+      "image": "reader_images/reader_20260316_141143.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 262081921,
+      "created_at": "2026-03-16T14:11:43.578955+08:00"
     }
   ],
   "book_total_chars": 92814,
