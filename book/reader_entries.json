@@ -11471,6 +11471,18 @@
       "image_model": "flux",
       "seed": 932482645,
       "created_at": "2026-03-16T11:48:50.355201+08:00"
+    },
+    {
+      "id": "20260316_120748",
+      "offset_start": 64225,
+      "offset_end": 64300,
+      "text": "八娭毑對秋園說：「梁老師，我們各人搞點白菜回去喫。」\n秋園說：「我成分不好，不敢搞，要搞你搞，我不會講出去的。」\n八娭毑麻利地拔了一把白菜放在地上。",
+      "prompt": "An elderly woman in a rural, slightly bleak autumn garden, with bare branches and wilting plants, urgently pulls a bundle of cabbages from the earth. Another woman, appearing hesitant and worried, stands nearby, her posture conveying a sense of social unease. The scene is lit by the muted, pale light of a late afternoon sun, rendered in a style reminiscent of traditional Chinese ink wash painting, with a focus on atmospheric realism and subtle emotional undertones.",
+      "image": "reader_images/reader_20260316_120748.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1396090416,
+      "created_at": "2026-03-16T12:07:48.737644+08:00"
     }
   ],
   "book_total_chars": 92814,
