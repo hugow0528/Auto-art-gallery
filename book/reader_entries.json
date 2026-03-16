@@ -13043,6 +13043,18 @@
       "image_model": "grok-imagine",
       "seed": 1900133360,
       "created_at": "2026-03-16T21:49:28.170900+08:00"
+    },
+    {
+      "id": "20260316_215134",
+      "offset_start": 72573,
+      "offset_end": 72671,
+      "text": "沒多久，方圓幾十裏傳得沸沸揚揚，說是王家臺來了個好裁縫，不但衣服做得\n好，人也長得漂亮。秋園四十多歲了，仍是那麼耐看。\n秋園每星期都寫信給子恆，信的末尾總有這麼一句：「五年之後，我們全家團\n圓。",
+      "prompt": "A middle-aged woman with elegant grace sits at a wooden desk in a humble tailor's workshop, surrounded by bolts of fabric; she is carefully writing a letter, her face softened by the warm glow of an oil lamp, in a photorealistic style evoking intimate nostalgia and quiet hope.",
+      "image": "reader_images/reader_20260316_215134.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 193014389,
+      "created_at": "2026-03-16T21:51:34.870365+08:00"
     }
   ],
   "book_total_chars": 92814,
