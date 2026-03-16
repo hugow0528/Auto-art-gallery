@@ -13799,6 +13799,18 @@
       "image_model": "klein",
       "seed": 209803163,
       "created_at": "2026-03-17T02:12:34.850320+08:00"
+    },
+    {
+      "id": "20260317_021321",
+      "offset_start": 76619,
+      "offset_end": 76714,
+      "text": "女生們手牽着手，穿着衣服，一步一步踏進河裡，選好合適的地方就蹲下去。之\n驊從河底撈起細細的粉沙，擦着身子。當夕陽最後也最柔弱的光芒被暮色遮住\n時，女生們雙手抱在胸前，邊笑邊跑，衝進蘆葦叢。",
+      "prompt": "A soft, dreamy painterly style scene at golden hour, where a group of laughing young women, wrapped in simple garments, run playfully from a shallow river towards a dense bed of reeds, their skin glistening with fine sand as the last warm, dusky light filters through the tall grasses.",
+      "image": "reader_images/reader_20260317_021321.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1214566420,
+      "created_at": "2026-03-17T02:13:21.916833+08:00"
     }
   ],
   "book_total_chars": 92814,
