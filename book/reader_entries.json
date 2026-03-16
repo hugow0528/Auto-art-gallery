@@ -13415,6 +13415,18 @@
       "image_model": "gptimage",
       "seed": 1905427061,
       "created_at": "2026-03-16T23:44:21.241455+08:00"
+    },
+    {
+      "id": "20260316_234450",
+      "offset_start": 74575,
+      "offset_end": 74663,
+      "text": "由於時間緊迫，秋園無法先告訴子恆，這也成了她的一塊心病：子恆畢竟是老大\n啊！\n就這樣，秋園帶着賠三、田四成了王家的成員。\n事後，秋園寫信給子恆：「我實在沒辦法，才走了這條路。",
+      "prompt": "A woman, Qiu Yuan, with a distressed expression, is writing a letter in a dimly lit, traditional Chinese study, with stacks of old books and calligraphy brushes visible. The atmosphere is heavy with unspoken regret and a sense of hurried departure. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, emphasizing muted tones and evocative brushstrokes, with soft, directional light highlighting her face and hands.",
+      "image": "reader_images/reader_20260316_234450.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 91660049,
+      "created_at": "2026-03-16T23:44:50.927725+08:00"
     }
   ],
   "book_total_chars": 92814,
