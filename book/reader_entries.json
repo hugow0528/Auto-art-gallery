@@ -12683,6 +12683,18 @@
       "image_model": "klein",
       "seed": 763164879,
       "created_at": "2026-03-16T18:36:29.597302+08:00"
+    },
+    {
+      "id": "20260316_183802",
+      "offset_start": 70598,
+      "offset_end": 70661,
+      "text": "葆和藥店早就公私合營了。秋成在醫院裡上班，成了公家人。他後來又結了婚，\n有一兒一女。糧食每月定量，一下增加三張嘴當然不夠喫。",
+      "prompt": "A",
+      "image": "reader_images/reader_20260316_183802.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 371916210,
+      "created_at": "2026-03-16T18:38:02.943992+08:00"
     }
   ],
   "book_total_chars": 92814,
