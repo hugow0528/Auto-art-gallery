@@ -11819,6 +11819,18 @@
       "image_model": "flux-2-dev",
       "seed": 1389689838,
       "created_at": "2026-03-16T13:32:32.139954+08:00"
+    },
+    {
+      "id": "20260316_133303",
+      "offset_start": 66090,
+      "offset_end": 66160,
+      "text": "仁受看着這碗雞肉，心裡好激\n動，顫抖着接過去，搛出一塊吹了吹，正想往口裡塞，筷子忽然停在嘴邊。他把\n全家人叫到身邊，非要每人喫一塊雞肉不可。",
+      "prompt": "A humble, warm kitchen bathed in the soft glow of lamplight. A man, Ren Shou, with an expression of overwhelming joy and trembling hands, holds a bowl of chicken. He has gathered his family around him, their faces alight with anticipation as he insists each person partake in a piece of the precious meal. The scene evokes a mood of deep familial love and simple, heartfelt celebration, rendered in a style reminiscent of traditional Chinese ink wash painting with touches of gentle chiaroscuro.",
+      "image": "reader_images/reader_20260316_133303.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 482334511,
+      "created_at": "2026-03-16T13:33:03.838831+08:00"
     }
   ],
   "book_total_chars": 92814,
