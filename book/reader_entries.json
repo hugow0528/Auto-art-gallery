@@ -14171,6 +14171,18 @@
       "image_model": "gptimage",
       "seed": 777504287,
       "created_at": "2026-03-17T04:24:45.665627+08:00"
+    },
+    {
+      "id": "20260317_044153",
+      "offset_start": 78701,
+      "offset_end": 78814,
+      "text": "兒啊，你怎麼要去玩水？你\n是從來不玩水的。你留下娘怎麼過啊！要是我死一千次、一萬次能換回你的命，\n我願意啊！」她親手替田四穿上最好的衣服，一遍遍用手摸着田四：「一雙新鞋\n還沒穿過，四兒，你穿着上路，不會嫌小吧，你的腳長得好快。",
+      "prompt": "A heartbroken mother dresses her young son in his finest clothes and new shoes for the last time, her weathered hands trembling as she touches his face and body with desperate tenderness. The scene is set in a modest, dimly-lit interior with soft, sorrowful lighting that casts long shadows, capturing the raw emotional intensity of maternal love and impending loss. The artistic style should evoke classical Chinese ink painting combined with realism—muted earth tones, delicate brushwork details, and an atmosphere heavy with grief, resignation, and the bittersweet beauty of a final farewell. The composition emphasizes the intimate physical connection between mother and child, with tears glistening on her face as she prepares him for departure.",
+      "image": "reader_images/reader_20260317_044153.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1441943972,
+      "created_at": "2026-03-17T04:41:53.641241+08:00"
     }
   ],
   "book_total_chars": 92814,
