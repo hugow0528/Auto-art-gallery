@@ -12983,6 +12983,18 @@
       "image_model": "klein",
       "seed": 401723654,
       "created_at": "2026-03-16T20:07:34.825558+08:00"
+    },
+    {
+      "id": "20260316_203432",
+      "offset_start": 72275,
+      "offset_end": 72366,
+      "text": "120\n\n\f就這樣，秋園跟着陳大姐到了湖北漢川縣馬口鎮的王家臺生產隊，暫住陳大姐\n家。\n陳大姐是個熱心腸，出工時就大肆宣傳：「我表妹是個裁縫，做的衣服洋氣，我\n們這裡還沒人穿過。",
+      "prompt": "A rural Chinese village scene set in 1950s Hubei Province, featuring a modest courtyard compound with traditional architecture and weathered brick walls. An enthusiastic middle-aged woman gestures animatedly to gathered villagers, while a young woman in fashionable tailored clothing stands nearby—her modern dress contrasting sharply with the simple cotton garments of the rural community. The setting captures the intersection of urban sophistication and rustic simplicity, with soft natural daylight illuminating the dusty courtyard, rendered in a nostalgic, semi-realistic style reminiscent of mid-20th century Chinese social realism painting, emphasizing the moment of cultural exchange and wonder in a remote mountain town.",
+      "image": "reader_images/reader_20260316_203432.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1179327115,
+      "created_at": "2026-03-16T20:34:32.535743+08:00"
     }
   ],
   "book_total_chars": 92814,
