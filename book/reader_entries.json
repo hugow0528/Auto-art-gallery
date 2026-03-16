@@ -14387,6 +14387,18 @@
       "image_model": "klein",
       "seed": 122876640,
       "created_at": "2026-03-17T05:56:52.723651+08:00"
+    },
+    {
+      "id": "20260317_060505",
+      "offset_start": 79899,
+      "offset_end": 79972,
+      "text": "她醜怪，男人跟她面對面都不想正眼看她。而楊之驊人俊俏，文化高，愛\n說愛笑。勞動間隙、喫飯時、睡覺前，月娥一遍遍地悄悄對之驊說：「一定不會\n有你的。",
+      "prompt": "A plain woman with weathered features watches a handsome young man from across a dusty rural courtyard at dusk, as other workers rest nearby. She hesitates near him, mouth slightly open as if whispering something, while he turns away slightly, his expression distant. Soft golden afternoon light illuminates the simple earthen walls and straw-roofed structures of a 196",
+      "image": "reader_images/reader_20260317_060505.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 353033859,
+      "created_at": "2026-03-17T06:05:05.213471+08:00"
     }
   ],
   "book_total_chars": 92814,
