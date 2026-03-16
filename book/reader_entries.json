@@ -12479,6 +12479,18 @@
       "image_model": "imagen-4",
       "seed": 284024171,
       "created_at": "2026-03-16T17:13:01.812908+08:00"
+    },
+    {
+      "id": "20260316_171337",
+      "offset_start": 69321,
+      "offset_end": 69399,
+      "text": "徐老師二十\n多歲，人很靦腆，聽到女同學笑都會臉紅。相比王老師，同學們不太接近他。\n大家輪流在化驗室值班。值班室的門板只有四分之三高，頂上四十來公分是空\n的。",
+      "prompt": "A shy young teacher in his mid-twenties stands awkwardly in a modest school laboratory, his face slightly flushed as he avoids eye contact with female students nearby. The cramped duty room has a door that reaches only three-quarters height, leaving a forty-centimeter gap at the top exposing the interior. Soft fluorescent lighting illuminates worn lab tables and scattered glass beakers, creating a humble, intimate academic atmosphere with a muted, nostalgic color palette reminiscent of early 1990s East Asian cinema",
+      "image": "reader_images/reader_20260316_171337.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 277268323,
+      "created_at": "2026-03-16T17:13:37.524925+08:00"
     }
   ],
   "book_total_chars": 92814,
