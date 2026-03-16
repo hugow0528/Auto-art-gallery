@@ -13535,6 +13535,18 @@
       "image_model": "klein",
       "seed": 1559179497,
       "created_at": "2026-03-17T00:37:15.886497+08:00"
+    },
+    {
+      "id": "20260317_003751",
+      "offset_start": 75222,
+      "offset_end": 75284,
+      "text": "」\n老師說：「這個班本月上山勞動去了。你把手伸給我看看。」\n之驊把手平直地伸出來。老師沒說什麼，他是看之驊的手有沒有做過事。",
+      "prompt": "A stern, middle-aged Chinese teacher in a sparsely furnished, utilitarian classroom from the Cultural Revolution era, possibly in a rural setting, observes a young student's outstretched hand with a discerning gaze. The atmosphere is somber and slightly tense, with muted, natural lighting filtering through a plain window. The visual style should evoke a sense of historical realism, perhaps with a touch of propaganda poster aesthetic, emphasizing the teacher's critical assessment and the student's earnestness.",
+      "image": "reader_images/reader_20260317_003751.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 644870944,
+      "created_at": "2026-03-17T00:37:51.286993+08:00"
     }
   ],
   "book_total_chars": 92814,
