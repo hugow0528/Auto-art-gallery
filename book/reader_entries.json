@@ -13355,6 +13355,18 @@
       "image_model": "klein",
       "seed": 1095439013,
       "created_at": "2026-03-16T23:18:31.015017+08:00"
+    },
+    {
+      "id": "20260316_232039",
+      "offset_start": 74242,
+      "offset_end": 74337,
+      "text": "陳大姐找到秋園，替她出了個主意：「梁家妹妹，你聽我一句話，不要不好意\n思，我勸你在這裡找個人家算了。」\n秋園猛一聽到這樣的話，心中一炸，隨即說：「我大兒子都當老師了，我還改\n嫁，豈不丟人！",
+      "prompt": "A middle-aged Chinese woman with kind eyes and a slightly worn expression, Chen Dajie, speaks earnestly to a younger woman, Qiuyuan, whose face shows shock and indignation. They are in a humble, dimly lit courtyard filled with drying laundry and potted plants, suggesting a modest, traditional Chinese setting. The atmosphere is heavy with unspoken societal pressures and personal conflict. The style should be reminiscent of traditional Chinese ink wash painting with subtle hints of realism, emphasizing emotional resonance.",
+      "image": "reader_images/reader_20260316_232039.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 667820661,
+      "created_at": "2026-03-16T23:20:39.500362+08:00"
     }
   ],
   "book_total_chars": 92814,
