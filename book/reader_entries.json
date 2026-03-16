@@ -14315,6 +14315,18 @@
       "image_model": "imagen-4",
       "seed": 1926711119,
       "created_at": "2026-03-17T05:26:20.391594+08:00"
+    },
+    {
+      "id": "20260317_054311",
+      "offset_start": 79553,
+      "offset_end": 79619,
+      "text": "我要活下去！」\n\n133\n\n\f十三\n關於下放的消息已經傳了好一陣子。林木叢生的校園就像一個巨大的蜂窩，嗡嗡\n嚶嚶地散布着下放的傳言。",
+      "prompt": "A bustling 1960s-70s Chinese university campus shrouded in anxious atmosphere, with dense clusters of trees creating shadowy pockets throughout the grounds. Clusters of students huddle in small groups, their faces etched with concern and uncertainty as whispered rumors of \"rustication\" (xiafang) spread like a buzzing undercurrent through the air. The campus resembles a massive honeycomb alive with nervous energy—muted earth tones and gray skies overhead, with dramatic chiaroscuro lighting casting long shadows across pathways and buildings. The artistic style should evoke Socialist Realism with documentary-like precision, capturing the tension and collective anxiety of the Cultural Revolution era through composition and subtle expressions of fear and determination.",
+      "image": "reader_images/reader_20260317_054311.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 2109969971,
+      "created_at": "2026-03-17T05:43:11.399176+08:00"
     }
   ],
   "book_total_chars": 92814,
