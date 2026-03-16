@@ -12059,6 +12059,18 @@
       "image_model": "gptimage",
       "seed": 1764022275,
       "created_at": "2026-03-16T14:49:47.816878+08:00"
+    },
+    {
+      "id": "20260316_145026",
+      "offset_start": 67165,
+      "offset_end": 67250,
+      "text": "隨着月亮的移\n動，光柱也在房裡移動，照在仁受白中泛青的臉上。子恆已從學校趕回，一家人\n圍坐在仁受身邊。油燈幽幽地亮着，仁受時而睜眼看看孩子們，時而閉眼好似睡\n着了般安靜。",
+      "prompt": "A dimly lit bedroom at night, a waning moonlight beam falls across a sick man's pallid face as his family huddles quietly around his bedside. The soft glow of an oil lamp casts a warm, intimate pool of light, illuminating their expressions of quiet reverence and concern. Realistic style with soft chiaroscuro lighting and subtle impressionist brushwork, capturing a moment of solemn, tender stillness.",
+      "image": "reader_images/reader_20260316_145026.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1147145331,
+      "created_at": "2026-03-16T14:50:26.493462+08:00"
     }
   ],
   "book_total_chars": 92814,
