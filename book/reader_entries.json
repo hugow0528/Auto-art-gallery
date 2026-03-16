@@ -13343,6 +13343,18 @@
       "image_model": "grok-imagine",
       "seed": 1701962381,
       "created_at": "2026-03-16T23:17:54.870813+08:00"
+    },
+    {
+      "id": "20260316_231830",
+      "offset_start": 74172,
+      "offset_end": 74242,
+      "text": "秋園剛剛對生活有了一線希望，哪怕整天累得直不起腰來也總是笑盈盈的，如今\n聽說又要回湖南，有如驚弓之鳥，回想起那可怕的日子，真是喘不過氣來。",
+      "prompt": "A young woman with weary eyes and a forced smile, her back bent from labor, stands in a dimly lit, humble room. Suddenly, her expression shifts to one of terror and panic, like a startled bird, as she overhears news of an impending return to a dreaded place. The atmosphere is heavy with foreboding and a suffocating sense of despair, rendered in a dramatic, painterly style with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_231830.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1095439013,
+      "created_at": "2026-03-16T23:18:31.015017+08:00"
     }
   ],
   "book_total_chars": 92814,
