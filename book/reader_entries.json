@@ -14291,6 +14291,18 @@
       "image_model": "grok-imagine",
       "seed": 1704389234,
       "created_at": "2026-03-17T05:23:11.784170+08:00"
+    },
+    {
+      "id": "20260317_052500",
+      "offset_start": 79413,
+      "offset_end": 79484,
+      "text": "我死後\n也是這個樣子，會嚇着自己的親人。」秋園將腳朝地面狠狠一跺，「我不死了，\n我一定不死了！鬼，你去吧！我想通了，就是不死了，你能把我怎樣？",
+      "prompt": "A determined elderly woman stands alone in a sparse, shadowy room, her foot stomped firmly on the wooden floor. A dramatic shaft of light cuts through the gloom, illuminating her resolute expression and the swirling, ghostly mist retreating from her. Style: emotional realism with stark chiaroscuro lighting and a muted, somber color palette.",
+      "image": "reader_images/reader_20260317_052500.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 2004997458,
+      "created_at": "2026-03-17T05:25:00.931124+08:00"
     }
   ],
   "book_total_chars": 92814,
