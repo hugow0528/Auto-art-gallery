@@ -14603,6 +14603,18 @@
       "image_model": "zimage",
       "seed": 141684808,
       "created_at": "2026-03-17T07:28:06.001047+08:00"
+    },
+    {
+      "id": "20260317_073937",
+      "offset_start": 81078,
+      "offset_end": 81142,
+      "text": "希望你聽得進去我的話，我可絕沒\n有趕你走的意思。」\n「我不能回去。田四屍骨未寒，這一走，他地下有靈，還真以爲媽媽丟下他不管\n了。",
+      "prompt": "A dimly lit, rustic room with a single oil lamp casting long shadows. A sorrowful woman with tear-streaked cheeks, dressed in simple, worn clothing, clutches a worn wooden cross. Opposite her, a concerned elder, his face etched with worry, gestures gently as if offering comfort. The atmosphere is heavy with grief and unspoken regret, rendered in a somber, painterly style reminiscent of Dutch Golden Age portraits.",
+      "image": "reader_images/reader_20260317_073937.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 733081972,
+      "created_at": "2026-03-17T07:39:37.387778+08:00"
     }
   ],
   "book_total_chars": 92814,
