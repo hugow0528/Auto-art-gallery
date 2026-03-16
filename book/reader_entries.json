@@ -13739,6 +13739,18 @@
       "image_model": "grok-imagine",
       "seed": 541778824,
       "created_at": "2026-03-17T01:54:26.252164+08:00"
+    },
+    {
+      "id": "20260317_020215",
+      "offset_start": 76374,
+      "offset_end": 76443,
+      "text": "」他一點也不生氣，還嬉皮笑臉地大喊大叫：「救命救命，大\n大打我了。」秋園滿眼柔情地看着他，好生歡喜。\n秋園做衣做鞋，愛民和田四總是一樣的。",
+      "prompt": "A warm domestic interior with soft morning light filtering through paper windows, a young woman in traditional Chinese clothing sits at a low table surrounded by fabric and needlework, her gentle eyes smiling with deep affection as she watches a playful young man grinning and pretending to cower from her, both surrounded by half-finished cloth",
+      "image": "reader_images/reader_20260317_020215.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1101791080,
+      "created_at": "2026-03-17T02:02:15.364720+08:00"
     }
   ],
   "book_total_chars": 92814,
