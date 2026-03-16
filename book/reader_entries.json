@@ -14087,6 +14087,18 @@
       "image_model": "gptimage",
       "seed": 1894867526,
       "created_at": "2026-03-17T03:58:03.203305+08:00"
+    },
+    {
+      "id": "20260317_035852",
+      "offset_start": 78190,
+      "offset_end": 78255,
+      "text": "田四眼睛閉着，渾身滴着水，裸露的上身和腿腳被水浸泡了幾個小\n時，白得耀眼。\n秋園匍匐着向前撲倒在田四身上，叫道：「兒啊，我的兒啊！",
+      "prompt": "A haunting scene of a waterlogged figure lying motionless on wet ground, their pale, drenched body glistening under dim light after hours of immersion, while a desperate mother crawls forward and collapses across them in anguish, her cry piercing the heavy silence. The composition captures raw grief and maternal desperation in muted, sorrowful tones—cool blues and grays dominating the palette with touches of sickly pallor on exposed skin. The setting is sparse and desolate, emphasizing isolation and tragedy, rendered in a style reminiscent of classical Chinese painting infused with modern emotional realism, emphasizing texture, wetness, and the weight of loss.",
+      "image": "reader_images/reader_20260317_035852.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1843898043,
+      "created_at": "2026-03-17T03:58:52.178070+08:00"
     }
   ],
   "book_total_chars": 92814,
