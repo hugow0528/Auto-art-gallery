@@ -12251,6 +12251,18 @@
       "image_model": "imagen-4",
       "seed": 1935365301,
       "created_at": "2026-03-16T15:54:58.714281+08:00"
+    },
+    {
+      "id": "20260316_155623",
+      "offset_start": 68275,
+      "offset_end": 68349,
+      "text": "之驊帶了一擔畚箕，把爲數不多的行李用布包好，放在畚箕裏挑着。\n秋園把之驊送到山坳的高坡上。一路上，之驊幾乎沒開過口。秋園囑咐什麼，她\n只是不斷點頭。",
+      "prompt": "A traditional Chinese rural scene at a mountain pass at dawn: a young woman in simple traditional clothing carries a pole with a wicker basket and bundled belongings, walking slowly up a winding path. An older woman stands on a high slope watching her go, both faces showing quiet resignation and unspoken sorrow. Muted autumn tones, misty mountains in background, soft golden light breaking through clouds. Traditional Chinese ink painting style with realistic detail, melancholic atmosphere, cinematic composition.",
+      "image": "reader_images/reader_20260316_155623.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1138197280,
+      "created_at": "2026-03-16T15:56:23.122744+08:00"
     }
   ],
   "book_total_chars": 92814,
