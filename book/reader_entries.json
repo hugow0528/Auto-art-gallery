@@ -14255,6 +14255,18 @@
       "image_model": "imagen-4",
       "seed": 1016236008,
       "created_at": "2026-03-17T05:06:35.193385+08:00"
+    },
+    {
+      "id": "20260317_050918",
+      "offset_start": 79210,
+      "offset_end": 79324,
+      "text": "洗\n罷澡，穿戴齊整，便找來根棕繩拿在手裡。臨了，想起來還要梳個頭，決不能蓬\n頭散發，便把亂發仔仔細細地抿齊在耳根。哪知眼睛剛碰到鏡子，就望見裡面有\n個女人，一根繩子從脖子上繞過耳邊往上吊着，眼睛睜着，舌頭伸得老長，鮮紅\n鮮紅的。",
+      "prompt": "A woman, meticulously dressed after a bath, stands before a mirror, her hair neatly combed. Suddenly, her reflection distorts, revealing a horrifying image of her own body hanging by a rope around her neck, eyes wide open, tongue grotesquely protruding. The scene is rendered in a dark, surrealist style with dramatic chiaroscuro lighting, emphasizing the stark terror and psychological horror. The atmosphere is one of chilling dread and unsettling stillness, with a focus on the macabre details of the reflection.",
+      "image": "reader_images/reader_20260317_050918.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1700776917,
+      "created_at": "2026-03-17T05:09:18.913666+08:00"
     }
   ],
   "book_total_chars": 92814,
