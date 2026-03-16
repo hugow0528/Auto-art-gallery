@@ -13487,6 +13487,18 @@
       "image_model": "grok-imagine",
       "seed": 1193594911,
       "created_at": "2026-03-17T00:15:30.408766+08:00"
+    },
+    {
+      "id": "20260317_001731",
+      "offset_start": 75079,
+      "offset_end": 75149,
+      "text": "」\n那人說：「我是這裡的老師，也是負責招生的。」\n之驊差點跳起來：「哎呀，運氣真好！一下就找對了。老師，你收下我吧，我會\n好好讀書和勞動的。",
+      "prompt": "A hopeful young student stands before a stern but kind-looking teacher in a simple rural schoolyard, earthen walls and bare trees in autumn light, the student bowing respectfully with hands clasped, teacher gesturing thoughtfully, cinematic natural lighting, warm muted earth tones, Chinese rural education setting, slightly weathered textures, hopeful and determined mood.",
+      "image": "reader_images/reader_20260317_001731.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 797110380,
+      "created_at": "2026-03-17T00:17:31.640196+08:00"
     }
   ],
   "book_total_chars": 92814,
