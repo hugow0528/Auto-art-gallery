@@ -13775,6 +13775,18 @@
       "image_model": "flux-2-dev",
       "seed": 1524232845,
       "created_at": "2026-03-17T02:07:59.999258+08:00"
+    },
+    {
+      "id": "20260317_020928",
+      "offset_start": 76512,
+      "offset_end": 76619,
+      "text": "之驊所在的師範班共二十個人，有高中生，有當過老師的，也有當過幹部的……\n不知他們爲什麼跑到這裡來讀書。\n學校門前有條河，每當太陽像個大蛋黃倚在山巔時，共大的學生便去河裡洗澡，\n女生在上遊淺水區，男生在下遊較深處。",
+      "prompt": "A group of young adults, diverse in appearance, gather near a riverbank as the sun, a large yolk-yellow orb, dips below a mountain peak. The atmosphere is tranquil and slightly nostalgic, with the soft, warm light of sunset casting long shadows. Some students, perhaps in their late teens or early twenties, are preparing to bathe in the river – girls near the shallow upper reaches, boys heading towards the deeper sections further downstream. The scene should be rendered in a painterly, impressionistic style, emphasizing the warm hues of the sunset and the serene, communal feeling of the moment.",
+      "image": "reader_images/reader_20260317_020928.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 855325878,
+      "created_at": "2026-03-17T02:09:28.296122+08:00"
     }
   ],
   "book_total_chars": 92814,
