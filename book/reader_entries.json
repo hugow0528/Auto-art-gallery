@@ -11291,6 +11291,18 @@
       "image_model": "zimage",
       "seed": 209343676,
       "created_at": "2026-03-16T07:57:08.150559+08:00"
+    },
+    {
+      "id": "20260316_080157",
+      "offset_start": 63187,
+      "offset_end": 63286,
+      "text": "真不知是哪個\n朝、哪個代、哪個懶人開的頭。這瞌睡消滅得好。」\n隊上的人都到齊了，坐了一屋子。範麻子站在前面，張跛子又是一腳，範麻子就\n對着羣衆老老實實跪下了，額上的汗一個勁地流，把一臉麻子都填滿了。",
+      "prompt": "A humble man with a pockmarked face kneels abjectly before a gathered crowd in a dimly lit room, sweat streaming down his weathered features and pooling into the creases of his scarred skin. The atmosphere is tense and oppressive, filled with the weight of shame and submission, rendered in muted earth tones with harsh shadows. Surrounding figures sit motionless, their faces stern and unyielding, witnessing this moment of humiliation. The style is stark realism with ink-wash painting techniques, capturing the raw emotion and social hierarchy of traditional Chinese society.",
+      "image": "reader_images/reader_20260316_080157.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 2126835243,
+      "created_at": "2026-03-16T08:01:57.735558+08:00"
     }
   ],
   "book_total_chars": 92814,
