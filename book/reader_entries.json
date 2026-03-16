@@ -14687,6 +14687,18 @@
       "image_model": "flux",
       "seed": 343346249,
       "created_at": "2026-03-17T07:55:37.903982+08:00"
+    },
+    {
+      "id": "20260317_075648",
+      "offset_start": 81606,
+      "offset_end": 81680,
+      "text": "愛民雖對你好，但畢竟不是親生\n兒子。等到人家趕你走，你就不值錢了。你回到老家，好好過自己的日子去。」\n好不容易講完這許多話，王成恩已是上氣不接下氣。",
+      "prompt": "A somber, intimate scene in a dimly lit traditional Chinese bedroom, an elderly man named Wang Cheng'en lies weakly on a wooden bed, his face pale and exhausted as he speaks with labored breath to a younger man standing solemnly beside him, rendered in a realistic oil painting style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_075648.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 115266429,
+      "created_at": "2026-03-17T07:56:48.621863+08:00"
     }
   ],
   "book_total_chars": 92814,
