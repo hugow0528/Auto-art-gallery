@@ -11543,6 +11543,18 @@
       "image_model": "zimage",
       "seed": 918927741,
       "created_at": "2026-03-16T12:18:51.576643+08:00"
+    },
+    {
+      "id": "20260316_122425",
+      "offset_start": 64634,
+      "offset_end": 64772,
+      "text": "但時不時仍會說：「我好餓，給我碗飯喫\n吧！」\n打了禾以後，隊上的細伢子如開了籠的雞，爭先恐後跑到地裏去撿稻穗。撿了稻\n穗，再撿兩塊石頭，把稻穗放在一塊石頭上，用另一塊將穀殼砸掉，又用嘴將谷\n殼吹飛，接着立馬將生米塞進嘴裡，直咬得腮幫子發痛，嘴角流出白水水，最後\n使勁咽進肚裡。",
+      "prompt": "In a vast golden rice field after harvest under a hazy rural Chinese sky, a group of ragged village children scramble eagerly like unleashed chickens, picking scattered rice stalks from the stubble-covered ground, their faces smudged with dirt and desperation.[1][2] One thin boy kneels intently, smashing rice husks between two rough stones on a flat rock, then blows away the chaff with puffed cheeks before stuffing raw grains into his mouth, cheeks bulging painfully as white saliva dribbles from his cracked lips, eyes clenched in effort to swallow.[3] Rendered in meticulous gongbi style with shaded ink washes evoking Song Dynasty shan shui harmony of rugged earth and human struggle, soft afternoon light casts long shadows, conveying a mood of poignant poverty and raw survival amid misty distant mountains.[1][4]",
+      "image": "reader_images/reader_20260316_122425.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 715198795,
+      "created_at": "2026-03-16T12:24:25.716657+08:00"
     }
   ],
   "book_total_chars": 92814,
