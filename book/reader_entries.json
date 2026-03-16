@@ -13955,6 +13955,18 @@
       "image_model": "flux-2-dev",
       "seed": 2105233399,
       "created_at": "2026-03-17T03:32:34.742236+08:00"
+    },
+    {
+      "id": "20260317_033403",
+      "offset_start": 77474,
+      "offset_end": 77541,
+      "text": "田四這年十五歲，長得高挑、白淨，漆黑柔軟的頭髮剪得整整齊齊，脣紅齒白，\n算得上是個美少年。\n田四初中畢業了，這天要去學校拿畢業證書。",
+      "prompt": "A handsome teenage boy with fair skin, soft black hair neatly trimmed, and bright red lips stands at the gate of a simple Chinese school on a sunny day, holding a leather folder. He wears a white shirt and dark pants, looking confident and youthful. The scene captures early summer warmth with soft golden lighting, a slightly faded school wall behind him, conveying a nostalgic coming-of-age moment. Artistic style: warm, naturalistic portraiture with soft focus, like a Chinese independent film still.",
+      "image": "reader_images/reader_20260317_033403.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1305370999,
+      "created_at": "2026-03-17T03:34:03.785246+08:00"
     }
   ],
   "book_total_chars": 92814,
