@@ -12359,6 +12359,18 @@
       "image_model": "grok-imagine",
       "seed": 251145494,
       "created_at": "2026-03-16T16:16:48.451874+08:00"
+    },
+    {
+      "id": "20260316_163615",
+      "offset_start": 68792,
+      "offset_end": 68872,
+      "text": "子恆哭着說：「媽媽，我給您的東西實在少得可憐，這點錢和糧票能讓您在\n路上少受點苦，我心裡也好受些！」\n\n114\n\n\f三\n走了九十多裏路，之驊來到了嶽陽工業學校。",
+      "prompt": "A young man, Zi Heng, tearfully presses a small bundle of money and grain coupons into his mother's hands. The scene is dimly lit, evoking a somber and emotional atmosphere. The focus is on the tender, desperate exchange between mother and son, with a sense of impending departure. The art style should be realistic, with a touch of painterly softness, emphasizing the emotional weight of the moment.",
+      "image": "reader_images/reader_20260316_163615.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 522991595,
+      "created_at": "2026-03-16T16:36:15.758232+08:00"
     }
   ],
   "book_total_chars": 92814,
