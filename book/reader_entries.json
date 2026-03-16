@@ -13835,6 +13835,18 @@
       "image_model": "zimage",
       "seed": 414483862,
       "created_at": "2026-03-17T02:33:12.349663+08:00"
+    },
+    {
+      "id": "20260317_023636",
+      "offset_start": 76786,
+      "offset_end": 76852,
+      "text": "沿着河往上遊走，兩\n岸的毛竹密密匝匝，隨着每一陣微風的吹動，灑下無數金針般的光芒。五顏六色\n的小花羞羞答答地從毛竹的縫隙中伸出頭來。",
+      "prompt": "A serene riverside scene in a traditional Chinese ink wash painting style. Dense, vibrant green bamboo forests line both banks of a gently flowing river, with sunlight filtering through the leaves to create dappled, golden patterns on the water. Small, colorful wildflowers peek shyly from the bamboo thickets. The atmosphere is peaceful and tranquil, with a soft, ethereal light.",
+      "image": "reader_images/reader_20260317_023636.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1496182840,
+      "created_at": "2026-03-17T02:36:36.977705+08:00"
     }
   ],
   "book_total_chars": 92814,
