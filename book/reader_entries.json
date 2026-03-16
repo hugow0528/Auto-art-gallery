@@ -11891,6 +11891,18 @@
       "image_model": "grok-imagine",
       "seed": 1722518344,
       "created_at": "2026-03-16T13:54:08.767759+08:00"
+    },
+    {
+      "id": "20260316_135536",
+      "offset_start": 66450,
+      "offset_end": 66527,
+      "text": "」\n秋園愣了，一時反應不過來，斷斷想不到今天是要開她的批鬥會。正遲疑着，張\n跛子在身後重重一推，秋園一個趔趄，差點絆倒。\n滿寶生說：「曉得叫你來幹什麼嗎？",
+      "prompt": "The scene is a stark, dimly lit room during a Chinese struggle session (批鬥會) in the mid-20th century. A woman, Qiu Yuan, is caught off guard, her expression a mixture of shock and confusion, as she is roughly pushed forward by a man with a limp, Zhang Bozi. The atmosphere is tense and oppressive, with harsh, accusatory lighting casting long shadows. The artistic style should be reminiscent of early Chinese socialist realism propaganda posters, emphasizing grim determination and public condemnation.",
+      "image": "reader_images/reader_20260316_135536.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1713130198,
+      "created_at": "2026-03-16T13:55:36.088829+08:00"
     }
   ],
   "book_total_chars": 92814,
