@@ -14075,6 +14075,18 @@
       "image_model": "flux",
       "seed": 887064401,
       "created_at": "2026-03-17T03:57:06.734278+08:00"
+    },
+    {
+      "id": "20260317_035803",
+      "offset_start": 78103,
+      "offset_end": 78190,
+      "text": "秋園全身軟得站不起來，趴在地上說：「我活要見人，死要見屍，請你們行行\n好，再打撈一次。」\n就這一下，一個船夫感覺鉤到了東西，大家幫忙提上來一看，鐵鉤正鉤着田四的\n褲子口袋。",
+      "prompt": "A woman kneels desperately on a muddy riverbank, pleading with weathered boatmen in traditional clothing. The atmosphere is tense and somber, with overcast skies and a murky river reflecting the overcast light. One boatman pulls a fishing hook from the water, revealing it snagged on a man's trouser pocket. The scene is rendered in a realistic, gritty style reminiscent of traditional Chinese ink wash paintings, emphasizing the raw emotion and stark reality of the moment.",
+      "image": "reader_images/reader_20260317_035803.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1894867526,
+      "created_at": "2026-03-17T03:58:03.203305+08:00"
     }
   ],
   "book_total_chars": 92814,
