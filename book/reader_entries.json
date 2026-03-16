@@ -12791,6 +12791,18 @@
       "image_model": "klein",
       "seed": 562483597,
       "created_at": "2026-03-16T19:14:56.355791+08:00"
+    },
+    {
+      "id": "20260316_191533",
+      "offset_start": 71284,
+      "offset_end": 71377,
+      "text": "傍晚時分，之驊用僅剩的八分錢買了一碗糯米稀飯喫了，然後拖着疲憊的身體，\n沮喪地走到火車站，靠牆壁坐下，準備在那裡過夜。向周圍一看，天啊，都是\n人，講着不同口音的話，橫七豎八地躺在地上。",
+      "prompt": "A exhausted young man sits alone against a grimy train station wall at dusk, clutching an empty bowl, his hollow eyes staring forward in despair. The vast station hall is crowded with hundreds of people sprawled across the dirty floor in various poses of exhaustion, speaking in countless regional dialects—migrants and refugees seeking passage. The fading amber evening light filters through high windows,",
+      "image": "reader_images/reader_20260316_191533.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1615116694,
+      "created_at": "2026-03-16T19:15:33.956460+08:00"
     }
   ],
   "book_total_chars": 92814,
