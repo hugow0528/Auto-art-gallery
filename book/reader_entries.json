@@ -13307,6 +13307,18 @@
       "image_model": "flux-2-dev",
       "seed": 819452496,
       "created_at": "2026-03-16T22:53:18.436283+08:00"
+    },
+    {
+      "id": "20260316_225502",
+      "offset_start": 73975,
+      "offset_end": 74042,
+      "text": "之驊喜形於色，對技術員說：「我要去讀書，這就去，只是這扁擔、畚箕還要送\n到建築隊去。」\n技術員說：「我幫你帶去，替你把借條撕掉就行。",
+      "prompt": "A young man with joy visibly radiating across his face stands in a dusty construction site during golden afternoon light, holding a shoulder pole and dusty tools, speaking earnestly with a technical supervisor. The scene captures the moment of release and hope—worn work equipment contrasting with the bright expression of newfound freedom to pursue education. The atmosphere blends the gritty reality of manual labor with an emotional turning point, rendered in a semi-realistic style with warm, hopeful lighting that emphasizes the character's transformation from worker to student. Muted earth tones dominate the construction setting while the man's face glows with determination and relief.",
+      "image": "reader_images/reader_20260316_225502.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 964519864,
+      "created_at": "2026-03-16T22:55:02.666825+08:00"
     }
   ],
   "book_total_chars": 92814,
