@@ -14519,6 +14519,18 @@
       "image_model": "klein",
       "seed": 844754420,
       "created_at": "2026-03-17T06:53:59.746960+08:00"
+    },
+    {
+      "id": "20260317_065815",
+      "offset_start": 80621,
+      "offset_end": 80685,
+      "text": "之驊是女隊隊員，她個頭不高卻身手靈活，滿場飛\n跑，像鳥一樣輕盈，贏得了「小燕子」的稱號。喬木林在場外觀看時，留意過這\n只小燕子。",
+      "prompt": "A young female athlete in a sports uniform sprints across a basketball court, her small frame moving with bird-like grace and speed, arms extended as if flying, catching a ball mid-air. In the foreground, a young man watches from the sidelines with keen interest, his gaze fixed on the swift player nicknamed \"Little Swallow.\" Warm stadium lighting illuminates the dusty court, capturing the dynamic motion and youthful energy of the moment, rendered in a cinematic documentary style.",
+      "image": "reader_images/reader_20260317_065815.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1868507908,
+      "created_at": "2026-03-17T06:58:15.276165+08:00"
     }
   ],
   "book_total_chars": 92814,
