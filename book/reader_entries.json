@@ -11867,6 +11867,18 @@
       "image_model": "gptimage",
       "seed": 1680805207,
       "created_at": "2026-03-16T13:46:48.509713+08:00"
+    },
+    {
+      "id": "20260316_134711",
+      "offset_start": 66315,
+      "offset_end": 66379,
+      "text": "」\n這隻雞成了靈丹妙藥。過去因爲腫得厲害，仁受總覺得胸膛憋悶、腹部脹痛，現\n在只感到盪氣迴腸，胸膛和腹部好像空出了好大一塊地方。",
+      "prompt": "A plump, contented rooster, glowing with a subtle, ethereal luminescence, stands in a rustic, dimly lit kitchen. The atmosphere is one of profound relief and quietude, with soft, warm light emanating from a hearth, casting long shadows. The rooster's eyes gleam with an inner vitality, symbolizing a miraculous cure and well-being. Style: gentle, painterly realism with a touch of magical realism.",
+      "image": "reader_images/reader_20260316_134711.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 636654885,
+      "created_at": "2026-03-16T13:47:11.307802+08:00"
     }
   ],
   "book_total_chars": 92814,
