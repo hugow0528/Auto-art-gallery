@@ -13091,6 +13091,18 @@
       "image_model": "gptimage",
       "seed": 485445990,
       "created_at": "2026-03-16T21:57:39.570429+08:00"
+    },
+    {
+      "id": "20260316_215918",
+      "offset_start": 72855,
+      "offset_end": 72949,
+      "text": "121\n\n\f七\n在火車站過了一夜，第二天一早，之驊和一伙人上了汽車。汽車塞得滿滿的，熱\n氣蒸人。有人脫掉上衣，裸着上身，隨着汽車行進的節奏，他們把皮膚上的汗液\n毫無保留地蹭在別人身上。",
+      "prompt": "A photorealistic scene inside an overcrowded, sweltering bus at dawn, muted natural light filtering through dusty windows. Men with bare, sweat-glistening torsos press against each other, their skin leaving damp marks on neighboring passengers, conveying palpable heat and gritty discomfort.",
+      "image": "reader_images/reader_20260316_215918.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 2035431856,
+      "created_at": "2026-03-16T21:59:18.346810+08:00"
     }
   ],
   "book_total_chars": 92814,
