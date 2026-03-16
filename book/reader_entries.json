@@ -11435,6 +11435,18 @@
       "image_model": "flux-2-dev",
       "seed": 1894218041,
       "created_at": "2026-03-16T11:46:10.118749+08:00"
+    },
+    {
+      "id": "20260316_114710",
+      "offset_start": 64069,
+      "offset_end": 64146,
+      "text": "晚上又開全隊大會，滿寶生軟硬兼施，說誰檢舉出來，就獎糧食給誰；要\n是不承認卻被查到，就要受罰。他講了一套又一套，唾沫星子滿屋飛，張跛子在\n一旁忙着敲邊鼓。",
+      "prompt": "A dimly lit, rustic village hall interior during an evening meeting. A stern, middle-aged man, \"Man Bao Sheng,\" gestures emphatically, spittle flying, addressing an unseen audience in a forceful but persuasive manner. Beside him, a wiry, hunched figure, \"Zhang Bozi,\" bangs a small drum rhythmically to punctuate the speech. The atmosphere is tense and expectant, rendered in the style of a dramatic ink wash painting with strong chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_114710.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 47130220,
+      "created_at": "2026-03-16T11:47:10.626731+08:00"
     }
   ],
   "book_total_chars": 92814,
