@@ -12107,6 +12107,18 @@
       "image_model": "grok-imagine",
       "seed": 653899600,
       "created_at": "2026-03-16T14:55:47.652239+08:00"
+    },
+    {
+      "id": "20260316_145618",
+      "offset_start": 67380,
+      "offset_end": 67452,
+      "text": "別了！永別\n了！你們要活下去，不……」\n陽光從窗子裡照進來，斜射在仁受臉上，將他的臉分成陰陽兩半。那「不」字還\n差最後一點，筆突然從他手裡滑落。",
+      "prompt": "A close-up portrait of a man's face, bisected by a sharp diagonal shaft of golden sunlight entering from a window, creating stark contrast between light and shadow. His expression is one of urgent, unfinished farewell, with a brush held loosely, slipping from his fingers, ink splattering onto a surface below. The mood is dramatic and poignant, rendered in the style of Caravaggio's chiaroscuro, with a painterly, slightly desaturated palette.",
+      "image": "reader_images/reader_20260316_145618.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1302150256,
+      "created_at": "2026-03-16T14:56:18.620229+08:00"
     }
   ],
   "book_total_chars": 92814,
