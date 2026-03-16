@@ -13967,6 +13967,18 @@
       "image_model": "imagen-4",
       "seed": 1305370999,
       "created_at": "2026-03-17T03:34:03.785246+08:00"
+    },
+    {
+      "id": "20260317_033434",
+      "offset_start": 77541,
+      "offset_end": 77639,
+      "text": "他就讀的馬口中學離家七裏多路，\n沿着筆直的河堤走去就是。河面不是很寬，河水碧綠碧綠的，微風吹過，波光粼\n粼。\n田四有點激動，早上七點半就穿戴整齊了：白棉布襯衣，西裝短褲，腳上是秋園\n親手做的布鞋。",
+      "prompt": "A young boy, Tian Si, stands near a tranquil, emerald-green river, its surface shimmering with gentle ripples under a soft morning breeze. He wears a crisp white cotton shirt, dark shorts, and handmade cloth shoes, his expression one of quiet anticipation. The scene is rendered in a delicate, painterly style reminiscent of traditional Chinese landscape art, with a focus on soft lighting and serene atmosphere. The long, straight river dike stretches into the distance, bordered by lush greenery.",
+      "image": "reader_images/reader_20260317_033434.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1586782655,
+      "created_at": "2026-03-17T03:34:34.108178+08:00"
     }
   ],
   "book_total_chars": 92814,
