@@ -13667,6 +13667,18 @@
       "image_model": "klein",
       "seed": 1699982923,
       "created_at": "2026-03-17T01:30:57.644410+08:00"
+    },
+    {
+      "id": "20260317_013251",
+      "offset_start": 75937,
+      "offset_end": 76021,
+      "text": "一次，秋園拆洗棉衣，王成恩也來幫忙。秋園留了五塊錢縫在棉衣口袋裡，口袋\n一拆，錢便掉了出來。她一時好像做了虧心事，支吾道：「這不是什麼私房錢\n啊，不記得什麼時候放的。",
+      "prompt": "A young Chinese woman, Qiu Yuan, with a somber expression, is diligently mending a cotton winter coat in a dimly lit, traditional courtyard. Sunlight filters through the dusty window panes, illuminating scattered threads and the worn fabric. Beside her, a man named Wang Chengen offers assistance, his face thoughtful in the soft, autumnal light. The atmosphere is quiet and intimate, rendered in a style reminiscent of traditional Chinese ink wash paintings, emphasizing subtle details and a melancholic mood.",
+      "image": "reader_images/reader_20260317_013251.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1260352261,
+      "created_at": "2026-03-17T01:32:51.661321+08:00"
     }
   ],
   "book_total_chars": 92814,
