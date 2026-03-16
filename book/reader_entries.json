@@ -13199,6 +13199,18 @@
       "image_model": "zimage",
       "seed": 120389091,
       "created_at": "2026-03-16T22:24:10.886794+08:00"
+    },
+    {
+      "id": "20260316_223904",
+      "offset_start": 73454,
+      "offset_end": 73523,
+      "text": "她找了好多破布把扁擔包得厚厚的，還是不行，肩疼得不能承受任何東\n西。\n朱叔叔說：「這力氣活一下子也練不出來，今天歇一天，明天肩膀好點再去。",
+      "prompt": "A weary young woman in a simple, worn peasant dress sits dejectedly on a straw mat in a dimly lit, rustic hut, her shoulders red and bruised, clutching a heavily padded shoulder pole. Sunlight streams through a crack in the wooden wall, illuminating dust motes and highlighting the rough texture of the thatch roof and earthen floor. An elderly man with kind eyes and weathered hands rests a comforting hand on her shoulder, his expression gentle and understanding. The scene is rendered in the style of a traditional Chinese ink wash painting, with a somber, empathetic mood.",
+      "image": "reader_images/reader_20260316_223904.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1069252443,
+      "created_at": "2026-03-16T22:39:04.798937+08:00"
     }
   ],
   "book_total_chars": 92814,
