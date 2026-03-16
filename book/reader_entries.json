@@ -14555,6 +14555,18 @@
       "image_model": "klein",
       "seed": 267577427,
       "created_at": "2026-03-17T06:59:56.722807+08:00"
+    },
+    {
+      "id": "20260317_070141",
+      "offset_start": 80760,
+      "offset_end": 80857,
+      "text": "這年之驊二十歲，扎着兩根及腰的大辮子，穿着白色襯衣和藍色背帶裙——她最\n好的一身裝束，維持着女學生式的體面外表。但她內心絕望地知道，除了跟這個\n長相頗爲英俊的陌生男人結婚，自己沒有別的出路了。",
+      "prompt": "First, the user has given me a Chinese literary passage and asked me to create an image-generation prompt based on it. The passage is about a 20-year-old woman named Zhi Hua, with long braids, wearing a white shirt and blue suspender skirt—her best outfit, maintaining a respectable student-like appearance. But she knows desperately that she has no other way out besides marrying this rather handsome stranger.\n\nI need to respond with ONLY the image prompt in English. No explanations, no translations, no markdown. Just the prompt.\n\nThe prompt should be vivid, detailed, and capture the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. The response should be in English, 2–4 sentences only.\n\nKey elements from the passage:\n- Character: Zhi Hua, 20 years old, with two long braids reaching her waist, wearing a white shirt and blue suspender skirt.\n- Setting: Not explicitly stated, but from the context, it might be in a place where she's meeting or thinking about the man. Since it's about marriage and despair, the setting could be somber or tense.\n- Atmosphere: Despair, inner conflict, but maintaining a composed exterior. There's a sense of inevitability and resignation.\n- Other character: A handsome stranger, but not detailed much. I should include him in the scene if relevant.\n- Visual essence: Focus on her appearance, the contrast between her neat outfit",
+      "image": "reader_images/reader_20260317_070141.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1013815996,
+      "created_at": "2026-03-17T07:01:41.203344+08:00"
     }
   ],
   "book_total_chars": 92814,
