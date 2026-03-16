@@ -12863,6 +12863,18 @@
       "image_model": "zimage",
       "seed": 1766138370,
       "created_at": "2026-03-16T19:34:05.885275+08:00"
+    },
+    {
+      "id": "20260316_193940",
+      "offset_start": 71669,
+      "offset_end": 71775,
+      "text": "朱叔叔在宜春下屬一個縣城的建築隊做工，他\n讓之驊跟他走，起碼有個落腳的地方。\n\n119\n\n\f六\n回去又經武漢轉車。在候車室，秋園遇到了個湖南老鄉，她五十多歲，圓臉，黑\n皮膚，大眼睛，個不高，結結實實一副豪爽模樣。",
+      "prompt": "A modest construction site in a small county town under Yichun's administration, with weathered buildings and workers in simple clothes scattered across the dusty grounds. Inside a crowded railway station waiting room in Wuhan, an encounter between two travelers—a robust, dark-skinned Hunanese woman in her fifties with a round face, large bright eyes, and sturdy build, radiating warmth and straightforward charm, standing among other passengers amid the bustling midday light. Capture the contrast between the industrial, humble construction setting and the transient intimacy of the station meeting, rendered in a realistic, documentary-style aesthetic with warm, natural lighting that emphasizes human connection and the textures of everyday working-class life in mid-20th century China.",
+      "image": "reader_images/reader_20260316_193940.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1593337521,
+      "created_at": "2026-03-16T19:39:40.829634+08:00"
     }
   ],
   "book_total_chars": 92814,
