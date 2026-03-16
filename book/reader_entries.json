@@ -13919,6 +13919,18 @@
       "image_model": "klein",
       "seed": 951142482,
       "created_at": "2026-03-17T03:19:26.744602+08:00"
+    },
+    {
+      "id": "20260317_032954",
+      "offset_start": 77254,
+      "offset_end": 77321,
+      "text": "秋園既是媳婦也是後媽，這個家被她調理得和睦融洽，歡聲笑語不絕於耳，連年\n被評爲模範家庭。於是就有許多公社開着拖拉機來請秋園介紹經驗。",
+      "prompt": "A warm, sun-drenched courtyard in a rural Chinese commune. A middle-aged woman, \"Qiuyuan,\" with a kind smile and practical attire, is surrounded by smiling families, some on tractors, eager to learn. The atmosphere is joyous and harmonious, with children playing in the background. The style is reminiscent of socialist realism paintings, with vibrant colors and a focus on communal spirit.",
+      "image": "reader_images/reader_20260317_032954.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 90164006,
+      "created_at": "2026-03-17T03:29:54.586658+08:00"
     }
   ],
   "book_total_chars": 92814,
