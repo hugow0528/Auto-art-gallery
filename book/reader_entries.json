@@ -11531,6 +11531,18 @@
       "image_model": "grok-imagine",
       "seed": 733679947,
       "created_at": "2026-03-16T12:14:11.591208+08:00"
+    },
+    {
+      "id": "20260316_121851",
+      "offset_start": 64545,
+      "offset_end": 64634,
+      "text": "我好餓，給我碗飯喫\n\n105\n\n\f吧！」那雙渴求的眼睛讓人看了心裡發顫。\n八娭毑瘋雖瘋，倒沒餓死。數年後，飢餓緩解了，八娭毑進了五保，有飯喫，有\n衣穿，病也好了不少，再不亂跑了。",
+      "prompt": "A weathered, elderly woman with a gaunt face and deeply etched wrinkles, her eyes wide with a desperate, almost pleading hunger, sits hunched over a simple wooden table in a dimly lit, humble room. The atmosphere is one of profound scarcity and quiet suffering, with sparse, worn furnishings barely visible in the faint light filtering from a small window. The artistic style should be reminiscent of realist oil painting with a touch of chiaroscuro, emphasizing the raw emotion and the stark reality of her situation.",
+      "image": "reader_images/reader_20260316_121851.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 918927741,
+      "created_at": "2026-03-16T12:18:51.576643+08:00"
     }
   ],
   "book_total_chars": 92814,
