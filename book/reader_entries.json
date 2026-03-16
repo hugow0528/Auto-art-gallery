@@ -14303,6 +14303,18 @@
       "image_model": "imagen-4",
       "seed": 2004997458,
       "created_at": "2026-03-17T05:25:00.931124+08:00"
+    },
+    {
+      "id": "20260317_052620",
+      "offset_start": 79484,
+      "offset_end": 79553,
+      "text": "我死了一\n\n132\n\n\f個兒子，還有三個兒女。四兒死了，我痛不欲生，我死了，我的兒女也會痛苦不\n已。我要爲他們着想，決不能給他們帶來痛苦。",
+      "prompt": "A grief-stricken mother sits alone in a dim, humble room, clutching a small piece of her dead son's clothing, her face hollow with despair, surrounded by her three remaining children who watch silently. Soft, muted light filters through a small window, casting long shadows across the weathered floor. The atmosphere is heavy with sorrow and quiet desperation, rendered in a realistic, somber photographic style with muted earth tones and deep shadows, evoking the weight of unspoken loss and maternal sacrifice.",
+      "image": "reader_images/reader_20260317_052620.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1926711119,
+      "created_at": "2026-03-17T05:26:20.391594+08:00"
     }
   ],
   "book_total_chars": 92814,
