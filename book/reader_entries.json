@@ -13223,6 +13223,18 @@
       "image_model": "flux",
       "seed": 92711889,
       "created_at": "2026-03-16T22:39:38.502195+08:00"
+    },
+    {
+      "id": "20260316_224228",
+      "offset_start": 73523,
+      "offset_end": 73607,
+      "text": "」\n之驊說：「這肩膀一時半會兒好不了。苦不苦，看看紅軍二萬五，我這算不了什\n麼。堅持就是勝利，今天還是去挑沙。」\n可這不爭氣的肩，手都不能碰一下，更不要說放扁擔挑東西。",
+      "prompt": "A determined young man in simple work clothes stands before two heavy baskets of sand, a shoulder pole resting unused beside him. His face shows quiet resolve mixed with pain, one hand hovering protectively near his injured shoulder under a harsh midday sun. Realistic style, capturing textures of worn fabric, dry earth, and the weight of unspoken endurance.",
+      "image": "reader_images/reader_20260316_224228.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 2007146334,
+      "created_at": "2026-03-16T22:42:28.352114+08:00"
     }
   ],
   "book_total_chars": 92814,
