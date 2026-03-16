@@ -11399,6 +11399,18 @@
       "image_model": "flux",
       "seed": 1481144008,
       "created_at": "2026-03-16T11:40:57.118275+08:00"
+    },
+    {
+      "id": "20260316_114301",
+      "offset_start": 63920,
+      "offset_end": 63993,
+      "text": "生產隊裡育紅薯秧，紅薯上面只蓋層薄薄的泥巴，再澆上人糞。有人顧不得糞\n髒，趁着夜深人靜，從土裡挖出紅薯就往口裡塞。結果，育秧的紅薯被喫掉很\n多。",
+      "prompt": "A moonlit field in rural China, 1960s, where two gaunt figures kneel in the dark, hurriedly digging through thin mud with their bare hands. One person clutches a mud-caked sweet potato, their face etched with desperation and hunger under the cold moonlight, in a photorealistic style with stark shadows and a somber, gritty atmosphere.",
+      "image": "reader_images/reader_20260316_114301.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 579294728,
+      "created_at": "2026-03-16T11:43:01.072859+08:00"
     }
   ],
   "book_total_chars": 92814,
