@@ -11747,6 +11747,18 @@
       "image_model": "gptimage",
       "seed": 1252392427,
       "created_at": "2026-03-16T13:23:32.076081+08:00"
+    },
+    {
+      "id": "20260316_132354",
+      "offset_start": 65722,
+      "offset_end": 65801,
+      "text": "」\n「不是，想到集鎮上去換幾個油鹽錢。」\n「就賣給我好嗎？」\n「自然可以。你是買雞喫嗎？黑雞大補，還是有錢人好啊！」\n秋園說：「連飯都喫不飽，哪裡真有錢買雞。",
+      "prompt": "A rustic, sun-drenched village market scene in traditional Chinese style. An elderly woman with weathered hands holds up a plump, dark hen, her face etched with a mixture of weariness and gentle resilience. A younger woman, dressed in simple cotton attire, looks on with a wistful expression, the desire for sustenance palpable in the warm, dusty air. The overall mood is one of humble poverty contrasted with the simple beauty of rural life.",
+      "image": "reader_images/reader_20260316_132354.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1492471112,
+      "created_at": "2026-03-16T13:23:55.015878+08:00"
     }
   ],
   "book_total_chars": 92814,
