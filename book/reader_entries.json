@@ -12923,6 +12923,18 @@
       "image_model": "klein",
       "seed": 1992223440,
       "created_at": "2026-03-16T19:57:08.110827+08:00"
+    },
+    {
+      "id": "20260316_200205",
+      "offset_start": 71970,
+      "offset_end": 72045,
+      "text": "我勸你莫帶着兩個細崽回去\n送死。」\n秋園說：「我人生地不熟，到哪裡去找飯喫，莫不是去討？」\n陳大姐說可以找事做，那湖北地多人少，特別是收棉花時缺人手。",
+      "prompt": "A weathered woman in 1950s rural Hubei stands beside a young mother clutching two small children, both wearing simple cotton clothes, in front of a humble mud-brick farmhouse; warm golden afternoon light bathes the conversation between them, with drying cotton plants visible in the background, capturing the poignant moment of survival and advice in the countryside.",
+      "image": "reader_images/reader_20260316_200205.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1255727010,
+      "created_at": "2026-03-16T20:02:05.534108+08:00"
     }
   ],
   "book_total_chars": 92814,
