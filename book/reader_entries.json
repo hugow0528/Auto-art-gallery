@@ -13583,6 +13583,18 @@
       "image_model": "flux",
       "seed": 1961143100,
       "created_at": "2026-03-17T00:44:58.364522+08:00"
+    },
+    {
+      "id": "20260317_005713",
+      "offset_start": 75471,
+      "offset_end": 75553,
+      "text": "王老師說：「那還得去總務辦替你借\n牀被子。」\n之驊興高採烈地跟在王老師後面，借好被子，還領了四塊錢。王老師把她帶到師\n範班的女生宿舍，一切安排停當，當天就算入學了。",
+      "prompt": "A young woman with bright, eager eyes follows a kind teacher into a dimly lit, rustic dormitory room. Sunlight streams through a small window, illuminating dust motes dancing in the air and casting long shadows. The atmosphere is one of hopeful beginnings and simple comforts, rendered in the style of a warm, nostalgic oil painting.",
+      "image": "reader_images/reader_20260317_005713.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1209782554,
+      "created_at": "2026-03-17T00:57:13.107522+08:00"
     }
   ],
   "book_total_chars": 92814,
