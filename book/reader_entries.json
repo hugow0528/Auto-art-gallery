@@ -14531,6 +14531,18 @@
       "image_model": "grok-imagine",
       "seed": 1868507908,
       "created_at": "2026-03-17T06:58:15.276165+08:00"
+    },
+    {
+      "id": "20260317_065846",
+      "offset_start": 80621,
+      "offset_end": 80685,
+      "text": "之驊是女隊隊員，她個頭不高卻身手靈活，滿場飛\n跑，像鳥一樣輕盈，贏得了「小燕子」的稱號。喬木林在場外觀看時，留意過這\n只小燕子。",
+      "prompt": "A young female athlete, nicknamed \"Little Swallow,\" with a petite yet agile build, dashes across a vibrant sports field like a bird in flight. The scene is bathed in warm, late afternoon sunlight, casting long shadows and highlighting the dynamic movement. A watchful observer, Qiaomu Lin, stands at the edge of the field, his gaze fixed on the energetic player, rendered in a style reminiscent of classic Chinese ink wash painting with a touch of modern realism.",
+      "image": "reader_images/reader_20260317_065846.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 725667302,
+      "created_at": "2026-03-17T06:58:46.073026+08:00"
     }
   ],
   "book_total_chars": 92814,
