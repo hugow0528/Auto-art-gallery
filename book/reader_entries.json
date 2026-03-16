@@ -13859,6 +13859,18 @@
       "image_model": "flux",
       "seed": 1877121103,
       "created_at": "2026-03-17T02:38:03.407428+08:00"
+    },
+    {
+      "id": "20260317_024048",
+      "offset_start": 76922,
+      "offset_end": 76999,
+      "text": "早上四點鐘就要起牀做飯。她倆還有一個任務：下午五點去位於河盡頭的\n貨場替同學們驗收毛竹。\n砍毛竹的同學天不亮就要上山，上山根本沒有路，要邊走邊砍出條路來。",
+      "prompt": "Dawn light breaking through mist-covered mountains as young students with machetes carve a narrow path upward through dense bamboo forest, their silhouettes small against towering peaks shrouded in fog. The scene captures the harsh beauty of rural labor—rough, shadowed foreground of freshly cut bamboo stalks contrasting with ethereal, misty mountains receding into atmospheric perspective. Two figures stand at a riverside lumber yard in the afternoon, inspecting stacks of bamboo poles, with golden late-day sunlight casting long shadows across weathered wood and earth. Rendered in the style of traditional Chinese landscape painting with ink-wash techniques and soft, rubbed brushwork, blending realism with impressionistic treatment of natural phenomena to convey both the physical toil and spiritual connection to nature.",
+      "image": "reader_images/reader_20260317_024048.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1172032983,
+      "created_at": "2026-03-17T02:40:48.841728+08:00"
     }
   ],
   "book_total_chars": 92814,
