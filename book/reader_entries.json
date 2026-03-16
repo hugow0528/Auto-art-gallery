@@ -11315,6 +11315,18 @@
       "image_model": "flux-2-dev",
       "seed": 933792528,
       "created_at": "2026-03-16T08:03:39.535562+08:00"
+    },
+    {
+      "id": "20260316_090434",
+      "offset_start": 63348,
+      "offset_end": 63409,
+      "text": "我對不起政府，對不起社員，我以後保證好好做人。」\n滿寶生說：「看樣子，你們這些冇改造好的人，不喫點皮肉之苦是不會記事\n的。",
+      "prompt": "A tense scene in a dimly-lit, sparse room during China's Cultural Revolution. A man kneels in humble confession before a stern official in a Mao suit, his face hardened under the shadow of a single bare lightbulb. The atmosphere is heavy with oppression and judgment, rendered in the gritty, realistic style of socialist realism with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_090434.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 73615127,
+      "created_at": "2026-03-16T09:04:34.981163+08:00"
     }
   ],
   "book_total_chars": 92814,
