@@ -11903,6 +11903,18 @@
       "image_model": "flux-2-dev",
       "seed": 1713130198,
       "created_at": "2026-03-16T13:55:36.088829+08:00"
+    },
+    {
+      "id": "20260316_135628",
+      "offset_start": 66527,
+      "offset_end": 66601,
+      "text": "」\n秋園說：「不曉得。」\n「你偷了妹蓮的雞婆，是何裏偷的？老實交代！」\n秋園說：「我冇偷雞。我去街上買藥，路上碰到一個老倌子提只黑雞婆，我就買\n了。",
+      "prompt": "A young woman with a determined expression stands in a rustic, sun-drenched marketplace, clutching a small parcel. She is dressed in simple, traditional Chinese clothing. The atmosphere is bustling yet intimate, with hints of suspicion in the air. Style: Realistic, with soft, natural lighting and a focus on the textures of the fabrics and surrounding goods.",
+      "image": "reader_images/reader_20260316_135628.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1921816195,
+      "created_at": "2026-03-16T13:56:29.011943+08:00"
     }
   ],
   "book_total_chars": 92814,
