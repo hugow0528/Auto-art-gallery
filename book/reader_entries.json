@@ -14015,6 +14015,18 @@
       "image_model": "zimage",
       "seed": 1255505575,
       "created_at": "2026-03-17T03:43:54.273520+08:00"
+    },
+    {
+      "id": "20260317_034429",
+      "offset_start": 77831,
+      "offset_end": 77948,
+      "text": "」\n秋園聽了如五雷轟頂，邊哭邊喊：「不可能！不可能！四兒從來不玩水！」\n\n130\n\n\f但擺在面前的書包分明是田四的，「三好學生」獎狀上寫着他的名字，作文比賽\n的獎品上也明明白白寫着他的名字，白棉布襯衣還是秋園親手縫製的……哪會有\n錯？",
+      "prompt": "A distraught mother, Qiu Yuan, kneels amidst fallen autumn leaves in a desolate schoolyard, clutching a schoolbag and awards bearing her son Tian Si's name. Her face is a mask of grief and disbelief, tears streaming down her cheeks, illuminated by the cold, fading light of an overcast autumn afternoon. The scene evokes a somber, heartbroken mood, rendered in a realistic, emotionally charged style reminiscent of a Dutch Master painting, emphasizing the stark contrast between the child's achievements and the mother's despair.",
+      "image": "reader_images/reader_20260317_034429.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1195338794,
+      "created_at": "2026-03-17T03:44:29.331381+08:00"
     }
   ],
   "book_total_chars": 92814,
