@@ -11387,6 +11387,18 @@
       "image_model": "zimage",
       "seed": 1519997380,
       "created_at": "2026-03-16T11:35:10.745144+08:00"
+    },
+    {
+      "id": "20260316_114057",
+      "offset_start": 63834,
+      "offset_end": 63920,
+      "text": "稻穀成熟時，深更半夜，人們到田裡偷點谷，回家後用石頭砸掉穀殼，想做餐飯\n喫，又怕幹部來查，就躲在茅坑裡，擱幾塊磚頭，放上鍋子，煮成半生不熟的\n飯，拼命喫掉，再將東西轉移。",
+      "prompt": "A dark, tense scene in a makeshift outdoor latrine area at night, where two shadowy figures huddle over a small pot balanced on bricks, steam rising from half-cooked rice. The only light comes from a single dim lantern, casting dramatic chiaroscuro shadows on their anxious faces and the rough textures of the mud walls, rendered in the style of a dark, gritty oil painting.",
+      "image": "reader_images/reader_20260316_114057.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1481144008,
+      "created_at": "2026-03-16T11:40:57.118275+08:00"
     }
   ],
   "book_total_chars": 92814,
