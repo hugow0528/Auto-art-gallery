@@ -11687,6 +11687,18 @@
       "image_model": "flux",
       "seed": 637818277,
       "created_at": "2026-03-16T13:04:49.859098+08:00"
+    },
+    {
+      "id": "20260316_130522",
+      "offset_start": 65464,
+      "offset_end": 65556,
+      "text": "那東西就像黃綠色的鼻涕一樣難看，味\n道也又苦又澀，不是餓極了是喫不下肚的。\n\n107\n\n\f十六\n水腫使仁受漸漸成了一個「闊佬」，棉布對襟褂子扣不攏，臉上泛着青白色的\n光，挺着個大肚子。",
+      "prompt": "First, the task is to create an image-generation prompt based on the given Chinese literary passage. I need to extract the key visual elements from the passage and craft a vivid description in English.\n\nThe passage describes something that looks like \"yellow-green snot\" and tastes bitter and astringent, only eaten when extremely hungry. Then, it talks about a character named Renshou who has edema, making him look like a \"rich man\" with a cotton jacket that can't button up, a face glowing bluish-white, and a big belly.\n\nKey visual elements:\n- The unappealing substance: yellow-green, slimy like snot.\n- Character: Renshou, with edema, bloated belly, unbuttoned cotton jacket, face with a bluish-white glow.\n- Setting: Implied from context, but not explicitly stated. Since it's about eating something out of extreme hunger, it might be in a poor or desperate setting.\n- Atmosphere: Likely grim, desperate, or pitiful due to the description of hunger and physical deterioration.\n\nI need to describe a specific visual scene for AI image generation. Focus on Renshou and his condition.\n\nFrom the passage: \"水肿使仁受渐渐成了一个‘阔佬’，棉布对襟褂子扣不拢，脸上泛着青白色的光，挺着个大肚子。\" This translates to: Edema made Renshou gradually become a \"rich man,\" with a cotton jacket that can't button",
+      "image": "reader_images/reader_20260316_130522.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 842287559,
+      "created_at": "2026-03-16T13:05:22.177347+08:00"
     }
   ],
   "book_total_chars": 92814,
