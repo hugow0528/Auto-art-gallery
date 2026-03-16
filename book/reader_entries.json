@@ -13211,6 +13211,18 @@
       "image_model": "zimage",
       "seed": 1069252443,
       "created_at": "2026-03-16T22:39:04.798937+08:00"
+    },
+    {
+      "id": "20260316_223938",
+      "offset_start": 73454,
+      "offset_end": 73523,
+      "text": "她找了好多破布把扁擔包得厚厚的，還是不行，肩疼得不能承受任何東\n西。\n朱叔叔說：「這力氣活一下子也練不出來，今天歇一天，明天肩膀好點再去。",
+      "prompt": "A weathered woman in a faded blue blouse sits on a wooden crate, desperately wrapping thick strips of torn cloth around a wooden carrying pole, her face twisted with pain as she tries to ease the soreness in her shoulders. A middle-aged man in a gray tunic stands beside her, gesturing with one hand while the other rests gently on the pole, speaking consolingly. Warm afternoon light streams through a dilapidated mud-brick wall, casting long shadows across the dusty ground scattered with straw and old rags. Artistic style: Chinese folk art painting with realistic details, soft natural lighting, capturing the hardship and tenderness of rural life.",
+      "image": "reader_images/reader_20260316_223938.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 92711889,
+      "created_at": "2026-03-16T22:39:38.502195+08:00"
     }
   ],
   "book_total_chars": 92814,
