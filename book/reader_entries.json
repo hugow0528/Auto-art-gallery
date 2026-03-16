@@ -14099,6 +14099,18 @@
       "image_model": "klein",
       "seed": 1843898043,
       "created_at": "2026-03-17T03:58:52.178070+08:00"
+    },
+    {
+      "id": "20260317_040027",
+      "offset_start": 78255,
+      "offset_end": 78334,
+      "text": "」然後就昏過去\n了。\n有懂點醫的趕緊給她掐人中。好一陣，秋園才甦醒過來，又是一陣捶胸頓足、號\n啕大哭。哭累了，便發出嗚嗚聲，那聲音在鄉村的夏夜裡使人不寒而慄。",
+      "prompt": "First, the user provided a Chinese literary passage. Let me read it carefully:\n\n\"然後就昏過去了。有懂點醫的趕緊給她掐人中。好一陣，秋園才甦醒過來，又是一陣捶胸頓足、號啕大哭。哭累了，便發出嗚嗚聲，那聲音在鄉村的夏夜裡使人不寒而慄。\"\n\nTranslation to English for my understanding: \"Then she fainted. Someone who knew a bit about medicine quickly pinched her philtrum (a common first-aid technique). After a while, Qiu Yuan woke up, and then there was another bout of chest-beating, foot-stomping, and wailing. After crying herself out, she made whimpering sounds, which in the rural summer night made people shiver with fear.\"\n\nNow, I need to create an image-generation prompt based on this. The prompt should be in English, 2–4 sentences only, and include setting, atmosphere, characters, and artistic style. I must respond only with the image prompt, no explanations or extra text.\n\nKey elements from the passage:\n\n- Setting: Rural summer night.\n\n- Characters: Qiu Yuan (presumably a woman), and possibly others around her who are helping or observing.\n\n- Actions: Fainting, being revived by someone pinching her philtrum, waking up, crying intensely, then whimpering.\n\n- Atmosphere: Distressing, eerie, with a sense of fear",
+      "image": "reader_images/reader_20260317_040027.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 258919377,
+      "created_at": "2026-03-17T04:00:27.864494+08:00"
     }
   ],
   "book_total_chars": 92814,
