@@ -13019,6 +13019,18 @@
       "image_model": "zimage",
       "seed": 65102662,
       "created_at": "2026-03-16T20:38:47.843697+08:00"
+    },
+    {
+      "id": "20260316_211952",
+      "offset_start": 72436,
+      "offset_end": 72511,
+      "text": "第二天就有人請秋園做衣。秋園開始做上門手藝，不要工錢，對方只管母子仨的\n飯。人家都樂意。\n秋園做事從不偷懶，一天到晚不停做活，做一天可抵別人一天半。",
+      "prompt": "A diligent young seamstress, Qiu Yuan, sits sewing by a window in a modest traditional Chinese home, her hands moving swiftly over dark blue fabric as warm afternoon light streams in, illuminating dust motes and the focused, peaceful expression on her face. Realistic oil painting style with soft natural lighting and rich textures of cloth and wooden furnishings.",
+      "image": "reader_images/reader_20260316_211952.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 445007988,
+      "created_at": "2026-03-16T21:19:52.702593+08:00"
     }
   ],
   "book_total_chars": 92814,
