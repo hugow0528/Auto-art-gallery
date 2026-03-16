@@ -12395,6 +12395,18 @@
       "image_model": "klein",
       "seed": 1525615974,
       "created_at": "2026-03-16T16:37:44.638649+08:00"
+    },
+    {
+      "id": "20260316_163933",
+      "offset_start": 68954,
+      "offset_end": 69028,
+      "text": "池裡醃漬着蘿蔔、白菜、雪裡蕻等，醃好的菜用個長耙齒\n勾上來，放在篾籮裏瀝水，最後裝壇和封壇。一年四季都有事做，之驊便與廠子\n聯繫好，每個星期去洗菜。",
+      "prompt": "A dimly lit, rustic cellar workshop with wooden shelves laden with large ceramic jars. A weathered woman with kind eyes, wearing a simple apron, uses a long-handled rake to lift glistening, brined vegetables from a stone trough, placing them into a woven bamboo basket to drain. The air is thick with the earthy scent of fermentation, illuminated by a single hanging lantern casting warm, dappled light. The scene evokes a sense of quiet, industrious labor and timeless tradition, rendered in a painterly, slightly desaturated style reminiscent of Dutch Golden Age genre paintings.",
+      "image": "reader_images/reader_20260316_163933.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1437287127,
+      "created_at": "2026-03-16T16:39:33.833694+08:00"
     }
   ],
   "book_total_chars": 92814,
