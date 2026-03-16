@@ -12959,6 +12959,18 @@
       "image_model": "flux-2-dev",
       "seed": 1154394525,
       "created_at": "2026-03-16T20:04:08.030967+08:00"
+    },
+    {
+      "id": "20260316_200445",
+      "offset_start": 72126,
+      "offset_end": 72199,
+      "text": "我們那地\n方都穿大襟衣，沒人會做這樣的衣服。」\n陳大姐快要上車了，秋園還在猶豫。田四扯着秋園的衣角邊，勸媽媽不要回家，\n說是不管到哪裡都比回家好。",
+      "prompt": "A young woman, Qiu Yuan, stands hesitantly by a train carriage, her hand a subtle anchor to a child pulling her sleeve. She wears a traditional da jin yi (大襟衣) garment, its modest design contrasting with the unspoken anxieties of departure. The scene is set against a backdrop of a dusty, late-afternoon train station, bathed in the warm, melancholic light of a setting sun, evoking a sense of poignant farewell. The artistic style is reminiscent of realistic ink wash painting, with soft, muted colors and a focus on emotional undertones.",
+      "image": "reader_images/reader_20260316_200445.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 415968905,
+      "created_at": "2026-03-16T20:04:45.659490+08:00"
     }
   ],
   "book_total_chars": 92814,
