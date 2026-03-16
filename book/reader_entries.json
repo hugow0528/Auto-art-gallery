@@ -12899,6 +12899,18 @@
       "image_model": "gptimage",
       "seed": 839183915,
       "created_at": "2026-03-16T19:55:04.283725+08:00"
+    },
+    {
+      "id": "20260316_195634",
+      "offset_start": 71909,
+      "offset_end": 71970,
+      "text": "」\n陳大姐說：「看你帶着細崽，好作孽，不如一路跟我去湖北。我在湖北落了戶，\n那地方人心好，不講喫得有多好，粗茶淡飯是有的。",
+      "prompt": "A weary young woman, cradling a small child, stands at a dusty roadside, bathed in the warm, late afternoon sun. She looks towards a friendly older woman gesturing invitingly, suggesting a journey to a humble but welcoming rural village in Hubei province. The scene should evoke a sense of hope and simple kindness, rendered in the style of traditional Chinese ink wash painting with soft, diffused lighting.",
+      "image": "reader_images/reader_20260316_195634.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1997973326,
+      "created_at": "2026-03-16T19:56:35.015627+08:00"
     }
   ],
   "book_total_chars": 92814,
