@@ -12947,6 +12947,18 @@
       "image_model": "klein",
       "seed": 448366066,
       "created_at": "2026-03-16T20:03:23.311944+08:00"
+    },
+    {
+      "id": "20260316_200407",
+      "offset_start": 72045,
+      "offset_end": 72126,
+      "text": "秋園說：「我倒是會做衣，我身上的衣是自己做的，你看要得不？」她身上正穿\n着那件對襟的乳白色褂子。\n陳大姐仔細看了一會兒，說：「做得蠻好，憑這個手藝就能賺得飯喫。",
+      "prompt": "Two women sitting close in a humble, softly lit room, one wearing a handmade cream-colored mandarin jacket, the other examining the garment's craftsmanship with gentle admiration. Realistic style, warm domestic atmosphere, focused on texture of the fabric and quiet, appreciative interaction.",
+      "image": "reader_images/reader_20260316_200407.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1154394525,
+      "created_at": "2026-03-16T20:04:08.030967+08:00"
     }
   ],
   "book_total_chars": 92814,
