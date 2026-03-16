@@ -12731,6 +12731,18 @@
       "image_model": "klein",
       "seed": 606356609,
       "created_at": "2026-03-16T18:41:26.746996+08:00"
+    },
+    {
+      "id": "20260316_184624",
+      "offset_start": 70796,
+      "offset_end": 70864,
+      "text": "剛出爐的蒸紅薯滾燙滾燙的，秋園和賠三、田四拿在手\n裏，哈哈氣，三口兩口就喫光了。\n事情自然沒找着。十天後，秋園不願爲難大哥，執意要回家。",
+      "prompt": "A young woman and two young boys in a rural Chinese village stand together on a dirt path, holding steaming hot sweet potatoes in their palms, blowing gently on them before taking quick bites. Autumn sunlight filters through bare branches, casting warm golden light on their faces. The scene captures the simple warmth of sibling bonding and rural life, rendered in a naturalistic realistic style with",
+      "image": "reader_images/reader_20260316_184624.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 174765586,
+      "created_at": "2026-03-16T18:46:24.803673+08:00"
     }
   ],
   "book_total_chars": 92814,
