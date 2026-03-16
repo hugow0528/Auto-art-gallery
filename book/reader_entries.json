@@ -12803,6 +12803,18 @@
       "image_model": "zimage",
       "seed": 1615116694,
       "created_at": "2026-03-16T19:15:33.956460+08:00"
+    },
+    {
+      "id": "20260316_192622",
+      "offset_start": 71377,
+      "offset_end": 71467,
+      "text": "有些人臉呈菜綠色，像遭了蟲害\n的扁豆般彎着身子；有些人臉膛腫得發亮。之驊竟成了這羣外流人員中的一個。\n正彷徨絕望着，人羣中忽然有個四十多歲的男人向之驊走來：「你是楊鄉長的妹\n俚嗎？",
+      "prompt": "A group of exhausted displaced people huddled together in a bleak, dusty landscape; some have sickly greenish faces twisted in suffering like worm-eaten beans, others have swollen, shiny faces from illness and deprivation. A gaunt man in his forties approaches a young woman among them, his weathered",
+      "image": "reader_images/reader_20260316_192622.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 291614737,
+      "created_at": "2026-03-16T19:26:22.937435+08:00"
     }
   ],
   "book_total_chars": 92814,
