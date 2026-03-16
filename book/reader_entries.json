@@ -14639,6 +14639,18 @@
       "image_model": "zimage",
       "seed": 1148101040,
       "created_at": "2026-03-17T07:45:07.724739+08:00"
+    },
+    {
+      "id": "20260317_074627",
+      "offset_start": 81297,
+      "offset_end": 81374,
+      "text": "秋園朝夕不離，悉心照料。後來住了院，一住\n就是三個多月，仍不見轉機，最後連路都走不了了。王成恩執意要回家。秋園心\n裏明白，人已病入膏肓，醫生也回天乏術了。",
+      "prompt": "An elderly woman tends a serene autumn garden with gentle devotion, her weathered hands moving slowly among chrysanthemums and ginkgo trees bathed in golden afternoon light. The garden reflects traditional Chinese aesthetic with winding stone paths, a small pavilion with white walls, and still water mirroring the changing leaves in deep yellows and crimsons. The atmosphere is melancholic yet dignified, suffused with quiet resignation and the bittersweet beauty of impermanence. Paint in the style of classical Chinese ink wash landscapes, with soft muted tones, emphasis on empty space and subtle detail, capturing both the physical landscape and an undercurrent of profound sadness—the garden itself becoming a meditation on mortality and the passage of seasons.",
+      "image": "reader_images/reader_20260317_074627.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 568165716,
+      "created_at": "2026-03-17T07:46:27.219796+08:00"
     }
   ],
   "book_total_chars": 92814,
