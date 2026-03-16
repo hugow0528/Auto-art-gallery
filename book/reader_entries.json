@@ -11363,6 +11363,18 @@
       "image_model": "imagen-4",
       "seed": 1631236655,
       "created_at": "2026-03-16T11:32:17.587345+08:00"
+    },
+    {
+      "id": "20260316_113443",
+      "offset_start": 63687,
+      "offset_end": 63834,
+      "text": "原來黃草紙是用鹽水浸過的。\n誰都沒想到，張跛子做起這類事也像在做田裡功夫，始終不慌不忙、有板有眼。\n範麻子疼痛難忍，不停地求饒：「老模範，求求你放過我一次，我下次再砍雞婆\n樹，你殺了我、剮了我……」\n\n104\n\n\f十五\n辦食堂那段時間，自家屋頂上不能冒煙，幹部們挨家檢查，連晚上也會突擊檢\n查。",
+      "prompt": "A dimly lit, rustic room, illuminated by a single, sputtering oil lamp. Rough-hewn wooden tables are scattered about, and the air is thick with tension and the smell of damp earth. A man with a pained expression, bound and desperate, pleads with a stern, unflinching figure who is methodically preparing something with yellowed, salt-stained paper. The scene is rendered in a gritty, realist style, with deep shadows and a muted color palette evoking hardship and desperation.",
+      "image": "reader_images/reader_20260316_113443.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1300071867,
+      "created_at": "2026-03-16T11:34:43.916084+08:00"
     }
   ],
   "book_total_chars": 92814,
