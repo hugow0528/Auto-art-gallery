@@ -13367,6 +13367,18 @@
       "image_model": "imagen-4",
       "seed": 667820661,
       "created_at": "2026-03-16T23:20:39.500362+08:00"
+    },
+    {
+      "id": "20260316_233806",
+      "offset_start": 74337,
+      "offset_end": 74408,
+      "text": "」\n陳大姐說：「如今不是丟人不丟人的問題，最重要的是留條命在。現在不是回鄉\n的時候，要回也要等以後。先在這裡安下身來，留得青山在，不怕沒柴燒。",
+      "prompt": "A middle-aged Chinese woman with weathered features and concerned eyes sits in a modest, dimly-lit room with traditional wooden beams and paper windows, her posture conveying both resignation and quiet determination as she speaks earnestly to someone unseen. Around her are humble furnishings—a simple table, worn fabric, and the soft glow of lantern light casting long shadows across weathered walls decorated with faded ink paintings. The atmosphere is heavy with melancholy yet tinged with hope, capturing a moment of pragmatic wisdom amid hardship and displacement. Paint this in the style of classical Chinese ink wash painting combined with subtle realism, emphasizing the interplay of light and shadow, muted earth tones, and the psychological weight of difficult choices made in uncertain times.",
+      "image": "reader_images/reader_20260316_233806.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1768851152,
+      "created_at": "2026-03-16T23:38:06.844852+08:00"
     }
   ],
   "book_total_chars": 92814,
