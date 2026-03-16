@@ -14363,6 +14363,18 @@
       "image_model": "zimage",
       "seed": 209756525,
       "created_at": "2026-03-17T05:55:06.649359+08:00"
+    },
+    {
+      "id": "20260317_055624",
+      "offset_start": 79829,
+      "offset_end": 79899,
+      "text": "她們帶着\n人人看得見的缺陷與恥辱在大庭廣衆下出沒，無計可施。\n月娥從不相信之驊的命運會比自己的更糟。在月娥眼中，哪個女子能比自己更不\n幸呢？",
+      "prompt": "A hauntingly beautiful, slightly desaturated oil painting in the style of pre-Raphaelite art. Two women, their faces etched with a quiet, profound sorrow and a visible, yet subtle, imperfection (perhaps a scar, a limp, or a worn garment), stand in a dimly lit, opulent courtyard. Moonlight casts long shadows, emphasizing their isolation and the weight of unspoken shame as they navigate the public gaze. The atmosphere is heavy with unspoken tragedy and a melancholic resignation.",
+      "image": "reader_images/reader_20260317_055624.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 567600628,
+      "created_at": "2026-03-17T05:56:24.360377+08:00"
     }
   ],
   "book_total_chars": 92814,
