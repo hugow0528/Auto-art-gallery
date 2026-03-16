@@ -14231,6 +14231,18 @@
       "image_model": "imagen-4",
       "seed": 506477955,
       "created_at": "2026-03-17T04:59:21.264720+08:00"
+    },
+    {
+      "id": "20260317_050336",
+      "offset_start": 79052,
+      "offset_end": 79117,
+      "text": "半個月後的一天下午，王成恩要去公社開個緊急會議，想帶秋園一同去。\n秋園說：「你放心去吧，我沒事的。人死不能復生，想不通也要想通。",
+      "prompt": "A middle-aged Chinese couple in a modest 1960s rural kitchen, the woman gently pushing her husband toward the door while he looks back with concern, afternoon light filtering through grimy windows onto worn wooden furniture and simple earthenware, a quiet domestic scene of quiet resignation and unspoken grief, muted earth tones, realistic figurative painting in the style of Chinese socialist realism mixed with intimate domestic genre scenes, soft diffused lighting conveying melancholy tenderness.",
+      "image": "reader_images/reader_20260317_050336.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 499378247,
+      "created_at": "2026-03-17T05:03:36.756422+08:00"
     }
   ],
   "book_total_chars": 92814,
