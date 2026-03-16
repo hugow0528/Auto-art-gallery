@@ -12599,6 +12599,18 @@
       "image_model": "gptimage",
       "seed": 1515890002,
       "created_at": "2026-03-16T18:07:28.987814+08:00"
+    },
+    {
+      "id": "20260316_180812",
+      "offset_start": 70056,
+      "offset_end": 70145,
+      "text": "想了幾天幾夜，她終於做出一個決定：\n跑！不能再回鄉下了，她要到外面去找工作。\n一天早飯後，之驊背上平時用的書包，裡面裝了一身換洗衣服和牙膏牙刷，若無\n其事地走出校門，直奔火車站。",
+      "prompt": "A determined young woman, with a worn schoolbag packed with essentials, walks purposefully away from a traditional Chinese school building. The atmosphere is one of quiet resolve and the dawn of a new beginning, with soft, hopeful morning light casting long shadows. She is embarking on a journey, heading towards a distant train station to seek her fortune. The style should be reminiscent of realist oil paintings, with a focus on subtle emotions and the atmosphere of early 20th-century China.",
+      "image": "reader_images/reader_20260316_180812.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1610851719,
+      "created_at": "2026-03-16T18:08:12.846519+08:00"
     }
   ],
   "book_total_chars": 92814,
