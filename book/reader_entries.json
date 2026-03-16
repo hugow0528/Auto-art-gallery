@@ -13391,6 +13391,18 @@
       "image_model": "imagen-4",
       "seed": 549966570,
       "created_at": "2026-03-16T23:42:21.830778+08:00"
+    },
+    {
+      "id": "20260316_234333",
+      "offset_start": 74494,
+      "offset_end": 74575,
+      "text": "有個\n八十三歲的娘，還有個十歲的兒子。他當了十年書記，是個大好人，我勸你莫錯\n過了機會。」\n秋園將這事和賠三、田四說了。他們都同意，說只要不回湖南，在哪裡都可以。",
+      "prompt": "A middle-aged man stands in a modest interior, gesturing persuasively while speaking to two other men seated across from him. The setting is rural China, with soft natural light filtering through paper windows, casting warm amber tones across weathered wooden furniture and simple furnishings. The atmosphere is intimate and earnest, filled with quiet contemplation—a moment of life-changing negotiation and hope. Render in a classical Chinese ink-wash painting style with muted earth tones, delicate brushwork, and an emphasis on emotional restraint and subtle human connection.",
+      "image": "reader_images/reader_20260316_234333.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 681912576,
+      "created_at": "2026-03-16T23:43:33.309990+08:00"
     }
   ],
   "book_total_chars": 92814,
