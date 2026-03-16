@@ -12275,6 +12275,18 @@
       "image_model": "flux",
       "seed": 1982677387,
       "created_at": "2026-03-16T15:58:43.901100+08:00"
+    },
+    {
+      "id": "20260316_155913",
+      "offset_start": 68349,
+      "offset_end": 68419,
+      "text": "母女倆走到坡上一棵樹下，秋園停住腳步，說就送到這兒。\n之驊轉過身，眼淚譁譁地流，但還是往前走，走幾步就回頭，直到看不見那棵樹\n和樹下的秋園。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is about a mother and daughter parting ways on a slope under a tree. The mother, Qiuyuan, stops at the tree, and the daughter, Zhihua, walks away, crying and looking back until she can no longer see the tree or her mother.\n\nI need to craft a vivid, detailed English prompt for AI image generation. It should capture the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nThe response should be ONLY the image prompt in English—no explanations, no translations, no markdown. So, I must write the prompt directly.\n\nKey elements from the passage:\n\n- Setting: On a slope, under a tree. It's a parting scene.\n\n- Characters: Mother (Qiuyuan) and daughter (Zhihua). The daughter is walking away, crying, and looking back.\n\n- Atmosphere: Emotional, sad, poignant. There's a sense of farewell and longing.\n\n- Visual elements: Tree on a slope, mother standing under it, daughter walking away, tears, looking back.\n\n- Artistic style: Since it's a literary passage, I should consider a style that evokes emotion, like realistic or impressionistic, with a moody tone.\n\n- Lighting: Perhaps soft, natural light to enhance the emotional mood, like dusk or overcast sky.\n\n- Specific details: Tears, the tree, the slope",
+      "image": "reader_images/reader_20260316_155913.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1345472026,
+      "created_at": "2026-03-16T15:59:13.205069+08:00"
     }
   ],
   "book_total_chars": 92814,
