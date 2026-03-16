@@ -14051,6 +14051,18 @@
       "image_model": "flux",
       "seed": 2053256338,
       "created_at": "2026-03-17T03:55:21.692284+08:00"
+    },
+    {
+      "id": "20260317_035613",
+      "offset_start": 78023,
+      "offset_end": 78103,
+      "text": "王成恩立馬請了三條船打撈。船夫們彎腰曲背，拿着帶鐵鉤的長竹竿一下一下在\n水中尋找，從三點多到六點多，仍未打撈上來。船夫們累得氣喘籲籲、汗流浹\n背，堅決不幹了。",
+      "prompt": "The passage describes a scene of frantic, yet unsuccessful, salvage efforts on a body of water. Three boats are present, each manned by boatmen using long bamboo poles with iron hooks to search the water. The atmosphere is one of exhaustion and frustration, with the boatmen sweating profusely and struggling to continue their work. The lighting should suggest the early morning hours, perhaps a hazy dawn breaking over the water. The style could be a traditional Chinese ink wash painting, emphasizing the stoicism and the vastness of the water.\n\nHere's the prompt:\nTraditional Chinese ink wash painting style, dawn light breaking through mist over a wide, calm river. Three traditional wooden boats with hunched figures of boatmen, their backs slick with sweat, straining to hook something unseen beneath the water with long bamboo poles. Atmosphere of desperate exhaustion and futility, with the water reflecting the dim, early morning sky.",
+      "image": "reader_images/reader_20260317_035613.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1084932307,
+      "created_at": "2026-03-17T03:56:13.722120+08:00"
     }
   ],
   "book_total_chars": 92814,
