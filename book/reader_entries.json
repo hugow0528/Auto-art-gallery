@@ -12299,6 +12299,18 @@
       "image_model": "klein",
       "seed": 1464051352,
       "created_at": "2026-03-16T16:00:43.256004+08:00"
+    },
+    {
+      "id": "20260316_161112",
+      "offset_start": 68500,
+      "offset_end": 68572,
+      "text": "日子實在難熬，秋園決定回趟洛陽娘家。如今，娘家只剩下大哥秋成，她想去看\n看大哥過得怎麼樣。要是能在洛陽找到事做，哪怕是替人做保姆，秋園都願意。",
+      "prompt": "A somber, middle-aged Chinese woman with tired eyes, named Qiuyuan, stands on a dusty, provincial road in a historical Chinese setting, preparing to depart for her maternal family's home in Luoyang. The atmosphere is one of quiet hardship and a touch of melancholy, with muted, natural lighting casting long shadows in the late afternoon. The style should be reminiscent of traditional Chinese ink wash paintings, emphasizing atmosphere over sharp detail.",
+      "image": "reader_images/reader_20260316_161112.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 888655669,
+      "created_at": "2026-03-16T16:11:12.354506+08:00"
     }
   ],
   "book_total_chars": 92814,
