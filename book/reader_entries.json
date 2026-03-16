@@ -11423,6 +11423,18 @@
       "image_model": "zimage",
       "seed": 954335788,
       "created_at": "2026-03-16T11:45:26.783413+08:00"
+    },
+    {
+      "id": "20260316_114610",
+      "offset_start": 63993,
+      "offset_end": 64069,
+      "text": "滿寶生帶着張跛子挨家挨戶地查，不查個水落石出就決不罷休。範麻子的鬥爭會\n過後，張跛子就被重用了。可是紅薯喫進了肚裡，再厲害也查不到，只能是無功\n而返。",
+      "prompt": "A rural Chinese village scene at dusk: two men walking away from a simple farmhouse, one limping slightly, both appearing frustrated and weary. The crumbling mud-brick walls and thatched roofs of village homes line a dirt path, with autumn fields visible in the fading light. Photorealistic style, muted earth tones, atmospheric realism capturing the aftermath of a fruitless house-to-house search.",
+      "image": "reader_images/reader_20260316_114610.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1894218041,
+      "created_at": "2026-03-16T11:46:10.118749+08:00"
     }
   ],
   "book_total_chars": 92814,
