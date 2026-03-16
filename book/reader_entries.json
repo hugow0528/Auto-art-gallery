@@ -12431,6 +12431,18 @@
       "image_model": "gptimage",
       "seed": 72163604,
       "created_at": "2026-03-16T16:41:28.846091+08:00"
+    },
+    {
+      "id": "20260316_164247",
+      "offset_start": 69110,
+      "offset_end": 69174,
+      "text": "有時她把小說借出來，躲到學\n校後面一棵歪脖子樹那兒，靠着樹幹，直到上課鈴響才進教室。一日中午，她看\n完了《寒夜》，眼睛也哭紅了。",
+      "prompt": "A solitary teenage girl sits against a crooked, leaning tree behind an old school building, holding a worn book in her lap with red, swollen eyes from crying, bathed in soft midday light filtering through sparse branches, conveying quiet melancholy and literary solitude, in the style of a nostalgic oil painting with muted earth tones.",
+      "image": "reader_images/reader_20260316_164247.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 832126998,
+      "created_at": "2026-03-16T16:42:47.355901+08:00"
     }
   ],
   "book_total_chars": 92814,
