@@ -13139,6 +13139,18 @@
       "image_model": "imagen-4",
       "seed": 1321463237,
       "created_at": "2026-03-16T22:06:26.999657+08:00"
+    },
+    {
+      "id": "20260316_220754",
+      "offset_start": 73094,
+      "offset_end": 73181,
+      "text": "每天\n收工時，會有技術員來量方結賬。\n挑沙和倒沙的地方有半裏遠。之驊想多賺錢，硬是拼着條小命，挑得重又走得\n快，扁擔放在肩上，往往要好一陣子才能伸直腰，一伸直腰就趕緊挑着跑。",
+      "prompt": "A young man, Ya-hua, strains under the immense weight of a bamboo pole laden with sand, his body taut and his face etched with fierce determination as he rushes to finish work. The setting is a dusty, sun-drenched construction site, possibly in rural China during the early 20th century, with a gritty, realist art style emphasizing hard labor and resilience. The atmosphere is one of intense physical exertion and desperate ambition, with dramatic lighting casting long shadows.",
+      "image": "reader_images/reader_20260316_220754.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 731467702,
+      "created_at": "2026-03-16T22:07:54.078020+08:00"
     }
   ],
   "book_total_chars": 92814,
