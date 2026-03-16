@@ -11327,6 +11327,18 @@
       "image_model": "zimage",
       "seed": 73615127,
       "created_at": "2026-03-16T09:04:34.981163+08:00"
+    },
+    {
+      "id": "20260316_104023",
+      "offset_start": 63409,
+      "offset_end": 63508,
+      "text": "」\n狗鋼刺，即八角刺，其葉片邊緣長有刺齒。\n說話間，一個民兵從門旮旯裏拿出早就準備好的狗鋼刺 。稍有遲疑之際，張跛\n子一跛一跛躥到前面說：「你們這些後生家，階級立場到哪裡去了，還心慈手\n軟，等我來。",
+      "prompt": "A weathered militia man in 1960s rural China holds a bundle of sharp eight-angled thorns, his hand gripping the spiky plant firmly. Behind him, a middle-aged man with a pronounced limp (Zhang Bozi) stands assertively, pointing at young villagers with an expression of stern criticism. The dim interior of a village house fills with tense atmosphere, dusty light streaming through a small window illuminating the confrontation. Style: Realistic oil painting with muted earth tones, reminiscent of socialist realism works depicting revolutionary class struggle scenes.",
+      "image": "reader_images/reader_20260316_104023.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 610935846,
+      "created_at": "2026-03-16T10:40:24.011985+08:00"
     }
   ],
   "book_total_chars": 92814,
