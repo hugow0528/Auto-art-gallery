@@ -13871,6 +13871,18 @@
       "image_model": "flux",
       "seed": 1172032983,
       "created_at": "2026-03-17T02:40:48.841728+08:00"
+    },
+    {
+      "id": "20260317_024118",
+      "offset_start": 76922,
+      "offset_end": 76999,
+      "text": "早上四點鐘就要起牀做飯。她倆還有一個任務：下午五點去位於河盡頭的\n貨場替同學們驗收毛竹。\n砍毛竹的同學天不亮就要上山，上山根本沒有路，要邊走邊砍出條路來。",
+      "prompt": "First, the user asked me to create an image-generation prompt based on a Chinese literary passage. The passage is about two people waking up at 4 AM to cook, and they have a task to go to a cargo yard at the river's end in the afternoon to inspect bamboo for classmates. Also, classmates cutting bamboo have to go up the mountain before dawn without a path, clearing their way as they go.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. The response should include setting, atmosphere, characters present, and artistic style. It should be 2–4 sentences only, and in English only. I must respond ONLY with the image prompt, no explanations, translations, or markdown.\n\nNow, focusing on the visual scene: I should pick one part of the passage to depict. The passage has two parts: the early morning cooking and the afternoon task, plus the bamboo cutting in the mountains. I should choose one vivid scene for the prompt.\n\nProbably, the most visually rich part is the classmates cutting bamboo on the mountain before dawn. It has a strong atmosphere: dark, early morning, rugged terrain, and the action of cutting a path.\n\nKey elements from that part: \"砍毛竹的同學天不亮就要上山，上山根本沒有路，要邊走邊砍出條路來。\" This translates to: \"The classmates cutting bamboo have to go up the mountain before dawn, there is no path, and they have to",
+      "image": "reader_images/reader_20260317_024118.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 948186939,
+      "created_at": "2026-03-17T02:41:18.703701+08:00"
     }
   ],
   "book_total_chars": 92814,
