@@ -11783,6 +11783,18 @@
       "image_model": "grok-imagine",
       "seed": 1938218994,
       "created_at": "2026-03-16T13:26:10.906095+08:00"
+    },
+    {
+      "id": "20260316_132659",
+      "offset_start": 65950,
+      "offset_end": 66026,
+      "text": "」秋園告訴她，路上從一個老倌子手裡買的。\n秋園回到家，決定讓仁受一個人喫下這隻雞。她麻利地將雞殺了，切成塊，放進\n鍋裏，添了不少水，想讓仁受多喝口雞湯。",
+      "prompt": "A dimly lit, rustic kitchen in autumn. A young woman, Qiuyuan, with focused determination, skillfully prepares a whole chicken, its feathers still clinging faintly. Steam rises from a large pot on a simple stove, hinting at a nourishing broth, while the atmosphere is one of quiet domesticity and subtle care. The style should be reminiscent of traditional Chinese ink wash painting with a touch of photorealism.",
+      "image": "reader_images/reader_20260316_132659.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 51269145,
+      "created_at": "2026-03-16T13:26:59.054805+08:00"
     }
   ],
   "book_total_chars": 92814,
