@@ -14435,6 +14435,18 @@
       "image_model": "imagen-4",
       "seed": 189919358,
       "created_at": "2026-03-17T06:19:32.992835+08:00"
+    },
+    {
+      "id": "20260317_062006",
+      "offset_start": 80171,
+      "offset_end": 80239,
+      "text": "紅紙上一排排墨黑的名字像列陣的螞蟻，那是第一批下放農村人員的名單。\n他們將走上「與工農羣衆相結合的道路」，作爲共大學生的表率，下鄉務農。",
+      "prompt": "A dimly lit communal hall during China's Cultural Revolution era, with a large red paper scroll unfurled on a wooden wall, covered in rows of ink-black names resembling an army of ants marching in formation—the list of the first batch of sent-down university students. In the foreground, solemn young intellectuals in simple Mao suits and armbands gather anxiously, some reading the list with determined expressions, others clutching belongings, evoking a tense atmosphere of ideological fervor and reluctant departure for rural farm life. Rendered in a traditional Chinese shan shui ink wash style with gongbi precision for the characters and misty atmospheric perspective, soft lantern lighting casting dramatic shadows, monochromatic inks accented by vivid crimson paper, conveying a mood of solemn duty and historical gravity.",
+      "image": "reader_images/reader_20260317_062006.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1809051426,
+      "created_at": "2026-03-17T06:20:06.400201+08:00"
     }
   ],
   "book_total_chars": 92814,
