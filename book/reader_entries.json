@@ -14339,6 +14339,18 @@
       "image_model": "grok-imagine",
       "seed": 2026781062,
       "created_at": "2026-03-17T05:50:52.904145+08:00"
+    },
+    {
+      "id": "20260317_055342",
+      "offset_start": 79681,
+      "offset_end": 79762,
+      "text": "月娥臉上有一大塊燒傷的疤痕。有一回，一隻乒乓球\n滾到牀底下，月娥舉了根蠟燭鑽到牀下去撿。乒乓球被蠟燭點燃，砰地燒了起\n來，從此月娥左臉頰就落下了半邊手掌大的燒疤。",
+      "prompt": "A dramatic oil painting of a young woman under a dim wooden bed, her face illuminated by a single candle flame as it ignites a white ping-pong ball, casting stark shadows that accentuate a large, textured burn scar on her left cheek, rendered in a moody, chiaroscuro style with a tense, intimate atmosphere.",
+      "image": "reader_images/reader_20260317_055342.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 382834969,
+      "created_at": "2026-03-17T05:53:42.785804+08:00"
     }
   ],
   "book_total_chars": 92814,
