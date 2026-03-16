@@ -13187,6 +13187,18 @@
       "image_model": "grok-imagine",
       "seed": 1583902871,
       "created_at": "2026-03-16T22:23:46.870821+08:00"
+    },
+    {
+      "id": "20260316_222410",
+      "offset_start": 73365,
+      "offset_end": 73454,
+      "text": "關在屋裡脫下衣服想揩揩身體，才\n發現肩膀破皮流血，血痂結住了衣服。用水浸泡了好久，才將衣服脫下。\n第二天，之驊的肩膀腫得好像墊了兩塊厚海綿，不要說挑擔子，衣服碰着都疼得\n不得了。",
+      "prompt": "A grim, intimate scene in a dimly lit room, a solitary man with a painfully swollen shoulder, wincing as he gingerly peels a blood-stained shirt away from raw, broken skin. Realistic style, muted colors, heavy atmosphere of suffering and exhaustion.",
+      "image": "reader_images/reader_20260316_222410.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 120389091,
+      "created_at": "2026-03-16T22:24:10.886794+08:00"
     }
   ],
   "book_total_chars": 92814,
