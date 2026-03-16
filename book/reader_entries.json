@@ -13031,6 +13031,18 @@
       "image_model": "grok-imagine",
       "seed": 445007988,
       "created_at": "2026-03-16T21:19:52.702593+08:00"
+    },
+    {
+      "id": "20260316_214928",
+      "offset_start": 72511,
+      "offset_end": 72573,
+      "text": "慢慢地，人熟\n了，秋園在隊上借到一間小房子，晚上就在家裡幫人做衣。有了點現錢後，秋園\n又求人將賠三、田四送到附近的小學讀書。",
+      "prompt": "A Chinese woman sits at a worn wooden table in a dimly lit humble room, her hands moving skillfully over fabric as she sews clothing by the soft glow of an oil lamp. Two empty school benches and scattered books in the corner suggest her sons have already gone to bed after returning from the nearby elementary school. The walls are bare and weathered, with simple furniture and a modest bed in the corner, capturing the quiet dignity of rural life in 1960s China — warm sepia tones, realistic detail, soft chiaroscuro lighting, cinematic realism.",
+      "image": "reader_images/reader_20260316_214928.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1900133360,
+      "created_at": "2026-03-16T21:49:28.170900+08:00"
     }
   ],
   "book_total_chars": 92814,
