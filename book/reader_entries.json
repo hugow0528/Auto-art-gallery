@@ -11675,6 +11675,18 @@
       "image_model": "gptimage",
       "seed": 1126816895,
       "created_at": "2026-03-16T13:03:58.691045+08:00"
+    },
+    {
+      "id": "20260316_130449",
+      "offset_start": 65399,
+      "offset_end": 65464,
+      "text": "稻草煮爛後，用竹箕過\n濾，將過濾出來的稻草水再放進鍋裏煮，煮得有點濃稠了，就分給大家。男勞力\n一飯碗，婦女、老人、小孩只分到半碗。",
+      "prompt": "A rustic, dimly lit, impoverished village kitchen scene. Sunbeams pierce through dusty window panes, illuminating the rough-hewn wooden table where weary, gaunt villagers with worn clothing, including men, women, and children, wait with chipped earthenware bowls. The atmosphere is somber and tinged with hunger. The artistic style should be reminiscent of social realist paintings, with a focus on muted earth tones and chiaroscuro lighting.",
+      "image": "reader_images/reader_20260316_130449.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 637818277,
+      "created_at": "2026-03-16T13:04:49.859098+08:00"
     }
   ],
   "book_total_chars": 92814,
