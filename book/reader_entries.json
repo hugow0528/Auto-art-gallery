@@ -13295,6 +13295,18 @@
       "image_model": "gptimage",
       "seed": 1858366755,
       "created_at": "2026-03-16T22:51:26.707921+08:00"
+    },
+    {
+      "id": "20260316_225318",
+      "offset_start": 73903,
+      "offset_end": 73975,
+      "text": "」\n之驊想：江西就是比湖南好，有這樣好的大學。「大學」二字就像吸鐵石一樣，\n緊緊把她吸住了。半工半讀要什麼緊？她又不是沒做過事，只要有書讀就行。",
+      "prompt": "A young woman with determined eyes stands before a grand, traditional Chinese university gate, bathed in the warm, hopeful light of early morning. The atmosphere is one of intellectual aspiration and quiet resolve, with the characters \"大學\" (University) prominently displayed above the entrance. The style should be reminiscent of classic Chinese ink wash painting, with a focus on atmospheric perspective and a slightly softened, dreamlike quality.",
+      "image": "reader_images/reader_20260316_225318.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 819452496,
+      "created_at": "2026-03-16T22:53:18.436283+08:00"
     }
   ],
   "book_total_chars": 92814,
