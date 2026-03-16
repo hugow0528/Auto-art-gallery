@@ -11855,6 +11855,18 @@
       "image_model": "gptimage",
       "seed": 244413729,
       "created_at": "2026-03-16T13:43:56.827194+08:00"
+    },
+    {
+      "id": "20260316_134648",
+      "offset_start": 66315,
+      "offset_end": 66379,
+      "text": "」\n這隻雞成了靈丹妙藥。過去因爲腫得厲害，仁受總覺得胸膛憋悶、腹部脹痛，現\n在只感到盪氣迴腸，胸膛和腹部好像空出了好大一塊地方。",
+      "prompt": "A man, gaunt but with a newfound lightness in his posture, stands in a humble, sun-drenched room, a simple ceramic bowl with a single, cooked chicken drumstick before him. The air hums with a sense of profound relief and quiet recovery, depicted with soft, warm golden hour lighting casting long shadows. The style should be reminiscent of a realistic oil painting with a touch of gentle, hopeful melancholy.",
+      "image": "reader_images/reader_20260316_134648.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1680805207,
+      "created_at": "2026-03-16T13:46:48.509713+08:00"
     }
   ],
   "book_total_chars": 92814,
