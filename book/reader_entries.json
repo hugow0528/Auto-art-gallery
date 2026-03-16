@@ -11795,6 +11795,18 @@
       "image_model": "grok-imagine",
       "seed": 51269145,
       "created_at": "2026-03-16T13:26:59.054805+08:00"
+    },
+    {
+      "id": "20260316_132836",
+      "offset_start": 66026,
+      "offset_end": 66090,
+      "text": "先燒旺火，鍋開了再用文火煮。雞肉\n的香味從鍋裏飄出來，細伢子們使勁將那香味吸進鼻子。\n雞煮爛了，秋園連湯帶肉盛了一大碗端給仁受。",
+      "prompt": "A warm rustic kitchen at dusk, with a steaming clay pot simmering over a low fire, two children leaning in to inhale the savory aroma, while a woman gently serves a bowl of tender chicken stew to an elderly man, rendered in warm rustic realism with soft lantern light and a cozy, intimate atmosphere.",
+      "image": "reader_images/reader_20260316_132836.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 629175159,
+      "created_at": "2026-03-16T13:28:36.928741+08:00"
     }
   ],
   "book_total_chars": 92814,
