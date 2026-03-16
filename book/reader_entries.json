@@ -12827,6 +12827,18 @@
       "image_model": "grok-imagine",
       "seed": 787947309,
       "created_at": "2026-03-16T19:29:01.362205+08:00"
+    },
+    {
+      "id": "20260316_192940",
+      "offset_start": 71467,
+      "offset_end": 71535,
+      "text": "」\n之驊心一炸、臉一紅：逃到江西還有人認得她是楊鄉長的女兒，這可不是個好兆\n頭啊！\n他看之驊穿的白短袖上印有校名，便問：「你在這裡讀書？",
+      "prompt": "A young woman in a white school uniform with her school name printed on it stands in a dusty small-town street in Jiangxi, China, mid-1980s. A local man looks at her with sudden recognition, his expression shifting to something calculating. Harsh midday light illuminates crumbling brick buildings and dirt roads, capturing the tense moment when her identity as the daughter of Township Chief Yang has been discovered. Photorealistic style with documentary realism, warm earth tones, subtle cinematic depth.",
+      "image": "reader_images/reader_20260316_192940.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1141633961,
+      "created_at": "2026-03-16T19:29:40.714818+08:00"
     }
   ],
   "book_total_chars": 92814,
