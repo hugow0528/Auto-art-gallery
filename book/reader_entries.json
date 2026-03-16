@@ -11639,6 +11639,18 @@
       "image_model": "flux",
       "seed": 1891729293,
       "created_at": "2026-03-16T12:48:12.418726+08:00"
+    },
+    {
+      "id": "20260316_124910",
+      "offset_start": 65178,
+      "offset_end": 65262,
+      "text": "籽，方言，黃芩的籽實。\n好一點的草都被喫光了，往往轉悠上半天都找不到一丁點能喫的，人卻拖得精疲\n力竭、步履艱難。誰都不願等死，爲了活命，有人開始喫黃芩 籽 和蓖麻籽。",
+      "prompt": "A weary figure crouches in a parched, barren field under a harsh midday sun, desperately sifting through cracked earth for scattered scutellaria seeds, their face etched with exhaustion and despair. Photorealistic style, desaturated color palette emphasizing dust and drought, atmosphere of bleak survival.",
+      "image": "reader_images/reader_20260316_124910.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 628772729,
+      "created_at": "2026-03-16T12:49:10.242864+08:00"
     }
   ],
   "book_total_chars": 92814,
