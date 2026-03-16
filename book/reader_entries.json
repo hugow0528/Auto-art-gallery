@@ -12371,6 +12371,18 @@
       "image_model": "gptimage",
       "seed": 522991595,
       "created_at": "2026-03-16T16:36:15.758232+08:00"
+    },
+    {
+      "id": "20260316_163702",
+      "offset_start": 68792,
+      "offset_end": 68872,
+      "text": "子恆哭着說：「媽媽，我給您的東西實在少得可憐，這點錢和糧票能讓您在\n路上少受點苦，我心裡也好受些！」\n\n114\n\n\f三\n走了九十多裏路，之驊來到了嶽陽工業學校。",
+      "prompt": "A weary young man named Zhi Hua, dressed in simple rural clothes and carrying a worn cloth bundle, stands at the dusty gates of Yueyang Industrial School after a grueling 90-li journey, his face etched with exhaustion, determination, and faint traces of earlier tears, evoking bittersweet farewell emotions under a vast overcast sky. The mid-20th-century Chinese industrial campus looms behind him with gray concrete buildings, iron fences, fluttering red banners, and distant students in uniforms, capturing a poignant mood of transition from rural hardship to urban hope. Render in realistic style inspired by Chinese literary realism like Lu Xun, with soft diffused lighting, earthy tones, dramatic depth of field, and subtle atmospheric haze for emotional yijing resonance.",
+      "image": "reader_images/reader_20260316_163702.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 372130013,
+      "created_at": "2026-03-16T16:37:02.660219+08:00"
     }
   ],
   "book_total_chars": 92814,
