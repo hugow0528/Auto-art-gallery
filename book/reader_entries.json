@@ -13127,6 +13127,18 @@
       "image_model": "klein",
       "seed": 231192420,
       "created_at": "2026-03-16T22:03:10.862674+08:00"
+    },
+    {
+      "id": "20260316_220626",
+      "offset_start": 73019,
+      "offset_end": 73094,
+      "text": "一下子也找不到\n什麼事，之驊便要求跟朱叔叔去挑沙，挑沙是計件工資，挑多少，算多少。\n之驊就去了工地，領了畚箕和扁擔，又搞清楚去哪裡挑沙以及沙倒在哪裡。",
+      "prompt": "A young Chinese worker stands at a dusty construction site holding a bamboo carrying pole with two woven baskets, looking toward a pile of sand with determined focus. The scene captures a hot afternoon at a building project in progress, with concrete structures rising behind him and other laborers moving about with wheelbarrows and tools. The visual style is realistic with warm golden hour lighting, capturing the texture of sand, the worn bamboo equipment, and the honest labor of manual work in early industrial China.",
+      "image": "reader_images/reader_20260316_220626.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1321463237,
+      "created_at": "2026-03-16T22:06:26.999657+08:00"
     }
   ],
   "book_total_chars": 92814,
