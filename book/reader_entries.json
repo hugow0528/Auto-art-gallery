@@ -14579,6 +14579,18 @@
       "image_model": "imagen-4",
       "seed": 1202497336,
       "created_at": "2026-03-17T07:04:54.734342+08:00"
+    },
+    {
+      "id": "20260317_072709",
+      "offset_start": 80941,
+      "offset_end": 81006,
+      "text": "看你如今這般模樣，只\n怕自己的命也保不住，要丟在湖北了。若真這樣，我真是對不住你。我最難的時\n候，你幫我撐起了這個家，把愛民帶大。",
+      "prompt": "A somber historical scene in a dimly lit, traditional Chinese room at dusk, with two weary figures in worn clothing sitting across a simple wooden table. The atmosphere is heavy with regret and quiet gratitude, lit softly by a single oil lamp casting warm, flickering shadows on their tired faces, rendered in a style of realistic oil painting with soft, emotive brushstrokes.",
+      "image": "reader_images/reader_20260317_072709.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 815041447,
+      "created_at": "2026-03-17T07:27:09.934412+08:00"
     }
   ],
   "book_total_chars": 92814,
