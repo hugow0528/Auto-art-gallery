@@ -13595,6 +13595,18 @@
       "image_model": "flux-2-dev",
       "seed": 1209782554,
       "created_at": "2026-03-17T00:57:13.107522+08:00"
+    },
+    {
+      "id": "20260317_010403",
+      "offset_start": 75553,
+      "offset_end": 75630,
+      "text": "126\n\n\f十\n謝天謝地，秋園碰上的是個好人。\n王成恩比秋園小三歲，中等身材，皮膚微黑，性情開朗，心地十分善良。結婚\n後，家中大小事情都交給秋園管理。",
+      "prompt": "A warm, inviting interior scene in a traditional Chinese home during autumn. A kind-faced man with a slightly tanned complexion and a cheerful demeanor, Wang Chengen, gently hands over household management to his wife, Qiuyuan. The atmosphere is peaceful and harmonious, bathed in soft, natural light filtering through a window, rendered in a realistic, slightly idealized painterly style.",
+      "image": "reader_images/reader_20260317_010403.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2019764658,
+      "created_at": "2026-03-17T01:04:03.725665+08:00"
     }
   ],
   "book_total_chars": 92814,
