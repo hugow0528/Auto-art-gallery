@@ -13811,6 +13811,18 @@
       "image_model": "flux-2-dev",
       "seed": 1214566420,
       "created_at": "2026-03-17T02:13:21.916833+08:00"
+    },
+    {
+      "id": "20260317_023234",
+      "offset_start": 76714,
+      "offset_end": 76786,
+      "text": "蘆葦在初秋的晚風中搖來晃\n去，她們從蘆葦叢裏出來時已穿戴整齊，手裡拿着溼衣服，向學校走去。\n上完了一個月的課，開始上山勞動，到青銅嶺林場砍毛竹。",
+      "prompt": "Young women emerge from tall swaying reed marshes in early autumn twilight, wearing neat clothes and carrying wet garments draped over their arms, walking along a dirt path toward a school building in the distance, soft golden-hour lighting, cinematic atmosphere, Chinese lyric realist painting style with delicate brushwork.",
+      "image": "reader_images/reader_20260317_023234.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 451306660,
+      "created_at": "2026-03-17T02:32:34.095216+08:00"
     }
   ],
   "book_total_chars": 92814,
