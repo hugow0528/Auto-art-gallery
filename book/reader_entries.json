@@ -12167,6 +12167,18 @@
       "image_model": "zimage",
       "seed": 1605185000,
       "created_at": "2026-03-16T15:23:48.898132+08:00"
+    },
+    {
+      "id": "20260316_152508",
+      "offset_start": 67791,
+      "offset_end": 67859,
+      "text": "沒有仁受的家更顯悽慘，空落落的三間破瓦房僅留下片搖搖欲墜的門板。\n一天，秋園深思熟慮後對之驊說：「兩個弟弟都大了，家裡不用你幫忙帶人了。",
+      "prompt": "A desolate rural Chinese courtyard in early 20th-century style, featuring three crumbling thatched-roof houses with empty interiors, only a single dilapidated door panel hanging precariously on rusted hinges amid scattered debris and overgrown weeds, evoking profound misery and abandonment under overcast autumn skies with dim, diffused gray light filtering through. In the foreground, two middle-aged men in faded peasant tunics stand solemnly facing each other: one thoughtful and resolute, gesturing subtly as if in deep conversation, the other attentive and weary, capturing a pivotal moment of familial decision. Render in the melancholic realism of traditional Chinese ink wash painting blended with subtle watercolor textures, emphasizing stark shadows, muted earth tones, and a pervasive atmosphere of poignant decay and quiet resignation.",
+      "image": "reader_images/reader_20260316_152508.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1402798078,
+      "created_at": "2026-03-16T15:25:08.892831+08:00"
     }
   ],
   "book_total_chars": 92814,
