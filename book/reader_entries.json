@@ -11759,6 +11759,18 @@
       "image_model": "flux",
       "seed": 1492471112,
       "created_at": "2026-03-16T13:23:55.015878+08:00"
+    },
+    {
+      "id": "20260316_132428",
+      "offset_start": 65801,
+      "offset_end": 65863,
+      "text": "是家裡病了人，要救命。」\n講好了價錢，秋園掏出錢一數，還差一塊二。秋園說：「你老人家行行好，就少\n要點吧，我已經淨水摸魚了。",
+      "prompt": "A weathered woman in simple rural clothing stands in a dim, modest kitchen, clutching worn coins in her palm, pleading with an elderly man while gesturing toward an inner room where a sick person lies.",
+      "image": "reader_images/reader_20260316_132428.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 166294033,
+      "created_at": "2026-03-16T13:24:28.904208+08:00"
     }
   ],
   "book_total_chars": 92814,
