@@ -12263,6 +12263,18 @@
       "image_model": "grok-imagine",
       "seed": 1138197280,
       "created_at": "2026-03-16T15:56:23.122744+08:00"
+    },
+    {
+      "id": "20260316_155843",
+      "offset_start": 68349,
+      "offset_end": 68419,
+      "text": "母女倆走到坡上一棵樹下，秋園停住腳步，說就送到這兒。\n之驊轉過身，眼淚譁譁地流，但還是往前走，走幾步就回頭，直到看不見那棵樹\n和樹下的秋園。",
+      "prompt": "A poignant farewell scene under a lone tree on an autumn slope. A mother, Qiu Yuan, stops at the tree, her daughter, Zhi Hua, turns away, tears streaming down her face, repeatedly looking back until the tree and her mother are out of sight. The scene is rendered in the style of traditional Chinese ink wash painting, with a melancholic, muted color palette, soft, diffused autumn light, and a sense of quiet, emotional depth.",
+      "image": "reader_images/reader_20260316_155843.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1982677387,
+      "created_at": "2026-03-16T15:58:43.901100+08:00"
     }
   ],
   "book_total_chars": 92814,
