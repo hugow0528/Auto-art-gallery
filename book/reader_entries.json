@@ -11951,6 +11951,18 @@
       "image_model": "flux",
       "seed": 1396108939,
       "created_at": "2026-03-16T14:02:37.296036+08:00"
+    },
+    {
+      "id": "20260316_140808",
+      "offset_start": 66736,
+      "offset_end": 66813,
+      "text": "到了那頭，有人使\n力一推，她又回到這頭。整個晚上，秋園像個皮球樣被人推來搡去，沒有停下來\n片刻。\n「一個舊官吏太太，解放咯久了，還冇改造好，偷了雞還耍賴。",
+      "prompt": "A disheveled, elderly woman, dressed in faded traditional robes, is being roughly pushed back and forth through an unseen threshold within a dimly lit, slightly surreal courtyard. The atmosphere is one of chaotic, weary movement, like a recurring nightmare. The style is a blend of gritty realism and subtle, unsettling fantasy, with chiaroscuro lighting emphasizing the woman's distress and the oppressive nature of her confinement.",
+      "image": "reader_images/reader_20260316_140808.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1475163438,
+      "created_at": "2026-03-16T14:08:08.538598+08:00"
     }
   ],
   "book_total_chars": 92814,
