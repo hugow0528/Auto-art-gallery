@@ -11999,6 +11999,18 @@
       "image_model": "gptimage",
       "seed": 262081921,
       "created_at": "2026-03-16T14:11:43.578955+08:00"
+    },
+    {
+      "id": "20260316_141459",
+      "offset_start": 66955,
+      "offset_end": 67026,
+      "text": "於是，她就從屋\n子這頭被推到那頭，循環往復。那些天，秋園正好來月經，血順着褲管滴滴答答\n往下淌。\n鬥了六個晚上，那夥人終於覺得膩了，這才罷休。",
+      "prompt": "A dimly lit, cramped rural Chinese room at night, with rough wooden walls and floor stained by dark blood droplets trailing down a young woman's torn pants leg as she's violently shoved from one side to the other by shadowy, leering men, her face etched with exhaustion, pain, and defiance after six grueling nights. The atmosphere is oppressive and grim, heavy with sweat, menstrual blood, and flickering lantern light casting long, menacing shadows, evoking a raw sense of violation and endurance. Render in a hyper-realistic style inspired by Chinese literary realism, with muted earth tones, dramatic chiaroscuro lighting, and intricate details on fabrics and blood textures for visceral emotional impact.",
+      "image": "reader_images/reader_20260316_141459.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 153142575,
+      "created_at": "2026-03-16T14:14:59.843041+08:00"
     }
   ],
   "book_total_chars": 92814,
