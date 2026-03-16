@@ -12239,6 +12239,18 @@
       "image_model": "gptimage",
       "seed": 2013096339,
       "created_at": "2026-03-16T15:52:34.438912+08:00"
+    },
+    {
+      "id": "20260316_155458",
+      "offset_start": 68166,
+      "offset_end": 68275,
+      "text": "終於到了開學那天，秋園早早替之驊做了件白洋布褂子，從頭上套下去，不開\n扣，這樣更省布。再穿條黑褲子，清清爽爽一個人。入學通知上說，學校是新辦\n的，爲了建設好學校，正式上課前須勞動十天，要自帶畚箕、鋤頭、扁擔等工\n具。",
+      "prompt": "A young Chinese boy named Zhi Hua stands neatly dressed in a simple white cotton pullover jacket made from ba cloth, pulled over his head without buttons for thrift, paired with crisp black trousers, evoking a clean, modest rural atmosphere on the first day of school in early autumn. His mother in the humble courtyard adjusts his outfit under soft morning sunlight filtering through autumn leaves, while he holds a bamboo shoulder pole, hoe, dustpan, and enrollment notice for the new school's labor before classes, conveying anticipation and simplicity. Render in realistic style with warm golden lighting, detailed fabric textures, earthy tones, and a nostalgic 1950s Chinese rural aesthetic inspired by literary realism.",
+      "image": "reader_images/reader_20260316_155458.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1935365301,
+      "created_at": "2026-03-16T15:54:58.714281+08:00"
     }
   ],
   "book_total_chars": 92814,
