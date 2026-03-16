@@ -14063,6 +14063,18 @@
       "image_model": "grok-imagine",
       "seed": 1084932307,
       "created_at": "2026-03-17T03:56:13.722120+08:00"
+    },
+    {
+      "id": "20260317_035706",
+      "offset_start": 78103,
+      "offset_end": 78190,
+      "text": "秋園全身軟得站不起來，趴在地上說：「我活要見人，死要見屍，請你們行行\n好，再打撈一次。」\n就這一下，一個船夫感覺鉤到了東西，大家幫忙提上來一看，鐵鉤正鉤着田四的\n褲子口袋。",
+      "prompt": "A desperate woman collapses on the ground by a riverbank, her body weak and trembling as she pleads with fishermen, her face etched with anguish and determination in the fading autumn light. Around her, weathered boat workers strain to haul up a heavy iron hook from the murky water, their faces tense with effort as they retrieve what appears to be torn fabric caught on the hook's edge. The scene captures a moment of tragic urgency—the interplay between human desperation and the indifferent river, rendered in muted earth tones and cool blues with dramatic chiaroscuro lighting that emphasizes the emotional weight of the moment. The composition should convey both the physical exhaustion of the woman and the grim determination of the search, with a classical Chinese landscape painting sensibility merged with realistic human emotion.",
+      "image": "reader_images/reader_20260317_035706.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 887064401,
+      "created_at": "2026-03-17T03:57:06.734278+08:00"
     }
   ],
   "book_total_chars": 92814,
