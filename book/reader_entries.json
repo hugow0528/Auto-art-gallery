@@ -12563,6 +12563,18 @@
       "image_model": "grok-imagine",
       "seed": 559605903,
       "created_at": "2026-03-16T17:46:51.423961+08:00"
+    },
+    {
+      "id": "20260316_174827",
+      "offset_start": 69924,
+      "offset_end": 69995,
+      "text": "暑假過完回到學校，壞消息接踵而來。食品加工廠搬到北門去了，學校在南門，\n相隔四五十裏。學校明文規定學生不準談戀愛，若不顧校規後果是開除學籍。",
+      "prompt": "A stern Chinese secondary school campus at dusk, imposing Soviet-influenced architecture with concrete buildings and a prominent gate, empty courtyard where students walk in pairs under surveillance, amber streetlights casting long shadows, distant mountains visible through the dusty air, oppressive atmosphere of strict discipline and isolation, cinematic realism with muted color palette emphasizing blues and grays.",
+      "image": "reader_images/reader_20260316_174827.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 70322826,
+      "created_at": "2026-03-16T17:48:27.898618+08:00"
     }
   ],
   "book_total_chars": 92814,
