@@ -12815,6 +12815,18 @@
       "image_model": "imagen-4",
       "seed": 291614737,
       "created_at": "2026-03-16T19:26:22.937435+08:00"
+    },
+    {
+      "id": "20260316_192901",
+      "offset_start": 71467,
+      "offset_end": 71535,
+      "text": "」\n之驊心一炸、臉一紅：逃到江西還有人認得她是楊鄉長的女兒，這可不是個好兆\n頭啊！\n他看之驊穿的白短袖上印有校名，便問：「你在這裡讀書？",
+      "prompt": "A young woman in a white short-sleeved school uniform shirt stands frozen mid-thought, her face flushed red with alarm and embarrassment in a moment of sudden recognition. The scene captures her internal panic—the realization that her identity as a county magistrate's daughter has followed her even to this distant place in Jiangxi province. Soft, naturalistic lighting illuminates her expressive face against a blurred background suggesting a casual indoor or semi-public space, rendered in a style reminiscent of early-to-mid 20th century Chinese ink painting with subtle watercolor washes, conveying both psychological vulnerability and the tension of a hidden past exposed.",
+      "image": "reader_images/reader_20260316_192901.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 787947309,
+      "created_at": "2026-03-16T19:29:01.362205+08:00"
     }
   ],
   "book_total_chars": 92814,
