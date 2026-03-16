@@ -12143,6 +12143,18 @@
       "image_model": "zimage",
       "seed": 891500441,
       "created_at": "2026-03-16T15:01:10.136974+08:00"
+    },
+    {
+      "id": "20260316_150210",
+      "offset_start": 67606,
+      "offset_end": 67716,
+      "text": "釘棺材的聲音響成一片，加\n上號哭聲，奏響了一首獨特的生離死別的交響曲。\n\n110\n\n\f仁受被抬到後山上埋了。秋園一下子老了許多，猶如遭了天禍的老樹，不斷念叨\n着：「你就這樣走了，你是真正脫了身，丟下我們孤兒寡母怎麼得了？",
+      "prompt": "A somber, dimly lit scene on a desolate mountain slope at dusk. The air is thick with sorrow as a coffin is being nailed shut, its sound mingling with wails. An older woman, Renshou, her face etched with grief and exhaustion, clutches her chest, appearing as withered as a storm-ravaged ancient tree, while unseen figures mourn her passing. The overall mood is one of profound loss and despair, rendered in a style reminiscent of traditional Chinese ink wash painting with a touch of melancholic realism.",
+      "image": "reader_images/reader_20260316_150210.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1687561345,
+      "created_at": "2026-03-16T15:02:10.071219+08:00"
     }
   ],
   "book_total_chars": 92814,
