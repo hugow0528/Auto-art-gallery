@@ -14495,6 +14495,18 @@
       "image_model": "zimage",
       "seed": 1596181423,
       "created_at": "2026-03-17T06:52:28.629589+08:00"
+    },
+    {
+      "id": "20260317_065257",
+      "offset_start": 80454,
+      "offset_end": 80540,
+      "text": "他身材瘦削，顴骨略高，算得上面容俊秀，言行有點木訥，\n看上去是個老實人。\n喬木林的光棍生涯已有些年頭了。他把別人用來養家糊口的薪水全部花在了自己\n身上，所以穿得起府綢衣服。",
+      "prompt": "A skinny man with slightly high cheekbones and a handsome yet awkward demeanor, he appears honest and is dressed in fine poplin clothes, a stark contrast to his bachelor lifestyle of several years. He stands in a modestly furnished room, perhaps a simple study or living area, with soft, natural light filtering in from a nearby window, casting gentle shadows. The atmosphere is quiet and contemplative, with a hint of melancholy. Realistic oil painting style.",
+      "image": "reader_images/reader_20260317_065257.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 504128215,
+      "created_at": "2026-03-17T06:52:57.114853+08:00"
     }
   ],
   "book_total_chars": 92814,
