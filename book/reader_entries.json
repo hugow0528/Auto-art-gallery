@@ -12635,6 +12635,18 @@
       "image_model": "grok-imagine",
       "seed": 1014008909,
       "created_at": "2026-03-16T18:15:40.394664+08:00"
+    },
+    {
+      "id": "20260316_181711",
+      "offset_start": 70283,
+      "offset_end": 70368,
+      "text": "露珠未乾的清晨，天高地闊，雲淡風輕，微風中蕩漾着夏天的氣息。母子三人一\n連餓了幾天，肚子空空，身體虛弱，走起路來頭重腳輕，直到明晃晃的太陽懸在\n頭頂，才走到湘陰火車站。",
+      "prompt": "A starving mother and two emaciated children trudge slowly toward a distant train station under the blazing midday sun, their thin frames casting long shadows on the cracked earth; morning dew still clings to the grass beside the dusty path, while vast blue sky stretches endlessly above in the golden light of early summer, capturing the harsh reality of their exhaustion and desperation in a documentary-style visual.",
+      "image": "reader_images/reader_20260316_181711.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 512567285,
+      "created_at": "2026-03-16T18:17:11.226395+08:00"
     }
   ],
   "book_total_chars": 92814,
