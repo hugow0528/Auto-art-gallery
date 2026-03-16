@@ -12443,6 +12443,18 @@
       "image_model": "klein",
       "seed": 832126998,
       "created_at": "2026-03-16T16:42:47.355901+08:00"
+    },
+    {
+      "id": "20260316_164330",
+      "offset_start": 69174,
+      "offset_end": 69254,
+      "text": "走進教室，同學和老師都以爲她遇上了什麼麻煩\n事或傷心事，一個個上前詢問。\n快樂的日子一年像一天。轉眼之驊就上了三年級，和另外五個女生分在釀酒車間\n的化驗室實習。",
+      "prompt": "A group of teenage girls, looking concerned and inquisitive, surround a young woman who appears slightly troubled as she enters a classroom. The scene transitions to a bright, well-lit laboratory within a winery, where the same young woman, now more composed, works alongside five other girls, surrounded by scientific equipment and fermentation vats. The style is realistic with a touch of impressionism, capturing the warmth of camaraderie and the glow of intellectual curiosity under soft, natural lighting.",
+      "image": "reader_images/reader_20260316_164330.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1435255391,
+      "created_at": "2026-03-16T16:43:30.908615+08:00"
     }
   ],
   "book_total_chars": 92814,
