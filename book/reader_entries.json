@@ -13943,6 +13943,18 @@
       "image_model": "flux",
       "seed": 1619172219,
       "created_at": "2026-03-17T03:31:40.125637+08:00"
+    },
+    {
+      "id": "20260317_033234",
+      "offset_start": 77388,
+      "offset_end": 77474,
+      "text": "」那一口帶着北方口音的湖南話，真格好聽。\n漸漸地，秋園心情好多了，也許真是柳暗花明！\n一九六六年七月一日，天氣異常悶熱，草木紋絲不動，躺在樹蔭下的狗吐出長舌\n頭，喘着粗氣。",
+      "prompt": "A woman with a hopeful expression sits in the dappled shade of a tree on a sweltering July day in 1966. The air is heavy and still, with a panting dog lying listlessly on the ground, its tongue lolling out. The scene evokes a sense of quiet anticipation, painted in a slightly desaturated, realistic style with a focus on the oppressive heat.",
+      "image": "reader_images/reader_20260317_033234.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2105233399,
+      "created_at": "2026-03-17T03:32:34.742236+08:00"
     }
   ],
   "book_total_chars": 92814,
