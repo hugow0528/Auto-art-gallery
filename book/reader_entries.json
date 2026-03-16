@@ -14651,6 +14651,18 @@
       "image_model": "flux",
       "seed": 568165716,
       "created_at": "2026-03-17T07:46:27.219796+08:00"
+    },
+    {
+      "id": "20260317_075103",
+      "offset_start": 81374,
+      "offset_end": 81476,
+      "text": "於是依了他，用板車將他拉回了\n家。\n愛民爲了生計，整日在外開車。秋園就每天用板車拉着王成恩去馬口醫院打針。\n有個小王護士也是王家莊人，她見秋園一個人天天用板車拉着病人實在辛苦，就\n主動上門來給王成恩打針。",
+      "prompt": "A weathered woman with determined eyes pushes a cart carrying an elderly man through a dusty, rural Chinese village lane. Sunlight filters through sparse trees, casting long shadows and highlighting the weariness on their faces. A younger woman in a simple nurse's uniform walks alongside, offering a gentle, supportive presence. The scene evokes a sense of quiet struggle and community resilience, rendered in the style of traditional Chinese ink wash painting with a touch of realism.",
+      "image": "reader_images/reader_20260317_075103.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1860674605,
+      "created_at": "2026-03-17T07:51:03.512843+08:00"
     }
   ],
   "book_total_chars": 92814,
