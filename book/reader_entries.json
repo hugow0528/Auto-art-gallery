@@ -12695,6 +12695,18 @@
       "image_model": "grok-imagine",
       "seed": 371916210,
       "created_at": "2026-03-16T18:38:02.943992+08:00"
+    },
+    {
+      "id": "20260316_183932",
+      "offset_start": 70661,
+      "offset_end": 70734,
+      "text": "秋成妻子秀萍一向是\n個好當家，一日兩餐的高粱糊糊清溜溜的，每人兩小碗。秋成每餐另有一碗清溜\n溜的麵條。\n秀萍整天嚷着查戶口的要來，外人不準住久了。",
+      "prompt": "A humble, sparsely furnished rural Chinese home in autumn, with a woman named Xiuping diligently preparing thin sorghum porridge and noodles in dimly lit conditions. The atmosphere is one of quiet anxiety, as she repeatedly mentions the impending arrival of census takers, casting a shadow of unease over the simple meal. The art style should be reminiscent of traditional Chinese ink wash paintings, emphasizing muted colors and a sense of melancholic atmosphere.",
+      "image": "reader_images/reader_20260316_183932.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2023129778,
+      "created_at": "2026-03-16T18:39:32.863771+08:00"
     }
   ],
   "book_total_chars": 92814,
