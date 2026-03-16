@@ -14279,6 +14279,18 @@
       "image_model": "flux-2-dev",
       "seed": 260039166,
       "created_at": "2026-03-17T05:10:02.574278+08:00"
+    },
+    {
+      "id": "20260317_052311",
+      "offset_start": 79324,
+      "offset_end": 79413,
+      "text": "秋園一聲尖叫：「有鬼！」就往門外跑去。\n坐在大門外，秋園仔細回想剛才的事，聽說人一旦有了死的念頭，鬼就要跟着這\n人三天。「我想上吊，鬼就找來了，原來吊死的人是這般模樣，真嚇人。",
+      "prompt": "A terrified young woman, Qiuyuan, with wide, fearful eyes, flees from a dimly lit, traditional Chinese courtyard house at night, her scream of \"Ghost!\" echoing into the darkness. Outside, sitting on the ground near the large gate, she clutches her head in distress, recalling a horrifying vision of a hanged figure with a long, red tongue, a manifestation of her own suicidal thoughts. The atmosphere is heavy with dread and supernatural fear, rendered in a dark, painterly style with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_052311.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1704389234,
+      "created_at": "2026-03-17T05:23:11.784170+08:00"
     }
   ],
   "book_total_chars": 92814,
