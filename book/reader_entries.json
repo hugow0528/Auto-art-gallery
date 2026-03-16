@@ -13907,6 +13907,18 @@
       "image_model": "imagen-4",
       "seed": 2089177176,
       "created_at": "2026-03-17T03:18:36.220211+08:00"
+    },
+    {
+      "id": "20260317_031926",
+      "offset_start": 77151,
+      "offset_end": 77254,
+      "text": "之驊這才明白王老師說的：「好多同學幹不了幾天\n就會逃跑。」\n\n129\n\n\f十二\n賠三在王家只住了半年。因爲一下增加了三口人，王成恩負擔很重，秋園考慮再\n三，就讓賠三回了湖南，住在子恆教書的學校，在那兒讀書。",
+      "prompt": "A modest Chinese household in the 1930s-40s, dimly lit by natural window light filtering through paper screens, showing a sparse room with simple wooden furniture and worn textiles. A young boy stands in the doorway with a small bundle, his expression caught between reluctance and resignation, while an older woman gestures toward the entrance with weary determination. The atmosphere is heavy with quiet melancholy and financial strain, rendered in muted earth tones and soft shadows, capturing the bittersweet moment of a child being sent away due to family hardship. Traditional Chinese ink painting aesthetic with realistic portraiture, emphasizing emotional restraint and the dignity of poverty.",
+      "image": "reader_images/reader_20260317_031926.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 951142482,
+      "created_at": "2026-03-17T03:19:26.744602+08:00"
     }
   ],
   "book_total_chars": 92814,
