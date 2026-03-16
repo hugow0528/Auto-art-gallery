@@ -14027,6 +14027,18 @@
       "image_model": "imagen-4",
       "seed": 1195338794,
       "created_at": "2026-03-17T03:44:29.331381+08:00"
+    },
+    {
+      "id": "20260317_035447",
+      "offset_start": 77948,
+      "offset_end": 78023,
+      "text": "秋園呼天搶地地向河邊跑去，一路上不知摔了多少跤，膝蓋上的血都滲到褲子外\n面來了。最後幾步，秋園是爬過去的。她好似瘋了一樣，力大無比，沒人拉得住\n她。",
+      "prompt": "First, the user has given a Chinese literary passage that needs to be translated into an English image-generation prompt. The passage describes a dramatic scene where a character named Qiuyuan is running desperately towards a river, falling multiple times, with blood seeping through her pants from her knees. She crawls the last few steps, acting as if insane, with immense strength, and no one can hold her back.\n\nMy task is to craft a vivid, detailed English prompt for image generation. I need to include setting, atmosphere, characters, artistic style, mood, lighting, and specific visual elements. The response should be only the prompt in English, no explanations, translations, or markdown.\n\nKey elements from the passage:\n\n- Character: Qiuyuan (I'll use the name as given, but in English prompt, I might keep it or adapt; since it's a name, I can use \"Qiuyuan\" directly).\n\n- Action: Running, falling, crawling, with blood on knees, desperate, insane-like strength.\n\n- Setting: Towards a river, so the setting is near a riverbank or similar.\n\n- Atmosphere: Desperate, frantic, intense, emotional.\n\n- Visual details: Blood seeping through pants, crawling, no one can hold her back, implying she's alone or others are trying but failing to stop her.\n\nI need to describe this in 2-4 sentences, in English only, suitable for AI image generation.\n\nStructure the prompt:\n\n- Start with the",
+      "image": "reader_images/reader_20260317_035447.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1284294634,
+      "created_at": "2026-03-17T03:54:47.592560+08:00"
     }
   ],
   "book_total_chars": 92814,
