@@ -14327,6 +14327,18 @@
       "image_model": "zimage",
       "seed": 2109969971,
       "created_at": "2026-03-17T05:43:11.399176+08:00"
+    },
+    {
+      "id": "20260317_055052",
+      "offset_start": 79619,
+      "offset_end": 79681,
+      "text": "下放比例，最初的說法是五分之一，隨後開始每日更\n新，但最終數字尚未確定，第一批下放的名單就公布了。\n之驊跟同宿舍的月娥要好。",
+      "prompt": "Two young women in 1970s simple clothing sit closely on a dormitory bed, one holding a mimeographed list, their faces illuminated by a single desk lamp in a sparse room filled with soft shadows and an atmosphere of quiet apprehension, photorealistic style with muted colors and subtle grain.",
+      "image": "reader_images/reader_20260317_055052.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2026781062,
+      "created_at": "2026-03-17T05:50:52.904145+08:00"
     }
   ],
   "book_total_chars": 92814,
