@@ -12347,6 +12347,18 @@
       "image_model": "flux",
       "seed": 350245635,
       "created_at": "2026-03-16T16:15:18.855795+08:00"
+    },
+    {
+      "id": "20260316_161648",
+      "offset_start": 68700,
+      "offset_end": 68792,
+      "text": "這又不是死別，我是回娘家，情\n況不好就趕緊回來。」說罷，她竭力裝出輕鬆的樣子，嘴巴動了動，硬是沒能笑\n出來。\n子恆把爲數不多的糧票和錢都給了秋園，秋園執意要子恆留點，母子倆推來搡\n去。",
+      "prompt": "A somber, impoverished interior scene in traditional Chinese style, with a weary mother trying to force a smile as she hands her young son a meager ration of grain and money. The atmosphere is heavy with unspoken sorrow and the harsh reality of scarcity, illuminated by dim, natural light filtering through a paper window. The style should be evocative of traditional Chinese ink wash painting, focusing on emotional resonance and the subtle details of their struggle.",
+      "image": "reader_images/reader_20260316_161648.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 251145494,
+      "created_at": "2026-03-16T16:16:48.451874+08:00"
     }
   ],
   "book_total_chars": 92814,
