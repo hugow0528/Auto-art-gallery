@@ -12287,6 +12287,18 @@
       "image_model": "klein",
       "seed": 1345472026,
       "created_at": "2026-03-16T15:59:13.205069+08:00"
+    },
+    {
+      "id": "20260316_160043",
+      "offset_start": 68419,
+      "offset_end": 68500,
+      "text": "113\n\n\f二\n之驊去了嶽陽，賠三和田四白天上學，秋園出工。包過的小腳不能打赤腳，有人\n開口閉口便是「沒有改造好的舊官吏太太」，屈辱的日子沉重得有如泰山壓頂。",
+      "prompt": "A weary middle-aged woman with bound feet walks awkwardly across a dusty daytime field, her simple cloth shoes unable to fully protect her. The atmosphere is heavy and oppressive, rendered in a somber, realistic style with muted earth tones and a dramatic, low-angle light that casts long, burdensome shadows.",
+      "image": "reader_images/reader_20260316_160043.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1464051352,
+      "created_at": "2026-03-16T16:00:43.256004+08:00"
     }
   ],
   "book_total_chars": 92814,
