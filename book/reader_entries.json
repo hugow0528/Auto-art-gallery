@@ -14375,6 +14375,18 @@
       "image_model": "flux",
       "seed": 567600628,
       "created_at": "2026-03-17T05:56:24.360377+08:00"
+    },
+    {
+      "id": "20260317_055652",
+      "offset_start": 79829,
+      "offset_end": 79899,
+      "text": "她們帶着\n人人看得見的缺陷與恥辱在大庭廣衆下出沒，無計可施。\n月娥從不相信之驊的命運會比自己的更糟。在月娥眼中，哪個女子能比自己更不\n幸呢？",
+      "prompt": "Two women in traditional Hanfu stand hesitantly at the edge of a bustling Qing Dynasty marketplace, their faces marked with visible scars or disfigurements that draw whispered glances from passing crowds. The older woman clutches her sleeves tightly, her downcast eyes reflecting shame and resignation, while the younger one stares blankly at the ground, both moving through the crowd with the heaviness of those who have no other place to go. Soft, diffused afternoon light casts long shadows across the stone pavement, capturing the poignant moment of two outcasts navigating public scrutiny. Artistic style: traditional Chinese ink wash painting with realistic",
+      "image": "reader_images/reader_20260317_055652.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 122876640,
+      "created_at": "2026-03-17T05:56:52.723651+08:00"
     }
   ],
   "book_total_chars": 92814,
