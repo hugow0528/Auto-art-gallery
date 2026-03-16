@@ -13631,6 +13631,18 @@
       "image_model": "imagen-4",
       "seed": 474507894,
       "created_at": "2026-03-17T01:16:29.947583+08:00"
+    },
+    {
+      "id": "20260317_011704",
+      "offset_start": 75706,
+      "offset_end": 75773,
+      "text": "棉花統一堆放在隊部的保管室裏，像一座雪山，白得耀\n眼。\n西紅柿成熟的季節，成片的西紅柿紅彤彤地吊在枝上，被綠葉襯託着，真是妙不\n可言。",
+      "prompt": "A surreal, dreamlike landscape where a towering snowdrift of cotton dominates a rustic storage room, its pure white texture catching the light. Beside it, a vibrant cascade of ripe tomatoes hangs heavy on lush green vines, their fiery red contrasting sharply with the cotton's luminescence. The scene evokes a feeling of abundant harvest and striking visual contrasts, rendered in a magical realism style with soft, ethereal lighting.",
+      "image": "reader_images/reader_20260317_011704.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1534359567,
+      "created_at": "2026-03-17T01:17:04.875679+08:00"
     }
   ],
   "book_total_chars": 92814,
