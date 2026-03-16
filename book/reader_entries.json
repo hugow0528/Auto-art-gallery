@@ -13715,6 +13715,18 @@
       "image_model": "gptimage",
       "seed": 1125105329,
       "created_at": "2026-03-17T01:45:17.189688+08:00"
+    },
+    {
+      "id": "20260317_014735",
+      "offset_start": 76222,
+      "offset_end": 76306,
+      "text": "王成恩的兒子叫王愛民，是個既調皮又可愛的孩子。他管秋園叫大大，進進出出\n一口一個「大大」，喊得很親熱。愛民和田四同歲，在一個班上讀書，兄弟倆親\n\n127\n\n\f如手足。",
+      "prompt": "A young boy with mischievous eyes and a bright smile, named Ai-min, affectionately calls out to an older woman, \"Da-da,\" his voice full of warmth. He stands beside a slightly older boy, Si, their camaraderie evident as they share a look of close friendship, bathed in the soft, golden light of a late afternoon sun filtering through a rustic courtyard. The scene evokes a feeling of simple, heartwarming domesticity, rendered in the style of a traditional Chinese ink wash painting with touches of vibrant color.",
+      "image": "reader_images/reader_20260317_014735.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 63827995,
+      "created_at": "2026-03-17T01:47:35.376091+08:00"
     }
   ],
   "book_total_chars": 92814,
