@@ -12539,6 +12539,18 @@
       "image_model": "grok-imagine",
       "seed": 622378476,
       "created_at": "2026-03-16T17:40:50.444583+08:00"
+    },
+    {
+      "id": "20260316_174404",
+      "offset_start": 69770,
+      "offset_end": 69851,
+      "text": "徐老師明白她的意思，說：「我等你，我們都年輕，先把\n這件事藏在各自心裡。」\n《牛虻》是之驊看的第一本外國小說，真是愛不釋手，就像河邊的羔羊發現了青\n草而流連忘返。",
+      "prompt": "A young woman named Zhihua sits mesmerized by an open copy of \"The Gadfly\" on the riverbank at dusk, her eyes wide with rapt delight as lush green grass sways gently around her like tender pasture discovered by a lost lamb, golden sunlight filtering through reeds to cast a warm, nostalgic glow. Teacher Xu stands nearby in quiet understanding, his youthful face soft with shared secrecy, the serene riverside evoking yijing poetic conception of lingering youth and hidden emotions. Render in the style of classical Chinese ink wash painting with vivid natural imagery, subtle symbolism of flowing water and eternal mountains in the background, atmospheric depth and emotional tranquility.",
+      "image": "reader_images/reader_20260316_174404.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 2026283980,
+      "created_at": "2026-03-16T17:44:04.072522+08:00"
     }
   ],
   "book_total_chars": 92814,
