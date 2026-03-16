@@ -11495,6 +11495,18 @@
       "image_model": "zimage",
       "seed": 339653185,
       "created_at": "2026-03-16T12:11:07.585844+08:00"
+    },
+    {
+      "id": "20260316_121136",
+      "offset_start": 64300,
+      "offset_end": 64378,
+      "text": "秋園心想：八娭毑膽子還蠻大，只是怎麼\n帶得回去呢？\n收工時，只見八娭毑飛快地解開抄頭褲，將白菜往褲襠裏一塞，又飛快地系好褲\n子，將褲襠拍拍平，挑起尿桶就走。",
+      "prompt": "A shrewd elderly woman, with a determined glint in her eye, quickly unties her pants at the end of a workday in a rustic, dusty courtyard. She swiftly tucks a large cabbage into her trousers, pats them flat, and then casually picks up a heavy urine bucket, her movements economical and purposeful against the soft, late afternoon sun. The scene should evoke a sense of rural resourcefulness and a touch of humorous defiance, rendered in the style of traditional Chinese ink wash painting with a slightly desaturated color palette.",
+      "image": "reader_images/reader_20260316_121136.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 188104990,
+      "created_at": "2026-03-16T12:11:36.853471+08:00"
     }
   ],
   "book_total_chars": 92814,
