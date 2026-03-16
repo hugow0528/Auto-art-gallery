@@ -13235,6 +13235,18 @@
       "image_model": "imagen-4",
       "seed": 2007146334,
       "created_at": "2026-03-16T22:42:28.352114+08:00"
+    },
+    {
+      "id": "20260316_224546",
+      "offset_start": 73607,
+      "offset_end": 73681,
+      "text": "之驊只好用手來回\n提沙，一天下來，提的沙少得可憐。\n\n122\n\n\f一天能賺一塊二的夢就此破滅。\n有一隊學生模樣的人經過之驊擔沙的地方，個個談笑風生。",
+      "prompt": "A lone, weary young man is struggling to carry a meager amount of sand with his bare hands, the meager earnings from which are clearly insufficient for his aspirations. Nearby, a group of carefree students pass by, their laughter contrasting sharply with his arduous labor, set against a dusty, utilitarian backdrop. The style should be realistic with a touch of social commentary, utilizing muted, earthy tones and harsh, unforgiving sunlight.",
+      "image": "reader_images/reader_20260316_224546.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 348180652,
+      "created_at": "2026-03-16T22:45:46.411608+08:00"
     }
   ],
   "book_total_chars": 92814,
