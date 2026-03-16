@@ -13271,6 +13271,18 @@
       "image_model": "imagen-4",
       "seed": 1388819654,
       "created_at": "2026-03-16T22:48:18.509642+08:00"
+    },
+    {
+      "id": "20260316_224845",
+      "offset_start": 73747,
+      "offset_end": 73821,
+      "text": "」\n之驊臉紅了，說：「是。」\n技術員說：「一個小女孩怎麼能幹這種重活？喫不消的。」\n之驊說：「我也不想幹這活。我有文化，讀了三年中專，但學校停辦了。",
+      "prompt": "A young woman in worn, dusty work clothes stands at a rural construction site, her face flushed with embarrassment as she speaks to an older technician in a light jacket. Her delicate features and three-year vocational school education contrast sharply with the heavy labor surrounding her — buckets, building materials, and harsh sunlight. Social realist painting style with",
+      "image": "reader_images/reader_20260316_224845.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 2090451498,
+      "created_at": "2026-03-16T22:48:45.858369+08:00"
     }
   ],
   "book_total_chars": 92814,
