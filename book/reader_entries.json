@@ -12971,6 +12971,18 @@
       "image_model": "grok-imagine",
       "seed": 415968905,
       "created_at": "2026-03-16T20:04:45.659490+08:00"
+    },
+    {
+      "id": "20260316_200734",
+      "offset_start": 72199,
+      "offset_end": 72275,
+      "text": "秋園說：「要是找不到事做，又沒路費回家，怎麼得了！」\n陳大姐說：「要是找不到事做，回家的路費歸我，總可以吧？」\n秋園心想：莫不是命不該絕，遇上了好人。",
+      "prompt": "A middle-aged Chinese woman in worn 1960s rural clothing sits on a wooden stool in a dim, modest adobe room, her face worried and desperate, hands clasped anxiously in her lap. A kind-faced older woman in a blue cloth jacket stands nearby, speaking reassuringly with a gentle expression, one hand raised in a comforting gesture. Warm afternoon light streams",
+      "image": "reader_images/reader_20260316_200734.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 401723654,
+      "created_at": "2026-03-16T20:07:34.825558+08:00"
     }
   ],
   "book_total_chars": 92814,
