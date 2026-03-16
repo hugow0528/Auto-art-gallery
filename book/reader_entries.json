@@ -14267,6 +14267,18 @@
       "image_model": "imagen-4",
       "seed": 1700776917,
       "created_at": "2026-03-17T05:09:18.913666+08:00"
+    },
+    {
+      "id": "20260317_051002",
+      "offset_start": 79210,
+      "offset_end": 79324,
+      "text": "洗\n罷澡，穿戴齊整，便找來根棕繩拿在手裡。臨了，想起來還要梳個頭，決不能蓬\n頭散發，便把亂發仔仔細細地抿齊在耳根。哪知眼睛剛碰到鏡子，就望見裡面有\n個女人，一根繩子從脖子上繞過耳邊往上吊着，眼睛睜着，舌頭伸得老長，鮮紅\n鮮紅的。",
+      "prompt": "A woman, freshly bathed and meticulously dressed, stands before a tarnished mirror in a dimly lit, austere room. Her reflection distorts, revealing a horrifying apparition with a rope around its neck, eyes wide in terror, and a blood-red tongue lolling out. The scene is rendered in a dark, surrealist oil painting style, emphasizing psychological dread and distorted reality.",
+      "image": "reader_images/reader_20260317_051002.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 260039166,
+      "created_at": "2026-03-17T05:10:02.574278+08:00"
     }
   ],
   "book_total_chars": 92814,
