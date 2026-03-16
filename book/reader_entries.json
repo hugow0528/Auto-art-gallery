@@ -13991,6 +13991,18 @@
       "image_model": "flux",
       "seed": 1623829425,
       "created_at": "2026-03-17T03:37:36.593971+08:00"
+    },
+    {
+      "id": "20260317_033933",
+      "offset_start": 77701,
+      "offset_end": 77831,
+      "text": "田四說：「要不了四個，有兩個就夠了。」\n秋園說：「肯定有沒帶飯的同學，你給他們喫吧。」\n田四一臉興奮，打了聲招呼就走了。\n下午三點左右，一個學生帶着田四的書包找到秋園說：「有個叫楊子平的初三同\n學在河裡玩水一直沒上來，只怕出了事，是一個在河邊車水的老人講的。",
+      "prompt": "A somber, overcast afternoon unfolds by a wide, slow-moving river, its murky waters reflecting the muted sky. A group of anxious students, some in school uniforms, huddle near the riverbank, their faces etched with worry. One student, holding a worn backpack, gestures urgently towards the water, while an elderly man, a water-carrier, stands nearby, his expression grave. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, emphasizing the flowing lines of the water and the emotional weight of the moment.",
+      "image": "reader_images/reader_20260317_033933.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 1682787968,
+      "created_at": "2026-03-17T03:39:33.113990+08:00"
     }
   ],
   "book_total_chars": 92814,
