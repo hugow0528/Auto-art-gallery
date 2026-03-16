@@ -13331,6 +13331,18 @@
       "image_model": "klein",
       "seed": 896154893,
       "created_at": "2026-03-16T23:13:07.394248+08:00"
+    },
+    {
+      "id": "20260316_231754",
+      "offset_start": 74108,
+      "offset_end": 74172,
+      "text": "工作組的同志三令五申，說要是查到隊上有外來人口，必定一追到底，後果\n自負。在如此政策攻勢下，誰又敢膽大包天，擅自收留外來人口呢？",
+      "prompt": "A tense scene in a humble rural Chinese village courtyard at dusk, where a group of nervous villagers gathered around a notice board studying propaganda posters about tracking foreign outsiders, their faces illuminated by a single flickering lantern with an atmosphere of fear and suspicion. The sky is overcast, the walls are covered with political slogans, and a work team official in a blue jacket stands sternly at the village entrance. The mood is somber and oppressive, rendered in a cinematic realistic style with muted earth tones, capturing the paranoia and strict surveillance of this isolated farming community during a political campaign.",
+      "image": "reader_images/reader_20260316_231754.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1701962381,
+      "created_at": "2026-03-16T23:17:54.870813+08:00"
     }
   ],
   "book_total_chars": 92814,
