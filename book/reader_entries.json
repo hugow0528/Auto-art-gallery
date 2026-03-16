@@ -13115,6 +13115,18 @@
       "image_model": "gptimage",
       "seed": 1477016687,
       "created_at": "2026-03-16T22:02:45.352615+08:00"
+    },
+    {
+      "id": "20260316_220310",
+      "offset_start": 72949,
+      "offset_end": 73019,
+      "text": "劣質的煙草味交織着汗臭味，燻得人只想嘔吐。之驊\n閉緊眼睛，抿着嘴巴，任由車子開去。\n總算到了永寧縣，下了汽車，她一路打聽，終於找到了建築隊。",
+      "prompt": "A crowded, decrepit bus interior suffused with acrid smoke and body odor, dim natural light filtering through grimy windows. A woman sits with eyes shut tight, lips pressed together, her face etched with disgust and resignation as the vehicle lurches forward. The scene transitions to the dusty streets of a rural Chinese town—Yongning County—where she stands alone, squinting against bright sunlight, searching among construction workers and building sites. Realistic, gritty documentary style with desaturated colors, capturing both the claustrophobic discomfort of the journey and the stark, uncertain atmosphere of arrival in an unfamiliar place.",
+      "image": "reader_images/reader_20260316_220310.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 231192420,
+      "created_at": "2026-03-16T22:03:10.862674+08:00"
     }
   ],
   "book_total_chars": 92814,
