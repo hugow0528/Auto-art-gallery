@@ -13283,6 +13283,18 @@
       "image_model": "zimage",
       "seed": 2090451498,
       "created_at": "2026-03-16T22:48:45.858369+08:00"
+    },
+    {
+      "id": "20260316_225126",
+      "offset_start": 73821,
+      "offset_end": 73903,
+      "text": "聽別人\n說江西好找工作，就到江西來了，一時找不到別的事，只好來挑沙……」\n技術員說：「離這不遠有所共產主義勞動大學，半工半讀，除了喫飯不要錢，每\n月還有四塊零用錢。",
+      "prompt": "A solitary figure, weathered and weary, scoops sand from a riverbank under a pale, overcast sky, the dull glint of the damp grains reflecting the grim reality of their labor. In the distance, a stark, functional building, emblazoned with \"Communist Labor University,\" hints at a starkly different, perhaps equally challenging, future. The overall mood is one of quiet desperation and muted hope, rendered in a gritty, realistic style with desaturated colors and a diffused, natural light.",
+      "image": "reader_images/reader_20260316_225126.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1858366755,
+      "created_at": "2026-03-16T22:51:26.707921+08:00"
     }
   ],
   "book_total_chars": 92814,
