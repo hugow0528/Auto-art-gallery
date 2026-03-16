@@ -14123,6 +14123,18 @@
       "image_model": "gptimage",
       "seed": 1471303116,
       "created_at": "2026-03-17T04:03:25.725339+08:00"
+    },
+    {
+      "id": "20260317_040432",
+      "offset_start": 78405,
+      "offset_end": 78507,
+      "text": "你看他的腿還是跪着的，他不肯去，向鬼求情，但鬼就是不放過他。命該如此！\n人死不能復生，你要想開些。」\n秋園哭道：「陽間有惡人，陰間有惡鬼，逃過一劫又一劫，不知我前世造了什麼\n孽，今生今世要受這麼多苦難！",
+      "prompt": "A grief-stricken woman kneels in the rain in a dark, historical Chinese courtyard, her face etched with despair as she looks up at a looming, translucent ghost. The scene is rendered in the style of a classical Chinese ink painting, with dramatic shadows, a moody blue-black palette, and the faint glow of paper lanterns cutting through the misty night.",
+      "image": "reader_images/reader_20260317_040432.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 273870534,
+      "created_at": "2026-03-17T04:04:32.864561+08:00"
     }
   ],
   "book_total_chars": 92814,
