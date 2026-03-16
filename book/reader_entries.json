@@ -14159,6 +14159,18 @@
       "image_model": "flux",
       "seed": 226767955,
       "created_at": "2026-03-17T04:22:26.874751+08:00"
+    },
+    {
+      "id": "20260317_042445",
+      "offset_start": 78580,
+      "offset_end": 78701,
+      "text": "人們用門板抬着田四，王成恩背着秋園眼淚橫流，愛民在一旁扶着。王成恩叨念\n着：「是我沒福氣，留不住這個兒子。」\n\n131\n\n\f秋園撕心裂肺地痛哭，嘴裡不停地念着：「一個好好的兒子、一個好聽話的兒\n子，上午高高興興地出去，下午變成這個樣子回來。",
+      "prompt": "A somber, traditional Chinese ink wash painting depicts a scene of profound grief. A man, Wang Chengen, weeps uncontrollably as he carries a younger boy, Qiuyuan, who is also crying hysterically. They are supported by others carrying the deceased, Tian Si, on a wooden plank, all set against a stark, desolate background under a darkening sky. The atmosphere is heavy with loss and despair, rendered in muted tones of black and grey with delicate brushstrokes.",
+      "image": "reader_images/reader_20260317_042445.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 777504287,
+      "created_at": "2026-03-17T04:24:45.665627+08:00"
     }
   ],
   "book_total_chars": 92814,
