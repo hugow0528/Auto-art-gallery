@@ -12047,6 +12047,18 @@
       "image_model": "zimage",
       "seed": 501305713,
       "created_at": "2026-03-16T14:23:10.253910+08:00"
+    },
+    {
+      "id": "20260316_144947",
+      "offset_start": 67165,
+      "offset_end": 67250,
+      "text": "隨着月亮的移\n動，光柱也在房裡移動，照在仁受白中泛青的臉上。子恆已從學校趕回，一家人\n圍坐在仁受身邊。油燈幽幽地亮着，仁受時而睜眼看看孩子們，時而閉眼好似睡\n着了般安靜。",
+      "prompt": "A solemn domestic scene in a dimly lit traditional Chinese bedroom at night, soft moonlight streams through a window casting moving light across a pale, frail father lying in bed, his face tinged with an ashen blue-green hue, surrounded by his children sitting quietly around him, a single oil lamp flickers with a warm amber glow, capturing a tender moment of quiet devotion and impending loss, cinematic realism with muted colors, soft chiaroscuro lighting, melancholic atmosphere, like a scene from an Asian period drama.",
+      "image": "reader_images/reader_20260316_144947.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1764022275,
+      "created_at": "2026-03-16T14:49:47.816878+08:00"
     }
   ],
   "book_total_chars": 92814,
