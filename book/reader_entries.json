@@ -11723,6 +11723,18 @@
       "image_model": "grok-imagine",
       "seed": 1886621919,
       "created_at": "2026-03-16T13:07:39.455789+08:00"
+    },
+    {
+      "id": "20260316_132251",
+      "offset_start": 65644,
+      "offset_end": 65722,
+      "text": "走在一條傍山的小路上，後面來了個老倌子，手裡提只黑雞婆。\n秋園心想：要是能買到這隻黑雞婆就好了，黑雞婆最補。她便試探着問：「老人\n家提只雞，是去走親戚嗎？",
+      "prompt": "A Chinese woman in traditional clothing walks along a winding mountain path beside terraced fields, turning to look back at an elderly farmer approaching from behind, carrying a live black hen in his hands. Soft golden afternoon light illuminates the rural landscape of rolling hills and scattered farmhouses. Style: warm, nostalgic Chinese rural realism painting with detailed traditional details and peaceful atmosphere.",
+      "image": "reader_images/reader_20260316_132251.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1196376493,
+      "created_at": "2026-03-16T13:22:51.627647+08:00"
     }
   ],
   "book_total_chars": 92814,
