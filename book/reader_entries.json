@@ -12215,6 +12215,18 @@
       "image_model": "imagen-4",
       "seed": 2111862004,
       "created_at": "2026-03-16T15:50:28.608460+08:00"
+    },
+    {
+      "id": "20260316_155149",
+      "offset_start": 68076,
+      "offset_end": 68166,
+      "text": "難過的是接下來家裡諸事全要靠媽媽一個人撐着，不忍心啊！\n報到前的半個月，之驊常常天不亮就起牀，要麼出工，要麼挖土，要麼上山搞柴\n火，直做到月亮出來才回家……恨不得把家裡的事全做完。",
+      "prompt": "A young man named Zhi Hua, with a determined expression and sweat-drenched simple work clothes, digs soil tirelessly on a misty rural hillside at dawn, his sturdy hoe striking the earth amid scattered firewood bundles and rocky terrain, as the pale pre-dawn sky hints at the emerging moon on the horizon. The atmosphere evokes poignant hardship and familial devotion, with dim twilight lighting casting long shadows over lush green mountains and a distant thatched village home. Render in a realistic cinematic style like a poignant Chinese rural drama film still, with earthy tones, soft volumetric fog, and high detail on weathered textures and subtle emotional intensity.",
+      "image": "reader_images/reader_20260316_155149.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1114808587,
+      "created_at": "2026-03-16T15:51:49.820495+08:00"
     }
   ],
   "book_total_chars": 92814,
