@@ -11603,6 +11603,18 @@
       "image_model": "flux",
       "seed": 1910351461,
       "created_at": "2026-03-16T12:37:39.502670+08:00"
+    },
+    {
+      "id": "20260316_124640",
+      "offset_start": 65010,
+      "offset_end": 65095,
+      "text": "現在堵住了屁眼，就是屙不出……」\n大家面面相覷：這次分的一點谷，人人都是連殼磨成粉喫的，誰都逃不過這一劫\n啊！二痞子連忙找了根棍子，一下一下幫長根老倌把屎從屁眼裡撥出來。",
+      "prompt": "In a dimly lit, cramped rural Chinese hut during a famine, ragged peasants in threadbare clothes huddle in awkward dismay around an elderly man bent over on all fours, grimacing in pain as his buttocks are blocked. A scruffy young rogue kneels behind him, grimly prodding a wooden stick into the blockage to dislodge the stubborn feces, while stunned onlookers exchange horrified glances amid scattered husks of poorly milled grain. Render in stark realism with earthy tones, harsh shadows from a single oil lamp, evoking raw desperation and gritty humiliation in the style of 19th-century Chinese woodblock prints.",
+      "image": "reader_images/reader_20260316_124640.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 844171247,
+      "created_at": "2026-03-16T12:46:40.805033+08:00"
     }
   ],
   "book_total_chars": 92814,
