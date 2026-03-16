@@ -12623,6 +12623,18 @@
       "image_model": "zimage",
       "seed": 751688348,
       "created_at": "2026-03-16T18:13:23.507932+08:00"
+    },
+    {
+      "id": "20260316_181540",
+      "offset_start": 70212,
+      "offset_end": 70283,
+      "text": "何況她身\n上只有三塊錢，只夠買張到宜春的火車票，別無選擇。\n\n116\n\n\f四\n天一亮，秋園就帶着賠三和田四，連同少得可憐的幾件換洗衣服上路了。",
+      "prompt": "A young woman, Qiu Yuan, with two children, Pei San and Tian Si, stand on a dusty train platform at dawn. They carry meager bundles of belongings. The atmosphere is somber and hopeful, with the early morning light casting long shadows. The art style is a muted, realist oil painting with a touch of melancholy.",
+      "image": "reader_images/reader_20260316_181540.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1014008909,
+      "created_at": "2026-03-16T18:15:40.394664+08:00"
     }
   ],
   "book_total_chars": 92814,
