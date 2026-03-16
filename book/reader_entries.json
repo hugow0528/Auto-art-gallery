@@ -11339,6 +11339,18 @@
       "image_model": "grok-imagine",
       "seed": 610935846,
       "created_at": "2026-03-16T10:40:24.011985+08:00"
+    },
+    {
+      "id": "20260316_104630",
+      "offset_start": 63508,
+      "offset_end": 63592,
+      "text": "」\n張跛子一把拿過狗鋼刺，高高舉起，一鞭一鞭、穩穩噹噹落在範麻子背上，就像\n平時犁田打牛那樣。每打一下，範麻子就咬一次牙，慢慢地，他背上沁出一層溼\n漉漉、黏糊糊的東西。",
+      "prompt": "A crippled man in peasant clothes stands with raised arm, holding a heavy iron-tipped whip, in a sun-drenched rural courtyard beside a plowed field. A second man kneels bare-backed in the dirt, his skin glistening with fresh welts, teeth clenched against pain, surrounded by dry earth and scattered farming tools. The scene carries a gritty, documentary realism with harsh midday light casting stark shadows, capturing the brutal",
+      "image": "reader_images/reader_20260316_104630.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1335571063,
+      "created_at": "2026-03-16T10:46:30.324842+08:00"
     }
   ],
   "book_total_chars": 92814,
