@@ -12767,6 +12767,18 @@
       "image_model": "imagen-4",
       "seed": 856998844,
       "created_at": "2026-03-16T19:10:19.802437+08:00"
+    },
+    {
+      "id": "20260316_191153",
+      "offset_start": 71085,
+      "offset_end": 71190,
+      "text": "宜春並不繁華。明晃晃的太陽懸在頭上，之驊兩頓沒喫飯了，飢腸轆轆。她顧不\n得那麼多，匆匆在街上走着，痛苦而幸福地流浪。幸福是因爲心中有希望，每到\n一個單位或工廠，她總是以企盼的心情走進去，又以失望的心情走出來。",
+      "prompt": "A young woman with an empty stomach walks through a sparsely populated, not-so-prosperous town under a stark, bright sun. Despite her hunger and the general desolation, her expression holds a flicker of hope as she approaches a building, suggesting an ongoing search for opportunity. The scene is rendered in a realist style, with harsh lighting emphasizing the grit and struggle of her journey.",
+      "image": "reader_images/reader_20260316_191153.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 366607280,
+      "created_at": "2026-03-16T19:11:53.548052+08:00"
     }
   ],
   "book_total_chars": 92814,
