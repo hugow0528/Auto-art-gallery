@@ -12191,6 +12191,18 @@
       "image_model": "flux",
       "seed": 462047072,
       "created_at": "2026-03-16T15:46:55.576769+08:00"
+    },
+    {
+      "id": "20260316_154750",
+      "offset_start": 67921,
+      "offset_end": 68004,
+      "text": "」\n讀書是之驊心心念念卻好像永遠也盼不到的事情，天曉得她多想去念書啊！但家\n裏這種情況又怎能一走了之？她連忙說：「不行不行，我在家裡可以做很多事，\n媽媽可以少喫些苦。",
+      "prompt": "A young woman sits in a modest, sparsely furnished traditional Chinese room with wooden beams and paper windows, her face etched with longing and resignation. Books are stacked nearby on a simple wooden desk, representing her unfulfilled dreams of education, while her hands are positioned as if ready to return to household chores. Soft, diffused natural light filters through the windows, casting gentle shadows that emphasize the melancholy atmosphere of duty weighing against desire. The artistic style should be realistic with muted, earthy tones—browns, grays, and soft blues—capturing the quiet sacrifice and internal conflict of a girl torn between her intellectual aspirations and family obligations in early 20th-century China.",
+      "image": "reader_images/reader_20260316_154750.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1447864172,
+      "created_at": "2026-03-16T15:47:50.482836+08:00"
     }
   ],
   "book_total_chars": 92814,
