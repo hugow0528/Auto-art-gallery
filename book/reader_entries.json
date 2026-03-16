@@ -12647,6 +12647,18 @@
       "image_model": "flux",
       "seed": 512567285,
       "created_at": "2026-03-16T18:17:11.226395+08:00"
+    },
+    {
+      "id": "20260316_181827",
+      "offset_start": 70368,
+      "offset_end": 70442,
+      "text": "火車站裡人如潮水，男女老少都有。有的大腹便便，一臉浮腫；有的枯瘦乾癟，\n肋條稜稜可數。飢餓使他們變得不像人樣，驅使他們離鄉背井，到異地去討生\n活。",
+      "prompt": "A desolate train station crowded with emaciated and swollen figures, their faces etched with hunger and exhaustion, huddled together under dim, dusty light in a haunting photorealistic style, capturing despair and displacement.",
+      "image": "reader_images/reader_20260316_181827.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 434369323,
+      "created_at": "2026-03-16T18:18:27.972727+08:00"
     }
   ],
   "book_total_chars": 92814,
