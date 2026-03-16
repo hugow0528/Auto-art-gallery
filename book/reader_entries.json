@@ -11447,6 +11447,18 @@
       "image_model": "imagen-4",
       "seed": 47130220,
       "created_at": "2026-03-16T11:47:10.626731+08:00"
+    },
+    {
+      "id": "20260316_114823",
+      "offset_start": 64146,
+      "offset_end": 64225,
+      "text": "大家還是紋絲不動、閉口不語，滿屋人像木頭樣。\n秋園和八娭毑去給隊上的白菜施肥。八娭毑五十多歲，長得五大三粗，一輩子沒\n生育過，丈夫幾年前去世，如今是個孤寡人。",
+      "prompt": "A dimly lit, rustic room, heavy with an oppressive silence, where figures sit rigidly like uncarved wood. In the distance, two women, one elderly and stout, the other younger, are stooped over rows of cabbages in an autumn garden, their silhouettes stark against the fading light. The mood is somber and rural, rendered in the style of a classical Chinese ink painting with a touch of melancholy.",
+      "image": "reader_images/reader_20260316_114823.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1815178341,
+      "created_at": "2026-03-16T11:48:23.743936+08:00"
     }
   ],
   "book_total_chars": 92814,
