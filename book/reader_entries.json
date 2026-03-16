@@ -14675,6 +14675,18 @@
       "image_model": "flux",
       "seed": 979687033,
       "created_at": "2026-03-17T07:51:46.227205+08:00"
+    },
+    {
+      "id": "20260317_075537",
+      "offset_start": 81543,
+      "offset_end": 81606,
+      "text": "你一定要照\n我說的去做，否則我死不瞑目。等把我安葬完了，你就趕緊回老家，切莫拖延時\n間。媳婦不是盞省油的燈，對你不可能有感情。",
+      "prompt": "An elderly man lies on a simple wooden bed in a dimly lit, humble room, his weathered face gaunt and desperate, gripping the hand of his grown son who kneels beside him, his eyes filled with urgency and sorrow as he delivers final instructions. The room is sparse with only a few basic furnishings, a flickering oil lamp casting warm amber light across worn bedding, while dust motes float in the shaft of light. Traditional Chinese rural interior, dark and moody atmosphere, realistic style, muted earth tones with subtle warm lighting emphasizing the emotional weight of this final moment.",
+      "image": "reader_images/reader_20260317_075537.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 343346249,
+      "created_at": "2026-03-17T07:55:37.903982+08:00"
     }
   ],
   "book_total_chars": 92814,
