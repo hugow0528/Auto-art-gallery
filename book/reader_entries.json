@@ -14591,6 +14591,18 @@
       "image_model": "zimage",
       "seed": 815041447,
       "created_at": "2026-03-17T07:27:09.934412+08:00"
+    },
+    {
+      "id": "20260317_072805",
+      "offset_start": 81006,
+      "offset_end": 81078,
+      "text": "你老家有兒有女，現在是回去的時候\n了。回去了，有親生骨肉陪伴，思子之痛會好得快一點。等你復原了，想來就\n來，不想來就不要來了，好好在家裡度晚年。",
+      "prompt": "A serene, traditional Chinese courtyard at dusk, with soft, warm lantern light casting long shadows. An elderly woman, perhaps a mother, sits by a window, her expression a mixture of longing and gentle peace, gazing towards a path leading out of the courtyard. The scene is rendered in a style reminiscent of classical Chinese ink wash paintings, with a focus on atmospheric perspective and muted, natural colors.",
+      "image": "reader_images/reader_20260317_072805.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 141684808,
+      "created_at": "2026-03-17T07:28:06.001047+08:00"
     }
   ],
   "book_total_chars": 92814,
