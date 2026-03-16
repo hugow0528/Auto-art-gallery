@@ -11711,6 +11711,18 @@
       "image_model": "imagen-4",
       "seed": 1980679738,
       "created_at": "2026-03-16T13:06:53.944602+08:00"
+    },
+    {
+      "id": "20260316_130739",
+      "offset_start": 65556,
+      "offset_end": 65644,
+      "text": "有人暗地裡對秋園說：「楊老師不是病，是餓成這樣的。要是能買只雞給他補\n補，增加些營養，保管會好起來。」\n事情也湊巧。有一天，秋園帶上家裡僅餘的錢，預備去集鎮上給仁受買消腫藥。",
+      "prompt": "A dimly lit, sparse room in rural China, dust motes dancing in the weak sunlight filtering through a grimy window. A gaunt, emaciated man, Yang Laoshi, lies frail on a simple cot, his eyes hollow. Another figure, Qiuyuan, stands by, clutching a small, worn purse with a look of deep concern and quiet desperation. The scene evokes a somber, impoverished atmosphere, rendered in the style of traditional Chinese ink wash painting with a touch of realism.",
+      "image": "reader_images/reader_20260316_130739.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1886621919,
+      "created_at": "2026-03-16T13:07:39.455789+08:00"
     }
   ],
   "book_total_chars": 92814,
