@@ -12611,6 +12611,18 @@
       "image_model": "gptimage",
       "seed": 1610851719,
       "created_at": "2026-03-16T18:08:12.846519+08:00"
+    },
+    {
+      "id": "20260316_181323",
+      "offset_start": 70145,
+      "offset_end": 70212,
+      "text": "到了火車站，之驊看看周圍，沒幾個像樣的人，也許他們都和她一樣準備「外\n流」吧。可去哪兒呢？湖南和江西是近鄰，之驊聽說江西要比湖南好。",
+      "prompt": "A young Chinese woman, Zhihua, stands on a dimly lit, slightly grimy train platform in a rural Chinese city. She appears hesitant and a little out of place amidst a sparse crowd of ordinary-looking travelers, suggesting a sense of displacement and quiet desperation. The atmosphere is melancholic and uncertain, with a focus on her contemplative expression. The art style is reminiscent of a realistic, slightly muted oil painting with a touch of cinematic noir.",
+      "image": "reader_images/reader_20260316_181323.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 751688348,
+      "created_at": "2026-03-16T18:13:23.507932+08:00"
     }
   ],
   "book_total_chars": 92814,
