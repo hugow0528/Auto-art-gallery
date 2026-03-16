@@ -13163,6 +13163,18 @@
       "image_model": "grok-imagine",
       "seed": 1804968156,
       "created_at": "2026-03-16T22:11:01.967770+08:00"
+    },
+    {
+      "id": "20260316_221858",
+      "offset_start": 73270,
+      "offset_end": 73365,
+      "text": "這麼多錢，不會算錯吧？又算了一遍，確實沒錯。這麼說很快就有錢寄給家裡\n了。\n收工時，人幾乎散了架，好不容易走到寄住的朱叔叔親戚家，坐到椅子上就站不\n起來，雙腳錐心般疼痛，雙肩更是不能碰觸。",
+      "prompt": "A young female factory worker, exhausted and physically drained, sits collapsed in a worn wooden chair in a modest rented room, her body barely holding together. Her shoulders are tense and untouchable, her legs throbbing with sharp, piercing pain as she stares at the money in her hands—calculating it again to confirm it's real, knowing she can finally send it home to her family. The scene is dimly lit by a single bare bulb, casting long shadows across the sparse room, with muted earth tones and a gritty, realistic style that captures both the weight of her exhaustion and a glimmer of hope. The atmosphere is heavy with fatigue yet tinged with quiet determination, her expression mixing pain with the bittersweet relief of survival.",
+      "image": "reader_images/reader_20260316_221858.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 396082571,
+      "created_at": "2026-03-16T22:18:58.459983+08:00"
     }
   ],
   "book_total_chars": 92814,
