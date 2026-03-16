@@ -12887,6 +12887,18 @@
       "image_model": "grok-imagine",
       "seed": 1263221304,
       "created_at": "2026-03-16T19:41:29.287561+08:00"
+    },
+    {
+      "id": "20260316_195504",
+      "offset_start": 71837,
+      "offset_end": 71909,
+      "text": "陳大姐忽然瞪着大眼睛，看着秋園說：「你還要回湘陰？回不得，你們湘陰比我\n們衡陽還要差，餓死幾多人！」\n秋園說：「湘陰是我老家，不回去又回哪裡！",
+      "prompt": "First, the user asks me to create an image-generation prompt based on a Chinese literary passage. I need to respond ONLY with the prompt in English—no explanations, translations, or markdown.\n\nThe passage is about Chen Dajie and Qiuyuan discussing whether to return to Xiangyin. Chen Dajie is warning Qiuyuan that Xiangyin is worse than Hengyang, with many people starving. Qiuyuan insists on returning because it's her hometown.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. Keep it to 2–4 sentences as specified.\n\nKey elements from the passage:\n\n- Characters: Chen Dajie and Qiuyuan. Chen Dajie has \"big eyes\" and is瞪着眼睛 (staring with wide eyes). Qiuyuan is determined to return to Xiangyin.\n\n- Setting: They are likely in a place where they're having this conversation. The passage doesn't specify, but it's a dialogue, so I can infer an indoor or outdoor setting relevant to the context. Since it's about hunger and hardship, the setting might reflect that.\n\n- Atmosphere: Tense, emotional, with concerns about starvation and hometown loyalty.\n\n- Visual essence: Focus on the characters' expressions, especially Chen Dajie's wide-eyed stare and Qiuyuan's resolve.\n\n- Artistic style: Since it's literary, I might choose",
+      "image": "reader_images/reader_20260316_195504.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 839183915,
+      "created_at": "2026-03-16T19:55:04.283725+08:00"
     }
   ],
   "book_total_chars": 92814,
