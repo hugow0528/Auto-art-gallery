@@ -13655,6 +13655,18 @@
       "image_model": "imagen-4",
       "seed": 967759205,
       "created_at": "2026-03-17T01:19:40.998439+08:00"
+    },
+    {
+      "id": "20260317_013057",
+      "offset_start": 75846,
+      "offset_end": 75937,
+      "text": "可看大家喫得津津有味，她\n覺得不喫划不來，就霸蠻喫，還真喫上了癮，越喫越好喫。\n炎熱的夏天，秋園喫罷晚飯就開始洗衣服。王成恩就拿張小凳子，坐在身邊替她\n打扇，怕她熱，也怕她被蚊子咬。",
+      "prompt": "A hot, humid summer evening in a rural Chinese courtyard. A young woman, Wang Cheng'en, washes clothes by hand in a basin, sweat beading on her forehead, while a boy, Qiu Yuan, sits nearby on a small stool, fanning her to ward off the heat and mosquitoes. The scene is lit by the soft, warm glow of a single lantern, casting long shadows and creating a mood of quiet domesticity, rendered in the style of traditional Chinese ink wash painting.",
+      "image": "reader_images/reader_20260317_013057.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1699982923,
+      "created_at": "2026-03-17T01:30:57.644410+08:00"
     }
   ],
   "book_total_chars": 92814,
