@@ -11927,6 +11927,18 @@
       "image_model": "grok-imagine",
       "seed": 2046739494,
       "created_at": "2026-03-16T13:59:30.740732+08:00"
+    },
+    {
+      "id": "20260316_140210",
+      "offset_start": 66666,
+      "offset_end": 66736,
+      "text": "秋園氣得渾身發抖。\n張跛子陰陽怪氣地說：「你好闊啊！人家冇飯喫，你還有錢買雞喫。」\n說着，他對秋園當胸一推，秋園就從堂屋這頭跌撞到了那頭。",
+      "prompt": "A tense confrontation in a modest Chinese home during the early 20th century, with an angry woman trembling with rage facing a sneering, limping man in a dimly lit hall. The woman is being violently pushed backward across the wooden floor, her body caught mid-fall with dramatic motion and distress, while harsh shadows cast by dim lantern light emphasize the brutality and moral ugliness of the scene. The atmosphere is heavy with social tension and class conflict, rendered in a gritty, realistic style reminiscent of Chinese social realist cinema, with muted earth tones and stark lighting that highlights the vulnerability of the victim against her antagonist's cruel mockery.",
+      "image": "reader_images/reader_20260316_140210.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1226123100,
+      "created_at": "2026-03-16T14:02:10.187870+08:00"
     }
   ],
   "book_total_chars": 92814,
