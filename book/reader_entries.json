@@ -13847,6 +13847,18 @@
       "image_model": "flux",
       "seed": 1496182840,
       "created_at": "2026-03-17T02:36:36.977705+08:00"
+    },
+    {
+      "id": "20260317_023803",
+      "offset_start": 76852,
+      "offset_end": 76922,
+      "text": "走了足有上百裏路，才找到大隊\n部，隊部主任熱情地迎接學生們。\n大家就在大隊部安營紮寨，樓上住人，樓下做飯。之驊和一個女同學負責做飯、\n洗衣。",
+      "prompt": "Photorealistic oil painting style, late afternoon golden hour light filtering through dusty windows into a rustic brigade headquarters building. Two weary but determined students, one male and one female, are washing clothes in a large basin near a simple cooking area, while other students rest nearby with backpacks. Warm, humble atmosphere with worn wooden beams and practical revolutionary-era details.",
+      "image": "reader_images/reader_20260317_023803.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1877121103,
+      "created_at": "2026-03-17T02:38:03.407428+08:00"
     }
   ],
   "book_total_chars": 92814,
