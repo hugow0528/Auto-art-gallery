@@ -14423,6 +14423,18 @@
       "image_model": "imagen-4",
       "seed": 648513964,
       "created_at": "2026-03-17T06:07:25.034168+08:00"
+    },
+    {
+      "id": "20260317_061932",
+      "offset_start": 80088,
+      "offset_end": 80171,
+      "text": "她熟悉\n的氣味。鄉下的氣味。她就是從鄉下跑出來的，只要不再回到鄉下，她願意付出\n一切代價。\n天亮以後，大家從一個個蜂窩般的房間裡走出來，擁到牆上剛貼出的大紅喜報\n前。",
+      "prompt": "A somber, early morning scene in a cramped, densely packed village, where the air is thick with the smell of damp earth and woodsmoke. Figures emerge from identical, hive-like dwellings into a narrow alleyway, their faces etched with a mix of weariness and anticipation as they gather before a wall plastered with large, bright red celebratory announcements. The style is reminiscent of early 20th-century Chinese ink wash painting, with a muted color palette and a focus on atmospheric perspective.",
+      "image": "reader_images/reader_20260317_061932.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 189919358,
+      "created_at": "2026-03-17T06:19:32.992835+08:00"
     }
   ],
   "book_total_chars": 92814,
