@@ -13751,6 +13751,18 @@
       "image_model": "gptimage",
       "seed": 1101791080,
       "created_at": "2026-03-17T02:02:15.364720+08:00"
+    },
+    {
+      "id": "20260317_020715",
+      "offset_start": 76443,
+      "offset_end": 76512,
+      "text": "兄弟倆打扮得乾乾淨淨、整整齊齊，別\n人都說他們是雙胞胎。\n\n128\n\n\f十一\n共產主義勞動大學是所半工半讀的大學，上課一個月，勞動一個月。",
+      "prompt": "Two immaculately dressed twin brothers, appearing identical, stand side-by-side in a rustic, sun-dappled courtyard. The atmosphere is one of clean order and youthful innocence, with a slightly nostalgic, traditional Chinese aesthetic. The lighting is soft and natural, highlighting their neat attire and close resemblance.\n\nA vibrant, bustling campus scene at a \"Communism Labor University\" where students alternate between intense study in classrooms and hands-on labor in fields or workshops. The mood is a blend of diligent learning and practical work, with a strong sense of collective effort and socialist realism. Sunlight streams through windows, illuminating dust motes in the air, and casting strong shadows.",
+      "image": "reader_images/reader_20260317_020715.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1090938510,
+      "created_at": "2026-03-17T02:07:15.123047+08:00"
     }
   ],
   "book_total_chars": 92814,
