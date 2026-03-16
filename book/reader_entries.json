@@ -11411,6 +11411,18 @@
       "image_model": "flux",
       "seed": 579294728,
       "created_at": "2026-03-16T11:43:01.072859+08:00"
+    },
+    {
+      "id": "20260316_114526",
+      "offset_start": 63993,
+      "offset_end": 64069,
+      "text": "滿寶生帶着張跛子挨家挨戶地查，不查個水落石出就決不罷休。範麻子的鬥爭會\n過後，張跛子就被重用了。可是紅薯喫進了肚裡，再厲害也查不到，只能是無功\n而返。",
+      "prompt": "The passage describes an intense, determined search in a village setting. Two characters, Man Baosheng and Zhang Pozhi, are shown meticulously investigating house by house, with a resolute expression and a sense of urgency. The atmosphere is tense and gritty, illuminated by the dim, dusty light filtering through cracked windows of humble dwellings, rendered in a realistic, documentary style.",
+      "image": "reader_images/reader_20260316_114526.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 954335788,
+      "created_at": "2026-03-16T11:45:26.783413+08:00"
     }
   ],
   "book_total_chars": 92814,
