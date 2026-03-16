@@ -12311,6 +12311,18 @@
       "image_model": "zimage",
       "seed": 888655669,
       "created_at": "2026-03-16T16:11:12.354506+08:00"
+    },
+    {
+      "id": "20260316_161136",
+      "offset_start": 68500,
+      "offset_end": 68572,
+      "text": "日子實在難熬，秋園決定回趟洛陽娘家。如今，娘家只剩下大哥秋成，她想去看\n看大哥過得怎麼樣。要是能在洛陽找到事做，哪怕是替人做保姆，秋園都願意。",
+      "prompt": "A Chinese woman in her forties stands at a dusty rural road crossing, wearing worn but clean clothes, a small bundled cloth over her shoulder. Early morning light casts long shadows across the barren countryside as she looks toward the distant horizon, her expression mixed with determination and uncertainty. The scene conveys both poverty and quiet hope. Chinese realistic oil painting style with muted earth tones, subtle emotional depth, and documentary realism.",
+      "image": "reader_images/reader_20260316_161136.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1878734147,
+      "created_at": "2026-03-16T16:11:36.263610+08:00"
     }
   ],
   "book_total_chars": 92814,
