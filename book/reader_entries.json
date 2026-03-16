@@ -12839,6 +12839,18 @@
       "image_model": "imagen-4",
       "seed": 1141633961,
       "created_at": "2026-03-16T19:29:40.714818+08:00"
+    },
+    {
+      "id": "20260316_193311",
+      "offset_start": 71535,
+      "offset_end": 71606,
+      "text": "」\n之驊點點頭，說學校停辦了，自己跑出來找工作。\n他問：「你這裡有親戚還是熟人？」\n\n118\n\n\f之驊眼圈一紅，道：「什麼人都沒有，就我一個。",
+      "prompt": "A lone young student with red-rimmed eyes stands alone in a sparse train station, clutching a small bundle, their face showing the weight of having no family or friends in this strange city. Muted autumn lighting casts long shadows across the empty platform, emphasizing their vulnerability and isolation. The scene carries a bittersweet, documentary-style realism with soft natural light, capturing the emotional moment of displacement and loneliness",
+      "image": "reader_images/reader_20260316_193311.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 790108767,
+      "created_at": "2026-03-16T19:33:11.829565+08:00"
     }
   ],
   "book_total_chars": 92814,
