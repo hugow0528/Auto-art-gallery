@@ -12011,6 +12011,18 @@
       "image_model": "imagen-4",
       "seed": 153142575,
       "created_at": "2026-03-16T14:14:59.843041+08:00"
+    },
+    {
+      "id": "20260316_142104",
+      "offset_start": 67026,
+      "offset_end": 67103,
+      "text": "仁受的身體一天不如一天，漸漸由原來的乾瘦變爲水腫，腫腫消消，消消腫腫，\n就這樣拖着。\n「一腫一消，黃土一堆。」一家人提心弔膽地過着日子，好怕那一天到來。",
+      "prompt": "A frail, elderly woman with swollen limbs lies on a simple bed, her skin pale and taut. The room is dimly lit by a single oil lamp, casting long shadows that emphasize a somber, anxious atmosphere. A small family huddles near the bedside, their faces etched with worry and resignation. The scene is rendered in a realistic, muted oil painting style, evoking a sense of quiet despair and the inevitability of fate.",
+      "image": "reader_images/reader_20260316_142104.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 341435015,
+      "created_at": "2026-03-16T14:21:04.526495+08:00"
     }
   ],
   "book_total_chars": 92814,
