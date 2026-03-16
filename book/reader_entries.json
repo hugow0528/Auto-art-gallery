@@ -14003,6 +14003,18 @@
       "image_model": "flux",
       "seed": 1682787968,
       "created_at": "2026-03-17T03:39:33.113990+08:00"
+    },
+    {
+      "id": "20260317_034354",
+      "offset_start": 77831,
+      "offset_end": 77948,
+      "text": "」\n秋園聽了如五雷轟頂，邊哭邊喊：「不可能！不可能！四兒從來不玩水！」\n\n130\n\n\f但擺在面前的書包分明是田四的，「三好學生」獎狀上寫着他的名字，作文比賽\n的獎品上也明明白白寫着他的名字，白棉布襯衣還是秋園親手縫製的……哪會有\n錯？",
+      "prompt": "A distraught mother, Qiu Yuan, weeping amidst the chaos of a room, clutching her son's schoolbag and a \"Good Student\" award. The atmosphere is heavy with disbelief and sorrow, illuminated by harsh, unforgiving light that highlights her tear-streaked face and the mundane objects of her son's life. Artistic style: Realistic oil painting, emphasizing emotional intensity and a somber mood.",
+      "image": "reader_images/reader_20260317_034354.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1255505575,
+      "created_at": "2026-03-17T03:43:54.273520+08:00"
     }
   ],
   "book_total_chars": 92814,
