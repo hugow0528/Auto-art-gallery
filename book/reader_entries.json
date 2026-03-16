@@ -11915,6 +11915,18 @@
       "image_model": "flux-2-dev",
       "seed": 1921816195,
       "created_at": "2026-03-16T13:56:29.011943+08:00"
+    },
+    {
+      "id": "20260316_135930",
+      "offset_start": 66601,
+      "offset_end": 66666,
+      "text": "」隨即把買雞的經過講了一遍，還講了老倌子的樣子，並要求去找老倌子對\n質。\n「你少花言巧語，誰不曉得你，一貫不老實！」滿寶生呵斥道。",
+      "prompt": "A tense confrontation unfolds in a dimly lit, traditional Chinese courtyard. An older man, with a stern expression and weathered face, stands accused by a younger, agitated figure whose gestures convey righteous anger. The atmosphere is heavy with unspoken tension, rendered in the subdued tones and brushstrokes characteristic of classical Chinese ink wash painting.",
+      "image": "reader_images/reader_20260316_135930.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 2046739494,
+      "created_at": "2026-03-16T13:59:30.740732+08:00"
     }
   ],
   "book_total_chars": 92814,
