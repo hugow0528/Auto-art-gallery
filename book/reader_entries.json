@@ -13787,6 +13787,18 @@
       "image_model": "zimage",
       "seed": 855325878,
       "created_at": "2026-03-17T02:09:28.296122+08:00"
+    },
+    {
+      "id": "20260317_021234",
+      "offset_start": 76619,
+      "offset_end": 76714,
+      "text": "女生們手牽着手，穿着衣服，一步一步踏進河裡，選好合適的地方就蹲下去。之\n驊從河底撈起細細的粉沙，擦着身子。當夕陽最後也最柔弱的光芒被暮色遮住\n時，女生們雙手抱在胸前，邊笑邊跑，衝進蘆葦叢。",
+      "prompt": "A group of young women, silhouetted against a soft, fading sunset, run laughing into a dense thicket of reeds. The scene is rendered in the atmospheric, ink-wash style of traditional Chinese landscape painting, with a serene and slightly melancholic mood. The light is dim and ethereal, highlighting the silhouettes and the texture of the reeds against a darkening sky.",
+      "image": "reader_images/reader_20260317_021234.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 209803163,
+      "created_at": "2026-03-17T02:12:34.850320+08:00"
     }
   ],
   "book_total_chars": 92814,
