@@ -12719,6 +12719,18 @@
       "image_model": "klein",
       "seed": 871672845,
       "created_at": "2026-03-16T18:41:01.532938+08:00"
+    },
+    {
+      "id": "20260316_184126",
+      "offset_start": 70734,
+      "offset_end": 70796,
+      "text": "秋園心裡清楚，秀萍在趕她走。\n秋成每晚帶着秋園出門，說是去找事做。一到街上，他就趕緊買兩個熟雞蛋、一\n斤蒸紅薯給秋園他們喫。",
+      "prompt": "A dimly lit, atmospheric street scene in a rural Chinese town during autumn. Two figures, a young girl named Qiuyuan and an older boy, Qiucheng, are walking away from the viewer. Qiucheng is handing Qiuyuan a small bag containing two hard-boiled eggs and a sweet potato. The mood is one of quiet desperation and familial love, rendered in the style of a classic ink wash painting with a touch of melancholic realism.",
+      "image": "reader_images/reader_20260316_184126.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 606356609,
+      "created_at": "2026-03-16T18:41:26.746996+08:00"
     }
   ],
   "book_total_chars": 92814,
