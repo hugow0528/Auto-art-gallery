@@ -14507,6 +14507,18 @@
       "image_model": "flux",
       "seed": 504128215,
       "created_at": "2026-03-17T06:52:57.114853+08:00"
+    },
+    {
+      "id": "20260317_065359",
+      "offset_start": 80540,
+      "offset_end": 80621,
+      "text": "工作之餘，他打乒乓球、看電影、打撲克、到河裡\n遊泳一直遊到入秋。\n其實喬木林從前在籃球場上見過之驊。共大組織了男女籃球隊，輪流和本縣各個\n工廠、機關的學校打比賽。",
+      "prompt": "A dimly lit, outdoor basketball court at dusk, with a few young men in casual, slightly retro athletic wear playing a spirited game. The atmosphere is energetic but informal, with the focus on the dynamic movements of the players rather than perfect technique. In the background, a hint of a bustling Chinese town can be seen. Style: Realistic, with a touch of gritty urban art.",
+      "image": "reader_images/reader_20260317_065359.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 844754420,
+      "created_at": "2026-03-17T06:53:59.746960+08:00"
     }
   ],
   "book_total_chars": 92814,
