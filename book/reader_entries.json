@@ -11351,6 +11351,18 @@
       "image_model": "flux",
       "seed": 1335571063,
       "created_at": "2026-03-16T10:46:30.324842+08:00"
+    },
+    {
+      "id": "20260316_113217",
+      "offset_start": 63592,
+      "offset_end": 63687,
+      "text": "張跛子又一跛一跛跳到門外，不知從哪裡搞來一張溼漉漉的黃草紙。他叫人將範\n麻子的褂子掀起來，滿背的紅點點正朝外滲着血。張跛子把黃草紙往背上一貼，\n範麻子哎喲大叫一聲，豆大的汗珠一顆顆往下掉。",
+      "prompt": "A raw social realism scene: Zhang Bozi, a limping man, presses a wet yellow paper onto Fan Mazi's bloody back inside a dim, rustic room. Fan Mazi grimaces in pain, beads of sweat rolling down his face, under the stark light of a single oil lamp, rendered in a gritty, expressive ink-wash style.",
+      "image": "reader_images/reader_20260316_113217.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1631236655,
+      "created_at": "2026-03-16T11:32:17.587345+08:00"
     }
   ],
   "book_total_chars": 92814,
