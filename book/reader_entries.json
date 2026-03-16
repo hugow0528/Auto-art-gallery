@@ -13055,6 +13055,18 @@
       "image_model": "zimage",
       "seed": 193014389,
       "created_at": "2026-03-16T21:51:34.870365+08:00"
+    },
+    {
+      "id": "20260316_215609",
+      "offset_start": 72671,
+      "offset_end": 72755,
+      "text": "」\n子恆有一次回信說，賜福山的屋子已經不像個家了，一點點家具全被人搬光了，\n連碗筷都沒了，好一點的門框也被撬掉了。他還說，秋園若回湖南，不住老屋\n了，就和他住在學校裏。",
+      "prompt": "First, the user wants me to create an image-generation prompt based on a Chinese literary passage. The passage is about Zi Heng writing back that the house at Ci Fu Shan no longer looks like a home, with furniture gone, even bowls and chopsticks missing, and better door frames pried off. He also says that if Qiu Yuan returns to Hunan, she shouldn't stay in the old house but live with him at the school.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. It should include setting, atmosphere, any characters present, and artistic style. The response should be 2–4 sentences only, and in English only.\n\nMy response must be solely the image prompt—no explanations, translations, or markdown.\n\nKey elements from the passage:\n- Setting: Ci Fu Shan house, which is dilapidated, empty, with missing furniture and damaged door frames.\n- Atmosphere: Desolate, abandoned, somber, reflecting loss and neglect.\n- Characters: Possibly no one present in the scene, as the house is empty. But the passage mentions Zi Heng and Qiu Yuan, so I might include a character if it fits. However, the prompt should focus on the visual scene described. The passage is about the state of the house, so the scene might be of the empty house.\n- Artistic style: Since it's literary and likely historical or nostalgic, I should choose a style that evokes emotion, like realistic, somber,",
+      "image": "reader_images/reader_20260316_215609.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 412783101,
+      "created_at": "2026-03-16T21:56:09.428081+08:00"
     }
   ],
   "book_total_chars": 92814,
