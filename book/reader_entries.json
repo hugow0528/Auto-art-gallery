@@ -11627,6 +11627,18 @@
       "image_model": "gptimage",
       "seed": 1912140738,
       "created_at": "2026-03-16T12:47:24.258934+08:00"
+    },
+    {
+      "id": "20260316_124812",
+      "offset_start": 65095,
+      "offset_end": 65178,
+      "text": "後來幾天，人們連躲都不躲了，就在田邊上拱起屁股，你幫我撥，我幫你撥，連\n羞恥都顧不得了。有些人連血都撥了出來。人們臉色慘白，面無表情，唯有哎喲\n哎喲聲不斷傳入耳中。",
+      "prompt": "First, the user provided a Chinese literary passage. I need to create an image-generation prompt based on it. The passage describes: \"後來幾天，人們連躲都不躲了，就在田邊上拱起屁股，你幫我撥，我幫你撥，連羞恥都顧不得了。有些人連血都撥了出來。人們臉色慘白，面無表情，唯有哎喲哎喲聲不斷傳入耳中。\"\n\nTranslation: \"In the following days, people didn't even hide anymore, just arched their buttocks at the edge of the field, helping each other pick, not even caring about shame. Some even picked until blood came out. People's faces were pale, expressionless, with only the sounds of 'aiyo aiyo' constantly heard.\"\n\nKey elements:\n- Setting: Edge of a field, likely rural or agricultural.\n- Characters: People, presumably farmers or laborers.\n- Actions: Arching buttocks, helping each other pick something (possibly lice or parasites, based on context; \"撥\" can mean pick or remove, often used for picking lice).\n- Atmosphere: Desperate, shameful, painful, monotonous. People are exhausted, in pain, and indifferent.\n- Visual details: Pale faces, expressionless, blood, arched buttocks.\n- Sounds: \"哎喲哎喲\" which are sounds of pain or exertion.\n\nNow, I need to craft a vivid, detailed English image-generation prompt",
+      "image": "reader_images/reader_20260316_124812.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1891729293,
+      "created_at": "2026-03-16T12:48:12.418726+08:00"
     }
   ],
   "book_total_chars": 92814,
