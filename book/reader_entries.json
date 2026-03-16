@@ -12851,6 +12851,18 @@
       "image_model": "zimage",
       "seed": 790108767,
       "created_at": "2026-03-16T19:33:11.829565+08:00"
+    },
+    {
+      "id": "20260316_193405",
+      "offset_start": 71606,
+      "offset_end": 71669,
+      "text": "」\n他說：「你父親是個大好人啊，想不到落到這個地步，連累了子女。在山起臺\n時，我還抱過你呢。」\n這人叫朱義生，之驊喊他朱叔叔。",
+      "prompt": "An elderly Chinese man with weathered face and greying hair stands in a modest, dimly lit traditional room, speaking gently to a young woman beside him. His worn clothing and calloused hands suggest a life of labor, while a faint warm light from a window illuminates the nostalgic sorrow in his eyes as he recalls holding her as a child. The setting has bare wooden walls and simple furniture,",
+      "image": "reader_images/reader_20260316_193405.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1766138370,
+      "created_at": "2026-03-16T19:34:05.885275+08:00"
     }
   ],
   "book_total_chars": 92814,
