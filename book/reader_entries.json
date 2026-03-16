@@ -12035,6 +12035,18 @@
       "image_model": "gptimage",
       "seed": 344219451,
       "created_at": "2026-03-16T14:21:49.386563+08:00"
+    },
+    {
+      "id": "20260316_142310",
+      "offset_start": 67103,
+      "offset_end": 67165,
+      "text": "沒多\n久，仁受渾身腫得一按一個手印，還有水滲出來，人已是奄奄一息。\n月光從仁受睡房小小的木格窗裏透進來，形成一道細細的光柱。",
+      "prompt": "A severely ill man lies on a simple wooden bed, his swollen body barely visible under thin blankets in the darkness of a modest Chinese bedroom. Pale moonlight streams through a small wooden lattice window, creating a thin vertical beam of light that cuts through the dusty air. The atmosphere is heavy, tragic, and still, with only the faint glow illuminating the dying man's exhausted face.",
+      "image": "reader_images/reader_20260316_142310.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 501305713,
+      "created_at": "2026-03-16T14:23:10.253910+08:00"
     }
   ],
   "book_total_chars": 92814,
