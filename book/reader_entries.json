@@ -11651,6 +11651,18 @@
       "image_model": "flux",
       "seed": 628772729,
       "created_at": "2026-03-16T12:49:10.242864+08:00"
+    },
+    {
+      "id": "20260316_130225",
+      "offset_start": 65262,
+      "offset_end": 65330,
+      "text": "黃芩 籽極苦，蓖麻籽又有毒，兩樣都難以下咽。要是能挖到點腐爛的菜蔸煮\n熟，都能喫得津津有味。\n後來，就連黃芩\n\n籽和蓖麻籽都弄不到了。",
+      "prompt": "A desolate, sparse landscape in muted, earthy tones, perhaps a dry riverbed or barren field under a pale, overcast sky. In the foreground, a lone, gaunt figure, dressed in tattered, simple clothing, is picking through dry, broken plant stalks, conveying a sense of extreme hardship and scarcity. The overall mood is somber and melancholic, rendered in a realistic, gritty style reminiscent of traditional Chinese ink wash painting but with a heightened sense of desolation.",
+      "image": "reader_images/reader_20260316_130225.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1208959752,
+      "created_at": "2026-03-16T13:02:25.048647+08:00"
     }
   ],
   "book_total_chars": 92814,
