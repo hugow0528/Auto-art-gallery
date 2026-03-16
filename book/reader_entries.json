@@ -11831,6 +11831,18 @@
       "image_model": "grok-imagine",
       "seed": 482334511,
       "created_at": "2026-03-16T13:33:03.838831+08:00"
+    },
+    {
+      "id": "20260316_133335",
+      "offset_start": 66160,
+      "offset_end": 66233,
+      "text": "秋園向之驊使了個眼色，之驊就帶\n着兩個弟弟捂着嘴巴、咽着口水，逃也似的跑了。\n108\n\n\f秋園說：「這雞你一個人喫了有用，大家喫了，對誰都沒得用。",
+      "prompt": "A rustic, dimly lit autumn kitchen. A woman, Qiuyuan, with a determined yet compassionate expression, stands by a wooden table. She gestures towards a lone, roasted chicken, its skin glistening under the soft, warm glow of a single lantern, while two young boys, their faces a mix of hunger and reluctant obedience, are seen in the background, poised to flee. The scene is rendered in the style of traditional Chinese ink wash painting with a touch of dramatic chiaroscuro.",
+      "image": "reader_images/reader_20260316_133335.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 116177697,
+      "created_at": "2026-03-16T13:33:35.148496+08:00"
     }
   ],
   "book_total_chars": 92814,
