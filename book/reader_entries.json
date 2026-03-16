@@ -11567,6 +11567,18 @@
       "image_model": "flux",
       "seed": 969935896,
       "created_at": "2026-03-16T12:25:04.501368+08:00"
+    },
+    {
+      "id": "20260316_122659",
+      "offset_start": 64853,
+      "offset_end": 64948,
+      "text": "一天，全隊人在田裡做事，忽然聽到一個角落裡傳來不管不顧的呻吟聲，十分刺\n耳。人們循聲找去，原來是長根老倌在那裡屙屎。他拱着屁股，雙手撐地，黃豆\n大的汗珠不斷從臉上滾落，將泥地都弄溼了一片。",
+      "prompt": "An elderly farmer in traditional loose clothing squats awkwardly in a sun-drenched rice field, his weathered face contorted in visible strain, large drops of sweat glistening on his skin as he struggles with physical discomfort. The hot midday sun casts harsh shadows across the muddy",
+      "image": "reader_images/reader_20260316_122659.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1546876822,
+      "created_at": "2026-03-16T12:26:59.268540+08:00"
     }
   ],
   "book_total_chars": 92814,
