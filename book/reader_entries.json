@@ -11555,6 +11555,18 @@
       "image_model": "flux-2-dev",
       "seed": 715198795,
       "created_at": "2026-03-16T12:24:25.716657+08:00"
+    },
+    {
+      "id": "20260316_122504",
+      "offset_start": 64772,
+      "offset_end": 64853,
+      "text": "細伢子們個個低着頭，直勾勾地盯着田裡，生怕錯過根稻穗，撿到一根就面露喜\n色，稚嫩的眼睛閃閃發亮。他們可以在田裡待上大半天，撿了砸，砸了喫，孜孜\n不倦、持之以恆。",
+      "prompt": "In a sun-drenched rural Chinese rice paddy under a vast blue sky, a group of young children with bowed heads and tattered clothes intently scour the muddy fields, their small hands grasping scattered rice stalks with faces beaming in pure joy and wide, sparkling eyes alight with excitement. They hunch tirelessly amid golden rice stubble and shallow water, some pausing to munch on picked grains, evoking a mood of innocent perseverance and humble delight in the harvest's remnants. Rendered in the meticulous gongbi style of traditional Chinese ink painting with subtle watercolor washes, soft afternoon light casts gentle shadows, blending serene natural harmony and childlike wonder.[1][2][3]",
+      "image": "reader_images/reader_20260316_122504.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 969935896,
+      "created_at": "2026-03-16T12:25:04.501368+08:00"
     }
   ],
   "book_total_chars": 92814,
