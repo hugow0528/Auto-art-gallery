@@ -13703,6 +13703,18 @@
       "image_model": "flux",
       "seed": 1827542880,
       "created_at": "2026-03-17T01:40:22.002962+08:00"
+    },
+    {
+      "id": "20260317_014517",
+      "offset_start": 76155,
+      "offset_end": 76222,
+      "text": "地道的家織棉布越洗越白，越\n洗越柔軟。\n王娭毑和秋園一起生活了一年零八個月。後來，一場小病奪去了老人的性命，秋\n園傷心了好長一段時間。",
+      "prompt": "A quiet, dimly lit interior scene in a traditional Chinese home, rendered in a melancholic, realist style reminiscent of early 20th-century Chinese figure painting. An elderly woman lies peacefully in bed, her face etched with the lines of age and a gentle repose. Beside her, a younger woman, 秋園 (Qiuyuan), sits with bowed head, her posture conveying deep sorrow and loss as she clutches a piece of soft, white, home-woven cotton cloth. Soft, diffused light filters in from a window, casting long shadows and highlighting dust motes in the air, emphasizing the quiet grief and the passage of time.",
+      "image": "reader_images/reader_20260317_014517.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1125105329,
+      "created_at": "2026-03-17T01:45:17.189688+08:00"
     }
   ],
   "book_total_chars": 92814,
