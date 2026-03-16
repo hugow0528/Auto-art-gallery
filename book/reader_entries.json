@@ -11303,6 +11303,18 @@
       "image_model": "flux",
       "seed": 2126835243,
       "created_at": "2026-03-16T08:01:57.735558+08:00"
+    },
+    {
+      "id": "20260316_080339",
+      "offset_start": 63286,
+      "offset_end": 63348,
+      "text": "滿寶生說：「範麻子，你曉得你犯了法嗎？」\n範麻子說：「曉得曉得，我砍了四棵雞婆樹，破壞森林，犯了法。我思想不好，\n發懶筋。",
+      "prompt": "A grizzled, weathered man with a rough, scarred face (\"Fan Mazi\") stands before a stern, official-looking figure (\"Man Baosheng\") in a dimly lit, rustic village office. The atmosphere is heavy with tension and the scent of damp earth and old wood. The scene is rendered in the style of traditional Chinese ink wash painting, with stark contrasts between light and shadow and a muted, earthy color palette.",
+      "image": "reader_images/reader_20260316_080339.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 933792528,
+      "created_at": "2026-03-16T08:03:39.535562+08:00"
     }
   ],
   "book_total_chars": 92814,
