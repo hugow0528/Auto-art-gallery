@@ -14447,6 +14447,18 @@
       "image_model": "flux",
       "seed": 1809051426,
       "created_at": "2026-03-17T06:20:06.400201+08:00"
+    },
+    {
+      "id": "20260317_063638",
+      "offset_start": 80239,
+      "offset_end": 80310,
+      "text": "她的名字——楊之驊——是一片紅色當中的三隻小黑螞蟻，在她心上爬啊爬啊，\n心被齧咬得空空蕩蕩，只剩一片悽惶。\n作爲知識青年，之驊下放到何家壩。",
+      "prompt": "A young woman in a plain blue jacket stands alone in a windswept rural village at dusk, surrounded by red revolutionary banners fluttering in the distance while three small dark figures seem to crawl across her heart, their tiny silhouettes barely visible against the overwhelming sea of red. The muddy earth path stretches toward simple mud-brick houses under a gray autumn sky, capturing the loneliness and displacement of a sent-down urban intellectual in 197",
+      "image": "reader_images/reader_20260317_063638.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 1817094256,
+      "created_at": "2026-03-17T06:36:38.336227+08:00"
     }
   ],
   "book_total_chars": 92814,
