@@ -14219,6 +14219,18 @@
       "image_model": "imagen-4",
       "seed": 272352063,
       "created_at": "2026-03-17T04:58:44.434638+08:00"
+    },
+    {
+      "id": "20260317_045921",
+      "offset_start": 78984,
+      "offset_end": 79052,
+      "text": "王成恩寸步不離地守着，連上個茅坑都跟着，秋園一時找不到機會。後來，她開\n始起牀、喫飯，心裡似乎踏實了：反正自己也要死了，跟隨田四而去。",
+      "prompt": "In a dimly lit traditional Chinese chamber during twilight, Qiuyuan, a frail woman in faded silk robes with a resigned, ethereal expression, sits at a low wooden table eating a simple meal of rice and vegetables, her eyes distant and accepting of impending death. Wang Cheng'en, a vigilant guard in dark robes, stands inches away like a shadow, his posture tense and unyielding, even as she rises from her bed nearby. Rendered in the style of classical ink wash painting with subtle yijing atmosphere of quiet melancholy and inevitable fate, soft golden lantern light casts long shadows evoking profound emotional stillness and subtle tension.[1]",
+      "image": "reader_images/reader_20260317_045921.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 506477955,
+      "created_at": "2026-03-17T04:59:21.264720+08:00"
     }
   ],
   "book_total_chars": 92814,
