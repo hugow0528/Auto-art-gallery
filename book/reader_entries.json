@@ -13931,6 +13931,18 @@
       "image_model": "klein",
       "seed": 90164006,
       "created_at": "2026-03-17T03:29:54.586658+08:00"
+    },
+    {
+      "id": "20260317_033140",
+      "offset_start": 77321,
+      "offset_end": 77388,
+      "text": "別人請，她\n必去，說是不能辜負了人家的好意。\n秋園當過老師，善言，講話無須稿子。她總是說：「我不是來介紹經驗的，是來\n和姐妹們聊天的。",
+      "prompt": "A warm, inviting community hall filled with soft, natural light filtering through large windows. An older woman with kind eyes and a gentle smile, dressed in simple, comfortable clothing, stands at the front, gesturing slightly as she speaks to a diverse group of women seated before her. The atmosphere is one of relaxed conversation and shared experience, depicted in a realistic, painterly style reminiscent of a Dutch Golden Age genre scene, but with a modern, gentle color palette.",
+      "image": "reader_images/reader_20260317_033140.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1619172219,
+      "created_at": "2026-03-17T03:31:40.125637+08:00"
     }
   ],
   "book_total_chars": 92814,
