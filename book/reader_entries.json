@@ -12935,6 +12935,18 @@
       "image_model": "imagen-4",
       "seed": 1255727010,
       "created_at": "2026-03-16T20:02:05.534108+08:00"
+    },
+    {
+      "id": "20260316_200323",
+      "offset_start": 72045,
+      "offset_end": 72126,
+      "text": "秋園說：「我倒是會做衣，我身上的衣是自己做的，你看要得不？」她身上正穿\n着那件對襟的乳白色褂子。\n陳大姐仔細看了一會兒，說：「做得蠻好，憑這個手藝就能賺得飯喫。",
+      "prompt": "A middle-aged Chinese woman in a cream-colored button-down jacket stands modestly in a simple rural room, lifting the front of her self-made garment to display the craftsmanship while an older woman observer examines the fine stitching with appreciative eyes. Soft natural light streams through a nearby window, illuminating the clean lines and careful tailoring of the hand-stitched garment. The scene captures a moment of quiet dignity and practical skill in 1960s or 1970s rural China, rendered in a warm, realistic painterly style reminiscent of Chinese social realism with careful attention to fabric texture and the intimate human interaction.",
+      "image": "reader_images/reader_20260316_200323.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 448366066,
+      "created_at": "2026-03-16T20:03:23.311944+08:00"
     }
   ],
   "book_total_chars": 92814,
