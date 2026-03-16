@@ -13259,6 +13259,18 @@
       "image_model": "grok-imagine",
       "seed": 1608743246,
       "created_at": "2026-03-16T22:47:11.229116+08:00"
+    },
+    {
+      "id": "20260316_224818",
+      "offset_start": 73681,
+      "offset_end": 73747,
+      "text": "之驊目不轉睛地望着\n他們離去的背影，羨慕的表情掛在臉上。\n這時，昨天替之驊驗收沙方的技術員來到她身邊，說：「看樣子，你還是個學\n生。",
+      "prompt": "A young woman with a wistful expression watches figures depart into the distance at a rural construction site at dusk, her face softly lit by the fading golden hour light. A technician in work clothes stands beside her, his gaze turned toward her, within a scene of cinematic realism evoking quiet longing and introspection.",
+      "image": "reader_images/reader_20260316_224818.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1388819654,
+      "created_at": "2026-03-16T22:48:18.509642+08:00"
     }
   ],
   "book_total_chars": 92814,
