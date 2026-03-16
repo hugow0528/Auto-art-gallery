@@ -14627,6 +14627,18 @@
       "image_model": "grok-imagine",
       "seed": 270412542,
       "created_at": "2026-03-17T07:42:59.248365+08:00"
+    },
+    {
+      "id": "20260317_074507",
+      "offset_start": 81221,
+      "offset_end": 81297,
+      "text": "這事你以後再不要提了。」\n日子又年復一年地過下去。\n王成恩的身體一年不如一年，又患了嚴重的哮喘，經常咳嗽不止，喘得嘴脣發\n紫，好像隨時會透不過那口氣來。",
+      "prompt": "A frail elderly man, Wang Chengen, sits alone on the edge of a worn wooden bed in a sparsely furnished, sun-faded room. His lips are tinged with purple as he hunches forward, struggling for breath, one hand pressed against his chest. The atmosphere is heavy and still, rendered in a photorealistic style with dim, dusty afternoon light.",
+      "image": "reader_images/reader_20260317_074507.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1148101040,
+      "created_at": "2026-03-17T07:45:07.724739+08:00"
     }
   ],
   "book_total_chars": 92814,
