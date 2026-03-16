@@ -11519,6 +11519,18 @@
       "image_model": "imagen-4",
       "seed": 1964696861,
       "created_at": "2026-03-16T12:12:35.529245+08:00"
+    },
+    {
+      "id": "20260316_121411",
+      "offset_start": 64466,
+      "offset_end": 64545,
+      "text": "這一幕真把秋園看呆了、看傻了。\n十幾天後，八娭毑瘋了。她瘋得算斯文，不哭不鬧，衣服還乾淨，頭髮也梳得整\n齊，只是遇到人就重複兩句話：「我好餓，給我碗飯喫吧！",
+      "prompt": "An elderly woman, her hair neatly combed and clothes immaculate, stands in a dimly lit, sparsely furnished room. Her expression is vacant, her eyes wide with an unspoken plea. She gently extends a hand, repeating a silent request. The scene is rendered in a somber, melancholic oil painting style, with soft, diffused lighting casting long shadows and emphasizing her isolation.",
+      "image": "reader_images/reader_20260316_121411.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 733679947,
+      "created_at": "2026-03-16T12:14:11.591208+08:00"
     }
   ],
   "book_total_chars": 92814,
