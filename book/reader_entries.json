@@ -12527,6 +12527,18 @@
       "image_model": "imagen-4",
       "seed": 1396281843,
       "created_at": "2026-03-16T17:38:05.378810+08:00"
+    },
+    {
+      "id": "20260316_174050",
+      "offset_start": 69652,
+      "offset_end": 69770,
+      "text": "家裡很窮，哥哥原先是小學教師，這學期才調到初\n115\n\n\f中。媽媽原是民辦教師，現在在家務農。下面還有兩個弟弟在讀書。我眼下的任\n務是讀好書，還有一年就畢業了，到時就能參加工作，幫助家裡走出困境，現在\n還不能……」\n之驊沒說不能做什麼。",
+      "prompt": "A dimly lit, humble rural Chinese home. A young woman, the narrator, sits at a worn wooden table, her expression a mixture of determination and youthful weariness, bathed in the soft glow of a single overhead bulb. Stacks of well-loved books surround her, hinting at her academic pursuits and the weight of responsibility she carries. The atmosphere is one of quiet resilience and hope against a backdrop of poverty.",
+      "image": "reader_images/reader_20260316_174050.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 622378476,
+      "created_at": "2026-03-16T17:40:50.444583+08:00"
     }
   ],
   "book_total_chars": 92814,
