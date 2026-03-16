@@ -14471,6 +14471,18 @@
       "image_model": "flux",
       "seed": 751412229,
       "created_at": "2026-03-17T06:38:55.956707+08:00"
+    },
+    {
+      "id": "20260317_065111",
+      "offset_start": 80390,
+      "offset_end": 80454,
+      "text": "等到她見到喬木林本人時，差不多就是一\n見鍾情了。喬木林穿着照片上那身黑衣服，是府綢的，飄逸瀟灑。之驊從未見過\n穿府綢衣服的男人。",
+      "prompt": "A young woman experiences love at first sight upon seeing Qiao Mul in person. He stands elegantly in a black, flowing silk shirt, a fabric she's never seen a man wear before. The scene evokes a romantic, slightly dreamlike atmosphere with soft, diffused lighting, perhaps in a classic Chinese courtyard or a dimly lit, elegant interior, rendered in the style of a nostalgic, romantic oil painting.",
+      "image": "reader_images/reader_20260317_065111.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 272882034,
+      "created_at": "2026-03-17T06:51:11.780972+08:00"
     }
   ],
   "book_total_chars": 92814,
