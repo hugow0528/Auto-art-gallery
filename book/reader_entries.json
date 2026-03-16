@@ -12119,6 +12119,18 @@
       "image_model": "flux",
       "seed": 1302150256,
       "created_at": "2026-03-16T14:56:18.620229+08:00"
+    },
+    {
+      "id": "20260316_150016",
+      "offset_start": 67452,
+      "offset_end": 67540,
+      "text": "那一瞬間，仁受的靈魂已離去，只有身體還\n留在眼前。一抹陽光慢慢掠過房頂，那該是仁受眷戀的靈魂吧。\n最最慈祥、從不打罵孩子的爸爸真正走了，真正走了，今生今世陰陽相隔，永不\n再見。",
+      "prompt": "A grieving family gathers around an empty bed in a modest Chinese room at dusk, the father's body still lying there while a single beam of golden sunlight slowly drifts across the worn wooden ceiling, representing his departing soul; soft, warm light fills the space through paper windows as the family weeps in silence, capturing the sacred moment between life and death with cinematic realism and muted Eastern palette, conveying unbearable loss and the finality of separation.",
+      "image": "reader_images/reader_20260316_150016.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1139768543,
+      "created_at": "2026-03-16T15:00:16.571043+08:00"
     }
   ],
   "book_total_chars": 92814,
