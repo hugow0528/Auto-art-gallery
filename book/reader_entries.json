@@ -14147,6 +14147,18 @@
       "image_model": "gptimage",
       "seed": 1248225489,
       "created_at": "2026-03-17T04:21:42.698739+08:00"
+    },
+    {
+      "id": "20260317_042226",
+      "offset_start": 78507,
+      "offset_end": 78580,
+      "text": "」\n月亮冰冷地掛在天上。月光下，大堤邊一棵棵挺立着的樹木此時都變成了面目猙\n獰的惡鬼，好像隨時會撲過來把好人喫掉。秋園覺得自己是在做着長長的噩夢。",
+      "prompt": "A lone figure of Qiuyuan stands frozen on a moonlit riverbank, where the gnarled silhouettes of trees twist into demonic shapes under a cold, oppressive moonlight, rendered in a darkly surreal style with dramatic chiaroscuro lighting and a nightmarish, horror atmosphere.",
+      "image": "reader_images/reader_20260317_042226.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 226767955,
+      "created_at": "2026-03-17T04:22:26.874751+08:00"
     }
   ],
   "book_total_chars": 92814,
