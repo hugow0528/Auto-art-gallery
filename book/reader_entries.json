@@ -12203,6 +12203,18 @@
       "image_model": "gptimage",
       "seed": 1447864172,
       "created_at": "2026-03-16T15:47:50.482836+08:00"
+    },
+    {
+      "id": "20260316_155028",
+      "offset_start": 68004,
+      "offset_end": 68076,
+      "text": "」\n秋園說：「不必爭啦，我早已想好了，就是怕你考不取。」\n之驊考取了嶽陽工業學校。她既高興又難過：高興的是又有書讀了，這是做夢也\n想不來的好事！",
+      "prompt": "A young Chinese woman in a simple blue dress stands in a modest rural kitchen holding a worn acceptance letter, her face showing a complex mix of joy and melancholy with tears glistening in her eyes, soft morning light filtering through a small window onto weathered wooden furniture and hanging laundry, traditional Chinese domestic realism style with muted earth tones and gentle brushstroke textures capturing this bittersweet moment of opportunity and loss.",
+      "image": "reader_images/reader_20260316_155028.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 2111862004,
+      "created_at": "2026-03-16T15:50:28.608460+08:00"
     }
   ],
   "book_total_chars": 92814,
