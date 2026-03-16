@@ -13643,6 +13643,18 @@
       "image_model": "klein",
       "seed": 1534359567,
       "created_at": "2026-03-17T01:17:04.875679+08:00"
+    },
+    {
+      "id": "20260317_011940",
+      "offset_start": 75773,
+      "offset_end": 75846,
+      "text": "一小會兒就能摘一大籃子，休息時就坐在地頭大喫特喫西紅柿，只是不能\n帶走，結果一個個喫得肚皮鼓鼓的。\n剛開始，秋園不那麼喜歡西紅柿，連一個都喫不完。",
+      "prompt": "A young child with a round, sun-kissed face sits on the edge of a freshly harvested field, gleefully devouring bright red tomatoes. Their belly is visibly round from the feast, with tomato juice staining their chin. The scene is bathed in the warm, golden light of late afternoon, with a simple, rustic basket nearby overflowing with more ripe tomatoes. The artistic style is reminiscent of traditional Chinese ink wash painting, emphasizing natural light and a peaceful, bucolic atmosphere.",
+      "image": "reader_images/reader_20260317_011940.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 967759205,
+      "created_at": "2026-03-17T01:19:40.998439+08:00"
     }
   ],
   "book_total_chars": 92814,
