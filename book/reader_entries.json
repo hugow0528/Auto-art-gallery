@@ -13427,6 +13427,18 @@
       "image_model": "zimage",
       "seed": 91660049,
       "created_at": "2026-03-16T23:44:50.927725+08:00"
+    },
+    {
+      "id": "20260316_234648",
+      "offset_start": 74663,
+      "offset_end": 74782,
+      "text": "我不是爲自己，是爲\n你三弟和四弟，想讓他們長大成人。你若認爲爲娘不好、丟了人，可以不認我這\n個娘，我不怨你、不怪你。要是你能體諒我的處境，仍記得我這個娘，我永遠都\n是你們的娘……」\n子恆接到信，號啕大哭：「……難爲了媽媽啊，我可憐的媽媽！",
+      "prompt": "A mother's weathered hands clutching a handwritten letter in a modest, dimly lit room, her face etched with sacrifice and quiet dignity as she confesses her struggles to her eldest son. Soft, warm lamplight filters across worn wooden furniture and faded photographs on the walls, creating deep shadows that emphasize the weight of her words. The scene captures an intimate moment of emotional vulnerability—a woman who has given everything for her younger children, now seeking understanding rather than judgment. Paint the atmosphere with muted earth tones and gentle chiaroscuro, evoking the poignant tenderness of a mother's unconditional love and the ache of separation, in the style of classical Chinese ink painting infused with realistic portraiture.",
+      "image": "reader_images/reader_20260316_234648.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1217497339,
+      "created_at": "2026-03-16T23:46:48.322039+08:00"
     }
   ],
   "book_total_chars": 92814,
