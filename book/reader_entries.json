@@ -13883,6 +13883,18 @@
       "image_model": "zimage",
       "seed": 948186939,
       "created_at": "2026-03-17T02:41:18.703701+08:00"
+    },
+    {
+      "id": "20260317_025441",
+      "offset_start": 76999,
+      "offset_end": 77066,
+      "text": "砍好的\n毛竹從山上拖到河邊，紮成竹排，再放進河裡。人站在竹排上，手中撐根竹子，\n使點勁，一陣隆隆的流水聲，竹排順流而下，氣勢倒是壯觀。",
+      "prompt": "A traditional bamboo rafter stands poised on a sturdy raft made of lashed bamboo poles, wielding a long bamboo pole with powerful stance as the vessel surges downstream with dramatic momentum. The scene captures the raw energy of rushing water, mist rising from the turbulent current, with steep karst mountains rising majestically in the background, their reflections shimmering in the churning river. Golden afternoon light filters through the mist, illuminating the boatman's determined figure and the dynamic spray of water around the raft. Rendered in classical Chinese ink-wash painting style with heightened realism, emphasizing the contrast between the boatman's strength and the river's overwhelming natural power.",
+      "image": "reader_images/reader_20260317_025441.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 121246626,
+      "created_at": "2026-03-17T02:54:41.260380+08:00"
     }
   ],
   "book_total_chars": 92814,
