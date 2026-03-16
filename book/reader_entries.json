@@ -12779,6 +12779,18 @@
       "image_model": "flux",
       "seed": 366607280,
       "created_at": "2026-03-16T19:11:53.548052+08:00"
+    },
+    {
+      "id": "20260316_191456",
+      "offset_start": 71190,
+      "offset_end": 71284,
+      "text": "所見到\n的人都用千篇一律的話回答她：「如今到處減人，好多工廠、學校都停辦了，哪\n裏還會要人啊！」\n之驊無話可說。事實證明，她對前景太樂觀了，要在一個舉目無親的陌生之地安\n身立命，談何容易？",
+      "prompt": "A solitary young woman stands at a desolate train station in 1960s China, clutching a small suitcase, her face etched with exhaustion and uncertainty. Gray winter fog hangs heavy over empty platforms where only a few weathered travelers hurry past, their backs turned to her. She wears a simple blue coat, slightly worn at the cuffs, scanning help-wanted postings on a cracked municipal bulletin board—each posting crossed out or torn. The mood is bleak and quiet, captured in the style of cinematic social realism with muted earth tones, soft overcast lighting, and a shallow depth of field that emphasizes her isolation against the vast, indifferent urban landscape.",
+      "image": "reader_images/reader_20260316_191456.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 562483597,
+      "created_at": "2026-03-16T19:14:56.355791+08:00"
     }
   ],
   "book_total_chars": 92814,
