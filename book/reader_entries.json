@@ -13763,6 +13763,18 @@
       "image_model": "imagen-4",
       "seed": 1090938510,
       "created_at": "2026-03-17T02:07:15.123047+08:00"
+    },
+    {
+      "id": "20260317_020759",
+      "offset_start": 76443,
+      "offset_end": 76512,
+      "text": "兄弟倆打扮得乾乾淨淨、整整齊齊，別\n人都說他們是雙胞胎。\n\n128\n\n\f十一\n共產主義勞動大學是所半工半讀的大學，上課一個月，勞動一個月。",
+      "prompt": "Two young men dressed in identical, crisp white shirts and dark trousers stand side-by-side in a 1950s Chinese village setting, their postures perfectly mirrored, bathed in soft morning light with a slight sepia tone, evoking a sense of nostalgic unity, rendered in the style of mid-century socialist realism photography.",
+      "image": "reader_images/reader_20260317_020759.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1524232845,
+      "created_at": "2026-03-17T02:07:59.999258+08:00"
     }
   ],
   "book_total_chars": 92814,
