@@ -12911,6 +12911,18 @@
       "image_model": "gptimage",
       "seed": 1997973326,
       "created_at": "2026-03-16T19:56:35.015627+08:00"
+    },
+    {
+      "id": "20260316_195708",
+      "offset_start": 71909,
+      "offset_end": 71970,
+      "text": "」\n陳大姐說：「看你帶着細崽，好作孽，不如一路跟我去湖北。我在湖北落了戶，\n那地方人心好，不講喫得有多好，粗茶淡飯是有的。",
+      "prompt": "A weary but kind-faced middle-aged woman, Chen Dajie, with a warm smile, gestures invitingly to a younger woman holding a small child. They stand on a dusty, sun-drenched road in a rural Chinese village, the simple, weathered houses of Hubei province in the background. The atmosphere is one of humble hospitality and hopeful resilience, rendered in a realistic, slightly rustic oil painting style with soft, natural light.",
+      "image": "reader_images/reader_20260316_195708.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1992223440,
+      "created_at": "2026-03-16T19:57:08.110827+08:00"
     }
   ],
   "book_total_chars": 92814,
