@@ -11699,6 +11699,18 @@
       "image_model": "flux",
       "seed": 842287559,
       "created_at": "2026-03-16T13:05:22.177347+08:00"
+    },
+    {
+      "id": "20260316_130653",
+      "offset_start": 65556,
+      "offset_end": 65644,
+      "text": "有人暗地裡對秋園說：「楊老師不是病，是餓成這樣的。要是能買只雞給他補\n補，增加些營養，保管會好起來。」\n事情也湊巧。有一天，秋園帶上家裡僅餘的錢，預備去集鎮上給仁受買消腫藥。",
+      "prompt": "A sparse rural Chinese village interior during the Republican era, with weathered wooden furniture and peeling walls suggesting poverty and hardship. An elderly man lies weakened on a simple bed, his gaunt frame and hollow cheeks testifying to malnutrition rather than illness, while a woman clutches a small purse of remaining coins with quiet determination. Soft, muted afternoon light filters through paper windows, casting long shadows that emphasize the austere, sorrowful atmosphere. Paint the scene in a melancholic realist style reminiscent of early 20th-century Chinese ink painting, with muted earth tones, fine brushwork details on fabric textures, and an overall mood of quiet desperation tempered by familial devotion.",
+      "image": "reader_images/reader_20260316_130653.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1980679738,
+      "created_at": "2026-03-16T13:06:53.944602+08:00"
     }
   ],
   "book_total_chars": 92814,
