@@ -15575,6 +15575,18 @@
       "image_model": "flux-2-dev",
       "seed": 1668891734,
       "created_at": "2026-03-17T15:10:40.523306+08:00"
+    },
+    {
+      "id": "20260317_151124",
+      "offset_start": 86313,
+      "offset_end": 86378,
+      "text": "時間長了，他額頭上留\n下了一個酒杯大的包。\n老和尚的身體越來越差，常常兩腿發軟，無法爬樓。一天，他把被子丟下來，就\n再沒上過樓了。",
+      "prompt": "A frail, elderly Buddhist monk with a prominent, wine-glass-sized swelling on his forehead sits on the floor, his legs too weak to climb stairs. The atmosphere is one of quiet decay, with dim, natural light filtering through a window, casting long shadows. The scene is rendered in a somber, realistic style reminiscent of Caravaggio's chiaroscuro, emphasizing the monk's physical decline and the starkness of his surroundings.",
+      "image": "reader_images/reader_20260317_151124.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1453974817,
+      "created_at": "2026-03-17T15:11:24.108432+08:00"
     }
   ],
   "book_total_chars": 92814,
