@@ -15983,6 +15983,18 @@
       "image_model": "flux-2-dev",
       "seed": 2073120121,
       "created_at": "2026-03-17T17:42:10.978302+08:00"
+    },
+    {
+      "id": "20260317_175711",
+      "offset_start": 88549,
+      "offset_end": 88635,
+      "text": "小泉到另一個曬穀坪翻谷去了。人王大\n概口渴了，桌上的冷茶她夠不到，就去水缸裏舀冷水喝。偏偏那天沒挑水，只剩\n下小半缸水，人王舀不到，就踮起腳使勁去舀，結果一頭栽到缸裏去了。",
+      "prompt": "A young woman named Renwang in a rustic Chinese farmhouse interior, desperately tiptoeing on her toes to scoop water from a large earthenware缸 with a long ladle, her body awkwardly stretched as she loses balance and tumbles headfirst into the缸, splashing water everywhere, with only a small amount of water left at the bottom and a table of cold tea nearby.[3][5] Sunlight filters through a wooden window onto the dim, humid room with simple wooden furniture and drying grains in the background, capturing a moment of comical mishap amid rural tranquility.[1][2] Rendered in traditional Chinese shan shui ink wash style with soft rubbed brushwork, misty atmospheric perspective, and subtle blue-green tones for a poetic, melancholic mood evoking everyday chaos in nature's harmony.[4][6]",
+      "image": "reader_images/reader_20260317_175711.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 604589795,
+      "created_at": "2026-03-17T17:57:11.620789+08:00"
     }
   ],
   "book_total_chars": 92814,
