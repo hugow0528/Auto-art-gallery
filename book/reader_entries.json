@@ -15959,6 +15959,18 @@
       "image_model": "gptimage",
       "seed": 1677758141,
       "created_at": "2026-03-17T17:39:51.883371+08:00"
+    },
+    {
+      "id": "20260317_174125",
+      "offset_start": 88487,
+      "offset_end": 88549,
+      "text": "人王就手忙腳亂地跟大公雞搶飯喫。這\n場面小泉見過一次，心酸得不行，把那公雞追打出好遠。\n那天，太陽實在是毒，地都曬得要冒煙。",
+      "prompt": "First, the user has given me a Chinese literary passage: \"人王就手忙腳亂地跟大公雞搶飯喫。這場面小泉見過一次，心酸得不行，把那公雞追打出好遠。那天，太陽實在是毒，地都曬得要冒煙。\" I need to create an image-generation prompt based on this passage. The prompt should be in English, vivid, detailed, and capture the scene, atmosphere, characters, and visual essence. I should include artistic style, mood, lighting, and specific visual elements. My response should be ONLY the image prompt in English, no explanations, translations, or markdown.\n\nKey elements from the passage:\n\n- \"人王\" (Ren Wang) is likely a person's name, and he is scrambling to fight with a big rooster for food.\n\n- \"小泉\" (Xiao Quan) has seen this scene once and felt so heartbroken that he chased the rooster far away.\n\n- The setting: \"那天，太陽實在是毒，地都曬得要冒煙。\" which means \"That day, the sun was really scorching, and the ground was so hot it seemed to smoke.\"\n\nSo, the scene involves Ren Wang struggling with a big rooster over food, with Xiao Quan witnessing it and later chasing the rooster. The atmosphere is hot and harsh, with a blazing sun and parched ground.\n\nNow, I need to craft a prompt in English that describes",
+      "image": "reader_images/reader_20260317_174125.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1081142097,
+      "created_at": "2026-03-17T17:41:25.912638+08:00"
     }
   ],
   "book_total_chars": 92814,
