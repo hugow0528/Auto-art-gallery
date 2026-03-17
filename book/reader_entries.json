@@ -16727,6 +16727,18 @@
       "image_model": "zimage",
       "seed": 1345858884,
       "created_at": "2026-03-17T23:19:47.883584+08:00"
+    },
+    {
+      "id": "20260317_232035",
+      "offset_start": 92763,
+      "offset_end": 92814,
+      "text": "當\n之驊——我的媽媽——在晚年拿起筆回首自己的一生，真正的救贖方才開始。\n（全書完）\n\n155",
+      "prompt": "A solitary, elderly woman with kind eyes sits at a wooden desk bathed in the warm, soft glow of a single lamp, her wrinkled hands holding a pen over a yellowed notebook. The atmosphere is one of quiet introspection and peaceful reflection, with a faint, ethereal light suggesting a spiritual awakening. The scene is rendered in the style of a classic oil painting, evoking a sense of gentle nostalgia and profound inner peace.",
+      "image": "reader_images/reader_20260317_232035.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 103264813,
+      "created_at": "2026-03-17T23:20:35.648543+08:00"
     }
   ],
   "book_total_chars": 92814,
