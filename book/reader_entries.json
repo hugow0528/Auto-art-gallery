@@ -16715,8 +16715,20 @@
       "image_model": "gptimage",
       "seed": 1222194348,
       "created_at": "2026-03-17T23:09:29.232311+08:00"
+    },
+    {
+      "id": "20260317_231947",
+      "offset_start": 92763,
+      "offset_end": 92814,
+      "text": "當\n之驊——我的媽媽——在晚年拿起筆回首自己的一生，真正的救贖方才開始。\n（全書完）\n\n155",
+      "prompt": "An elderly Chinese woman with silver hair and weathered hands sits at a wooden desk near a window, gently holding a pen as she writes in a worn journal, soft morning light illuminating her face with a look of serene contemplation and quiet dignity, capturing the moment of late-life redemption through reflection.",
+      "image": "reader_images/reader_20260317_231947.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1345858884,
+      "created_at": "2026-03-17T23:19:47.883584+08:00"
     }
   ],
   "book_total_chars": 92814,
-  "completed": false
+  "completed": true
 }
