@@ -16619,6 +16619,18 @@
       "image_model": "klein",
       "seed": 424171157,
       "created_at": "2026-03-17T22:38:04.022618+08:00"
+    },
+    {
+      "id": "20260317_223957",
+      "offset_start": 92191,
+      "offset_end": 92288,
+      "text": "閱讀小說時，我一次又一次\n地被拉進一個家庭殘缺不全的歷史中，那是一個普通中國人家在時代大浪中載沉\n載浮、掙扎求生的過程。我驚訝地發現，這個家是靠一位裹過腳的母親和她不幸\n而早慧的女兒撐持起來的。",
+      "prompt": "A dimly lit, sparsely furnished room in mid-20th century China, where a mother with bound feet sits mending clothes, her weathered face illuminated by a single oil lamp. Beside her, her intense, prematurely solemn young daughter reads a book, their postures conveying quiet, weary resilience. Social realism style, muted color palette, soft directional lighting emphasizing their determined expressions and the intimate, burdened atmosphere.",
+      "image": "reader_images/reader_20260317_223957.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1349215747,
+      "created_at": "2026-03-17T22:39:57.330348+08:00"
     }
   ],
   "book_total_chars": 92814,
