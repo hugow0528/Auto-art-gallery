@@ -14987,6 +14987,18 @@
       "image_model": "flux",
       "seed": 1942119791,
       "created_at": "2026-03-17T12:04:24.976962+08:00"
+    },
+    {
+      "id": "20260317_120506",
+      "offset_start": 83191,
+      "offset_end": 83293,
+      "text": "」\n140\n\n\f賠三說：「算了算了，這是天意。」\n賠三生活上有些稀裏糊塗、丟三落四。衣服、帽子、圍巾常常不知丟在哪裡。在\n田裡做功夫，秋園會用搪瓷缸子給他送水解渴，每次都要交代一句：「記得把缸\n子帶回來。",
+      "prompt": "A Chinese woman in traditional blue cloth garments walks across a sun-drenched rice field carrying an enamel cup, approaching a man working barefoot in the paddy. The warm afternoon light casts soft shadows as she hands him water, their simple interaction capturing the quiet intimacy of rural farm life in mid-20th century China. Visual style: warm, nostalgic oil painting with soft golden hour lighting, detailed realistic rendering of traditional clothing and agricultural setting.",
+      "image": "reader_images/reader_20260317_120506.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1198172412,
+      "created_at": "2026-03-17T12:05:06.850646+08:00"
     }
   ],
   "book_total_chars": 92814,
