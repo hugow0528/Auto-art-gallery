@@ -15587,6 +15587,18 @@
       "image_model": "grok-imagine",
       "seed": 1453974817,
       "created_at": "2026-03-17T15:11:24.108432+08:00"
+    },
+    {
+      "id": "20260317_151817",
+      "offset_start": 86378,
+      "offset_end": 86448,
+      "text": "竈屋裡有個用泥磚砌成的竈。竈邊一個角落裡堆了許多乾草和樹葉，用來燒火做\n飯。另一個角落裡堆着一大堆從竈膛裏扒出來的灰，旁邊放着一隻大尿桶。",
+      "prompt": "A rustic, dimly lit kitchen corner dominated by a rough mud-brick stove. Piles of dry straw and leaves are neatly stacked beside the stove, ready for use, while another corner holds a heap of grey ash raked from the firebox, next to a large wooden urine bucket. The atmosphere is one of simple, utilitarian domesticity, rendered in a style reminiscent of Dutch Golden Age genre painting, with chiaroscuro lighting highlighting the textures of mud, ash, and wood.",
+      "image": "reader_images/reader_20260317_151817.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1967052424,
+      "created_at": "2026-03-17T15:18:17.485578+08:00"
     }
   ],
   "book_total_chars": 92814,
