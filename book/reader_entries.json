@@ -15359,6 +15359,18 @@
       "image_model": "imagen-4",
       "seed": 1653288170,
       "created_at": "2026-03-17T13:40:43.164605+08:00"
+    },
+    {
+      "id": "20260317_134403",
+      "offset_start": 85348,
+      "offset_end": 85414,
+      "text": "她從牀上滾到地\n上，被麥芽連推帶拉地弄上牀，又滾了下去。\n她聲嘶力竭地大喊：「媽媽，救救我啊，我要死了！媽媽，救救我啊，我要死\n了！",
+      "prompt": "A young girl, disheveled and terrified, falls repeatedly from a rustic wooden bed onto a dirt floor, her face contorted in a desperate scream. A shadowy, perhaps monstrous, entity (representing \"Maiya\") looms nearby, its form indistinct but menacing. The atmosphere is one of intense fear and struggle, illuminated by dim, flickering candlelight that casts long, distorted shadows, rendered in a dark, gothic illustration style.",
+      "image": "reader_images/reader_20260317_134403.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 2050121673,
+      "created_at": "2026-03-17T13:44:03.309918+08:00"
     }
   ],
   "book_total_chars": 92814,
