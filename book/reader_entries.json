@@ -16655,6 +16655,18 @@
       "image_model": "grok-imagine",
       "seed": 2134673170,
       "created_at": "2026-03-17T22:42:09.634128+08:00"
+    },
+    {
+      "id": "20260317_224305",
+      "offset_start": 92389,
+      "offset_end": 92470,
+      "text": "但生活的基調並\n未改變，她窮盡半生所追求的，依然僅僅是能夠活下去。\n\n154\n\n\f外婆去世時，我去湖南參加了葬禮，陪伴媽媽把外婆生前喜愛的衣服一件一件放\n入棺木。",
+      "prompt": "An elderly Chinese woman in a simple funeral gown kneels beside an open wooden coffin in a modest rural Hunan room, gently placing a worn but carefully folded floral jacket inside while her adult daughter stands nearby, both faces marked by quiet grief. Soft, diffused light streams through a small window, illuminating dust particles in the air as traditional paper offerings and incense burn in the corner. The scene is rendered in a realistic documentary style with muted earth tones, capturing the intimate weight of filial duty and the quiet dignity of poverty.",
+      "image": "reader_images/reader_20260317_224305.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 681227681,
+      "created_at": "2026-03-17T22:43:05.488819+08:00"
     }
   ],
   "book_total_chars": 92814,
