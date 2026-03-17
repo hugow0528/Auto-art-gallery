@@ -16091,6 +16091,18 @@
       "image_model": "flux",
       "seed": 323914208,
       "created_at": "2026-03-17T18:31:09.313973+08:00"
+    },
+    {
+      "id": "20260317_183427",
+      "offset_start": 89095,
+      "offset_end": 89181,
+      "text": "可秋園喜歡去塘裏洗東西。凡是自己能\n做的事，決不等孩子們回來，這是她的信條。\n子恆和賠三陪着秋園一起住在賜福山老屋。兄弟倆一大早出門，去各自學校教\n書，下午五點多才能到家。",
+      "prompt": "An elderly Chinese woman stands by a rural pond in the early morning light, sleeves rolled up as she kneels beside the water's edge, washing clothes and household items with deliberate, practiced movements. The setting is a traditional old house nestled on Cisfu Mountain, surrounded by misty hills and sparse autumn vegetation, rendered in soft, naturalistic tones with warm golden sunlight filtering through morning haze. Her posture conveys quiet dignity and self-reliance, with weathered hands moving through the clear water while the empty house behind her suggests the solitude of her morning routine before her sons return from their teaching positions in the afternoon. The artistic style should evoke classical Chinese landscape painting with ink-wash techniques, emphasizing the serene atmosphere of rural life, the interplay of water and earth, and the contemplative solitude of a woman at peace with her daily labor.",
+      "image": "reader_images/reader_20260317_183427.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1706052688,
+      "created_at": "2026-03-17T18:34:27.471408+08:00"
     }
   ],
   "book_total_chars": 92814,
