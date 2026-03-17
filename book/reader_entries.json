@@ -15827,6 +15827,18 @@
       "image_model": "flux",
       "seed": 204710716,
       "created_at": "2026-03-17T16:35:55.813281+08:00"
+    },
+    {
+      "id": "20260317_163656",
+      "offset_start": 87744,
+      "offset_end": 87817,
+      "text": "梁老師，你不知媳婦看人王的那種眼神，才叫人難受\n啊！」\n「想開些，凡事別往心裡去。人王有你和國臣疼就夠了。不是她們身上掉下來的\n肉，自然就不喜歡。",
+      "prompt": "A dimly lit, traditional Chinese courtyard at dusk. A middle-aged woman with a weary expression sits alone on a stone bench, her hands clasped tightly in her lap, conveying a deep sense of sadness and resignation. The atmosphere is heavy with unspoken emotions, illuminated by the soft, fading light of the setting sun casting long shadows. Style: Realistic, with a focus on emotional portrayal and subtle atmospheric lighting.",
+      "image": "reader_images/reader_20260317_163656.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 76974532,
+      "created_at": "2026-03-17T16:36:56.904455+08:00"
     }
   ],
   "book_total_chars": 92814,
