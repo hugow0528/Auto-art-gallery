@@ -16451,6 +16451,18 @@
       "image_model": "zimage",
       "seed": 3832156,
       "created_at": "2026-03-17T21:49:16.131351+08:00"
+    },
+    {
+      "id": "20260317_215247",
+      "offset_start": 91126,
+      "offset_end": 91203,
+      "text": "回想起來，媽媽那時大概三十多歲。高考制度還沒有恢復，她已經一遍遍同我們\n說起：「等你們長大了，要讀大學。」在那個小縣城，連老師都不大知道大學這\n回事呢。",
+      "prompt": "A hopeful young mother in her 1930s, wearing simple clothes, speaks earnestly to her two young children in the modest, sun-dappled interior of a small Chinese county home in the 1970s. The atmosphere is intimate and nostalgic, with a soft, vintage photographic style and warm, dusty light filtering through a window.",
+      "image": "reader_images/reader_20260317_215247.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 731006384,
+      "created_at": "2026-03-17T21:52:47.529901+08:00"
     }
   ],
   "book_total_chars": 92814,
