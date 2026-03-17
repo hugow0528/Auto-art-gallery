@@ -16007,6 +16007,18 @@
       "image_model": "grok-imagine",
       "seed": 1720629396,
       "created_at": "2026-03-17T17:57:47.824869+08:00"
+    },
+    {
+      "id": "20260317_180648",
+      "offset_start": 88635,
+      "offset_end": 88705,
+      "text": "小泉翻谷回來，看到一羣雞在悠閒地喫谷，人王不知到哪裡去了。小泉邊喊邊\n尋，後來才在缸裏找到她。人已經沒氣了。\n小泉講完，哭得上氣不接下氣。",
+      "prompt": "A grief-stricken young woman kneels beside a large clay water cistern in a rustic farmyard, holding the lifeless body of a small child, her face twisted in anguish as tears stream down her cheeks. Around her, chickens peck peacefully at scattered grain, unaware of the tragedy, while golden afternoon light casts long shadows across the muddy ground. The scene carries the weight of sudden loss—soft, somber, with muted earth tones and a sense of quiet devastation, rendered in a painterly realist style reminiscent of Chinese social realism.",
+      "image": "reader_images/reader_20260317_180648.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 107850638,
+      "created_at": "2026-03-17T18:06:48.179188+08:00"
     }
   ],
   "book_total_chars": 92814,
