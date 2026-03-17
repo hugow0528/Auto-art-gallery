@@ -15779,6 +15779,18 @@
       "image_model": "imagen-4",
       "seed": 523382500,
       "created_at": "2026-03-17T16:06:43.023238+08:00"
+    },
+    {
+      "id": "20260317_160924",
+      "offset_start": 87447,
+      "offset_end": 87531,
+      "text": "兩個媳婦都不喜歡人王，嫌丟了\n她們的臉。我雖是做婆婆的，可因爲人王，在她們面前也做不起人。原本給人做\n衣能賺幾個錢，現在她們兩個一出工，細伢子全丟給我，還覺得我沒帶好。",
+      "prompt": "A dimly lit, cluttered domestic interior in a traditional Chinese village. An elderly woman, with a weary expression, is burdened with the care of several young children, while two younger women with disdainful looks work nearby, their presence casting a shadow of disapproval. The scene should evoke a sense of familial tension and hardship, rendered in the style of a somber ink wash painting with dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_160924.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2044337807,
+      "created_at": "2026-03-17T16:09:24.046316+08:00"
     }
   ],
   "book_total_chars": 92814,
