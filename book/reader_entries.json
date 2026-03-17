@@ -16019,6 +16019,18 @@
       "image_model": "gptimage",
       "seed": 107850638,
       "created_at": "2026-03-17T18:06:48.179188+08:00"
+    },
+    {
+      "id": "20260317_180957",
+      "offset_start": 88705,
+      "offset_end": 88772,
+      "text": "秋園說：「小泉，快不要哭了，你自己都瘦得不像樣了，人死不能復生，還是活\n人要緊。這幾十年，人王跟着你，冇享到太多福，總也冇受太多罪。",
+      "prompt": "An elderly woman with a weathered, kind face gently comforts a thin, grieving younger woman in a simple wooden room; warm autumn light filters through a window, casting soft shadows on worn furniture, evoking a mood of somber tenderness in a realist painting style with muted earth tones.",
+      "image": "reader_images/reader_20260317_180957.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 645492558,
+      "created_at": "2026-03-17T18:09:57.825331+08:00"
     }
   ],
   "book_total_chars": 92814,
