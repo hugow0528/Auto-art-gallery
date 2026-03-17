@@ -15935,6 +15935,18 @@
       "image_model": "grok-imagine",
       "seed": 741858260,
       "created_at": "2026-03-17T17:33:37.616348+08:00"
+    },
+    {
+      "id": "20260317_173410",
+      "offset_start": 88327,
+      "offset_end": 88401,
+      "text": "當時，媳婦和崽，還有國臣都要到田裡去，打禾的打禾，栽禾的栽禾。小泉在家\n要煮幾口人的茶飯，還要洗衣、餵豬、曬穀、帶細伢子……忙得像個陀螺滿地\n轉。",
+      "prompt": "A busy Chinese woman in a traditional rural village setting, her face showing determination as she juggles multiple household chores like cooking, laundry, and childcare. The scene is bathed in warm, natural sunlight, highlighting the textures of her simple clothing and the rustic environment, rendered in a style reminiscent of traditional Chinese ink wash paintings with a touch of vibrant color. The atmosphere is one of diligent effort and domestic responsibility, with a hint of the fast-paced nature of her work.",
+      "image": "reader_images/reader_20260317_173410.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 504743953,
+      "created_at": "2026-03-17T17:34:10.349760+08:00"
     }
   ],
   "book_total_chars": 92814,
