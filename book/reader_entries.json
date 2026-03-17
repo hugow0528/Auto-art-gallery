@@ -16499,6 +16499,18 @@
       "image_model": "klein",
       "seed": 1141759552,
       "created_at": "2026-03-17T21:57:23.479848+08:00"
+    },
+    {
+      "id": "20260317_220203",
+      "offset_start": 91350,
+      "offset_end": 91455,
+      "text": "我想，那是艱辛生活給予她的饋贈。\n書中的秋園是我外婆。外婆講話柔軟、緩慢，清爽文雅的外形也區別於大多數鄉\n下婆婆。她早已認湖南是故鄉，認庵子裡是終老之地，可是到老她仍像一棵異地\n移栽的植物，帶着水土不服的痕跡。",
+      "prompt": "A gentle, elderly Chinese grandmother with clear, elegant features and soft speech, stands in a rustic, slightly overgrown garden. She is dressed in simple, traditional clothing, exuding an air of refined grace that contrasts with her surroundings, like a transplanted flower with faint traces of a foreign soil. The atmosphere is serene and slightly melancholic, bathed in the soft, diffused light of late afternoon, rendered in a painterly, slightly impressionistic style.",
+      "image": "reader_images/reader_20260317_220203.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1757741868,
+      "created_at": "2026-03-17T22:02:03.690298+08:00"
     }
   ],
   "book_total_chars": 92814,
