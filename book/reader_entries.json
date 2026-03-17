@@ -15803,6 +15803,18 @@
       "image_model": "gptimage",
       "seed": 193630099,
       "created_at": "2026-03-17T16:29:17.976155+08:00"
+    },
+    {
+      "id": "20260317_163145",
+      "offset_start": 87596,
+      "offset_end": 87675,
+      "text": "」\n\n147\n\n\f「要不分開來，你帶着人王和國臣過。」\n「家是早就分了，但等於沒有分。她們要賺工分，我能不帶孩子嗎？我不是不願\n帶孩子，就是不想看她們的臉色。",
+      "prompt": "A dimly lit, sparse courtyard in a rural Chinese village during twilight. A weary woman with calloused hands and a stern expression stands near a dilapidated wooden door, her children clustered around her legs. The atmosphere is heavy with unspoken tension and resignation, rendered in the style of a gritty, realistic oil painting with muted, earthy tones and dramatic chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_163145.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1683828594,
+      "created_at": "2026-03-17T16:31:45.468714+08:00"
     }
   ],
   "book_total_chars": 92814,
