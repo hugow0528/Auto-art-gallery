@@ -16247,6 +16247,18 @@
       "image_model": "zimage",
       "seed": 1267241445,
       "created_at": "2026-03-17T19:29:50.323615+08:00"
+    },
+    {
+      "id": "20260317_193053",
+      "offset_start": 90013,
+      "offset_end": 90080,
+      "text": "子恆覺得好笑，忙叫秋園來看。「這竹子生\n命力真強，從山上地底下鑽進房裡，花了多少力氣。要是它們知道自己會成爲盤\n中餐，絕不會貿然行事。",
+      "prompt": "A comical scene unfolds in a rustic, sun-drenched room where two figures, Zi Heng and Qiu Yuan, point with amusement at a cluster of vibrant green bamboo stalks that have audaciously pushed through the earthen floor and are beginning to climb the wooden walls. The atmosphere is lighthearted and slightly surreal, with dappled sunlight filtering through the open window, highlighting the determined, almost defiant, growth of the bamboo. The artistic style should be reminiscent of traditional Chinese ink wash paintings, with a touch of gentle humor and a focus on the organic textures of wood and earth.",
+      "image": "reader_images/reader_20260317_193053.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1423025780,
+      "created_at": "2026-03-17T19:30:53.742412+08:00"
     }
   ],
   "book_total_chars": 92814,
