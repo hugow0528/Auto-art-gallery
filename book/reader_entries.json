@@ -16331,6 +16331,18 @@
       "image_model": "grok-imagine",
       "seed": 853930452,
       "created_at": "2026-03-17T19:58:17.649661+08:00"
+    },
+    {
+      "id": "20260317_200058",
+      "offset_start": 90457,
+      "offset_end": 90539,
+      "text": "後來，秋園\n神志不那麼清醒了，對之驊說：「你是誰啊？何裏對我這麼好？」\n那個酷熱的夏天，秋園不安地死去了。\n先是喉頭湧上一陣痰，急劇地喘咳，然後奄奄一息地平緩下去。",
+      "prompt": "An elderly woman lies on an iron-framed bed beneath a thin, worn mosquito net in a humble room during a sweltering summer afternoon. A younger woman sits beside her, holding her hand, as soft light filters through a window, casting a somber, intimate atmosphere in the style of a soft-focus, impressionistic painting.",
+      "image": "reader_images/reader_20260317_200058.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 1601970479,
+      "created_at": "2026-03-17T20:00:58.916620+08:00"
     }
   ],
   "book_total_chars": 92814,
