@@ -15119,6 +15119,18 @@
       "image_model": "zimage",
       "seed": 1431911779,
       "created_at": "2026-03-17T12:31:51.474729+08:00"
+    },
+    {
+      "id": "20260317_123218",
+      "offset_start": 84002,
+      "offset_end": 84075,
+      "text": "考試那天，賠三穿得乾乾淨淨，一改往日總是低頭走路的習慣，抬起頭走在考生\n當中。\n一行人早早來到了位於公社小學的考點。考生們聚集在操場上談笑風生。",
+      "prompt": "First, the user wants an image-generation prompt based on the Chinese literary passage. I need to craft a vivid, detailed prompt in English that captures the scene, atmosphere, characters, and visual essence. The prompt should be suitable for AI image generation, and I must respond ONLY with the image prompt in English—no explanations, translations, or markdown.\n\nThe passage describes: \"考試那天，賠三穿得乾乾淨淨，一改往日總是低頭走路的習慣，抬起頭走在考生當中。一行人早早來到了位於公社小學的考點。考生們聚集在操場上談笑風生。\"\n\nKey elements:\n- Setting: Exam day, at a commune elementary school (公社小學) as the exam site. The scene is in a操场 (playground or field).\n- Characters: Pei San (賠三) is dressed cleanly, walking with his head up among other examinees. Other examinees are gathered on the playground, talking and laughing.\n- Atmosphere: It's early in the morning, as they arrived early. There's a sense of anticipation, perhaps nervousness mixed with camaraderie as examinees chat and laugh.\n- Visual details: Pei San's change in posture—usually walks with head down, but now head up. Clean clothes. The setting is a school playground, likely with simple buildings, maybe rural or communal vibe.\n\nNow, I need to translate this into an English prompt that includes:\n- Setting\n- Atmosphere\n- Characters",
+      "image": "reader_images/reader_20260317_123218.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 956639649,
+      "created_at": "2026-03-17T12:32:18.836004+08:00"
     }
   ],
   "book_total_chars": 92814,
