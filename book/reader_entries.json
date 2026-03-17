@@ -15239,6 +15239,18 @@
       "image_model": "imagen-4",
       "seed": 2007241915,
       "created_at": "2026-03-17T13:12:02.586161+08:00"
+    },
+    {
+      "id": "20260317_131400",
+      "offset_start": 84661,
+      "offset_end": 84729,
+      "text": "砰——砰——砰——，沉悶而響亮的敲擊聲沿着河面輻射開來，又被濃霧吞喫進\n去。二十二歲的之驊坐在河邊浣洗衣衫，只有孤獨的敲擊聲陪伴着她。",
+      "prompt": "A young woman, Zhihua, aged twenty-two, sits by a riverbank, washing clothes, enveloped in a thick, ethereal fog that muffles the dull, resonant thudding sounds echoing across the water. The atmosphere is one of profound solitude and quiet melancholy, rendered in a style reminiscent of traditional Chinese ink wash painting with soft, diffused lighting that accentuates the mist and the muted colors of her simple clothing and the surrounding, indistinct landscape.",
+      "image": "reader_images/reader_20260317_131400.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 335542303,
+      "created_at": "2026-03-17T13:14:00.518082+08:00"
     }
   ],
   "book_total_chars": 92814,
