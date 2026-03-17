@@ -14927,6 +14927,18 @@
       "image_model": "grok-imagine",
       "seed": 1063013070,
       "created_at": "2026-03-17T11:44:46.400635+08:00"
+    },
+    {
+      "id": "20260317_115701",
+      "offset_start": 82892,
+      "offset_end": 82986,
+      "text": "」\n好說歹說，賠三去照了個半身照，報上了名。\n在公社參加補習的第二天，文教辦的一位幹部把賠三從教室裏喊出來：「你不能\n參加高考，你是初中生，你父親……」\n賠三臉紅道：「我曉得了，不考就是。",
+      "prompt": "A young man in 1970s rural China stands awkwardly outside a plain concrete classroom, a cadre in a blue jacket speaking to him with official formality. His face flushes with embarrassment and resignation as he absorbs the news that he cannot take the college entrance exam due to his father's political status. Gray winter light illuminates the bare walls of the commune educational office, capturing the stark, austere atmosphere of that era.",
+      "image": "reader_images/reader_20260317_115701.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 110551328,
+      "created_at": "2026-03-17T11:57:01.128608+08:00"
     }
   ],
   "book_total_chars": 92814,
