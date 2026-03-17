@@ -15599,6 +15599,18 @@
       "image_model": "gptimage",
       "seed": 1967052424,
       "created_at": "2026-03-17T15:18:17.485578+08:00"
+    },
+    {
+      "id": "20260317_151917",
+      "offset_start": 86448,
+      "offset_end": 86518,
+      "text": "牀在\n竈屋門後，上面墊幾捆稻草，再放上一牀被子，就是他的鋪蓋了。喫喝拉撒睡全\n在這竈屋裡，屋中髒亂，臭氣燻人。他沒把菩薩搬下來，怕得罪菩薩。",
+      "prompt": "A cramped, grimy kitchen hearth room, dimly lit by a single sputtering oil lamp. Straw bedding is piled on a rough wooden cot, with a tattered quilt spread on top, the only furniture. The air is thick with a palpable stench, and cobwebs cling to the soot-stained walls. A crude, dusty idol sits on a shelf, its expression unreadable in the gloom. Style: dark realism, chiaroscuro lighting, oppressive atmosphere.",
+      "image": "reader_images/reader_20260317_151917.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 21319304,
+      "created_at": "2026-03-17T15:19:17.506875+08:00"
     }
   ],
   "book_total_chars": 92814,
