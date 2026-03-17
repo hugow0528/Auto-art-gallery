@@ -16379,6 +16379,18 @@
       "image_model": "zimage",
       "seed": 1657154404,
       "created_at": "2026-03-17T20:07:19.767895+08:00"
+    },
+    {
+      "id": "20260317_200808",
+      "offset_start": 90687,
+      "offset_end": 90802,
+      "text": "一九三七年，從漢口到湘陰。\n一九六〇年，從湖南到湖北。\n一九八〇年，從湖北回湖南。\n一生嘗盡酸甜苦辣，終落得如此下場。\n\n152\n\n\f代後記 解命運的謎\n——章紅\n第一次去賜福山——那個被我媽媽稱爲「庵子裡」的地方，我只有七歲。",
+      "prompt": "The passage is from a Chinese literary work, likely a memoir or family history. It describes journeys between Hunan and Hubei provinces across different years (1937, 1960, 1980) and reflects on a life's hardships. The \"afterword\" section describes the narrator's first visit to a place called \"Cifushan\" (赐福山), referred to as \"庵子里\" (the nunnery), when she was seven years old.\n\nI need to create a visual scene that captures this literary essence. The key elements:\n- A journey between provinces (Hunan to Hubei, back and forth)\n- A lifetime of hardship (\"酸甜苦辣\" - sweet, sour, bitter, pungent)\n- A specific scene: a seven-year-old child visiting \"Cifushan\" / \"庵子里\"\n- The place seems to be a nunnery or temple-like setting\n\nFor the image, I should focus on either:\n1. The journey theme - traveling between provinces, perhaps along a river or railway\n2. The seven-year-old's first visit to the temple/nunnery\n\nI think the more evocative scene would be the child visiting the mountain temple - it's specific, visual, and has atmospheric potential. I'll create a scene of a young girl at a small temple/monastery on a mountain, with an ethereal, nostalgic mood.\n\nLet me craft a 2-4 sentence prompt with:\n- Setting: A small temple/monaster",
+      "image": "reader_images/reader_20260317_200808.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 501838244,
+      "created_at": "2026-03-17T20:08:08.333919+08:00"
     }
   ],
   "book_total_chars": 92814,
