@@ -15107,6 +15107,18 @@
       "image_model": "imagen-4",
       "seed": 550303689,
       "created_at": "2026-03-17T12:31:20.768502+08:00"
+    },
+    {
+      "id": "20260317_123151",
+      "offset_start": 83924,
+      "offset_end": 84002,
+      "text": "政治他不怕，只要看一遍就記住了。高中的數學，他也粗通一些。至於語文、歷\n史，就更不怕了。賠三忽然對即將到來的考試信心十足，儘管兩眼布滿血絲，但\n精神十足。",
+      "prompt": "A young student, eyes bloodshot but alight with fierce determination, pores over textbooks in a dimly lit room. The atmosphere is tense with the pressure of impending exams, yet charged with an unexpected surge of confidence. The artistic style should be a blend of realism and subtle chiaroscuro, emphasizing the contrast between the student's fatigue and their burning inner resolve.",
+      "image": "reader_images/reader_20260317_123151.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1431911779,
+      "created_at": "2026-03-17T12:31:51.474729+08:00"
     }
   ],
   "book_total_chars": 92814,
