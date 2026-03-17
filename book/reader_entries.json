@@ -14831,6 +14831,18 @@
       "image_model": "flux",
       "seed": 209610149,
       "created_at": "2026-03-17T11:20:30.113839+08:00"
+    },
+    {
+      "id": "20260317_112113",
+      "offset_start": 82346,
+      "offset_end": 82411,
+      "text": "」\n愛民說：「大大，我真捨不得你走，爸爸剛走，你又要走。爸爸交代過我，讓我\n不要留你，怕以後我老婆對你不好。大大，你自己拿主意吧。",
+      "prompt": "A modest room with soft afternoon light filtering through a window, a young adult with a sorrowful expression gently holds the arm of an elderly relative who is standing beside a packed suitcase, their postures conveying intimate farewell and restrained emotion, rendered in a naturalistic style with muted colors and delicate shadow.",
+      "image": "reader_images/reader_20260317_112113.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 1225946498,
+      "created_at": "2026-03-17T11:21:13.822536+08:00"
     }
   ],
   "book_total_chars": 92814,
