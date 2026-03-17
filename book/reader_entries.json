@@ -16415,6 +16415,18 @@
       "image_model": "gptimage",
       "seed": 1180451748,
       "created_at": "2026-03-17T20:37:16.377812+08:00"
+    },
+    {
+      "id": "20260317_211856",
+      "offset_start": 90887,
+      "offset_end": 90978,
+      "text": "路上的彎道相當多，一會兒一個急彎，我們被甩來甩去，在毛竹上東倒西歪，爆\n發出一陣陣驚呼與笑聲。我們樂此不疲地數着究竟有多少個彎道，困了就在毛竹\n上睡一會兒，就這樣被免費運到了湖南。",
+      "prompt": "A group of joyful young people are being transported through a dense bamboo forest on a whimsical, wobbly bamboo raft. The raft navigates sharp, winding turns, causing the passengers to sway precariously, eliciting gasps and laughter. The atmosphere is lighthearted and adventurous, bathed in dappled sunlight filtering through the vibrant green bamboo stalks. Rendered in a vibrant, slightly stylized watercolor painting with a sense of dynamic motion and playful energy.",
+      "image": "reader_images/reader_20260317_211856.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 1534304711,
+      "created_at": "2026-03-17T21:18:56.600578+08:00"
     }
   ],
   "book_total_chars": 92814,
