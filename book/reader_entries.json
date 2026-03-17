@@ -14759,6 +14759,18 @@
       "image_model": "imagen-4",
       "seed": 277749657,
       "created_at": "2026-03-17T10:30:12.179429+08:00"
+    },
+    {
+      "id": "20260317_105340",
+      "offset_start": 82061,
+      "offset_end": 82140,
+      "text": "」\n「好，我快去快回，你躺着不要動啊。」\n王成恩勉強微笑了一下，表示應承。\n秋園急匆匆帶着小王護士進門的一剎那，映入眼帘的是牀邊地上靜靜躺着的一個\n農藥瓶子。",
+      "prompt": "A dimly lit, sterile hospital room interior, with a focused, soft light illuminating the floor near a bed where a small, empty pesticide bottle lies starkly against the linoleum. The atmosphere is tense and somber, with a sense of hurriedness implied by the recent entrance of a nurse. The style is realistic with a touch of cinematic drama, emphasizing the unsettling stillness of the discarded object.",
+      "image": "reader_images/reader_20260317_105340.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 2021245051,
+      "created_at": "2026-03-17T10:53:40.652930+08:00"
     }
   ],
   "book_total_chars": 92814,
