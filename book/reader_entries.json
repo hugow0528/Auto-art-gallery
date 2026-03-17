@@ -15635,6 +15635,18 @@
       "image_model": "imagen-4",
       "seed": 1322388798,
       "created_at": "2026-03-17T15:35:54.777665+08:00"
+    },
+    {
+      "id": "20260317_153630",
+      "offset_start": 86581,
+      "offset_end": 86669,
+      "text": "有\n人去竈屋看，發現他已經死了。他得的是急性痢疾。\n隊上的幹部去清理老和尚的遺物，發現了一張遺囑，字寫得七歪八扭、模糊不\n清，大意是他死後，請把他放在禾坪裏，堆上柴火將他火化。",
+      "prompt": "A dimly lit, sparse room where two solemn officials in simple uniforms stand over a small wooden table, examining a crudely handwritten will under a single hanging bulb. The paper is creased with chaotic, trembling script, evoking a mood of quiet desolation and raw humanity, rendered in desaturated tones and gritty realism.",
+      "image": "reader_images/reader_20260317_153630.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1286560777,
+      "created_at": "2026-03-17T15:36:30.048208+08:00"
     }
   ],
   "book_total_chars": 92814,
