@@ -15275,6 +15275,18 @@
       "image_model": "flux",
       "seed": 501402297,
       "created_at": "2026-03-17T13:18:46.327653+08:00"
+    },
+    {
+      "id": "20260317_131941",
+      "offset_start": 84971,
+      "offset_end": 85039,
+      "text": "快到家時，碰到了房東麥芽。麥芽是三個孩子的媽媽。這個好心的女人大驚小怪\n地奪下之驊手裡的東西，幫她脫下又溼又重的褲子，把她趕進被窩裡。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. The passage is: \"快到家時，碰到了房東麥芽。麥芽是三個孩子的媽媽。這個好心的女人大驚小怪地奪下之驊手裡的東西，幫她脫下又溼又重的褲子，把她趕進被窩裡。\"\n\nI need to translate and understand this passage. It describes a scene where someone named Zhihua is almost home when she meets her landlord, Maiya. Maiya is a mother of three children. This kind woman fusses over Zhihua, takes things from her hands, helps her take off her wet and heavy pants, and urges her into bed.\n\nNow, I have to craft a vivid, detailed English image-generation prompt that captures the scene, atmosphere, characters, and visual essence. I must include artistic style, mood, lighting, and specific visual elements. The response should ONLY be the image prompt in English — no explanations, no translations, no markdown.\n\nThe prompt should be 2–4 sentences only, as specified.\n\nKey elements from the passage:\n\n- Setting: Probably near home, possibly indoors or at the entrance.\n\n- Characters: Zhihua and Maiya. Maiya is described as a mother of three, kind, and fussy.\n\n- Actions: Maiya taking things from Zhihua, helping her remove wet pants, and urging her into bed.\n\n- Atmosphere: Concern, care",
+      "image": "reader_images/reader_20260317_131941.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 2076619878,
+      "created_at": "2026-03-17T13:19:41.550830+08:00"
     }
   ],
   "book_total_chars": 92814,
