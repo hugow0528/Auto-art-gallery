@@ -16631,6 +16631,18 @@
       "image_model": "klein",
       "seed": 1349215747,
       "created_at": "2026-03-17T22:39:57.330348+08:00"
+    },
+    {
+      "id": "20260317_224057",
+      "offset_start": 92288,
+      "offset_end": 92389,
+      "text": "貧窮、飢餓、歧視、無望每天都在侵蝕着這個家庭，鄉村在此時顯現出殘忍與惡\n意。之驊意識到這種生活的絕望，選擇逃離鄉村。依靠動物覓食般的本能，她來\n到一個偏遠的小城，求學、落戶、嫁人，開始建立自己的生活。",
+      "prompt": "A young woman named Zhi Hua, with determined eyes and worn rural clothes, stands at the dusty edge of a forsaken village at dusk, gazing longingly toward distant misty hills symbolizing a remote small town, her back turned to a dilapidated thatched hut shrouded in poverty and shadows. The rural landscape reveals cruelty through barren fields, emaciated livestock, and a family silhouette slumped in despair amid hunger and discrimination, with oppressive gray skies and harsh, cold lighting evoking hopelessness and escape. Render in a realistic cinematic style like Edward Hopper, with muted earth tones, dramatic chiaroscuro contrasts, and a somber, gritty atmosphere of raw survival instinct.[1][2]",
+      "image": "reader_images/reader_20260317_224057.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1518081775,
+      "created_at": "2026-03-17T22:40:57.715786+08:00"
     }
   ],
   "book_total_chars": 92814,
