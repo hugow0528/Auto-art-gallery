@@ -16691,6 +16691,18 @@
       "image_model": "gptimage",
       "seed": 665305185,
       "created_at": "2026-03-17T22:47:55.275758+08:00"
+    },
+    {
+      "id": "20260317_225137",
+      "offset_start": 92614,
+      "offset_end": 92692,
+      "text": "」\n我見過非洲大草原上的牛羚橫渡馬拉河的情景。對牛羚來說，它們的命運就是渡\n過馬拉河，河水會讓它們一再跌倒，只要意志力稍微退卻，可能連求生的意念都\n會放棄。",
+      "prompt": "A dramatic scene on the vast African savanna at the muddy banks of the Mara River during migration season, with thousands of wildebeest plunging into turbulent, churning waters filled with submerged rocks and swirling currents, some slipping and falling while others press forward with desperate determination. Golden grasslands stretch to the horizon under a hazy sunset sky, scattered acacia trees silhouetted against dramatic storm clouds, conveying a tense atmosphere of peril, survival instinct, and raw natural power. Render in hyper-realistic digital art style inspired by wildlife photographers like Beverly Joubert, with dynamic motion blur on splashing water, earthy tones of ochre and deep blue, and volumetric god rays piercing through dust and mist for epic, immersive intensity.",
+      "image": "reader_images/reader_20260317_225137.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 1990278609,
+      "created_at": "2026-03-17T22:51:37.893760+08:00"
     }
   ],
   "book_total_chars": 92814,
