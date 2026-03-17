@@ -16043,6 +16043,18 @@
       "image_model": "flux",
       "seed": 1917263424,
       "created_at": "2026-03-17T18:10:57.866227+08:00"
+    },
+    {
+      "id": "20260317_181129",
+      "offset_start": 88772,
+      "offset_end": 88866,
+      "text": "不是你那麼\n耐煩，人王根本活不成人。如果你死在她前頭，她才叫可憐呢，連個替她趕公雞\n的人都冇得。小泉，你不要覺得不中聽啊，人王走了也好，早點去投胎，下輩子\n做個正常人，成家立業，那有多好。",
+      "prompt": "In a misty dawn-lit traditional Chinese village courtyard with sloped tiled roofs and weathered stone paths, an elderly woman in faded qipao sits on a doorstep, gazing sorrowfully at a frail old man slumped against a wooden ancestral shrine, his face pale and ethereal as if on the verge of death. Nearby, a rooster pecks at scattered grains under smoking chimneys, while distant hills and ancient temples evoke ancestral spirits and rebirth; the atmosphere is melancholic and poignant, bathed in soft golden morning light filtering through fog. Render in the style of romantic Chinese ink wash painting with realistic details, emphasizing emotional depth, harmony with nature, and subtle spiritual resonance.",
+      "image": "reader_images/reader_20260317_181129.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 843472067,
+      "created_at": "2026-03-17T18:11:29.436660+08:00"
     }
   ],
   "book_total_chars": 92814,
