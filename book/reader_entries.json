@@ -16439,6 +16439,18 @@
       "image_model": "flux-2-dev",
       "seed": 1365830648,
       "created_at": "2026-03-17T21:46:56.419539+08:00"
+    },
+    {
+      "id": "20260317_214916",
+      "offset_start": 91041,
+      "offset_end": 91126,
+      "text": "媽媽發動我們爬進牀\n底下，搬開衣櫃、碗櫃，搜尋枕頭下面、抽屜角落各處，期望會有不經意落下的\n兩角錢。噢，沒有，沒有。最後，媽媽向鄰居借了兩角錢，我們高高興興去看了\n電影。",
+      "prompt": "A slightly grubby, but joyfully excited Chinese family of three—a mother and two children—rummages through old furniture and drawers in a dimly lit, humble room, searching for loose change. The scene is rendered in a realistic, nostalgic, turn-of-the-century illustration style with a warm, hopeful glow emanating from a single lamp. The atmosphere is one of hopeful desperation, capturing a moment of shared anticipation for a simple pleasure.",
+      "image": "reader_images/reader_20260317_214916.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 3832156,
+      "created_at": "2026-03-17T21:49:16.131351+08:00"
     }
   ],
   "book_total_chars": 92814,
