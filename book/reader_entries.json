@@ -15419,6 +15419,18 @@
       "image_model": "flux",
       "seed": 1595273965,
       "created_at": "2026-03-17T13:52:47.822144+08:00"
+    },
+    {
+      "id": "20260317_140132",
+      "offset_start": 85610,
+      "offset_end": 85681,
+      "text": "哇——哇——，女嬰終於發出了細小的哭聲。\n麥芽鬆了口氣：「好了，能活了。」\n喬木林帶着縣醫院接生的醫生趕到時，之驊的第一個女兒已經呱呱墜地。",
+      "prompt": "A dimly lit, traditional Chinese room with sparse furnishings. A newborn baby has just let out its first cry, and a relieved woman, \"Mai Ya,\" is exhaling softly. A doctor, \"Qiao Mu Lin,\" has just arrived with a medical professional, and the atmosphere is one of quiet anticipation and newfound life. The art style should be reminiscent of classic Chinese ink wash paintings, with a focus on soft, diffused lighting and a somber, yet hopeful, mood.",
+      "image": "reader_images/reader_20260317_140132.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1085341067,
+      "created_at": "2026-03-17T14:01:32.237015+08:00"
     }
   ],
   "book_total_chars": 92814,
