@@ -15695,6 +15695,18 @@
       "image_model": "gptimage",
       "seed": 865037108,
       "created_at": "2026-03-17T15:45:28.489371+08:00"
+    },
+    {
+      "id": "20260317_155722",
+      "offset_start": 86925,
+      "offset_end": 86994,
+      "text": "人王就在這格子裡鑽進鑽出，身輕如燕，\n贏得一片喝彩聲。\n秋園輕輕走到小泉旁邊坐下。小泉太專注，沒發現身邊有人，倒是秋園把小泉看\n了個仔細。",
+      "prompt": "An autumnal garden bathed in soft, golden sunlight. A lithe figure, described as \"light as a swallow,\" is captured mid-leap through a series of intricately carved wooden frames, eliciting cheers. Nearby, a young woman named Qiuyuan sits gracefully by a gently flowing stream, observing a deeply focused individual at the water's edge, her gaze detailed and appreciative. Style: Impressionistic oil painting, warm color palette, focus on movement and subtle character observation.",
+      "image": "reader_images/reader_20260317_155722.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1715791772,
+      "created_at": "2026-03-17T15:57:22.422755+08:00"
     }
   ],
   "book_total_chars": 92814,
