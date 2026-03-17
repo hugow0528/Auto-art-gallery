@@ -16679,6 +16679,18 @@
       "image_model": "klein",
       "seed": 1777451911,
       "created_at": "2026-03-17T22:45:54.125035+08:00"
+    },
+    {
+      "id": "20260317_224755",
+      "offset_start": 92540,
+      "offset_end": 92614,
+      "text": "她用這兩句來形容自己的一生。我想起福克納的小說《我彌留之際》裡，艾迪的\n父親常說的一句話：「活着的理由，就是爲了過那種不死不活的漫長日子做準\n備。",
+      "prompt": "A lone, weathered woman sits by a grimy window in a dimly lit, rustic room, her face etched with the quiet resignation of a long, arduous life. Dust motes dance in the single shaft of weak sunlight illuminating her worn hands clutching a faded, dog-eared book. The atmosphere is heavy with unspoken weariness, rendered in a melancholic, chiaroscuro style reminiscent of a Dutch Golden Age painting, emphasizing the stark contrast between hope and hardship.",
+      "image": "reader_images/reader_20260317_224755.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 665305185,
+      "created_at": "2026-03-17T22:47:55.275758+08:00"
     }
   ],
   "book_total_chars": 92814,
