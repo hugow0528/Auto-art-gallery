@@ -15395,6 +15395,18 @@
       "image_model": "grok-imagine",
       "seed": 478587357,
       "created_at": "2026-03-17T13:46:54.347710+08:00"
+    },
+    {
+      "id": "20260317_134737",
+      "offset_start": 85477,
+      "offset_end": 85548,
+      "text": "就在之驊抓住麥芽的衣裳用力一扯，所有紐扣硬生生迸脫的瞬間，一個瘦弱的女\n嬰也墜地了。由於在母親腹中掙扎了太久，她幾近窒息，落地時喑啞而沉默。",
+      "prompt": "A dark, cramped room illuminated by flickering candlelight; a woman in torn white robes with scattered buttons on the floor, her body contorted in labor agony; a tiny, pale, emaciated newborn girl lying silent and motionless on the worn wooden boards, barely breathing, her fragile limbs curled like a",
+      "image": "reader_images/reader_20260317_134737.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 638270635,
+      "created_at": "2026-03-17T13:47:37.839870+08:00"
     }
   ],
   "book_total_chars": 92814,
