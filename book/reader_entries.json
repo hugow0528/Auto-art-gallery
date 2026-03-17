@@ -15515,6 +15515,18 @@
       "image_model": "grok-imagine",
       "seed": 1739789916,
       "created_at": "2026-03-17T14:41:56.637127+08:00"
+    },
+    {
+      "id": "20260317_144240",
+      "offset_start": 86058,
+      "offset_end": 86158,
+      "text": "他把觀音菩薩藏在樓上，自己也睡在樓上，樓下是竈屋，一把木梯子\n上下。上樓時手裡舉着菜油燈——小碟子裝了菜油擱在竹筒上，碟子裡有一根棉\n紗做的燈芯——幽幽的燈光隨着上樓的腳步一晃一晃，照得屋裡半明半暗。",
+      "prompt": "A solitary figure ascends a creaking wooden ladder in a traditional Chinese farmhouse, holding a flickering oil lamp—a shallow dish of vegetable oil on a bamboo holder with a cotton wick casting wavering amber light. The dim glow reveals an ancient wooden Guanyin statue hidden in the shadows of",
+      "image": "reader_images/reader_20260317_144240.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 29175576,
+      "created_at": "2026-03-17T14:42:40.123557+08:00"
     }
   ],
   "book_total_chars": 92814,
