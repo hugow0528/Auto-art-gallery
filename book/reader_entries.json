@@ -15443,6 +15443,18 @@
       "image_model": "zimage",
       "seed": 1286529185,
       "created_at": "2026-03-17T14:03:08.337210+08:00"
+    },
+    {
+      "id": "20260317_140806",
+      "offset_start": 85744,
+      "offset_end": 85820,
+      "text": "孩子們很小的時候，她就告訴他們：「長大以後，你們\n要讀大學。」\n秋園也好，之驊也好，這一生總是想上學而不得。之驊老對孩子們說，她這輩子\n就是沒有念夠書。",
+      "prompt": "In a serene traditional Chinese village courtyard at dusk, with whitewashed stone walls, tiled roofs, and lantern-lit alleys evoking ancient Huizhou harmony, a weary middle-aged woman named Zhihua sits on a wooden stool surrounded by her wide-eyed young children, her face etched with longing as she gestures emphatically while speaking of university dreams. Nearby, her husband Qiuyuan stands pensively in the background, tools in hand, gazing at faded books on a simple table under soft golden lantern light, conveying a poignant atmosphere of unfulfilled scholarly yearning amid rural simplicity. Render in the style of romantic Chinese ink wash painting blended with photorealism, misty autumn fog, warm earthy tones, high detail, emotional depth.",
+      "image": "reader_images/reader_20260317_140806.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1821903154,
+      "created_at": "2026-03-17T14:08:06.510385+08:00"
     }
   ],
   "book_total_chars": 92814,
