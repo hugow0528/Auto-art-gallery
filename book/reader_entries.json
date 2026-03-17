@@ -15203,6 +15203,18 @@
       "image_model": "zimage",
       "seed": 235803443,
       "created_at": "2026-03-17T13:05:23.082409+08:00"
+    },
+    {
+      "id": "20260317_130858",
+      "offset_start": 84501,
+      "offset_end": 84568,
+      "text": "之驊在河邊停了下來，霧大得什麼也看不見。那是十月的濃霧，夾帶着初起的侵\n人的秋氣，一種寒冷寂寞的氣息就那麼不由分說地鋪滿了整張河面。",
+      "prompt": "A solitary figure stands by a mist-obscured riverside at dawn in October, the dense autumn fog enveloping everything in a cold, lonely haze. Soft, diffuse light filters through the vapor, muting all colors to muted greys and blues, creating a melancholic and atmospheric scene in a realistic painterly style.",
+      "image": "reader_images/reader_20260317_130858.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux-2-dev",
+      "seed": 1110994909,
+      "created_at": "2026-03-17T13:08:58.827327+08:00"
     }
   ],
   "book_total_chars": 92814,
