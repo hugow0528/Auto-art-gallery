@@ -14891,6 +14891,18 @@
       "image_model": "gptimage",
       "seed": 684280129,
       "created_at": "2026-03-17T11:39:56.069012+08:00"
+    },
+    {
+      "id": "20260317_114302",
+      "offset_start": 82752,
+      "offset_end": 82819,
+      "text": "不管怎樣都要去考。」\n子恆又說：「你這會兒就起身，去換身衣服、照個相，後天好去公社報名。」\n賠三仍是不情願：「還是算了吧，心裡沒點底。",
+      "prompt": "First, the user provides a Chinese literary passage. I need to create an image-generation prompt in English based on this passage. The passage is about a conversation between characters, likely about going to an exam or报名 (signing up) at the公社 (commune).\n\nKey elements from the passage:\n\n- Characters: Zihang (子恆) and Peisan (賠三). I'll use these names as given, but in English prompts, I might keep them or adapt. Since the prompt should be in English, I'll use the names as is or translate if needed. But for authenticity, I'll use the pinyin or direct names: Zihang and Peisan.\n\n- Actions: Zihang is urging Peisan to get up, change clothes, take a photo, and go to the commune to sign up. Peisan is reluctant, saying \"心里没点底\" which means lacking confidence or feeling unsure.\n\n- Setting: Implied from the context. It's likely in a rural or commune setting in China, possibly during a historical period like the Cultural Revolution or similar, given the mention of公社 (commune). The scene might be in a simple room or outdoors where they are talking.\n\n- Atmosphere: There's tension or reluctance. Peisan is unwilling, while Zihang is persuasive. The mood is uncertain, hesitant.\n\n- Artistic style: Since it's a literary passage, I should aim for a realistic or slightly stylized visual that captures the emotion",
+      "image": "reader_images/reader_20260317_114302.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 760898579,
+      "created_at": "2026-03-17T11:43:02.447612+08:00"
     }
   ],
   "book_total_chars": 92814,
