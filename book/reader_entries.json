@@ -15347,6 +15347,18 @@
       "image_model": "zimage",
       "seed": 477160532,
       "created_at": "2026-03-17T13:39:54.432472+08:00"
+    },
+    {
+      "id": "20260317_134043",
+      "offset_start": 85284,
+      "offset_end": 85348,
+      "text": "之驊完全被疼痛這個魔鬼攫住了。她牙齒咬得咯咯直響，雙手緊緊拉住牀欄，左\n翻右滾。老朽的木牀經不起她瘋狂的力氣，搖得幾乎散了架。",
+      "prompt": "A distressed woman writhes in agony on a rickety wooden bed, her body contorting as she clutches the bed frame, her teeth gritted. The scene is lit by harsh, dim light, casting long shadows that accentuate the suffering and the worn, aged texture of the simple room. The atmosphere is one of intense, raw pain, depicted in a dramatic, realistic style with a focus on the visceral physical struggle.",
+      "image": "reader_images/reader_20260317_134043.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 1653288170,
+      "created_at": "2026-03-17T13:40:43.164605+08:00"
     }
   ],
   "book_total_chars": 92814,
