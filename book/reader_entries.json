@@ -15467,6 +15467,18 @@
       "image_model": "flux-2-dev",
       "seed": 1282250475,
       "created_at": "2026-03-17T14:16:00.194907+08:00"
+    },
+    {
+      "id": "20260317_141635",
+      "offset_start": 85820,
+      "offset_end": 85887,
+      "text": "後來，之驊的三個孩子都上了大學。\n\n144\n\n\f三\n賜福山的老屋傍山，山邊有株參天的香樟樹。曾有人願出一千元買這棵樹，秋園\n拒絕了。",
+      "prompt": "A sprawling, ancient camphor tree with a vast canopy stands beside a rustic, mountain-hugging house in Ci Fu Mountain. Sunlight dapples through the dense leaves, illuminating the aged, weathered wood of the house and casting long shadows across the overgrown courtyard. The atmosphere is one of quiet resilience and deep-rooted history. No people are visible, emphasizing the timeless presence of the tree and the home. Art style: Oil painting, realism, with a touch of Impressionism in the play of light and shadow.",
+      "image": "reader_images/reader_20260317_141635.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1095654198,
+      "created_at": "2026-03-17T14:16:36.021385+08:00"
     }
   ],
   "book_total_chars": 92814,
