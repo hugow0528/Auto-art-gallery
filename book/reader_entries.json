@@ -16295,6 +16295,18 @@
       "image_model": "klein",
       "seed": 1538649243,
       "created_at": "2026-03-17T19:51:44.106553+08:00"
+    },
+    {
+      "id": "20260317_195408",
+      "offset_start": 90293,
+      "offset_end": 90390,
+      "text": "子恆和賠三抬着她去了醫院，想接好她的骨頭。可是接了又斷。他們又冒險把她\n搬上車，送到省裏最好的骨科醫院。那兒的醫生只肯開藥，不肯接骨，擔心在骨\n頭接上那一瞬間，她會疼得暈死過去，再也醒不過來。",
+      "prompt": "In a dimly lit provincial orthopedic hospital room at dusk, two anxious Chinese men—Zi Heng and Pei San, with weathered faces and simple clothing—gently support a frail, pale woman with a severely broken limb, her body limp and bandaged, as they plead desperately with a hesitant doctor in white coat who shakes his head, refusing to operate amid scattered X-rays and pill bottles on the table. The atmosphere is thick with tension and quiet despair, shadows lengthening from a single overhead lamp casting somber highlights on their worried expressions and the sterile medical equipment. Rendered in hyper-realistic digital art style inspired by Gregory Crewdson, with cool blue tones, dramatic chiaroscuro lighting, and intricate details evoking fragile human vulnerability.",
+      "image": "reader_images/reader_20260317_195408.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 405052356,
+      "created_at": "2026-03-17T19:54:08.318119+08:00"
     }
   ],
   "book_total_chars": 92814,
