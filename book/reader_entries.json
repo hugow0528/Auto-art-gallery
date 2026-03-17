@@ -14867,6 +14867,18 @@
       "image_model": "flux-2-dev",
       "seed": 606489753,
       "created_at": "2026-03-17T11:27:17.480249+08:00"
+    },
+    {
+      "id": "20260317_112805",
+      "offset_start": 82589,
+      "offset_end": 82658,
+      "text": "他要賠三去公社報名。\n賠三正在挖地，連頭都沒抬，說：「考什麼大學？一個初中生種了十一年田，連\n原來學的東西都丟光了，還考大學呢，莫去丟臉。",
+      "prompt": "In a dusty, sun-drenched rural Chinese courtyard in the late 1970s, a young man named Pei San, his back hunched, is tilling the earth with a simple hoe, his face obscured by the sun and his focus on the soil. The atmosphere is one of quiet resignation and hard labor, rendered in a style reminiscent of traditional Chinese ink wash painting but with the stark realism of socialist-era propaganda art. Crates and simple farming tools are scattered around the scene, and a few sparse, dry plants dot the otherwise barren ground.",
+      "image": "reader_images/reader_20260317_112805.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1718844258,
+      "created_at": "2026-03-17T11:28:05.266643+08:00"
     }
   ],
   "book_total_chars": 92814,
