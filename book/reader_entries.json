@@ -16187,6 +16187,18 @@
       "image_model": "zimage",
       "seed": 1496496082,
       "created_at": "2026-03-17T19:11:23.421943+08:00"
+    },
+    {
+      "id": "20260317_191159",
+      "offset_start": 89598,
+      "offset_end": 89688,
+      "text": "老屋後面是個山\n坡，長滿了灌木和低矮的松樹。子恆想在山上栽幾棵竹子，以後編個籃子、簸箕\n之類，就不用向人買了。再栽上一兩棵楓樹，楓葉紅的時候很好看，能讓老屋活\n躍些，免得僧氣十足。",
+      "prompt": "First, the user wants me to create an image-generation prompt based on a Chinese literary passage. The passage is about an old house with a hillside behind it, covered in shrubs and short pine trees. The character, Zi Heng, wants to plant bamboo and maple trees to make the place more lively and practical for making baskets.\n\nI need to craft a vivid, detailed English prompt for AI image generation. The prompt should capture the scene, atmosphere, characters, and visual essence. It must include artistic style, mood, lighting, and specific visual elements. I should respond only with the image prompt in English—no explanations, no translations, no markdown.\n\nThe user specifies: \"Describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, any characters present, and artistic style. 2–4 sentences only. English only.\"\n\nSo, my response should be a concise prompt in 2 to 4 sentences.\n\nKey elements from the passage:\n\n- Setting: Behind an old house, a hillside with shrubs and low pine trees.\n\n- Character: Zi Heng, who is thinking about planting bamboo and maple trees.\n\n- Atmosphere: The desire to make the old house more lively, avoiding a gloomy or monastic feel. \"免得僧氣十足\" implies avoiding a too-serious or austere atmosphere.\n\n- Visual elements: Bamboo for practical use, maple trees for beauty when leaves turn red.\n\nNow, I need to translate this into an image prompt. Since",
+      "image": "reader_images/reader_20260317_191159.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 1471060855,
+      "created_at": "2026-03-17T19:11:59.620907+08:00"
     }
   ],
   "book_total_chars": 92814,
