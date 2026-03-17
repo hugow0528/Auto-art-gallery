@@ -15167,6 +15167,18 @@
       "image_model": "imagen-4",
       "seed": 1060914775,
       "created_at": "2026-03-17T13:01:08.427029+08:00"
+    },
+    {
+      "id": "20260317_130214",
+      "offset_start": 84254,
+      "offset_end": 84330,
+      "text": "賠三考取了湖南師範學院中文系。\n畢業以後，他成了一名中學語文教師。仁受在世時老說，教師與醫生是最好的職\n業，不管哪朝哪代，總要有人教書，總要有人行醫。",
+      "prompt": "A dedicated young Chinese middle school language teacher stands confidently at the front of a sunlit classroom in Hunan Normal College style, chalk in hand, writing elegant Chinese characters on a large blackboard while 50 attentive students in blue uniforms sit quietly at paired wooden desks, absorbing the lesson with focused expressions. Warm golden light filters through tall windows, casting soft shadows on bulletin boards adorned with classical poetry scrolls and motivational slogans, evoking a serene atmosphere of timeless respect for education and Confucian wisdom. Render in realistic digital art style inspired by traditional ink wash painting, with subtle earthy tones, intricate details on fabrics and wood grains, and a mood of quiet inspiration and scholarly pride.",
+      "image": "reader_images/reader_20260317_130214.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1133408383,
+      "created_at": "2026-03-17T13:02:14.650315+08:00"
     }
   ],
   "book_total_chars": 92814,
