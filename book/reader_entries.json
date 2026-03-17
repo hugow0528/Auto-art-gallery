@@ -14747,6 +14747,18 @@
       "image_model": "flux",
       "seed": 1313742584,
       "created_at": "2026-03-17T10:25:18.551162+08:00"
+    },
+    {
+      "id": "20260317_103012",
+      "offset_start": 81979,
+      "offset_end": 82061,
+      "text": "怎麼小王還沒來打針呢？」\n「只怕是抽不出身，我拉你去吧！」\n「我這樣躺着舒服，一動又怕咳起來。還是你跑一趟，去跟小王說一聲，上午不\n能來，下午也可以，不要忘記就是。",
+      "prompt": "A person lies in bed, looking frail and pale, their room dimly lit by natural light filtering through a window. The atmosphere is quiet and subdued, with a hint of worry as one person speaks to another, urging them to fetch someone. The artistic style is reminiscent of traditional Chinese ink wash painting, emphasizing soft, muted tones and delicate brushstrokes to convey a sense of gentle melancholy and concern.",
+      "image": "reader_images/reader_20260317_103012.jpg",
+      "text_model": "gemini-search",
+      "image_model": "imagen-4",
+      "seed": 277749657,
+      "created_at": "2026-03-17T10:30:12.179429+08:00"
     }
   ],
   "book_total_chars": 92814,
