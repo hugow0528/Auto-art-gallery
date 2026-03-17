@@ -14843,6 +14843,18 @@
       "image_model": "imagen-4",
       "seed": 1225946498,
       "created_at": "2026-03-17T11:21:13.822536+08:00"
+    },
+    {
+      "id": "20260317_112359",
+      "offset_start": 82411,
+      "offset_end": 82486,
+      "text": "以後，我會去看大\n大的。」\n隔了一天，子恆就趕到了湖北。他在湖北住了兩天，陪秋園去和隊上的人告別。\n\n137\n\n\f秋園四十六歲去湖北，六十六歲回湖南。",
+      "prompt": "A middle-aged Chinese woman, Qiu Yuan, with a melancholic expression, stands in a dimly lit room in Hubei province, saying goodbye to her colleagues. She is 46 years old and is about to return to Hunan. The atmosphere is somber and tinged with a sense of farewell. The artistic style is realistic with a touch of traditional Chinese ink wash painting.",
+      "image": "reader_images/reader_20260317_112359.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 1175886265,
+      "created_at": "2026-03-17T11:23:59.656851+08:00"
     }
   ],
   "book_total_chars": 92814,
