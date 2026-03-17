@@ -16103,6 +16103,18 @@
       "image_model": "flux-2-dev",
       "seed": 1706052688,
       "created_at": "2026-03-17T18:34:27.471408+08:00"
+    },
+    {
+      "id": "20260317_183653",
+      "offset_start": 89181,
+      "offset_end": 89264,
+      "text": "他們總是跨進大門就喊：「媽媽！媽媽！」要是秋園\n答應得慢了點，弟兄倆便會驚慌失措，到處尋找。秋園看到兄弟倆回來了，自是\n高興異常，麻利地泡上豆子芝麻茶，送到兒子手中。",
+      "prompt": "A cozy, sun-drenched traditional Chinese courtyard home interior, warm afternoon light filtering through latticed windows. Two young boys, perhaps five and seven years old, with bright, expectant faces, have just burst through an ornate wooden door, calling out \"Mama!\" in unison. A woman, \"Qiuyuan,\" with a loving smile, is gracefully pouring steaming, fragrant tea into delicate porcelain cups. The scene evokes a feeling of joyful reunion and domestic warmth, rendered in a soft, impressionistic painting style with rich, earthy colors.",
+      "image": "reader_images/reader_20260317_183653.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 608056161,
+      "created_at": "2026-03-17T18:36:53.453198+08:00"
     }
   ],
   "book_total_chars": 92814,
