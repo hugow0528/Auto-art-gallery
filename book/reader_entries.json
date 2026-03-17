@@ -14795,6 +14795,18 @@
       "image_model": "zimage",
       "seed": 799342291,
       "created_at": "2026-03-17T11:15:10.224104+08:00"
+    },
+    {
+      "id": "20260317_111537",
+      "offset_start": 82207,
+      "offset_end": 82271,
+      "text": "小王把手探到王成恩鼻子下方。「沒氣了，救不過來了。」\n葬了王成恩，秋園去了趟郵局，給子恆拍了張電報：「王伯伯已故，速來接\n我。",
+      "prompt": "In a dimly lit traditional Chinese room heavy with grief and the scent of incense, Xiao Wang leans over the lifeless body of Wang Cheng'en on a simple wooden bed, his hand extended beneath the old man's nose to check for breath, face etched with somber resignation under flickering candlelight. Outside a rain-streaked window, Qiu Yuan stands pensively at a rustic post office counter, composing a urgent telegram to Zi Heng—\"Uncle Wang has passed, come quickly\"—amid stacks of yellowed envelopes and a mournful autumn dusk filtering through bamboo screens. Rendered in the style of ink wash painting with subtle yijing atmosphere, evoking quiet desolation and inevitable loss, in muted grays, earthy tones, and soft ethereal lighting.",
+      "image": "reader_images/reader_20260317_111537.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1108306986,
+      "created_at": "2026-03-17T11:15:37.758017+08:00"
     }
   ],
   "book_total_chars": 92814,
