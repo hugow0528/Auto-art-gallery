@@ -16127,6 +16127,18 @@
       "image_model": "imagen-4",
       "seed": 1601027244,
       "created_at": "2026-03-17T18:37:38.058957+08:00"
+    },
+    {
+      "id": "20260317_184200",
+      "offset_start": 89264,
+      "offset_end": 89362,
+      "text": "賠三結婚後，每周五回自己家裡住一晚，周六上午趕回老屋，換子恆回自己家。\n周日晚上，兄弟倆又齊聚老屋，周一早上各奔學校。\n儘管兄弟倆如此辛苦地來回，秋園仍要一整天一整天地守着山林深處這一棟屋\n子。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. I need to respond only with the prompt in English, no explanations or anything else.\n\nThe passage is about two brothers, Pei San and Zi Heng, who alternate staying at an old house in the mountains to keep their mother, Qiu Yuan, company. It mentions their weekly schedule: Pei San stays from Friday to Saturday morning, then Zi Heng takes over, and they reunite on Sunday night before leaving on Monday. Despite their efforts, Qiu Yuan still spends entire days alone in the house deep in the mountains.\n\nI need to describe a specific visual scene in English, suitable for AI image generation. It should include setting, atmosphere, characters present, and artistic style. Keep it to 2–4 sentences.\n\nKey elements from the passage:\n- Setting: An old house deep in the mountains, surrounded by山林 (forests or山林深处, meaning deep in the mountains).\n- Characters: Qiu Yuan is present, and possibly one of the brothers, but the passage emphasizes Qiu Yuan alone for long periods. For a specific scene, I should choose a moment when she is alone or with one brother.\n- Atmosphere: Likely lonely, serene, or melancholic due to her solitude despite the brothers' visits. There's a sense of duty and family care.\n- Artistic style: I need to suggest a style. Since it's literary, perhaps a realistic or impressionistic style to capture the",
+      "image": "reader_images/reader_20260317_184200.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 682297303,
+      "created_at": "2026-03-17T18:42:00.604162+08:00"
     }
   ],
   "book_total_chars": 92814,
