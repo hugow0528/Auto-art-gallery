@@ -14723,6 +14723,18 @@
       "image_model": "grok-imagine",
       "seed": 77541736,
       "created_at": "2026-03-17T08:02:42.505483+08:00"
+    },
+    {
+      "id": "20260317_085718",
+      "offset_start": 81848,
+      "offset_end": 81910,
+      "text": "你放心養病，凡事都有我在。照顧你是應該的，怎麼能說是拖\n累呢？反過來，我病了，你也同樣會照顧我。這是慢性病，好起來也要慢些。",
+      "prompt": "A dimly lit, traditional Chinese bedroom, softly lit by a single paper lantern casting warm, dappled shadows. A gentle, kind-faced young woman with her hair loosely tied back sits by the bedside of an older, frail man, holding his hand with a reassuring smile. The atmosphere is one of quiet tenderness and unwavering devotion, rendered in the soft, painterly style of traditional Chinese scroll paintings.",
+      "image": "reader_images/reader_20260317_085718.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1226046602,
+      "created_at": "2026-03-17T08:57:19.016756+08:00"
     }
   ],
   "book_total_chars": 92814,
