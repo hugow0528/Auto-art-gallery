@@ -16571,6 +16571,18 @@
       "image_model": "flux",
       "seed": 1851189798,
       "created_at": "2026-03-17T22:17:11.280457+08:00"
+    },
+    {
+      "id": "20260317_222140",
+      "offset_start": 91769,
+      "offset_end": 91849,
+      "text": "」一直安安靜靜的外婆顯然很高興回答我這個問題，她牽過我的\n手，指着不遠處的山崖，語氣中滿滿的遺憾，「如果你們早來半個月就好了，四\n月那崖上都是杜鵑花，好看得很。",
+      "prompt": "A serene elderly Chinese grandmother with a gentle, regretful smile holds the hand of a young child, pointing toward a distant rugged mountain cliff bursting with vibrant clusters of blooming rhododendron flowers in full April glory, their pink and red petals cascading like a floral waterfall against misty green slopes. The scene unfolds in soft afternoon sunlight filtering through light haze, evoking a nostalgic, bittersweet atmosphere of missed beauty and familial warmth, with wild grasses and distant peaks adding depth. Render in the style of traditional Chinese ink wash painting blended with impressionistic realism, using delicate brushstrokes, subtle color gradients, and a dreamlike poetic mood.",
+      "image": "reader_images/reader_20260317_222140.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 2133922198,
+      "created_at": "2026-03-17T22:21:40.730386+08:00"
     }
   ],
   "book_total_chars": 92814,
