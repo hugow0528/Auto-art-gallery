@@ -15647,6 +15647,18 @@
       "image_model": "zimage",
       "seed": 1286560777,
       "created_at": "2026-03-17T15:36:30.048208+08:00"
+    },
+    {
+      "id": "20260317_153854",
+      "offset_start": 86669,
+      "offset_end": 86746,
+      "text": "難怪他有一大堆柴\n卻不捨得燒，此外連米都沒有一粒，真不知他有多少天沒喫飯了。\n145\n\n\f三十多年後，村子裡傳得沸沸揚揚，說是老和尚果真上了天、成了神仙。",
+      "prompt": "An old, wizened monk with a serene expression, draped in faded saffron robes, sits amidst a sparse, dimly lit hut. Piles of unburnt firewood are stacked beside him, contrasting with the utter lack of food provisions, creating an atmosphere of profound asceticism and hunger. The scene is rendered in the style of a traditional Chinese ink wash painting, with muted tones, soft shadows, and a palpable sense of quiet desperation and spiritual longing.",
+      "image": "reader_images/reader_20260317_153854.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 629128329,
+      "created_at": "2026-03-17T15:38:54.272417+08:00"
     }
   ],
   "book_total_chars": 92814,
