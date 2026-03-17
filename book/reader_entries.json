@@ -15539,6 +15539,18 @@
       "image_model": "gptimage",
       "seed": 404379794,
       "created_at": "2026-03-17T14:44:45.235131+08:00"
+    },
+    {
+      "id": "20260317_144527",
+      "offset_start": 86158,
+      "offset_end": 86222,
+      "text": "六十\n好幾的人，視力又差，上次樓很不容易。\n爲了不讓別人知道樓上有菩薩，每每等到夜深人靜，大家都進入夢鄉，老和尚才\n起來敬菩薩。",
+      "prompt": "An elderly monk, his face etched with the wisdom of age, carefully ascends a dimly lit, rickety wooden staircase, carrying a small, flickering lamp. Moonlight streams through a high, narrow window, casting long shadows and highlighting dust motes dancing in the air. The atmosphere is one of profound silence and secret devotion, captured in the style of traditional Chinese ink wash painting with a touch of chiaroscuro.",
+      "image": "reader_images/reader_20260317_144527.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 737416324,
+      "created_at": "2026-03-17T14:45:27.698535+08:00"
     }
   ],
   "book_total_chars": 92814,
