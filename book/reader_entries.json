@@ -15815,6 +15815,18 @@
       "image_model": "flux",
       "seed": 1683828594,
       "created_at": "2026-03-17T16:31:45.468714+08:00"
+    },
+    {
+      "id": "20260317_163555",
+      "offset_start": 87675,
+      "offset_end": 87744,
+      "text": "兩個崽對我都好，兩個媳婦就整天擔心我替哪\n個做多了，替自己做少了，喫了虧。別人說媳婦難當，我做媳婦倒冇受一點氣，\n想不到當了婆婆卻要受氣。",
+      "prompt": "An elderly Chinese woman, with a weary but kind face etched by time, sits on a simple wooden stool in a dimly lit, traditional courtyard house. Sunlight filters weakly through a paper window, illuminating dust motes dancing in the air. She holds a steaming bowl of food, her expression a mix of contentment and quiet contemplation, hinting at the complex emotions of her role as a matriarch. The scene evokes a feeling of gentle melancholy and the quiet weight of familial responsibility, rendered in the style of traditional Chinese ink wash painting.",
+      "image": "reader_images/reader_20260317_163555.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 204710716,
+      "created_at": "2026-03-17T16:35:55.813281+08:00"
     }
   ],
   "book_total_chars": 92814,
