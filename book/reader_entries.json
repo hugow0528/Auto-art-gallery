@@ -16067,6 +16067,18 @@
       "image_model": "flux-2-dev",
       "seed": 967952771,
       "created_at": "2026-03-17T18:13:04.678417+08:00"
+    },
+    {
+      "id": "20260317_182725",
+      "offset_start": 88943,
+      "offset_end": 89031,
+      "text": "」\n秋園說：「小泉，生死有命，只好少想點，讓人王安心去投胎。」\n秋園勸慰地摩挲着小泉的手。那手掌粗糙，滿是深深的紋路，裡面全是做活留下\n來的色素，永遠洗不掉，是一種潔淨的醜陋。",
+      "prompt": "A close-up shot of two weathered hands clasped together, one hand gently comforting the other. The lower hand is rough, with deep creases and permanent stains from labor, lit with dramatic chiaroscuro lighting against a dark, somber background. Moody and intimate, photorealistic style, capturing a moment of quiet consolation.",
+      "image": "reader_images/reader_20260317_182725.jpg",
+      "text_model": "deepseek",
+      "image_model": "klein",
+      "seed": 1713458704,
+      "created_at": "2026-03-17T18:27:25.658833+08:00"
     }
   ],
   "book_total_chars": 92814,
