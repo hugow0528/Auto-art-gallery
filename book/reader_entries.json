@@ -16703,6 +16703,18 @@
       "image_model": "imagen-4",
       "seed": 1990278609,
       "created_at": "2026-03-17T22:51:37.893760+08:00"
+    },
+    {
+      "id": "20260317_230929",
+      "offset_start": 92692,
+      "offset_end": 92763,
+      "text": "外婆、媽媽這些被放逐到社會底層的人們，在命運面前顯得如此渺小無力，仿佛\n隨時會被揉碎。然而，人比自己想象的更加柔韌，她們永遠不會被徹底毀掉。",
+      "prompt": "An elderly woman and her daughter crouch in a dim, cramped alleyway among weathered wooden crates and hanging laundry, their worn clothing blending into shadows, yet their eyes hold an unwavering glow despite the oppressive darkness pressing around them. Soft golden light breaks through cracked walls, illuminating their determined faces as they clutch each other, embodying quiet strength against overwhelming pressure. Style: realistic painting with chiaroscuro lighting, muted earth tones, melancholic yet hopeful mood.",
+      "image": "reader_images/reader_20260317_230929.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 1222194348,
+      "created_at": "2026-03-17T23:09:29.232311+08:00"
     }
   ],
   "book_total_chars": 92814,
