@@ -15611,6 +15611,18 @@
       "image_model": "grok-imagine",
       "seed": 21319304,
       "created_at": "2026-03-17T15:19:17.506875+08:00"
+    },
+    {
+      "id": "20260317_153144",
+      "offset_start": 86518,
+      "offset_end": 86581,
+      "text": "老和尚兩眼深陷，無精打採，每日在村子裡慢慢悠悠地走路。\n有一天，他突然開始拉肚子，一天要拉上十幾次。又過了幾天，不見他出門。",
+      "prompt": "An elderly Buddhist monk lies frail and emaciated on a simple wooden bed in a dim, sparse monastery room, his deeply sunken eyes closed, body barely visible under threadbare robes, weak afternoon light filtering through paper windows casting long shadows across the dusty floor, in the style",
+      "image": "reader_images/reader_20260317_153144.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 286619770,
+      "created_at": "2026-03-17T15:31:44.786051+08:00"
     }
   ],
   "book_total_chars": 92814,
