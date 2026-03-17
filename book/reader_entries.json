@@ -15263,6 +15263,18 @@
       "image_model": "grok-imagine",
       "seed": 1401492397,
       "created_at": "2026-03-17T13:15:27.770053+08:00"
+    },
+    {
+      "id": "20260317_131846",
+      "offset_start": 84862,
+      "offset_end": 84971,
+      "text": "剛才的濃霧此刻似乎聚攏在腳底，她一頭栽進了霧裡。\n河水不深，水流也不湍急，可那刺骨的寒冷伴着恐懼一起襲擊着之驊的肉體。她\n掙扎着重新爬上青石板，掙扎着挽起那桶沉甸甸的衣服，另一隻手拿着搓衣板和\n棒槌，蹣跚着往村裏走去。",
+      "prompt": "A drenched woman in traditional Hanfu struggles out of a shallow river at dawn, her wet clothes clinging to her shivering body as she clutches a wooden laundry bucket and beating stick, her bare feet on moss-covered Qing stone slabs; thick white fog swirls around her knees while the village looms barely visible in the background, captured in a somber traditional Chinese ink wash painting style with muted cool blue-grey tones, soft diffused lighting filtering through the mist, conveying cold exhaustion and quiet resilience.",
+      "image": "reader_images/reader_20260317_131846.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 501402297,
+      "created_at": "2026-03-17T13:18:46.327653+08:00"
     }
   ],
   "book_total_chars": 92814,
