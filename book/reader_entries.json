@@ -15455,6 +15455,18 @@
       "image_model": "grok-imagine",
       "seed": 1821903154,
       "created_at": "2026-03-17T14:08:06.510385+08:00"
+    },
+    {
+      "id": "20260317_141600",
+      "offset_start": 85820,
+      "offset_end": 85887,
+      "text": "後來，之驊的三個孩子都上了大學。\n\n144\n\n\f三\n賜福山的老屋傍山，山邊有株參天的香樟樹。曾有人願出一千元買這棵樹，秋園\n拒絕了。",
+      "prompt": "A wise, elderly woman with kind eyes sits serenely on the porch of a traditional Chinese house nestled against a lush, green mountainside. Beside her stands a magnificent, ancient camphor tree with a thick, gnarled trunk and a full, verdant canopy, bathed in the warm, soft glow of the late afternoon sun. The atmosphere is peaceful and timeless, rendered in the style of a classical Chinese ink wash painting with subtle, naturalistic colors.",
+      "image": "reader_images/reader_20260317_141600.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1282250475,
+      "created_at": "2026-03-17T14:16:00.194907+08:00"
     }
   ],
   "book_total_chars": 92814,
