@@ -16427,6 +16427,18 @@
       "image_model": "zimage",
       "seed": 1534304711,
       "created_at": "2026-03-17T21:18:56.600578+08:00"
+    },
+    {
+      "id": "20260317_214656",
+      "offset_start": 90978,
+      "offset_end": 91041,
+      "text": "能夠不花錢，這比什麼都重要。該怎麼描述我們那時的窮困呢？一天晚上，媽媽\n決定帶我們去看電影，可是左算右算，怎麼着都差兩角錢。",
+      "prompt": "A dimly lit, humble 1980s Chinese living room. A mother, with a worried but determined expression, is counting coins on a worn wooden table, her two children looking on with hopeful anticipation. The atmosphere is one of gentle poverty and familial love, rendered in a realistic, slightly nostalgic painting style with soft, warm lighting.",
+      "image": "reader_images/reader_20260317_214656.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 1365830648,
+      "created_at": "2026-03-17T21:46:56.419539+08:00"
     }
   ],
   "book_total_chars": 92814,
