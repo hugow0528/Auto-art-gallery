@@ -16403,6 +16403,18 @@
       "image_model": "zimage",
       "seed": 529321549,
       "created_at": "2026-03-17T20:36:30.445594+08:00"
+    },
+    {
+      "id": "20260317_203716",
+      "offset_start": 90802,
+      "offset_end": 90887,
+      "text": "媽媽帶\n着姐姐、弟弟和我坐在運送毛竹的卡車車廂裏，綠色油布搭成車篷，看不到天\n空，但車廂尾部是敞開的，順着戳出去的毛竹，可以看見道路和兩邊的青山疾速\n朝後退去，無止無休。",
+      "prompt": "A low-angle shot from inside a truck bed covered with a green tarpaulin, emphasizing the enclosed yet expansive feeling. Through the open rear, a family of four (mother, elder sister, younger brother, and the narrator) are visible, their faces turned towards the receding landscape. Lush green mountains blur into streaks of color as they rush backward, suggesting speed and an endless journey. The scene is bathed in a soft, diffused light filtering through the tarpaulin, creating a slightly melancholic and nostalgic atmosphere, rendered in a painterly, slightly impressionistic style.",
+      "image": "reader_images/reader_20260317_203716.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 1180451748,
+      "created_at": "2026-03-17T20:37:16.377812+08:00"
     }
   ],
   "book_total_chars": 92814,
