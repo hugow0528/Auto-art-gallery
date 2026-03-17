@@ -16367,6 +16367,18 @@
       "image_model": "grok-imagine",
       "seed": 2141430714,
       "created_at": "2026-03-17T20:02:46.669664+08:00"
+    },
+    {
+      "id": "20260317_200719",
+      "offset_start": 90603,
+      "offset_end": 90687,
+      "text": "就這樣，秋園帶着她的碎骨、她骨頭裡的疼\n痛、她的最後一眼，去了另一個世界。\n整理遺物的時候，之驊在秋園的棉襖口袋裡發現了一張紙條，上面寫着：\n一九三二年，從洛陽到南京。",
+      "prompt": "A worn cotton coat lies draped over a simple wooden chair in a quiet, sunlit room, dust motes floating in a shaft of soft light. A small, creased note with handwritten Chinese characters reading \"1932, from Luoyang to Nanjing\" rests in the open pocket, the scene rendered in muted, photorealistic detail with a solemn, melancholic atmosphere.",
+      "image": "reader_images/reader_20260317_200719.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1657154404,
+      "created_at": "2026-03-17T20:07:19.767895+08:00"
     }
   ],
   "book_total_chars": 92814,
