@@ -15035,6 +15035,18 @@
       "image_model": "flux",
       "seed": 2061027225,
       "created_at": "2026-03-17T12:25:24.699617+08:00"
+    },
+    {
+      "id": "20260317_122624",
+      "offset_start": 83519,
+      "offset_end": 83596,
+      "text": "那些在別人眼裡枯燥無味的哲\n學、社會學、自然科學書籍，他也看得津津有味。\n離開學校十一年了，現在高考恢復，憑成績錄取，這對賠三來說確實是千載難逢\n的機會。",
+      "prompt": "A middle-aged man with slightly disheveled hair sits at a worn wooden desk surrounded by stacks of thick academic books—philosophy, sociology, and natural science volumes—absorbed in reading by warm lamplight in a modest room, his face illuminated with focused intensity and quiet determination, realistic oil painting style with soft chiaroscuro lighting, 1970s Chinese setting.",
+      "image": "reader_images/reader_20260317_122624.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 2138906069,
+      "created_at": "2026-03-17T12:26:24.154397+08:00"
     }
   ],
   "book_total_chars": 92814,
