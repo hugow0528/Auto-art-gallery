@@ -16643,6 +16643,18 @@
       "image_model": "gptimage",
       "seed": 1518081775,
       "created_at": "2026-03-17T22:40:57.715786+08:00"
+    },
+    {
+      "id": "20260317_224209",
+      "offset_start": 92389,
+      "offset_end": 92470,
+      "text": "但生活的基調並\n未改變，她窮盡半生所追求的，依然僅僅是能夠活下去。\n\n154\n\n\f外婆去世時，我去湖南參加了葬禮，陪伴媽媽把外婆生前喜愛的衣服一件一件放\n入棺木。",
+      "prompt": "First, the user asks for an image-generation prompt based on a Chinese literary passage. The passage describes a scene where the narrator's grandmother has passed away, and they are in Hunan for the funeral, helping their mother place the grandmother's favorite clothes into the coffin.\n\nI need to create a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. The prompt should include artistic style, mood, lighting, and specific visual elements. I must respond only with the image prompt in English—no explanations, no translations, no markdown.\n\nThe user specifies: \"Describe a specific visual scene in English, suitable for AI image generation. Include setting, atmosphere, any characters present, and artistic style. 2–4 sentences only. English only.\"\n\nSo, my response should be a concise image prompt in 2-4 sentences.\n\nKey elements from the passage:\n\n- Setting: Funeral in Hunan, likely a traditional setting. The act of placing clothes into a coffin.\n\n- Atmosphere: Somber, melancholic, reflective. The passage mentions \"the tone of life has not changed\" and \"merely being able to survive,\" which adds a sense of struggle and endurance.\n\n- Characters: The narrator and their mother are present, placing clothes into the coffin. The grandmother is deceased, so she might not be visually present, but her clothes are.\n\n- Visual elements: Coffin, clothes, possibly a funeral setting with cultural details from Hunan.\n\n- Artistic style",
+      "image": "reader_images/reader_20260317_224209.jpg",
+      "text_model": "deepseek",
+      "image_model": "grok-imagine",
+      "seed": 2134673170,
+      "created_at": "2026-03-17T22:42:09.634128+08:00"
     }
   ],
   "book_total_chars": 92814,
