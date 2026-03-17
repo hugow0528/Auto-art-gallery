@@ -15659,6 +15659,18 @@
       "image_model": "flux",
       "seed": 629128329,
       "created_at": "2026-03-17T15:38:54.272417+08:00"
+    },
+    {
+      "id": "20260317_154312",
+      "offset_start": 86746,
+      "offset_end": 86849,
+      "text": "還有人\n說看到他駕着祥雲來到賜福山，來看庵子裡。但究竟是誰看到就不得而知了。\n\n146\n\n\f四\n秋園去村裏一戶人家喫喜酒，剛進屋就看到小泉和一伙人坐在一張八仙桌前，人\n羣中傳來陣陣驚呼，不知正看着什麼熱鬧。",
+      "prompt": "A warm, crowded village wedding feast interior in the style of traditional Chinese ink painting, with soft lantern light casting golden glows on wooden furniture. A group of animated villagers in early 20th century attire, including the figure of Xiaoquan, are clustered around an Eight Immortals table, their faces lit with expressions of intense curiosity and surprise as they peer at something unseen on the tabletop.",
+      "image": "reader_images/reader_20260317_154312.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 438449429,
+      "created_at": "2026-03-17T15:43:12.421556+08:00"
     }
   ],
   "book_total_chars": 92814,
