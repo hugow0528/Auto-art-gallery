@@ -15671,6 +15671,18 @@
       "image_model": "flux",
       "seed": 438449429,
       "created_at": "2026-03-17T15:43:12.421556+08:00"
+    },
+    {
+      "id": "20260317_154434",
+      "offset_start": 86746,
+      "offset_end": 86849,
+      "text": "還有人\n說看到他駕着祥雲來到賜福山，來看庵子裡。但究竟是誰看到就不得而知了。\n\n146\n\n\f四\n秋園去村裏一戶人家喫喜酒，剛進屋就看到小泉和一伙人坐在一張八仙桌前，人\n羣中傳來陣陣驚呼，不知正看着什麼熱鬧。",
+      "prompt": "A serene mountain monastery bathed in the soft glow of auspicious clouds, with a faint, ethereal figure arriving on them. The scene transitions to a lively village feast, where a young person named Qiu Yuan enters a crowded room, gasping in surprise at a boisterous gathering around a large square table, hints of excitement and spectacle in the air. The artistic style should be reminiscent of traditional Chinese ink wash paintings with a touch of magical realism.",
+      "image": "reader_images/reader_20260317_154434.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "gptimage",
+      "seed": 67249498,
+      "created_at": "2026-03-17T15:44:34.646000+08:00"
     }
   ],
   "book_total_chars": 92814,
