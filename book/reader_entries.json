@@ -15179,6 +15179,18 @@
       "image_model": "grok-imagine",
       "seed": 1133408383,
       "created_at": "2026-03-17T13:02:14.650315+08:00"
+    },
+    {
+      "id": "20260317_130404",
+      "offset_start": 84330,
+      "offset_end": 84408,
+      "text": "很長時間裡，仁受、秋園都\n是靠教書養家的。子恆教了一輩子書。賠三也加入了這個隊伍。\n\n142\n\n\f二\n之驊拖着七個月的肚圍去河邊洗衣服時，背影還像個小姑娘。",
+      "prompt": "A heavily pregnant woman in her seventh month stands at a rural Chinese riverbank, her slender silhouette still resembling a young girl as she washes clothes in the gentle morning light. Traditional loose clothing drapes her swollen belly, her dark hair styled simply. Mist rises from the water, willows sway on the banks, and the quiet solitude of early dawn fills the scene. Style: traditional Chinese ink wash painting merged with",
+      "image": "reader_images/reader_20260317_130404.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1485880480,
+      "created_at": "2026-03-17T13:04:04.377351+08:00"
     }
   ],
   "book_total_chars": 92814,
