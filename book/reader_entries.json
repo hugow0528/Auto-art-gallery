@@ -15911,6 +15911,18 @@
       "image_model": "grok-imagine",
       "seed": 177039371,
       "created_at": "2026-03-17T17:12:25.533418+08:00"
+    },
+    {
+      "id": "20260317_171346",
+      "offset_start": 88257,
+      "offset_end": 88327,
+      "text": "」\n小泉抽泣着接過茶，啜了一口，捧着茶杯就發起呆來。兩人沉默了一會兒。\n雙搶，搶收和搶種水稻。\n148\n\n\f人王是雙搶 時掉進水缸裏淹死的。",
+      "prompt": "A grief-stricken young woman sits in a humble rural kitchen, clutching a steaming tea cup with both hands, her eyes distant and watery, lost in painful memory. An elderly person sits silently beside her in the dim, atmospheric room with traditional wooden furnishings and soft morning light filtering through paper windows. The scene carries a somber, contemplative mood with muted earth tones and delicate ink-wash",
+      "image": "reader_images/reader_20260317_171346.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1186160522,
+      "created_at": "2026-03-17T17:13:46.081157+08:00"
     }
   ],
   "book_total_chars": 92814,
