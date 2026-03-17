@@ -15791,6 +15791,18 @@
       "image_model": "zimage",
       "seed": 2044337807,
       "created_at": "2026-03-17T16:09:24.046316+08:00"
+    },
+    {
+      "id": "20260317_162917",
+      "offset_start": 87531,
+      "offset_end": 87596,
+      "text": "細伢\n子一哭，她們就非要問出個子醜寅卯來。梁老師，你說細伢子哪裡能不哭一下？\n幫她們帶了，不但冇有功勞，連苦勞都冇有，氣都氣瘦了。",
+      "prompt": "A weary rural Chinese woman, gaunt and hollow-cheeked from frustration, sits slumped on a worn wooden stool in a dimly lit, cluttered village kitchen, her face etched with resentment as she gestures emphatically toward a tiny crying infant wrapped in faded red cloth on a bamboo cradle nearby. Surrounding her are three stern village women in simple gray tunics, leaning in with prying expressions, their hands clasped inquisitively amid steaming pots and scattered vegetables on a rough-hewn table, evoking a tense atmosphere of unfair accusation under warm lantern light filtering through paper windows. Rendered in a realistic ink-wash style inspired by traditional Chinese shui-mo painting with subtle modern digital textures, emphasizing emotional depth, dramatic chiaroscuro shadows, and earthy tones of ochre, indigo, and muted greens to convey yijing mood of aggrieved exhaustion and familial strife.",
+      "image": "reader_images/reader_20260317_162917.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 193630099,
+      "created_at": "2026-03-17T16:29:17.976155+08:00"
     }
   ],
   "book_total_chars": 92814,
