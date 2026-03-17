@@ -14999,6 +14999,18 @@
       "image_model": "flux-2-dev",
       "seed": 1198172412,
       "created_at": "2026-03-17T12:05:06.850646+08:00"
+    },
+    {
+      "id": "20260317_121401",
+      "offset_start": 83293,
+      "offset_end": 83355,
+      "text": "」他十有八九是不記得的。\n可賠三很會讀書，記憶力也驚人。上學時，歷史地理方面的內容很快就背得滾瓜\n爛熟，問起來沒他不知道的。",
+      "prompt": "A young Chinese scholar named 可賠三, with an intense and focused expression, sits at a wooden desk in a dimly lit traditional study room filled with ancient books, scrolls, and ink brushes, his eyes gleaming as he recites historical maps and geographical charts from memory with astonishing precision. Warm candlelight casts dramatic shadows across his determined face and the scattered pages of textbooks glowing under soft golden hues, evoking a serene yet powerful atmosphere of intellectual mastery and eidetic recall. Rendered in the style of classical Chinese ink wash painting blended with hyper-realistic digital art, highly detailed, sharp focus, atmospheric depth.",
+      "image": "reader_images/reader_20260317_121401.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1639558121,
+      "created_at": "2026-03-17T12:14:01.544743+08:00"
     }
   ],
   "book_total_chars": 92814,
