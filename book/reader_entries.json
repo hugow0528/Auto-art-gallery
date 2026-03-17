@@ -14879,6 +14879,18 @@
       "image_model": "gptimage",
       "seed": 1718844258,
       "created_at": "2026-03-17T11:28:05.266643+08:00"
+    },
+    {
+      "id": "20260317_113956",
+      "offset_start": 82658,
+      "offset_end": 82752,
+      "text": "」\n子恆說：「過兩天，公社就辦補習班。離考試還有兩個月，家裡的事你不要管，\n先去照個半身照，然後報名參加補習。你初中成績那麼好，記性又好，補習上兩\n個月，再借些高中的書看看，或許就能考取。",
+      "prompt": "A middle-aged man in simple rural clothing sits across from a young person in a modest wooden-furnished room, gesturing encouragingly while holding a small photograph. Warm afternoon light streams through a small window onto a worn table with textbooks and enrollment forms. The scene captures hopeful anticipation in 1970s Chinese rural commune setting, with documentary",
+      "image": "reader_images/reader_20260317_113956.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 684280129,
+      "created_at": "2026-03-17T11:39:56.069012+08:00"
     }
   ],
   "book_total_chars": 92814,
