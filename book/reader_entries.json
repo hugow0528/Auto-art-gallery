@@ -16055,6 +16055,18 @@
       "image_model": "grok-imagine",
       "seed": 843472067,
       "created_at": "2026-03-17T18:11:29.436660+08:00"
+    },
+    {
+      "id": "20260317_181304",
+      "offset_start": 88866,
+      "offset_end": 88943,
+      "text": "」\n小泉說：「梁老師，你講的道理我懂。其實人王這副模樣活在世上蠻作孽。就是\n這麼些年帶親了，捨不得。我經常想起她那個可憐的小身子，想想心裡就痛，就\n要哭。",
+      "prompt": "A melancholic interior scene in a modest Chinese home, dimly lit by soft, warm lamplight filtering through paper screens, showing a middle-aged man seated in contemplative silence, his weathered face etched with deep sorrow and regret as he gazes downward with glistening eyes. The atmosphere is heavy with grief and longing, filled with the weight of memories of a beloved child—her small, fragile form hovering like a ghostly image in the background or in the shadows of his mind. The artistic style should evoke traditional Chinese ink painting sensibilities blended with contemporary emotional realism, emphasizing muted earth tones, soft brushwork, and a pervasive sense of profound, quiet anguish and paternal heartbreak.",
+      "image": "reader_images/reader_20260317_181304.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux-2-dev",
+      "seed": 967952771,
+      "created_at": "2026-03-17T18:13:04.678417+08:00"
     }
   ],
   "book_total_chars": 92814,
