@@ -14855,6 +14855,18 @@
       "image_model": "grok-imagine",
       "seed": 1175886265,
       "created_at": "2026-03-17T11:23:59.656851+08:00"
+    },
+    {
+      "id": "20260317_112717",
+      "offset_start": 82486,
+      "offset_end": 82589,
+      "text": "138\n\n\f第七章 歸\n\n139\n\n\f一\n一九七七年的一天，子恆興衝衝地從二十多裏路外的學校趕回家告訴賠三，高考\n制度恢復了，有高中畢業證或相當於高中文化程度的社會青年，不論成分好壞，\n都可以參加高考。",
+      "prompt": "A young man, full of excited hope, runs down a dusty country road in 1977 China, a worn satchel slung over his shoulder. The air is crisp with the feeling of a pivotal moment, depicted in the style of early Chinese realist oil painting, with muted, earthy tones and soft, natural lighting. He is rushing towards a humble, rural home, the landscape around him sparsely populated with simple farmhouses and fields.",
+      "image": "reader_images/reader_20260317_112717.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux-2-dev",
+      "seed": 606489753,
+      "created_at": "2026-03-17T11:27:17.480249+08:00"
     }
   ],
   "book_total_chars": 92814,
