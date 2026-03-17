@@ -14771,6 +14771,18 @@
       "image_model": "gptimage",
       "seed": 2021245051,
       "created_at": "2026-03-17T10:53:40.652930+08:00"
+    },
+    {
+      "id": "20260317_111441",
+      "offset_start": 82140,
+      "offset_end": 82207,
+      "text": "秋園大叫一聲，連忙撲到牀上，一摸，還有餘熱。「還有救！還有\n救！」她連聲呼道。\n王成恩身體蜷曲，嘴邊有嘔吐物，顯然死前經歷過痛苦掙扎。",
+      "prompt": "A woman in a dimly lit room rushes to a bed where a man lies curled and distressed, with visible signs of suffering around his mouth, evoking a sense of urgency and grim discovery. The scene is rendered in a chiaroscuro style, emphasizing the stark contrast between light and shadow, with a somber and tense atmosphere.",
+      "image": "reader_images/reader_20260317_111441.jpg",
+      "text_model": "gemini-search",
+      "image_model": "grok-imagine",
+      "seed": 318228545,
+      "created_at": "2026-03-17T11:14:41.108963+08:00"
     }
   ],
   "book_total_chars": 92814,
