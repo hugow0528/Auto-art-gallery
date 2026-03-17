@@ -16283,6 +16283,18 @@
       "image_model": "flux-2-dev",
       "seed": 1352079629,
       "created_at": "2026-03-17T19:38:58.262019+08:00"
+    },
+    {
+      "id": "20260317_195144",
+      "offset_start": 90228,
+      "offset_end": 90293,
+      "text": "骨頭抵着牀\n墊很不好受，她不停地讓人給她換姿勢。每搬動一下，她便疼得像一隻吱吱叫的\n小鼠——被捕鼠夾和疼痛夾住的、皺縮絕望的小鼠。",
+      "prompt": "A dimly lit, stark bedroom with a worn, creaking wooden bedframe. A frail, elderly woman with emaciated limbs is writhing in discomfort, her bones pressing sharply against thin bedding. Her expression is one of extreme pain and despair, her body contorted like a trapped, terrified mouse. The scene should evoke a sense of profound suffering and fragility, rendered in a gritty, realistic style with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_195144.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1538649243,
+      "created_at": "2026-03-17T19:51:44.106553+08:00"
     }
   ],
   "book_total_chars": 92814,
