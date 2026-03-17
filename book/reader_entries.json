@@ -15707,6 +15707,18 @@
       "image_model": "gptimage",
       "seed": 1715791772,
       "created_at": "2026-03-17T15:57:22.422755+08:00"
+    },
+    {
+      "id": "20260317_155806",
+      "offset_start": 86994,
+      "offset_end": 87055,
+      "text": "小泉的頭髮乾枯萎黃，眼角的扇形皺紋又深又多，好似刻上去的，昔\n年的光潔明豔已經蕩然無存。\n秋園碰了碰小泉的手。「梁老師啊！",
+      "prompt": "A weathered elderly woman, her once bright hair now dry and yellowed, her eyes etched with deep, fan-shaped wrinkles, sits in a dimly lit, traditional Chinese courtyard. The atmosphere is one of fading elegance and quiet melancholy. Another woman gently touches her hand, her expression one of concern and respect, rendered in the style of a classical Chinese ink painting with muted tones and delicate brushwork.",
+      "image": "reader_images/reader_20260317_155806.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 1606857227,
+      "created_at": "2026-03-17T15:58:06.050166+08:00"
     }
   ],
   "book_total_chars": 92814,
