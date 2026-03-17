@@ -15551,6 +15551,18 @@
       "image_model": "imagen-4",
       "seed": 737416324,
       "created_at": "2026-03-17T14:45:27.698535+08:00"
+    },
+    {
+      "id": "20260317_144611",
+      "offset_start": 86222,
+      "offset_end": 86313,
+      "text": "他敬菩薩是受過專門訓練的：叩頭時，左腳朝前跨出半步，右腿跪\n下，先是一聲乒，隔一會兒，連續兩下乒乓，很有節奏感。乒乓、乒乓……頭重\n重磕在地板上，靜夜聽起來格外響亮，就這樣磕到天明。",
+      "prompt": "A solemn, dimly lit temple hall at night, with a single devoted man kneeling in repetitive, rhythmic prostration before a wooden Bodhisattva statue. The scene is captured in a style of dramatic, chiaroscuro oil painting reminiscent of Caravaggio, emphasizing the deep shadows, the intense focus on the worshipper's form, and the resonant sound of his forehead meeting the wooden floor.",
+      "image": "reader_images/reader_20260317_144611.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1483063587,
+      "created_at": "2026-03-17T14:46:11.202813+08:00"
     }
   ],
   "book_total_chars": 92814,
