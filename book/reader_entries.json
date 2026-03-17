@@ -15743,6 +15743,18 @@
       "image_model": "flux-2-dev",
       "seed": 1972443780,
       "created_at": "2026-03-17T16:02:23.482292+08:00"
+    },
+    {
+      "id": "20260317_160343",
+      "offset_start": 87217,
+      "offset_end": 87309,
+      "text": "」\n人王被小泉牽到身邊，秋園摸了摸她的頭。仍是那麼稀稀疏疏幾根頭髮，身子長\n大了些，黃而細膩的皮膚有了些許光澤，兩個酒杯大的小奶子撐起薄薄的紅色小\n褂子，下身着藍褲子，腳上是雙繡花鞋。",
+      "prompt": "A young girl with sparse, light-colored hair and a healthy glow to her yellow, delicate skin stands by a figure named Ren Wang. She wears a thin red shirt, her small breasts visible, and blue trousers, with embroidered shoes on her feet. The scene is bathed in soft, warm light, evoking a gentle and nostalgic atmosphere, rendered in a style reminiscent of traditional Chinese ink wash painting with subtle Western oil painting influences.",
+      "image": "reader_images/reader_20260317_160343.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 971774794,
+      "created_at": "2026-03-17T16:03:43.537554+08:00"
     }
   ],
   "book_total_chars": 92814,
