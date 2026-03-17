@@ -15227,6 +15227,18 @@
       "image_model": "gptimage",
       "seed": 489742771,
       "created_at": "2026-03-17T13:11:20.532891+08:00"
+    },
+    {
+      "id": "20260317_131202",
+      "offset_start": 84568,
+      "offset_end": 84661,
+      "text": "她終於站到\n了那塊熟悉的青石板上，困難地蹲坐下來。對七個月的孕婦而言，這是個高難度\n動作。她小心翼翼地蹲坐着，把衣服一件件從桶裏拎出來，浸到河水裡，再鋪到\n搓衣板上，一下一下地捶打起來。",
+      "prompt": "A heavily pregnant woman in her seventh month carefully kneels on ancient moss-covered stone slabs beside a tranquil river, her hands deeply immersed in cold water as she lifts each garment from a wooden bucket, beats it rhythmically against a washboard. Golden morning light filters through willow branches, casting soft shadows on her strained face and swollen belly. Traditional Chinese ink wash painting style with meticulous detail, capturing the quiet dignity and physical hardship of rural motherhood, serene atmospheric mood, soft natural lighting.",
+      "image": "reader_images/reader_20260317_131202.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 2007241915,
+      "created_at": "2026-03-17T13:12:02.586161+08:00"
     }
   ],
   "book_total_chars": 92814,
