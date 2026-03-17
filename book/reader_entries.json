@@ -15071,6 +15071,18 @@
       "image_model": "grok-imagine",
       "seed": 353851681,
       "created_at": "2026-03-17T12:28:36.143848+08:00"
+    },
+    {
+      "id": "20260317_122914",
+      "offset_start": 83744,
+      "offset_end": 83838,
+      "text": "最後，他硬着頭皮在大專一欄寫上了自己的名字。\n補習機會來得太遲，哪怕三天三夜不睡覺，也才七十二小時。賠三抱着去補習班\n看看的心態走進教室，發現那些補習了兩個月的同學個個鬥志昂揚、摩拳擦掌。",
+      "prompt": "A hesitant young student stands at the doorway of a crowded, dimly lit classroom filled with dozens of determined students sitting at cramped desks, their faces lit by flickering fluorescent lights and the glow of textbooks. The atmosphere is thick with competitive tension—students clutch their notes fiercely, some rubbing their hands together in anticipation, others staring with intense, exhausted",
+      "image": "reader_images/reader_20260317_122914.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 1718036142,
+      "created_at": "2026-03-17T12:29:14.680960+08:00"
     }
   ],
   "book_total_chars": 92814,
