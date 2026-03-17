@@ -15011,6 +15011,18 @@
       "image_model": "grok-imagine",
       "seed": 1639558121,
       "created_at": "2026-03-17T12:14:01.544743+08:00"
+    },
+    {
+      "id": "20260317_122459",
+      "offset_start": 83355,
+      "offset_end": 83432,
+      "text": "在基建隊做小工時，技術員來計算土方，兩三位數\n的乘法，往往技術員還沒用算盤算出來，賠三就心算出來了。種了十一年田，賠\n三沒學會犁田、耙田，卻懂得科學種田。",
+      "prompt": "A wise, elderly Chinese farmer with weathered hands and a knowing smile sits on a worn wooden stool in a sun-drenched field, surrounded by neatly arranged rows of thriving crops. He holds an abacus loosely in one hand, while the other rests on a stack of agricultural texts. The scene is rendered in a style reminiscent of traditional Chinese ink wash painting, with a warm, golden-hour lighting that emphasizes the rich textures of the earth and the gentle breeze rustling the leaves. The atmosphere is one of quiet wisdom, scientific progress, and a deep connection to the land.",
+      "image": "reader_images/reader_20260317_122459.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 357944889,
+      "created_at": "2026-03-17T12:24:59.390046+08:00"
     }
   ],
   "book_total_chars": 92814,
