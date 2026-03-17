@@ -15623,6 +15623,18 @@
       "image_model": "zimage",
       "seed": 286619770,
       "created_at": "2026-03-17T15:31:44.786051+08:00"
+    },
+    {
+      "id": "20260317_153554",
+      "offset_start": 86581,
+      "offset_end": 86669,
+      "text": "有\n人去竈屋看，發現他已經死了。他得的是急性痢疾。\n隊上的幹部去清理老和尚的遺物，發現了一張遺囑，字寫得七歪八扭、模糊不\n清，大意是他死後，請把他放在禾坪裏，堆上柴火將他火化。",
+      "prompt": "A solemn, dimly lit scene in a rustic, ancestral hall, perhaps a courtyard attached to a humble dwelling. An elderly monk lies peacefully, his hands clasped, eyes closed, amidst simple straw bedding. The atmosphere is one of quiet reverence and contemplation, with soft, ethereal light filtering in from a distant window, casting long shadows. The artistic style should be reminiscent of traditional Chinese ink wash paintings, focusing on muted tones, delicate brushstrokes, and a sense of profound stillness.",
+      "image": "reader_images/reader_20260317_153554.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1322388798,
+      "created_at": "2026-03-17T15:35:54.777665+08:00"
     }
   ],
   "book_total_chars": 92814,
