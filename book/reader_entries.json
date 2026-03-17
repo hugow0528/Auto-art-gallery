@@ -16259,6 +16259,18 @@
       "image_model": "klein",
       "seed": 1423025780,
       "created_at": "2026-03-17T19:30:53.742412+08:00"
+    },
+    {
+      "id": "20260317_193716",
+      "offset_start": 90080,
+      "offset_end": 90156,
+      "text": "」說完，子恆將牀鋪搬開，挖出筍子，筍塊雪白、脆\n嫩。\n那年之驊回家，喫到了沒見過陽光的筍子，但沒能喝上雞湯。秋園養的十三隻雞\n又被偷了，仍是挖牆腳進來。",
+      "prompt": "A humble rural Chinese room with earthen walls, a wooden bed pushed aside to reveal freshly dug bamboo shoots in dark soil - pale white, tender shoots glistening with moisture. Warm afternoon light filters through a small window, illuminating the simple wooden furniture and worn clay floor of this modest 1960s village home. Naturalistic style with soft focus, documentary aesthetic.",
+      "image": "reader_images/reader_20260317_193716.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1492140685,
+      "created_at": "2026-03-17T19:37:17.039331+08:00"
     }
   ],
   "book_total_chars": 92814,
