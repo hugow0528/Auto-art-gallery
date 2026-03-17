@@ -16235,6 +16235,18 @@
       "image_model": "flux",
       "seed": 1067098158,
       "created_at": "2026-03-17T19:26:44.922696+08:00"
+    },
+    {
+      "id": "20260317_192950",
+      "offset_start": 89930,
+      "offset_end": 90013,
+      "text": "一年總要請好幾回泥工上屋頂掃樹葉和\n撿漏 ，成了空前的大麻煩。\n一日，子恆掃地。彎腰掃到秋園牀底時，竟然發現那兒生出兩棵竹筍，一般大\n小、高矮，似雙胞胎樣長在牀底下。",
+      "prompt": "First, the user wants an image-generation prompt based on a Chinese literary passage. I need to respond only with the prompt in English, no explanations, translations, or markdown.\n\nThe passage is about discovering two bamboo shoots under a bed. Key elements: a scene where someone is sweeping the floor, finds bamboo shoots under a bed, and they are described as like twins.\n\nI need to craft a vivid, detailed prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements.\n\nThe prompt should be in English, 2–4 sentences only.\n\nFrom the passage:\n\n- Setting: Inside a room, likely a traditional Chinese house, since it mentions \"秋園\" which might be a name or place, but I'll focus on the visual. The bed is mentioned, so it's indoors.\n\n- Characters: \"子恆\" is sweeping the floor. So, a character named Zihong (I'll use the name as is or adapt? The passage says \"子恆\", which might be romanized as Zihong or similar, but for the prompt, I can describe the character without naming specifically if not needed. The user said \"any characters present,\" so I should include the character.\n\n- Action: Bending down to sweep under the bed and discovering two bamboo shoots.\n\n- Visual elements: Two bamboo shoots, similar in size and height, like twins, growing under the bed.\n\n- Atmosphere: The passage",
+      "image": "reader_images/reader_20260317_192950.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1267241445,
+      "created_at": "2026-03-17T19:29:50.323615+08:00"
     }
   ],
   "book_total_chars": 92814,
