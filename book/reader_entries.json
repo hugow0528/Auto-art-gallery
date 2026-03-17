@@ -16595,6 +16595,18 @@
       "image_model": "grok-imagine",
       "seed": 2040267490,
       "created_at": "2026-03-17T22:22:13.907958+08:00"
+    },
+    {
+      "id": "20260317_223608",
+      "offset_start": 91937,
+      "offset_end": 92116,
+      "text": "每當她講起外公，我就\n覺得她變了——從一個操勞的、疲倦的媽媽變成了一個滿懷崇拜與依戀的小女\n孩。\n關於從未謀面的外公，我知道他愛乾淨，性情柔和，走路都怕踩死螞蟻，一生沒\n有做過惡事，寫一手好字，不擅農事，是個書呆子，心地尤其良善……我沒能見\n到他，因爲他一九六〇年就死於飢餓，去世前後全身腫得亮晶晶的，肚子大得褲\n子都系不上，用書裏的話說就是，像個「闊佬」。",
+      "prompt": "A middle-aged Chinese woman sits at a kitchen table, her weathered face softening into youthful vulnerability as she speaks, her eyes distant with memory, transforming from a tired mother into a dreamy little girl. Behind her, a faded photograph of a gentle scholarly man",
+      "image": "reader_images/reader_20260317_223608.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 872866770,
+      "created_at": "2026-03-17T22:36:08.096495+08:00"
     }
   ],
   "book_total_chars": 92814,
