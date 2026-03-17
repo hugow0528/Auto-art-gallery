@@ -16079,6 +16079,18 @@
       "image_model": "klein",
       "seed": 1713458704,
       "created_at": "2026-03-17T18:27:25.658833+08:00"
+    },
+    {
+      "id": "20260317_183109",
+      "offset_start": 89031,
+      "offset_end": 89095,
+      "text": "149\n\n\f五\n秋園七十多歲時依然步伐矯健，喜歡自己出門買個東西或辦點事情。黃土路一到\n雨天便溼漉漉、黏答答的，一踩一腳泥。",
+      "prompt": "A septuagenarian with a strong gait walks down a muddy, rain-slicked yellow earth road in a rural Chinese village. The atmosphere is somber and wet, with a muted, overcast sky casting a diffused light. The style should evoke traditional Chinese landscape painting, emphasizing the texture of the mud and the simplicity of the rural setting.",
+      "image": "reader_images/reader_20260317_183109.jpg",
+      "text_model": "gemini-search",
+      "image_model": "flux",
+      "seed": 323914208,
+      "created_at": "2026-03-17T18:31:09.313973+08:00"
     }
   ],
   "book_total_chars": 92814,
