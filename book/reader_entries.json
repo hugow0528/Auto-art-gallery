@@ -15971,6 +15971,18 @@
       "image_model": "imagen-4",
       "seed": 1081142097,
       "created_at": "2026-03-17T17:41:25.912638+08:00"
+    },
+    {
+      "id": "20260317_174210",
+      "offset_start": 88487,
+      "offset_end": 88549,
+      "text": "人王就手忙腳亂地跟大公雞搶飯喫。這\n場面小泉見過一次，心酸得不行，把那公雞追打出好遠。\n那天，太陽實在是毒，地都曬得要冒煙。",
+      "prompt": "A starving king, disheveled and desperate, scrabbles for food with a proud, defiant rooster under a brutal, shimmering sun that bakes the dusty earth. The atmosphere is one of intense heat and desperate hunger, with a palpable sense of humiliation. The scene is rendered in a gritty, realistic oil painting style, with harsh highlights and deep, contrasting shadows that emphasize the harshness of the environment and the raw emotion of the struggle.",
+      "image": "reader_images/reader_20260317_174210.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 2073120121,
+      "created_at": "2026-03-17T17:42:10.978302+08:00"
     }
   ],
   "book_total_chars": 92814,
