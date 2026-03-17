@@ -16523,6 +16523,18 @@
       "image_model": "flux",
       "seed": 1539753952,
       "created_at": "2026-03-17T22:02:37.677200+08:00"
+    },
+    {
+      "id": "20260317_220624",
+      "offset_start": 91455,
+      "offset_end": 91533,
+      "text": "現在還留存在我腦海裏的畫面，是外婆穿着淺灰色立領偏襟棉布褂子，一手舉起\n蒲扇放在額前略擋太陽，那雙裹了又放開的腳咚咚咚走在鄉村土路上，帶着我們\n去走人家。",
+      "prompt": "A sun-drenched rural dirt road in late afternoon, an elderly Chinese woman in a light grey high-collared cotton tunic walks ahead, holding a palm-leaf fan slightly above her brow to shade her eyes. Her determined steps kick up faint dust, followed by children, rendered in a soft, nostalgic style with warm, golden light and painterly brushstrokes.",
+      "image": "reader_images/reader_20260317_220624.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 920991419,
+      "created_at": "2026-03-17T22:06:24.399489+08:00"
     }
   ],
   "book_total_chars": 92814,
