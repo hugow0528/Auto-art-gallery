@@ -15287,6 +15287,18 @@
       "image_model": "zimage",
       "seed": 2076619878,
       "created_at": "2026-03-17T13:19:41.550830+08:00"
+    },
+    {
+      "id": "20260317_132528",
+      "offset_start": 85039,
+      "offset_end": 85136,
+      "text": "麥芽很快就用粗瓷碗小心翼翼地端了一碗東西進來，是爲中秋節備下的劣質燒\n酒。她把酒端到之驊跟前，讓她喝下去。之驊渾身哆嗦，嘴脣青紫，毫不猶豫地\n一仰脖灌下一大口燒酒，心中立即有一團火砰地燒起來。",
+      "prompt": "A young Chinese woman in a traditional ragged garment carefully holds a coarse ceramic bowl filled with clear liquid, her weathered hands trembling as she offers it to another woman who sits shivering in a cold, dimly lit interior. The second woman, with bluish-purple lips and全身颤抖, lifts the bowl desperately to her lips, drinking deeply as fire ignites behind her eyes. Soft moonlight streams through a cracked window, casting pale illumination",
+      "image": "reader_images/reader_20260317_132528.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1675717653,
+      "created_at": "2026-03-17T13:25:28.408610+08:00"
     }
   ],
   "book_total_chars": 92814,
