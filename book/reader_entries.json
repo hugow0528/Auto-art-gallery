@@ -16343,6 +16343,18 @@
       "image_model": "flux",
       "seed": 1601970479,
       "created_at": "2026-03-17T20:00:58.916620+08:00"
+    },
+    {
+      "id": "20260317_200140",
+      "offset_start": 90457,
+      "offset_end": 90539,
+      "text": "後來，秋園\n神志不那麼清醒了，對之驊說：「你是誰啊？何裏對我這麼好？」\n那個酷熱的夏天，秋園不安地死去了。\n先是喉頭湧上一陣痰，急劇地喘咳，然後奄奄一息地平緩下去。",
+      "prompt": "A frail, elderly woman, partially obscured by a thin, sweat-dampened sheet, lies on a simple bed in a dimly lit, sparse room. Her face is etched with confusion and weakness, her eyes unfocused as she weakly gestures towards a concerned younger man sitting by her side. The atmosphere is heavy with the oppressive heat of a summer afternoon, thick with the scent of sickness and impending loss, rendered in a poignant, somber realist painting style with chiaroscuro lighting.",
+      "image": "reader_images/reader_20260317_200140.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "imagen-4",
+      "seed": 1240779946,
+      "created_at": "2026-03-17T20:01:40.933415+08:00"
     }
   ],
   "book_total_chars": 92814,
