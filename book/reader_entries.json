@@ -15083,6 +15083,18 @@
       "image_model": "grok-imagine",
       "seed": 1718036142,
       "created_at": "2026-03-17T12:29:14.680960+08:00"
+    },
+    {
+      "id": "20260317_123037",
+      "offset_start": 83838,
+      "offset_end": 83924,
+      "text": "還有三天就要考試了，老師要他們放鬆放鬆。只見他們把那些做過的卷子丟得滿\n地都是，毫不愛惜地在上面踐踏。賠三如獲至寶，塞了滿滿一書包回家，整整看\n了三個通宵，眼睛都熬紅了。",
+      "prompt": "A chaotic, dimly lit classroom after hours. Discarded exam papers litter the floor, some trampled underfoot by energetic, triumphant students. One student, Péisān, clutches a bulging backpack overflowing with papers, eyes wide and bloodshot from sleepless study, a lone beacon of intense focus amidst the joyful destruction. The scene is rendered in a dramatic, slightly exaggerated realist style, with harsh chiaroscuro lighting emphasizing the contrast between the mess and Péisān's dedication.",
+      "image": "reader_images/reader_20260317_123037.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "zimage",
+      "seed": 953117263,
+      "created_at": "2026-03-17T12:30:37.387937+08:00"
     }
   ],
   "book_total_chars": 92814,
