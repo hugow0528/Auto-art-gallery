@@ -15059,6 +15059,18 @@
       "image_model": "imagen-4",
       "seed": 112569414,
       "created_at": "2026-03-17T12:27:12.909840+08:00"
+    },
+    {
+      "id": "20260317_122836",
+      "offset_start": 83659,
+      "offset_end": 83744,
+      "text": "因有明文\n規定，公社不敢馬虎，便答應讓他們參加考試，賠三也順帶沾了光。\n此時離考試僅剩三天了。填報志願時，賠三犯難了：填中專吧，年紀超過了；填\n大學吧，自己只讀了個初中。",
+      "prompt": "A young man, Peisan, with a look of anxious contemplation, sits hunched over a simple wooden desk in a dimly lit, sparse commune hall. Sunlight streams through a grimy window, illuminating dust motes dancing in the air, casting long shadows. He clutches a worn piece of paper, the unspoken pressure of an impending exam and his limited education weighing heavily on his shoulders. The scene evokes a mood of quiet desperation and hopeful struggle, rendered in a realistic, slightly melancholic style.",
+      "image": "reader_images/reader_20260317_122836.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "grok-imagine",
+      "seed": 353851681,
+      "created_at": "2026-03-17T12:28:36.143848+08:00"
     }
   ],
   "book_total_chars": 92814,
