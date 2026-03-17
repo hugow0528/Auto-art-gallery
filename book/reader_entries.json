@@ -16559,6 +16559,18 @@
       "image_model": "gptimage",
       "seed": 838537131,
       "created_at": "2026-03-17T22:10:13.842848+08:00"
+    },
+    {
+      "id": "20260317_221711",
+      "offset_start": 91704,
+      "offset_end": 91769,
+      "text": "一行人離去時，外婆送我們到曬坪。那是五月，門口兩棵樹正繁花滿枝，花朵粉\n白，花瓣繁複。\n「好漂亮啊，這是什麼花？」\n「這是芙蓉。",
+      "prompt": "A elderly Chinese grandmother in traditional clothing stands at a sun-drenched courtyard, waving goodbye to a group walking away. Two flowering trees frame the doorway, their branches heavy with lush pink and white blossoms featuring intricate layered petals, set against a warm May sky with golden afternoon light filtering through the foliage, rendered in a soft, nostalgic oil painting style with delicate brushwork and a peaceful countryside atmosphere.",
+      "image": "reader_images/reader_20260317_221711.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 1851189798,
+      "created_at": "2026-03-17T22:17:11.280457+08:00"
     }
   ],
   "book_total_chars": 92814,
