@@ -16271,6 +16271,18 @@
       "image_model": "flux-2-dev",
       "seed": 1492140685,
       "created_at": "2026-03-17T19:37:17.039331+08:00"
+    },
+    {
+      "id": "20260317_193858",
+      "offset_start": 90156,
+      "offset_end": 90228,
+      "text": "151\n\n\f六\n八十九歲那年，秋園平地跌了一跤，胯骨跌斷了，只能仰面朝天躺着。\n她疼啊、疼啊、疼啊……沒有了肉，只有骨頭，那一把疼痛的碎骨。",
+      "prompt": "An elderly Chinese woman in her late eighties lies motionless on a simple wooden bed, her frail body barely visible under thin blankets, face contorted in quiet agony as she stares at the ceiling, afternoon light filtering through a dusty window onto her weathered hands, realistic oil painting style, muted earth tones, atmosphere of vulnerability and silent suffering, the room sparse with only basic furniture suggesting a humble rural life.",
+      "image": "reader_images/reader_20260317_193858.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 1352079629,
+      "created_at": "2026-03-17T19:38:58.262019+08:00"
     }
   ],
   "book_total_chars": 92814,
