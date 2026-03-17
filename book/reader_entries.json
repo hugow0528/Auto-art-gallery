@@ -15479,6 +15479,18 @@
       "image_model": "grok-imagine",
       "seed": 1095654198,
       "created_at": "2026-03-17T14:16:36.021385+08:00"
+    },
+    {
+      "id": "20260317_143729",
+      "offset_start": 85887,
+      "offset_end": 85992,
+      "text": "這棵樹若伐倒，老屋可能也就塌了。秋園在坪前種了兩棵芙蓉，春天會\n開出碩大的粉白色花朵。旁邊搞了個橘園，種了十幾株橘樹。橘樹肯結果，一到\n季節，枝頭就綴滿青綠的果實，但往往等不到成熟轉黃，一夜之間就被人摘光\n了。",
+      "prompt": "A weathered old house nestled beside a massive banyan tree, with vibrant pink-and-white hibiscus flowers blooming in the foreground. In the adjacent orchard, green oranges hang from the branches under the soft, golden light of late afternoon, creating a scene of nostalgic, painterly realism.",
+      "image": "reader_images/reader_20260317_143729.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 993310971,
+      "created_at": "2026-03-17T14:37:29.322491+08:00"
     }
   ],
   "book_total_chars": 92814,
