@@ -15491,6 +15491,18 @@
       "image_model": "flux",
       "seed": 993310971,
       "created_at": "2026-03-17T14:37:29.322491+08:00"
+    },
+    {
+      "id": "20260317_143920",
+      "offset_start": 85992,
+      "offset_end": 86058,
+      "text": "一家人幾乎沒嘗過橘子的滋味。\n老和尚早就去世了。\n他賴以生存的菩薩在「四清」時被砸爛了，好不容易偷偷摸摸留下一個尺把長的\n木雕菩薩。",
+      "prompt": "A somber, dimly lit interior of a modest dwelling during a period of hardship in China, with a family huddled together. In the center, a crudely carved wooden Bodhisattva, about a foot long, is clutched by a child, its features worn and its paint faded. The atmosphere is one of scarcity and quiet resilience, rendered in a realistic, slightly desaturated style reminiscent of documentary photography.",
+      "image": "reader_images/reader_20260317_143920.jpg",
+      "text_model": "gemini-search",
+      "image_model": "gptimage",
+      "seed": 1897595198,
+      "created_at": "2026-03-17T14:39:20.375242+08:00"
     }
   ],
   "book_total_chars": 92814,
