@@ -16211,6 +16211,18 @@
       "image_model": "gptimage",
       "seed": 1148687104,
       "created_at": "2026-03-17T19:12:46.096589+08:00"
+    },
+    {
+      "id": "20260317_192615",
+      "offset_start": 89763,
+      "offset_end": 89832,
+      "text": "幾年後，老屋成了青山立其側，竹林立其後。楓樹也有一人多高，巴掌大的\n葉子，秋天便紅豔豔一片，在陽光下閃着光輝。\n撿漏，清除爛瓦，補上新瓦。",
+      "prompt": "A weathered traditional Chinese farmhouse nestled against verdant mountains, surrounded by a dense bamboo forest, with a tall maple tree bursting with",
+      "image": "reader_images/reader_20260317_192615.jpg",
+      "text_model": "minimax",
+      "image_model": "flux",
+      "seed": 764622680,
+      "created_at": "2026-03-17T19:26:15.353632+08:00"
     }
   ],
   "book_total_chars": 92814,
