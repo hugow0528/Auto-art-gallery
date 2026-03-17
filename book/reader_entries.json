@@ -16535,6 +16535,18 @@
       "image_model": "gptimage",
       "seed": 920991419,
       "created_at": "2026-03-17T22:06:24.399489+08:00"
+    },
+    {
+      "id": "20260317_220814",
+      "offset_start": 91533,
+      "offset_end": 91607,
+      "text": "每到一戶人家，我們就飲上一杯豆子芝麻茶，豆子芝麻炒過後噴香，\n茶裏還會加一點點鹽。\n\n153\n\n\f最後一次見到外婆，我三十多歲，已是一個女孩的母親。",
+      "prompt": "First, the user wants an image-generation prompt based on a given Chinese literary passage. The passage is about visiting households, drinking bean and sesame tea, and a memory of seeing a grandmother.\n\nKey elements from the passage:\n- \"每到一戶人家，我們就飲上一杯豆子芝麻茶\" – Every household we visit, we drink a cup of bean and sesame tea.\n- \"豆子芝麻炒過後噴香\" – The beans and sesame are fragrant after being roasted.\n- \"茶裏還會加一點點鹽\" – The tea has a little salt added.\n- \"最後一次見到外婆，我三十多歲，已是一個女孩的母親\" – The last time I saw my grandmother, I was in my thirties and already a mother of a girl.\n\nI need to craft a vivid, detailed English prompt that captures the scene, atmosphere, characters, and visual essence. Include artistic style, mood, lighting, and specific visual elements. Respond ONLY with the image prompt in English — no explanations, no translations, no markdown.\n\nThe prompt should be 2–4 sentences only, as specified.\n\nNow, I need to describe a specific visual scene. Since the passage has two parts, I should focus on one cohesive scene. Perhaps the scene of drinking tea with the grandmother, combining both elements.\n\nSetting: A household, possibly a cozy home. Atmosphere: Warm, nostalgic, intimate. Characters: The narrator (as a mother) and her grandmother. Artistic",
+      "image": "reader_images/reader_20260317_220814.jpg",
+      "text_model": "deepseek",
+      "image_model": "imagen-4",
+      "seed": 735427571,
+      "created_at": "2026-03-17T22:08:14.719366+08:00"
     }
   ],
   "book_total_chars": 92814,
