@@ -15851,6 +15851,18 @@
       "image_model": "flux",
       "seed": 49035119,
       "created_at": "2026-03-17T16:37:55.013080+08:00"
+    },
+    {
+      "id": "20260317_165647",
+      "offset_start": 87884,
+      "offset_end": 87962,
+      "text": "整天放在心裡\n想呀想，越想越氣。」\n「小泉，你比我強，你還年輕，經得起折騰。年輕就是本錢，放寬心過日子。身\n體好，就儘量多幫她們做事，一家人也分不出個彼此。",
+      "prompt": "An elderly man sits on a simple wooden bed in a modest, dimly-lit room, speaking earnestly to a younger man named Xiaoquan who stands nearby with a worried expression. The older man's weathered face shows concern as he gestures reassuringly, while Xiaoquan listens with his head slightly bowed, hands clasped in front of him. Soft morning light filters through a small window onto the worn bedding and humble furnishings of this humble dwelling, creating an intimate atmosphere of familial care and quiet resignation.",
+      "image": "reader_images/reader_20260317_165647.jpg",
+      "text_model": "minimax",
+      "image_model": "flux-2-dev",
+      "seed": 920337648,
+      "created_at": "2026-03-17T16:56:47.322624+08:00"
     }
   ],
   "book_total_chars": 92814,
