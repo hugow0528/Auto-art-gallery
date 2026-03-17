@@ -15719,6 +15719,18 @@
       "image_model": "grok-imagine",
       "seed": 1606857227,
       "created_at": "2026-03-17T15:58:06.050166+08:00"
+    },
+    {
+      "id": "20260317_160031",
+      "offset_start": 87055,
+      "offset_end": 87138,
+      "text": "」小泉轉過身，一聲驚呼，萎黃的臉上顯出\n激動的紅暈。她見了親人一樣，拉起秋園的手。兩人離開人羣，走到坪裏。\n秋園說：「叫人王出來吧，這麼一個小身子，耍來耍去也蠻累的。",
+      "prompt": "In a serene, sun-dappled courtyard, a woman with a pale, weary face (Xiao Quan) experiences a sudden flush of joy and recognizes another woman (Qiu Yuan) as a dear relative. They move away from a crowd into an open space, where Qiu Yuan suggests calling for someone named Wang, as their small bodies must be tired from constant movement. The scene is rendered in a soft, impressionistic style, with gentle lighting that highlights the emotional reunion.",
+      "image": "reader_images/reader_20260317_160031.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 2090230683,
+      "created_at": "2026-03-17T16:00:31.325041+08:00"
     }
   ],
   "book_total_chars": 92814,
