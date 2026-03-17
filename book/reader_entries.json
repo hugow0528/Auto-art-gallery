@@ -15191,6 +15191,18 @@
       "image_model": "imagen-4",
       "seed": 1485880480,
       "created_at": "2026-03-17T13:04:04.377351+08:00"
+    },
+    {
+      "id": "20260317_130523",
+      "offset_start": 84408,
+      "offset_end": 84501,
+      "text": "清晨潔白而濁重的\n濃霧像一張巨大的漁網覆蓋了前方的道路，她在沒有空隙的霧中穿行。她一隻胳\n膊挽着盛滿衣物的木桶，另一隻手拿着搓衣板和棒槌，這些陳舊的木製家什散發\n着和生活一樣暗淡的氣息。",
+      "prompt": "A woman walks through dense morning fog on a dirt path, carrying a wooden laundry bucket under one arm and a washboard with a pounding stick in the other. The scene is rendered in a style of realistic painting with soft focus, capturing the muted, dull colors of her worn clothes and the wooden objects, under a diffuse, grey-white light.",
+      "image": "reader_images/reader_20260317_130523.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 235803443,
+      "created_at": "2026-03-17T13:05:23.082409+08:00"
     }
   ],
   "book_total_chars": 92814,
