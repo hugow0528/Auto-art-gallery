@@ -15683,6 +15683,18 @@
       "image_model": "gptimage",
       "seed": 67249498,
       "created_at": "2026-03-17T15:44:34.646000+08:00"
+    },
+    {
+      "id": "20260317_154528",
+      "offset_start": 86849,
+      "offset_end": 86925,
+      "text": "秋園輕輕走過去，看到人王正在八仙\n桌上表演。\n八仙桌一米見方，桌面下方四邊都有橫梁，橫梁與桌面有十七八公分的距離，中\n間有兩根直梁把桌下的空間分成四格。",
+      "prompt": "A traditional Chinese courtyard scene at dusk, a woman in a blue qipao stands at the edge of a wooden Eight Immortals table, watching a man performing acrobatically on its surface. The antique square table has intricate carved legs and cross-beams underneath, illuminated by warm lantern light. The scene captures a moment of quiet tension, with traditional Chinese furniture, soft golden-hour lighting, and a sense of intimate performance in a classic scholarly courtyard setting.",
+      "image": "reader_images/reader_20260317_154528.jpg",
+      "text_model": "minimax",
+      "image_model": "gptimage",
+      "seed": 865037108,
+      "created_at": "2026-03-17T15:45:28.489371+08:00"
     }
   ],
   "book_total_chars": 92814,
