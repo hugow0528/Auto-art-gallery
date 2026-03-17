@@ -16547,6 +16547,18 @@
       "image_model": "imagen-4",
       "seed": 735427571,
       "created_at": "2026-03-17T22:08:14.719366+08:00"
+    },
+    {
+      "id": "20260317_221013",
+      "offset_start": 91607,
+      "offset_end": 91704,
+      "text": "外婆已八十八歲高齡，\n她依然清瘦文雅、頭腦清晰，但活力明顯減退，話變得很少，安安靜靜的。\n庵子裡就跟小說中描寫的一樣，並排三間平房，門前有個大曬坪，右側是個小橘\n園，左側挺立着一株高大的香樟樹。",
+      "prompt": "An elderly woman with a serene, slender presence sits quietly before three rustic cottages, their large drying yard bathed in warm late afternoon light. To one side, a small orange grove glows with fruit, while a towering camphor tree stands sentinel on the other, all rendered in a soft, realistic style with a nostalgic, peaceful atmosphere.",
+      "image": "reader_images/reader_20260317_221013.jpg",
+      "text_model": "deepseek",
+      "image_model": "gptimage",
+      "seed": 838537131,
+      "created_at": "2026-03-17T22:10:13.842848+08:00"
     }
   ],
   "book_total_chars": 92814,
