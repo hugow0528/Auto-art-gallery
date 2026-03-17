@@ -14951,6 +14951,18 @@
       "image_model": "flux",
       "seed": 390969816,
       "created_at": "2026-03-17T12:01:25.211850+08:00"
+    },
+    {
+      "id": "20260317_120252",
+      "offset_start": 83058,
+      "offset_end": 83123,
+      "text": "」\n賠三把實情告訴了魯老師。魯老師一臉不平地說：「真是豈有此理！上面不是有\n文件嗎？報紙上不也講了嗎？像你這類情況，完全可以報考。",
+      "prompt": "In a traditional Chinese classroom with rows of wooden desks facing a large blackboard covered in chalk writings and official documents, a stern middle-aged teacher named Lu stands indignantly at the front, his face flushed with outrage, gesturing emphatically while speaking to a nervous young student seated nearby. The atmosphere is tense and formal, lit by harsh fluorescent lights casting long shadows, with faded posters of educational slogans on the walls and a microphone on the teacher's desk. Rendered in realistic digital art style inspired by Edward Hopper, emphasizing dramatic lighting, muted earth tones, and a sense of moral urgency.",
+      "image": "reader_images/reader_20260317_120252.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 241301950,
+      "created_at": "2026-03-17T12:02:52.345874+08:00"
     }
   ],
   "book_total_chars": 92814,
