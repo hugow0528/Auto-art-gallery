@@ -14699,6 +14699,18 @@
       "image_model": "zimage",
       "seed": 115266429,
       "created_at": "2026-03-17T07:56:48.621863+08:00"
+    },
+    {
+      "id": "20260317_080104",
+      "offset_start": 81680,
+      "offset_end": 81764,
+      "text": "秋園硬是撐着，不讓眼淚流\n出來。停了一陣，他又說：「人死如燈滅，你對我的好，我到地下也記得。只是\n\n136\n\n\f我不能陪你再過些日子，如今這樣只能拖累你，實在過意不去。",
+      "prompt": "First, the task is to create an image-generation prompt based on a Chinese literary passage. The passage is about someone named Qiuyuan holding back tears and talking about death, memory, and burden.\n\nKey elements from the passage:\n- Character: Qiuyuan, who is trying not to cry.\n- Dialogue: About death (\"人死如燈滅\" – people die like a lamp going out), remembering kindness, and feeling like a burden.\n- Emotions: Sorrow, restraint, guilt.\n\nNow, I need to describe a specific visual scene in English for AI image generation. Include setting, atmosphere, characters, and artistic style. Keep it to 2–4 sentences only, and in English only.\n\nThe prompt should be vivid and detailed, capturing the essence of the passage.\n\nBrainstorming the scene:\n- Setting: Likely indoors, possibly a quiet, somber room. From the context, it might be a scene where someone is ill or dying, given the talk of death and burden.\n- Characters: Qiuyuan is present, and possibly another person they're speaking to, implied by \"you\" in the dialogue.\n- Atmosphere: Melancholic, restrained, intimate, with a sense of impending loss.\n- Artistic style: Perhaps realistic or painterly, with emphasis on emotion. Since it's literary, a style that evokes classic Chinese art or somber realism might fit.\n\nThe passage mentions \"秋園\" which could be a name or refer to a garden,",
+      "image": "reader_images/reader_20260317_080104.jpg",
+      "text_model": "deepseek",
+      "image_model": "flux",
+      "seed": 525105725,
+      "created_at": "2026-03-17T08:01:04.577319+08:00"
     }
   ],
   "book_total_chars": 92814,
