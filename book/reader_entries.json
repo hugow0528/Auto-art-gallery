@@ -16151,6 +16151,18 @@
       "image_model": "zimage",
       "seed": 1036734266,
       "created_at": "2026-03-17T19:02:50.514464+08:00"
+    },
+    {
+      "id": "20260317_190741",
+      "offset_start": 89429,
+      "offset_end": 89512,
+      "text": "子恆曾經提出一起住在學校裏，可秋園不同意，她不願自己什麼事都不做，要兒\n子養着。她找隊上要了兩丘田，請人種着，讓兄弟倆出點工錢，每年能打十來擔\n谷，根本不用買糧食。",
+      "prompt": "An elderly Chinese woman in simple, worn clothing stands in a sun-drenched rural landscape, surveying two modest rice paddy fields",
+      "image": "reader_images/reader_20260317_190741.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 933054299,
+      "created_at": "2026-03-17T19:07:41.980223+08:00"
     }
   ],
   "book_total_chars": 92814,
