@@ -16163,6 +16163,18 @@
       "image_model": "grok-imagine",
       "seed": 933054299,
       "created_at": "2026-03-17T19:07:41.980223+08:00"
+    },
+    {
+      "id": "20260317_190944",
+      "offset_start": 89512,
+      "offset_end": 89598,
+      "text": "蔬菜也自給，偶爾買些葷腥。秋園覺得這樣挺好，沒給兄\n弟倆添負擔。\n五十六歲那年，子恆決定提早退休，來老屋陪伴秋園。\n子恆退休在家，除了和秋園做伴，也砍柴、種菜、寫字、看書。",
+      "prompt": "A serene, sun-drenched autumn garden scene. An elderly couple, a man in his late fifties with gentle eyes and a woman with a kind smile, sit near a small, rustic dwelling. The man, Zihheng, is sketching calligraphy on parchment, while his wife, Qiuyuan, tends to vibrant vegetable patches. The atmosphere is peaceful and idyllic, rendered in the soft, warm light and painterly textures of an Impressionist oil painting.",
+      "image": "reader_images/reader_20260317_190944.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux-2-dev",
+      "seed": 1616470340,
+      "created_at": "2026-03-17T19:09:44.810491+08:00"
     }
   ],
   "book_total_chars": 92814,
