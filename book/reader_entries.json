@@ -16667,6 +16667,18 @@
       "image_model": "flux",
       "seed": 681227681,
       "created_at": "2026-03-17T22:43:05.488819+08:00"
+    },
+    {
+      "id": "20260317_224554",
+      "offset_start": 92470,
+      "offset_end": 92540,
+      "text": "在一件衣服的口袋裡，我們發現了一張紙條，上面寫着一些年份和地點\n——外婆記下的最簡略的生平，最後兩行是：\n一生嘗盡酸甜苦辣，終落得如此下場。",
+      "prompt": "A tattered, yellowed piece of paper with faded Chinese characters, listing years and locations, rests inside a dark, worn clothing pocket. The paper's final lines, \"一生尝尽酸甜苦辣，终落得如此下场\" (Tasted all the bitterness and sweetness of life, only to end up like this), are starkly visible, conveying a profound sense of melancholy and resignation. The image should be rendered in a somber, classical Chinese ink wash painting style, with dramatic chiaroscuro lighting that emphasizes the worn textures and the weight of the past.",
+      "image": "reader_images/reader_20260317_224554.jpg",
+      "text_model": "gemini-search",
+      "image_model": "klein",
+      "seed": 1777451911,
+      "created_at": "2026-03-17T22:45:54.125035+08:00"
     }
   ],
   "book_total_chars": 92814,
