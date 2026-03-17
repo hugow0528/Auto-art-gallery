@@ -15323,6 +15323,18 @@
       "image_model": "flux",
       "seed": 1199681595,
       "created_at": "2026-03-17T13:36:48.299239+08:00"
+    },
+    {
+      "id": "20260317_133844",
+      "offset_start": 85198,
+      "offset_end": 85284,
+      "text": "143\n\n\f「要生了要生了，這才七個多月就要生。」麥芽一邊嘮叨，一邊趕緊叫她丈夫去\n大隊部給喬木林搖電話。喬木林在縣城醫院工作，離村子有二十多裏地，只有星\n期天才回家。",
+      "prompt": "A dimly lit, rustic room in a rural Chinese village circa the 1970s, with a distressed mother in early labor on a simple bed. A concerned husband rushes to the door, while a \"barefoot doctor,\" a woman in practical clothing, calmly assesses the situation, holding a medical kit. The atmosphere is tense yet hopeful, rendered in the style of traditional Chinese ink wash painting with a touch of social realism.",
+      "image": "reader_images/reader_20260317_133844.jpg",
+      "text_model": "gemini-search",
+      "image_model": "zimage",
+      "seed": 1370622378,
+      "created_at": "2026-03-17T13:38:44.617030+08:00"
     }
   ],
   "book_total_chars": 92814,
