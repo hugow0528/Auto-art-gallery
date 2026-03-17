@@ -14807,6 +14807,18 @@
       "image_model": "flux",
       "seed": 1108306986,
       "created_at": "2026-03-17T11:15:37.758017+08:00"
+    },
+    {
+      "id": "20260317_111852",
+      "offset_start": 82271,
+      "offset_end": 82346,
+      "text": "」\n回到家，秋園對愛民說：「愛民，大大準備回老家了，是按照你爸爸的意思。大\n大年紀越來越大，以後會成爲你們的負擔。少個人就少張嘴，大大還是決定回\n去。",
+      "prompt": "A middle-aged Chinese woman with worn hands sits at a simple wooden table in a modest, dimly lit kitchen, speaking quietly to her young adult son who sits across from her. The room has sparse furnishings—a few wooden chairs, a modest stove, and afternoon light filtering through a small window casting long shadows. The atmosphere carries quiet resignation and familial duty, with a subtle melancholy beneath the practical conversation about an elder family member",
+      "image": "reader_images/reader_20260317_111852.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1101571264,
+      "created_at": "2026-03-17T11:18:52.388183+08:00"
     }
   ],
   "book_total_chars": 92814,
