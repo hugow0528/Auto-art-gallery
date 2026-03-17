@@ -14735,6 +14735,18 @@
       "image_model": "flux-2-dev",
       "seed": 1226046602,
       "created_at": "2026-03-17T08:57:19.016756+08:00"
+    },
+    {
+      "id": "20260317_102518",
+      "offset_start": 81910,
+      "offset_end": 81979,
+      "text": "病\n來如山倒，病去如抽絲，也許哪天你爬起來，覺得一身輕鬆了，病就好了……」\n實在講不下去了，一下哭出了聲。\n「快莫哭，這一陣還沒咳一聲呢。",
+      "prompt": "A woman, frail and pale, lies on a simple wooden bed in a dimly lit, sparsely furnished room, tears streaming down her face as she weakly clutches a tissue. Her bedside, a worn table, holds a steaming cup of herbal tea and a small, flickering oil lamp casting long shadows. The atmosphere is one of profound sadness and quiet resignation, rendered in the style of a traditional Chinese ink wash painting with muted colors and delicate brushstrokes.",
+      "image": "reader_images/reader_20260317_102518.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1313742584,
+      "created_at": "2026-03-17T10:25:18.551162+08:00"
     }
   ],
   "book_total_chars": 92814,
