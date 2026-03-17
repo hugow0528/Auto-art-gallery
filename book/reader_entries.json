@@ -16583,6 +16583,18 @@
       "image_model": "grok-imagine",
       "seed": 2133922198,
       "created_at": "2026-03-17T22:21:40.730386+08:00"
+    },
+    {
+      "id": "20260317_222213",
+      "offset_start": 91849,
+      "offset_end": 91937,
+      "text": "」\n八十八歲，她依然爲我沒看到山崖上的杜鵑感到惋惜。\n「外公那個斯文勁啊、那個愛乾淨啊，我們出門，他都要拿把衣刷子追出來，從\n上到下把你刷個遍……」這是媽媽反覆跟我們講的細節。",
+      "prompt": "An 88-year-old Chinese woman with gentle, wistful eyes and silver hair sits on a wooden porch overlooking misty mountain cliffs blooming with vibrant red azaleas (dujuans), her face etched with regret as she gazes longingly at the unreachable flowers. Nearby, her middle-aged daughter stands attentively, holding a small clothes brush while reminiscing, evoking a tender family moment filled with nostalgia and warmth; soft golden sunlight filters through ancient trees, casting dappled shadows on their traditional silk attire. Render in a realistic ink-wash style inspired by Qi Baishi, with serene atmosphere, intricate details on foliage and fabrics, and a melancholic yet loving mood.",
+      "image": "reader_images/reader_20260317_222213.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 2040267490,
+      "created_at": "2026-03-17T22:22:13.907958+08:00"
     }
   ],
   "book_total_chars": 92814,
