@@ -15155,6 +15155,18 @@
       "image_model": "flux-2-dev",
       "seed": 1992598039,
       "created_at": "2026-03-17T12:59:01.999295+08:00"
+    },
+    {
+      "id": "20260317_130108",
+      "offset_start": 84149,
+      "offset_end": 84254,
+      "text": "全公社共有兩百多名考生，分坐在八間教室裏，單人單座。賠\n三坐在靠牆最後一排，看着周圍的考生，他又有些喪氣。他們大都是歷屆高中\n生、應屆高中生或民辦教師，而他是個停學十一年的初中生、一個農民，考前只\n補習了三天。",
+      "prompt": "A tense rural examination hall with rows of wooden desks stretching into dim light, where a thin, weathered young farmer in a plain blue jacket sits alone in the last row near the concrete wall, his weathered hands resting on the desk, his face showing quiet resignation as he gazes at the empty desk before him, surrounded by dozens of focused examinees in various states of concentration, captured in a gritty social realist style with muted earth",
+      "image": "reader_images/reader_20260317_130108.jpg",
+      "text_model": "minimax",
+      "image_model": "imagen-4",
+      "seed": 1060914775,
+      "created_at": "2026-03-17T13:01:08.427029+08:00"
     }
   ],
   "book_total_chars": 92814,
