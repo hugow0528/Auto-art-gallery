@@ -16175,6 +16175,18 @@
       "image_model": "flux-2-dev",
       "seed": 1616470340,
       "created_at": "2026-03-17T19:09:44.810491+08:00"
+    },
+    {
+      "id": "20260317_191123",
+      "offset_start": 89598,
+      "offset_end": 89688,
+      "text": "老屋後面是個山\n坡，長滿了灌木和低矮的松樹。子恆想在山上栽幾棵竹子，以後編個籃子、簸箕\n之類，就不用向人買了。再栽上一兩棵楓樹，楓葉紅的時候很好看，能讓老屋活\n躍些，免得僧氣十足。",
+      "prompt": "A misty hillside slopes behind an ancient, weathered Chinese farmhouse, densely covered in tangled shrubs and squat pine trees, with a scholarly figure in traditional robes thoughtfully planting young bamboo shoots and vibrant maple saplings amid the rugged terrain. Soft autumn sunlight filters through swirling fog, casting a warm glow on emerging red maple leaves that contrast the somber, monastic gray tones of the old house below, infusing the scene with subtle vitality. Rendered in the style of traditional Chinese shanshui ink wash painting by Song dynasty masters like Fan Kuan, with bold brushstrokes, layered mists, andcalligraphic textures evoking scholarly retreat and natural harmony.[1][2][5]",
+      "image": "reader_images/reader_20260317_191123.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 1496496082,
+      "created_at": "2026-03-17T19:11:23.421943+08:00"
     }
   ],
   "book_total_chars": 92814,
