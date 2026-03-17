@@ -16139,6 +16139,18 @@
       "image_model": "flux",
       "seed": 682297303,
       "created_at": "2026-03-17T18:42:00.604162+08:00"
+    },
+    {
+      "id": "20260317_190250",
+      "offset_start": 89362,
+      "offset_end": 89429,
+      "text": "如果沒人在屋前田頭做事，老屋裡就靜得只剩下風。\n子恆和賠三在學校裏也提心弔膽，擔心秋園獨自在老屋有什麼意外，比如洗衣服\n掉進塘裏之類。",
+      "prompt": "A quiet rural Chinese village scene at midday: an elderly, weathered traditional house stands empty against a pale sky, surrounded by rice paddies and a small pond. The stillness is palpable—no figure moves in the doorway or near the clotheslines. Inside, dim light filters through paper windows onto bare furniture. The mood is tense and lonely, with a subtle golden-hour glow highlighting the peeling walls and overgrown courtyard. Artistic style: detailed realist oil painting with slight melancholy undertones, reminiscent of Chinese rural realism like the works of Chen Changfen.",
+      "image": "reader_images/reader_20260317_190250.jpg",
+      "text_model": "minimax",
+      "image_model": "zimage",
+      "seed": 1036734266,
+      "created_at": "2026-03-17T19:02:50.514464+08:00"
     }
   ],
   "book_total_chars": 92814,
