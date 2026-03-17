@@ -14711,6 +14711,18 @@
       "image_model": "flux",
       "seed": 525105725,
       "created_at": "2026-03-17T08:01:04.577319+08:00"
+    },
+    {
+      "id": "20260317_080242",
+      "offset_start": 81764,
+      "offset_end": 81848,
+      "text": "想開點，少想點\n田四，少哭點。還有，家裡東西你想要的都帶走。」說罷，眼角有淚。\n秋園定定地看着王成恩，故作輕鬆地說：「你想太多了，怪不得病總不見好，原\n來是思想在作怪。",
+      "prompt": "A Chinese woman in a simple cotton dress sits beside a narrow wooden bed in a modest room, gently holding the hand of a pale, thin man lying weakly beneath a faded quilt. An elderly woman stands nearby, wiping tears from her weathered face while a young boy crouches by a wooden chest, looking confused and sad. Soft, diffused morning light streams through a small paper window, casting long shadows across worn wooden furniture and a few modest belongings. The scene carries a quiet, bittersweet mood of tender farewells and resigned acceptance, rendered in a naturalistic Chinese ink-wash painting style with muted earth tones and subtle emotional depth.",
+      "image": "reader_images/reader_20260317_080242.jpg",
+      "text_model": "minimax",
+      "image_model": "grok-imagine",
+      "seed": 77541736,
+      "created_at": "2026-03-17T08:02:42.505483+08:00"
     }
   ],
   "book_total_chars": 92814,
