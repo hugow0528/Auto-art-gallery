@@ -15947,6 +15947,18 @@
       "image_model": "zimage",
       "seed": 504743953,
       "created_at": "2026-03-17T17:34:10.349760+08:00"
+    },
+    {
+      "id": "20260317_173951",
+      "offset_start": 88401,
+      "offset_end": 88487,
+      "text": "人王整天拿根比自己還長的棍子，站在坪裏趕雞，防雞偷谷喫。這邊趕走\n了，另一邊又來了，連喫飯時都要守在一旁看着。有隻大公雞欺負人王個頭矮\n小，谷也不喫了，要啄人王碗裡的飯喫。",
+      "prompt": "A diminutive man stands in a sunlit farmyard wielding a long bamboo stick, his posture tense as he chases chickens away from scattered grain, his weathered face etched with frustration. A large rooster with iridescent plumage confronts him boldly, its head raised in defiance as it pecks toward the rice bowl he clutches protectively. The scene captures a moment of comic struggle between man and bird, with warm golden afternoon light casting long shadows across the dusty ground, rendered in a semi-realistic illustrative style with earthy, muted tones that evoke rural Chinese village life.",
+      "image": "reader_images/reader_20260317_173951.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "gptimage",
+      "seed": 1677758141,
+      "created_at": "2026-03-17T17:39:51.883371+08:00"
     }
   ],
   "book_total_chars": 92814,
