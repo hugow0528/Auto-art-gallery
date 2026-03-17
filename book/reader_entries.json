@@ -15407,6 +15407,18 @@
       "image_model": "imagen-4",
       "seed": 638270635,
       "created_at": "2026-03-17T13:47:37.839870+08:00"
+    },
+    {
+      "id": "20260317_135247",
+      "offset_start": 85548,
+      "offset_end": 85610,
+      "text": "麥\n芽經驗豐富，她迅速剪斷臍帶，用粗瓷碗裡的燒酒簡單地消了毒，然後拎起女嬰\n的腳倒提着，對準腳底板啪啪啪地接連敲擊了十幾下。",
+      "prompt": "A dimly lit, rustic room with rough-hewn wooden beams and a straw-thatched ceiling. A weathered, middle-aged woman with kind but determined eyes holds a newborn baby girl upside down by the ankles, her face a mixture of gentle focus and practiced efficiency. The atmosphere is one of quiet, domestic tradition, rendered in the warm, slightly grainy aesthetic of an old oil painting.",
+      "image": "reader_images/reader_20260317_135247.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "flux",
+      "seed": 1595273965,
+      "created_at": "2026-03-17T13:52:47.822144+08:00"
     }
   ],
   "book_total_chars": 92814,
