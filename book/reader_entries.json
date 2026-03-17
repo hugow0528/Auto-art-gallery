@@ -16487,6 +16487,18 @@
       "image_model": "flux-2-dev",
       "seed": 1279798053,
       "created_at": "2026-03-17T21:56:40.071561+08:00"
+    },
+    {
+      "id": "20260317_215723",
+      "offset_start": 91284,
+      "offset_end": 91350,
+      "text": "說來奇怪，我每次寫點什麼都非常困難，好像無時不在寫作瓶\n頸中。但媽媽寫起東西來就像擰開自來水龍頭，隨開隨有，文字順暢地從筆端流\n出。",
+      "prompt": "A cozy, dimly lit writing desk cluttered with crumpled papers and a stalled pen in a frustrated young writer's hand, his face tense with creative block under a flickering desk lamp casting harsh shadows. Beside him, his serene mother effortlessly writes at another table, words flowing like sparkling water from a gleaming faucet onto smooth paper, bathed in soft golden sunlight streaming through a window. Metaphorical style blending realism and surrealism, warm-cool contrast, detailed textures, cinematic lighting, in the vein of Gregory Crewdson, high resolution, 8k.",
+      "image": "reader_images/reader_20260317_215723.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "klein",
+      "seed": 1141759552,
+      "created_at": "2026-03-17T21:57:23.479848+08:00"
     }
   ],
   "book_total_chars": 92814,
