@@ -15311,6 +15311,18 @@
       "image_model": "imagen-4",
       "seed": 1596361034,
       "created_at": "2026-03-17T13:36:23.871375+08:00"
+    },
+    {
+      "id": "20260317_133648",
+      "offset_start": 85136,
+      "offset_end": 85198,
+      "text": "這酒還派上了另一個用場。\n當晚，之驊腹痛如絞。她抱着肚子，先是克制地呻吟，繼而滿牀打滾，身下有液\n體汩汩流出——羊水破了。",
+      "prompt": "In a dimly lit traditional Chinese bedroom at night, a young woman named Zhi Hua writhes in agony on a wooden bed with rumpled silk sheets, clutching her swollen pregnant belly as she rolls side to side, her face contorted in excruciating pain with sweat-drenched hair and wide-open eyes filled with torment. Amniotic fluid gushes visibly from beneath her, pooling on the sheets and floor in glistening streams, illuminated by flickering candlelight casting dramatic shadows on antique furnishings and embroidered screens. Render in a hyper-realistic style inspired by classical Chinese ink wash painting with heightened emotional intensity, evoking a mood of raw vulnerability, impending birth, and quiet desperation.",
+      "image": "reader_images/reader_20260317_133648.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "flux",
+      "seed": 1199681595,
+      "created_at": "2026-03-17T13:36:48.299239+08:00"
     }
   ],
   "book_total_chars": 92814,
