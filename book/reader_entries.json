@@ -14783,6 +14783,18 @@
       "image_model": "grok-imagine",
       "seed": 318228545,
       "created_at": "2026-03-17T11:14:41.108963+08:00"
+    },
+    {
+      "id": "20260317_111510",
+      "offset_start": 82140,
+      "offset_end": 82207,
+      "text": "秋園大叫一聲，連忙撲到牀上，一摸，還有餘熱。「還有救！還有\n救！」她連聲呼道。\n王成恩身體蜷曲，嘴邊有嘔吐物，顯然死前經歷過痛苦掙扎。",
+      "prompt": "A dimly lit traditional Chinese bedroom in autumn, with muted colors of ochre and ash. A woman in period dress frantically leans over a wooden bed, her hand touching a still form beneath rumpled fabric, her face contorted with desperate hope and anguish. The body on the bed shows signs of violent illness—a visceral, tragic scene rendered in classical realist style with dramatic chiaroscuro lighting that emphasizes the woman's expression of shock and the heavy atmosphere of mortality. The composition captures a moment of tragic discovery, with autumn shadows creeping across worn wooden floors and fabric, evoking both intimacy and despair.",
+      "image": "reader_images/reader_20260317_111510.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "zimage",
+      "seed": 799342291,
+      "created_at": "2026-03-17T11:15:10.224104+08:00"
     }
   ],
   "book_total_chars": 92814,
