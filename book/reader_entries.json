@@ -16307,6 +16307,18 @@
       "image_model": "flux",
       "seed": 405052356,
       "created_at": "2026-03-17T19:54:08.318119+08:00"
+    },
+    {
+      "id": "20260317_195436",
+      "offset_start": 90293,
+      "offset_end": 90390,
+      "text": "子恆和賠三抬着她去了醫院，想接好她的骨頭。可是接了又斷。他們又冒險把她\n搬上車，送到省裏最好的骨科醫院。那兒的醫生只肯開藥，不肯接骨，擔心在骨\n頭接上那一瞬間，她會疼得暈死過去，再也醒不過來。",
+      "prompt": "A dimly lit, sterile hospital corridor, late at night. Two worried men, Ziheng and Peisan, their faces etched with exhaustion and desperation, gently support a pale, injured woman between them. A faint, flickering fluorescent light casts long shadows, emphasizing the somber and anxious atmosphere. The scene should evoke a sense of urgent, yet futile, hope against the backdrop of medical uncertainty.",
+      "image": "reader_images/reader_20260317_195436.jpg",
+      "text_model": "gemini-fast",
+      "image_model": "klein",
+      "seed": 1357041488,
+      "created_at": "2026-03-17T19:54:36.613310+08:00"
     }
   ],
   "book_total_chars": 92814,
