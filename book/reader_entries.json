@@ -16607,6 +16607,18 @@
       "image_model": "flux",
       "seed": 872866770,
       "created_at": "2026-03-17T22:36:08.096495+08:00"
+    },
+    {
+      "id": "20260317_223803",
+      "offset_start": 92116,
+      "offset_end": 92191,
+      "text": "然而，關於外公的印象畢竟是輕淺的，隔着死亡這一距離，我們安全地聽着他的\n故事，多少像對待一個局外人。\n後來，年近古稀的媽媽開始動筆寫她的自傳體小說。",
+      "prompt": "An elderly Asian woman in her seventies sits at a wooden desk in a softly lit room, writing intently in a notebook with a vintage pen, surrounded by old black-and-white photographs and faded letters. Warm afternoon light streams through a window, casting gentle shadows across her concentrated face and the scattered memorabilia of a life being documented. Realistic oil painting style with a nostalgic, intimate atmosphere.",
+      "image": "reader_images/reader_20260317_223803.jpg",
+      "text_model": "minimax",
+      "image_model": "klein",
+      "seed": 424171157,
+      "created_at": "2026-03-17T22:38:04.022618+08:00"
     }
   ],
   "book_total_chars": 92814,
