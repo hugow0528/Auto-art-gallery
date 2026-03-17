@@ -15431,6 +15431,18 @@
       "image_model": "zimage",
       "seed": 1085341067,
       "created_at": "2026-03-17T14:01:32.237015+08:00"
+    },
+    {
+      "id": "20260317_140308",
+      "offset_start": 85681,
+      "offset_end": 85744,
+      "text": "之驊靜\n靜地閉着眼睛，頭上棲落着黃豆大的汗珠。從此，她成爲一個母親——如同秋\n園，如同世世代代的女子。\n之驊一共生了三個孩子。",
+      "prompt": "A weary woman lies in a dim, rustic room, her eyes closed, beads of sweat like pearls on her forehead, in a moment of profound exhaustion and transition. Soft, warm light from a single window illuminates her face and the newborn in her arms, rendered in a style of classical realism with gentle, emotive brushstrokes.",
+      "image": "reader_images/reader_20260317_140308.jpg",
+      "text_model": "deepseek",
+      "image_model": "zimage",
+      "seed": 1286529185,
+      "created_at": "2026-03-17T14:03:08.337210+08:00"
     }
   ],
   "book_total_chars": 92814,
