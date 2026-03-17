@@ -16463,6 +16463,18 @@
       "image_model": "klein",
       "seed": 731006384,
       "created_at": "2026-03-17T21:52:47.529901+08:00"
+    },
+    {
+      "id": "20260317_215320",
+      "offset_start": 91203,
+      "offset_end": 91284,
+      "text": "這本書是我媽媽寫的，她就是文中的之驊。寫好後我幫她錄入電腦，起初在天涯\n社區連載，算起來那竟然是十幾年前的事情了。如她自序中所言，這是一部在廚\n房裡完成的書稿。",
+      "prompt": "A warmly lit, modest Chinese kitchen at dusk, with steam rising from pots on a cluttered gas stove and handwritten manuscript pages scattered across a wooden table amid ingredients like chopped vegetables, rice bowls, and an open notebook. A middle-aged woman resembling the author \"Zhi Hua,\" with focused determination, sits writing intently by dim lantern light, her grown daughter nearby typing diligently on an old laptop, evoking nostalgia and familial intimacy. Render in a realistic style with soft golden hues, intricate details on everyday utensils, and a tender, intimate atmosphere like a Norman Rockwell painting infused with Chinese domestic realism.",
+      "image": "reader_images/reader_20260317_215320.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 1156857805,
+      "created_at": "2026-03-17T21:53:20.755915+08:00"
     }
   ],
   "book_total_chars": 92814,
