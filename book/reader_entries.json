@@ -15767,6 +15767,18 @@
       "image_model": "flux-2-dev",
       "seed": 1993302613,
       "created_at": "2026-03-17T16:05:46.722788+08:00"
+    },
+    {
+      "id": "20260317_160642",
+      "offset_start": 87381,
+      "offset_end": 87447,
+      "text": "你居然把她帶大了，你是個好媽媽。\n我覺得你瘦了些，日子過得還好嗎？兩個媳婦對你好不好？」\n「梁老師，我瘦了蠻多啊，你想不到我有多累。",
+      "prompt": "In a dimly lit, traditional Chinese courtyard home during evening twilight, an older woman with weary eyes and a slender, fatigued frame sits across from her former teacher, Mr. Liang, at a simple wooden table laden with steaming tea and modest family dishes. She gestures animatedly with her hands, her face etched with exhaustion and subtle pride as they share an intimate conversation about her grown daughter and demanding daughters-in-law, surrounded by warm lantern light casting soft shadows on faded walls adorned with family photos. Render in a realistic cinematic style like Zhang Yimou's films, with a melancholic autumn atmosphere, earthy tones of faded reds and golds, and gentle bokeh from distant fireflies evoking quiet resilience and familial bonds.",
+      "image": "reader_images/reader_20260317_160642.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "imagen-4",
+      "seed": 523382500,
+      "created_at": "2026-03-17T16:06:43.023238+08:00"
     }
   ],
   "book_total_chars": 92814,
