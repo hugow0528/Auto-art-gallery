@@ -16319,6 +16319,18 @@
       "image_model": "klein",
       "seed": 1357041488,
       "created_at": "2026-03-17T19:54:36.613310+08:00"
+    },
+    {
+      "id": "20260317_195817",
+      "offset_start": 90390,
+      "offset_end": 90457,
+      "text": "之驊趕回老屋，每天精心照料秋園：撫摸她的身體以減輕痛楚；小心翼翼挪動她\n的身體，以免生褥瘡；實在疼得厲害就餵服安眠藥，讓她昏昏睡去。",
+      "prompt": "In a dimly lit, traditional Chinese courtyard garden with twisted bonsai trees, jagged scholar's rocks, and a serene lotus pond under soft autumn twilight, an elderly man tenderly cradles and gently massages the frail, pain-stricken body of a woman lying on a simple wooden bed, her face etched with quiet suffering as he offers her a small vial of sedative. Warm lantern light casts long shadows across mossy stone paths and peony blooms, evoking a mood of profound care, melancholy intimacy, and harmonious restraint amid natural decay. Render in the style of classical Chinese ink wash painting with subtle watercolor accents, emphasizing emotional depth, intricate textures, and balanced yin-yang contrasts.",
+      "image": "reader_images/reader_20260317_195817.jpg",
+      "text_model": "perplexity-fast",
+      "image_model": "grok-imagine",
+      "seed": 853930452,
+      "created_at": "2026-03-17T19:58:17.649661+08:00"
     }
   ],
   "book_total_chars": 92814,
