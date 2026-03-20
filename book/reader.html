@@ -313,6 +313,242 @@
       box-shadow: 0 8px 40px rgba(0,0,0,.6);
     }
 
+    /* ── Auto-play button ───────────────────────────────────────── */
+    #autoplay-btn {
+      background: var(--accent);
+      border: none;
+      border-radius: 99px;
+      padding: .3rem .9rem;
+      font-size: .8rem;
+      cursor: pointer;
+      color: var(--surface);
+      font-family: 'Inter', sans-serif;
+      white-space: nowrap;
+      transition: background .2s, opacity .2s;
+      flex-shrink: 0;
+    }
+    #autoplay-btn:hover { background: var(--accent-2); }
+    #autoplay-btn:disabled { opacity: .45; cursor: default; }
+
+    /* ── Auto-play overlay ──────────────────────────────────────── */
+    #autoplay-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      z-index: 500;
+      background: var(--bg);
+      flex-direction: column;
+    }
+    #autoplay-overlay.open { display: flex; }
+
+    #autoplay-top-bar {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: .55rem 1.2rem;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      box-shadow: 0 2px 8px var(--shadow);
+      flex-shrink: 0;
+    }
+    #autoplay-close-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      padding: .3rem .8rem;
+      font-size: .8rem;
+      cursor: pointer;
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+      white-space: nowrap;
+      transition: border-color .2s, color .2s;
+      flex-shrink: 0;
+    }
+    #autoplay-close-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    #autoplay-progress-wrap {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      gap: .7rem;
+      min-width: 0;
+    }
+    #autoplay-progress-bg {
+      flex: 1;
+      height: 6px;
+      background: var(--border);
+      border-radius: 99px;
+      overflow: hidden;
+    }
+    #autoplay-progress-fill {
+      height: 100%;
+      background: var(--progress);
+      border-radius: 99px;
+      transition: width .6s ease;
+    }
+    #autoplay-counter {
+      font-family: 'Inter', sans-serif;
+      font-size: .75rem;
+      color: var(--text-muted);
+      white-space: nowrap;
+    }
+
+    #autoplay-content {
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      overflow: hidden;
+      min-height: 0;
+    }
+    #autoplay-image-panel {
+      position: relative;
+      overflow: hidden;
+      background: var(--border);
+    }
+    #autoplay-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: opacity .5s ease;
+    }
+    #autoplay-countdown-bar {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      height: 4px;
+      background: var(--accent);
+      width: 100%;
+      border-radius: 0 2px 2px 0;
+    }
+
+    #autoplay-text-panel {
+      display: flex;
+      flex-direction: column;
+      padding: clamp(1.2rem, 3vw, 2.5rem);
+      overflow-y: auto;
+      gap: 1rem;
+      min-height: 0;
+    }
+    #autoplay-meta {
+      display: flex;
+      align-items: center;
+      gap: .6rem;
+      flex-wrap: wrap;
+      flex-shrink: 0;
+    }
+    #autoplay-entry-num {
+      font-family: 'Inter', sans-serif;
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--accent);
+      background: color-mix(in srgb, var(--accent) 12%, transparent);
+      padding: .2rem .7rem;
+      border-radius: 99px;
+    }
+    #autoplay-entry-date {
+      font-family: 'Inter', sans-serif;
+      font-size: .75rem;
+      color: var(--text-muted);
+    }
+    #autoplay-pause-badge {
+      font-family: 'Inter', sans-serif;
+      font-size: .72rem;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+      padding: .15rem .55rem;
+      border-radius: 99px;
+      display: none;
+    }
+    #autoplay-pause-badge.visible { display: inline-block; }
+
+    #autoplay-passage {
+      font-size: clamp(.95rem, 1.6vw, 1.1rem);
+      line-height: 2;
+      color: var(--text);
+      flex: 1;
+      transition: opacity .35s ease;
+      min-height: 0;
+      overflow-y: auto;
+    }
+    #autoplay-caption {
+      font-family: 'Inter', sans-serif;
+      font-size: .78rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      padding-top: .8rem;
+      line-height: 1.5;
+      flex-shrink: 0;
+    }
+
+    #autoplay-timer-row {
+      display: flex;
+      align-items: center;
+      gap: .55rem;
+      font-family: 'Inter', sans-serif;
+      font-size: .85rem;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+    .autoplay-adj-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      width: 28px;
+      height: 28px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: var(--text-muted);
+      font-size: 1.1rem;
+      line-height: 1;
+      padding: 0;
+      transition: border-color .2s, color .2s;
+      flex-shrink: 0;
+    }
+    .autoplay-adj-btn:hover { border-color: var(--accent); color: var(--accent); }
+    #autoplay-timer-value {
+      font-weight: 600;
+      color: var(--text);
+      min-width: 1.5rem;
+      text-align: center;
+    }
+
+    #autoplay-nav {
+      display: flex;
+      align-items: center;
+      gap: .8rem;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .autoplay-nav-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 50%;
+      width: 42px;
+      height: 42px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      color: var(--text-muted);
+      font-size: 1rem;
+      transition: all .2s;
+      flex-shrink: 0;
+    }
+    .autoplay-nav-btn:hover { border-color: var(--accent); color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+    .autoplay-nav-btn:disabled { opacity: .35; cursor: default; pointer-events: none; }
+    #autoplay-playpause {
+      width: 50px;
+      height: 50px;
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--surface);
+      font-size: 1.2rem;
+    }
+    #autoplay-playpause:hover { background: var(--accent-2); border-color: var(--accent-2); color: var(--surface); }
+
     /* ── Responsive ─────────────────────────────────────────────── */
     @media (max-width: 700px) {
       .entry {
@@ -326,6 +562,15 @@
       .progress-wrap { display: none; }
 
       .page-title { display: none; }
+
+      #autoplay-content {
+        grid-template-columns: 1fr;
+        grid-template-rows: 45vw 1fr;
+        overflow: hidden;
+      }
+      #autoplay-image-panel { height: 45vw; }
+      #autoplay-text-panel { overflow-y: auto; }
+      #autoplay-progress-wrap { display: none; }
     }
   </style>
 </head>
@@ -344,6 +589,7 @@
       <span class="progress-text" id="progress-label">載入中…</span>
     </div>
     <button id="theme-btn" aria-label="切換深色模式">🌙 深色</button>
+    <button id="autoplay-btn" aria-label="自動播放" disabled>▶ 自動播放</button>
   </div>
 </nav>
 
@@ -377,6 +623,60 @@
 <!-- ── Lightbox ────────────────────────────────────────────────── -->
 <div id="lightbox" role="dialog" aria-modal="true" aria-label="圖片檢視器">
   <img id="lightbox-img" src="" alt="" />
+</div>
+
+<!-- ── Auto-play overlay ─────────────────────────────────────── -->
+<div id="autoplay-overlay" role="dialog" aria-modal="true" aria-label="自動播放">
+
+  <!-- Top bar: close button + progress -->
+  <div id="autoplay-top-bar">
+    <button id="autoplay-close-btn" aria-label="關閉自動播放">✕ 關閉</button>
+    <div id="autoplay-progress-wrap">
+      <div id="autoplay-progress-bg">
+        <div id="autoplay-progress-fill"></div>
+      </div>
+      <span id="autoplay-counter">0 / 0</span>
+    </div>
+  </div>
+
+  <!-- Main content: image (left) + text (right) -->
+  <div id="autoplay-content">
+
+    <!-- Image panel -->
+    <div id="autoplay-image-panel">
+      <img id="autoplay-img" src="" alt="" />
+      <!-- Countdown bar animates from 100% → 0% before each auto-advance -->
+      <div id="autoplay-countdown-bar"></div>
+    </div>
+
+    <!-- Text panel -->
+    <div id="autoplay-text-panel">
+      <div id="autoplay-meta">
+        <span id="autoplay-entry-num"></span>
+        <span id="autoplay-entry-date"></span>
+        <span id="autoplay-pause-badge">暫停中</span>
+      </div>
+      <p id="autoplay-passage"></p>
+      <p id="autoplay-caption"></p>
+
+      <!-- Timer adjuster -->
+      <div id="autoplay-timer-row">
+        <span>自動翻頁：</span>
+        <button class="autoplay-adj-btn" id="autoplay-decrement" aria-label="減少秒數">－</button>
+        <span id="autoplay-timer-value">8</span>
+        <span>秒</span>
+        <button class="autoplay-adj-btn" id="autoplay-increment" aria-label="增加秒數">＋</button>
+      </div>
+
+      <!-- Navigation controls -->
+      <div id="autoplay-nav">
+        <button class="autoplay-nav-btn" id="autoplay-prev" aria-label="上一段">◀</button>
+        <button class="autoplay-nav-btn" id="autoplay-playpause" aria-label="暫停">⏸</button>
+        <button class="autoplay-nav-btn" id="autoplay-next" aria-label="下一段">▶</button>
+      </div>
+    </div>
+
+  </div>
 </div>
 
 <script>
@@ -416,6 +716,26 @@
   });
 
   document.addEventListener('keydown', (e) => {
+    // Auto-play overlay shortcuts take priority
+    if (autoplayOverlay.classList.contains('open')) {
+      if (e.key === 'Escape') { closeAutoPlay(); return; }
+      if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+        e.preventDefault();
+        stopAutoPlayTimer();
+        showAutoPlayEntry(autoplayCurrent + 1);
+        if (!autoplayPaused) startAutoPlayTimer();
+        return;
+      }
+      if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+        e.preventDefault();
+        stopAutoPlayTimer();
+        showAutoPlayEntry(autoplayCurrent - 1);
+        if (!autoplayPaused) startAutoPlayTimer();
+        return;
+      }
+      if (e.key === ' ') { e.preventDefault(); toggleAutoPlayPause(); return; }
+      return;
+    }
     if (e.key === 'Escape') {
       lightbox.classList.remove('open');
       document.body.style.overflow = '';
@@ -476,6 +796,12 @@
     status.style.display = 'none';
     feed.style.display = 'flex';
 
+    // Update auto-play data
+    autoplayEntries = entries;
+    if (entries.length > 0) {
+      document.getElementById('autoplay-btn').disabled = false;
+    }
+
     feed.innerHTML = '';
 
     entries.forEach((entry, idx) => {
@@ -514,6 +840,185 @@
     });
   }
 
+  /* ── Auto-play feature ─────────────────────────────────────────── */
+  let autoplayEntries = [];
+  let autoplayCurrent = 0;
+  let autoplaySeconds = 8;
+  let autoplayTimer = null;
+  let autoplayPaused = false;
+  let autoplayCountdownStart = null;
+
+  const autoplayOverlay   = document.getElementById('autoplay-overlay');
+  const autoplayBtn       = document.getElementById('autoplay-btn');
+  const autoplayCloseBtn  = document.getElementById('autoplay-close-btn');
+  const autoplayImg       = document.getElementById('autoplay-img');
+  const autoplayEntryNum  = document.getElementById('autoplay-entry-num');
+  const autoplayEntryDate = document.getElementById('autoplay-entry-date');
+  const autoplayPassage   = document.getElementById('autoplay-passage');
+  const autoplayCaptionEl = document.getElementById('autoplay-caption');
+  const autoplayPFill     = document.getElementById('autoplay-progress-fill');
+  const autoplayCounter   = document.getElementById('autoplay-counter');
+  const autoplayTimerVal  = document.getElementById('autoplay-timer-value');
+  const autoplayDecrBtn   = document.getElementById('autoplay-decrement');
+  const autoplayIncrBtn   = document.getElementById('autoplay-increment');
+  const autoplayPrevBtn   = document.getElementById('autoplay-prev');
+  const autoplayPlayBtn   = document.getElementById('autoplay-playpause');
+  const autoplayNextBtn   = document.getElementById('autoplay-next');
+  const autoplayCdBar     = document.getElementById('autoplay-countdown-bar');
+  const autoplayPauseBadge = document.getElementById('autoplay-pause-badge');
+
+  function openAutoPlay() {
+    if (!autoplayEntries.length) return;
+    autoplayCurrent = 0;
+    autoplayPaused = false;
+    updateAutoPlayPauseBtn();
+    autoplayOverlay.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    showAutoPlayEntry(0);
+    startAutoPlayTimer();
+  }
+
+  function closeAutoPlay() {
+    stopAutoPlayTimer();
+    autoplayOverlay.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  function showAutoPlayEntry(index) {
+    if (index < 0 || index >= autoplayEntries.length) return;
+    autoplayCurrent = index;
+    const entry = autoplayEntries[index];
+    const num   = index + 1;
+    const total = autoplayEntries.length;
+
+    // Progress
+    autoplayPFill.style.width = Math.round((num / total) * 100) + '%';
+    autoplayCounter.textContent = `${num} / ${total}`;
+
+    // Nav button states
+    autoplayPrevBtn.disabled = (index === 0);
+    autoplayNextBtn.disabled = (index === total - 1);
+
+    // Fade out then swap content
+    autoplayPassage.style.opacity = '0';
+    autoplayImg.style.opacity     = '0';
+
+    setTimeout(() => {
+      autoplayEntryNum.textContent  = `第 ${num} 段`;
+      autoplayEntryDate.textContent = formatDate(entry.created_at);
+      autoplayPassage.textContent   = entry.text;
+      autoplayCaptionEl.textContent = '🎨 ' + (entry.prompt || '');
+
+      const imgSrc = entry.image || '';
+      autoplayImg.alt    = `第 ${num} 段插圖`;
+      autoplayImg.onload  = () => { autoplayImg.style.opacity = '1'; };
+      autoplayImg.onerror = () => { autoplayImg.style.opacity = '0.2'; };
+      autoplayImg.src    = imgSrc;
+      if (autoplayImg.complete && autoplayImg.naturalWidth) {
+        autoplayImg.style.opacity = '1';
+      }
+      autoplayPassage.style.opacity = '1';
+    }, 350);
+  }
+
+  function startAutoPlayTimer() {
+    stopAutoPlayTimer();
+    if (autoplayPaused || !autoplayEntries.length) return;
+
+    autoplayCountdownStart = Date.now();
+
+    // Animate countdown bar: 100% → 0% over autoplaySeconds seconds
+    autoplayCdBar.style.transition = 'none';
+    autoplayCdBar.style.width      = '100%';
+    void autoplayCdBar.offsetWidth; // force reflow
+    autoplayCdBar.style.transition = `width ${autoplaySeconds}s linear`;
+    autoplayCdBar.style.width      = '0%';
+
+    autoplayTimer = setTimeout(() => {
+      autoplayCountdownStart = null;
+      if (autoplayCurrent < autoplayEntries.length - 1) {
+        showAutoPlayEntry(autoplayCurrent + 1);
+        startAutoPlayTimer();
+      } else {
+        // Reached the last entry – pause playback
+        autoplayPaused = true;
+        updateAutoPlayPauseBtn();
+      }
+    }, autoplaySeconds * 1000);
+  }
+
+  function stopAutoPlayTimer() {
+    if (autoplayTimer) {
+      clearTimeout(autoplayTimer);
+      autoplayTimer = null;
+    }
+    // Freeze countdown bar at its current visual position
+    if (autoplayCountdownStart !== null) {
+      const elapsed   = Date.now() - autoplayCountdownStart;
+      const remaining = Math.max(0, autoplaySeconds * 1000 - elapsed);
+      const pct       = (remaining / (autoplaySeconds * 1000)) * 100;
+      autoplayCdBar.style.transition = 'none';
+      autoplayCdBar.style.width      = pct + '%';
+      autoplayCountdownStart = null;
+    }
+  }
+
+  function toggleAutoPlayPause() {
+    autoplayPaused = !autoplayPaused;
+    updateAutoPlayPauseBtn();
+    if (autoplayPaused) {
+      stopAutoPlayTimer();
+    } else {
+      startAutoPlayTimer();
+    }
+  }
+
+  function updateAutoPlayPauseBtn() {
+    if (autoplayPaused) {
+      autoplayPlayBtn.textContent = '▶';
+      autoplayPlayBtn.setAttribute('aria-label', '播放');
+      autoplayPauseBadge.classList.add('visible');
+    } else {
+      autoplayPlayBtn.textContent = '⏸';
+      autoplayPlayBtn.setAttribute('aria-label', '暫停');
+      autoplayPauseBadge.classList.remove('visible');
+    }
+  }
+
+  // Button bindings
+  autoplayBtn.addEventListener('click', openAutoPlay);
+  autoplayCloseBtn.addEventListener('click', closeAutoPlay);
+
+  autoplayPrevBtn.addEventListener('click', () => {
+    stopAutoPlayTimer();
+    showAutoPlayEntry(autoplayCurrent - 1);
+    if (!autoplayPaused) startAutoPlayTimer();
+  });
+
+  autoplayNextBtn.addEventListener('click', () => {
+    stopAutoPlayTimer();
+    showAutoPlayEntry(autoplayCurrent + 1);
+    if (!autoplayPaused) startAutoPlayTimer();
+  });
+
+  autoplayPlayBtn.addEventListener('click', toggleAutoPlayPause);
+
+  autoplayDecrBtn.addEventListener('click', () => {
+    if (autoplaySeconds > 3) {
+      autoplaySeconds--;
+      autoplayTimerVal.textContent = autoplaySeconds;
+      if (!autoplayPaused) { stopAutoPlayTimer(); startAutoPlayTimer(); }
+    }
+  });
+
+  autoplayIncrBtn.addEventListener('click', () => {
+    if (autoplaySeconds < 60) {
+      autoplaySeconds++;
+      autoplayTimerVal.textContent = autoplaySeconds;
+      if (!autoplayPaused) { stopAutoPlayTimer(); startAutoPlayTimer(); }
+    }
+  });
+
   /* ── Fetch data ────────────────────────────────────────────────── */
   async function loadData() {
     try {
@@ -532,5 +1037,6 @@
   // Auto-refresh every 5 minutes so readers see new content without reloading
   setInterval(loadData, 5 * 60 * 1000);
 </script>
+
 </body>
 </html>
