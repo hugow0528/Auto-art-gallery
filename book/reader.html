@@ -238,6 +238,25 @@
       line-height: 1.5;
     }
 
+    .entry-play-from-btn {
+      align-self: flex-start;
+      display: inline-flex;
+      align-items: center;
+      gap: .35rem;
+      margin-top: .6rem;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 99px;
+      padding: .25rem .75rem .25rem .5rem;
+      font-family: 'Inter', sans-serif;
+      font-size: .75rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: border-color .2s, color .2s, background .2s;
+    }
+    .entry-play-from-btn svg { width: 14px; height: 14px; flex-shrink: 0; }
+    .entry-play-from-btn:hover { border-color: var(--accent); color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
+
     .entry-image {
       position: relative;
       overflow: hidden;
@@ -539,15 +558,22 @@
     }
     .autoplay-nav-btn:hover { border-color: var(--accent); color: var(--accent); background: color-mix(in srgb, var(--accent) 8%, transparent); }
     .autoplay-nav-btn:disabled { opacity: .35; cursor: default; pointer-events: none; }
+    .autoplay-nav-btn svg {
+      width: 20px;
+      height: 20px;
+      display: block;
+      flex-shrink: 0;
+    }
     #autoplay-playpause {
       width: 50px;
       height: 50px;
       background: var(--accent);
       border-color: var(--accent);
       color: var(--surface);
-      font-size: 1.2rem;
     }
+    #autoplay-playpause svg { width: 22px; height: 22px; }
     #autoplay-playpause:hover { background: var(--accent-2); border-color: var(--accent-2); color: var(--surface); }
+    #autoplay-tts.active { background: var(--accent); border-color: var(--accent); color: var(--surface); }
 
     /* ── Responsive ─────────────────────────────────────────────── */
     @media (max-width: 700px) {
@@ -670,9 +696,18 @@
 
       <!-- Navigation controls -->
       <div id="autoplay-nav">
-        <button class="autoplay-nav-btn" id="autoplay-prev" aria-label="上一段">◀</button>
-        <button class="autoplay-nav-btn" id="autoplay-playpause" aria-label="暫停">⏸</button>
-        <button class="autoplay-nav-btn" id="autoplay-next" aria-label="下一段">▶</button>
+        <button class="autoplay-nav-btn" id="autoplay-prev" aria-label="上一段">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>
+        </button>
+        <button class="autoplay-nav-btn" id="autoplay-playpause" aria-label="暫停">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+        </button>
+        <button class="autoplay-nav-btn" id="autoplay-next" aria-label="下一段">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>
+        </button>
+        <button class="autoplay-nav-btn" id="autoplay-tts" aria-label="粵語朗讀" title="粵語朗讀">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+        </button>
       </div>
     </div>
 
@@ -718,9 +753,10 @@
   document.addEventListener('keydown', (e) => {
     // Auto-play overlay shortcuts take priority
     if (autoplayOverlay.classList.contains('open')) {
-      if (e.key === 'Escape') { closeAutoPlay(); return; }
+      if (e.key === 'Escape') { stopAutoPlayTts(); closeAutoPlay(); return; }
       if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
         e.preventDefault();
+        stopAutoPlayTts();
         stopAutoPlayTimer();
         showAutoPlayEntry(autoplayCurrent + 1);
         if (!autoplayPaused) startAutoPlayTimer();
@@ -728,6 +764,7 @@
       }
       if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
         e.preventDefault();
+        stopAutoPlayTts();
         stopAutoPlayTimer();
         showAutoPlayEntry(autoplayCurrent - 1);
         if (!autoplayPaused) startAutoPlayTimer();
@@ -832,6 +869,15 @@
 
       article.innerHTML = textSide + imageSide;
 
+      // "Play from here" button
+      const playFromBtn = document.createElement('button');
+      playFromBtn.className = 'entry-play-from-btn';
+      playFromBtn.title = `從第 ${num} 段開始自動播放`;
+      playFromBtn.setAttribute('aria-label', `從第 ${num} 段開始自動播放`);
+      playFromBtn.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>從此處播放';
+      playFromBtn.addEventListener('click', () => openAutoPlay(idx));
+      article.querySelector('.entry-text').appendChild(playFromBtn);
+
       // Lightbox on image click
       const img = article.querySelector('.entry-image img');
       img.addEventListener('click', () => openLightbox(entry.image, imgAlt));
@@ -867,14 +913,14 @@
   const autoplayCdBar     = document.getElementById('autoplay-countdown-bar');
   const autoplayPauseBadge = document.getElementById('autoplay-pause-badge');
 
-  function openAutoPlay() {
+  function openAutoPlay(startIndex) {
     if (!autoplayEntries.length) return;
-    autoplayCurrent = 0;
+    autoplayCurrent = (typeof startIndex === 'number' && startIndex >= 0) ? startIndex : 0;
     autoplayPaused = false;
     updateAutoPlayPauseBtn();
     autoplayOverlay.classList.add('open');
     document.body.style.overflow = 'hidden';
-    showAutoPlayEntry(0);
+    showAutoPlayEntry(autoplayCurrent);
     startAutoPlayTimer();
   }
 
@@ -907,7 +953,8 @@
       autoplayEntryNum.textContent  = `第 ${num} 段`;
       autoplayEntryDate.textContent = formatDate(entry.created_at);
       autoplayPassage.textContent   = entry.text;
-      autoplayCaptionEl.textContent = '🎨 ' + (entry.prompt || '');
+      // Prompt is not shown in autoplay mode
+      autoplayCaptionEl.textContent = '';
 
       const imgSrc = entry.image || '';
       autoplayImg.alt    = `第 ${num} 段插圖`;
@@ -918,6 +965,8 @@
         autoplayImg.style.opacity = '1';
       }
       autoplayPassage.style.opacity = '1';
+      // Speak entry text if TTS is active
+      if (autoplayTtsEnabled) speakAutoPlayEntry(entry.text);
     }, 350);
   }
 
@@ -968,34 +1017,97 @@
     updateAutoPlayPauseBtn();
     if (autoplayPaused) {
       stopAutoPlayTimer();
+      stopAutoPlayTts();
     } else {
       startAutoPlayTimer();
     }
   }
 
+  const SVG_PAUSE = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
+  const SVG_PLAY  = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+
   function updateAutoPlayPauseBtn() {
     if (autoplayPaused) {
-      autoplayPlayBtn.textContent = '▶';
+      autoplayPlayBtn.innerHTML = SVG_PLAY;
       autoplayPlayBtn.setAttribute('aria-label', '播放');
       autoplayPauseBadge.classList.add('visible');
     } else {
-      autoplayPlayBtn.textContent = '⏸';
+      autoplayPlayBtn.innerHTML = SVG_PAUSE;
       autoplayPlayBtn.setAttribute('aria-label', '暫停');
       autoplayPauseBadge.classList.remove('visible');
     }
   }
 
+  /* ── Cantonese TTS ─────────────────────────────────────────────── */
+  let autoplayTtsEnabled = false;
+  let autoplayTtsVoices  = [];
+  const autoplayTtsBtn   = document.getElementById('autoplay-tts');
+
+  if ('speechSynthesis' in window) {
+    const loadVoices = () => { autoplayTtsVoices = window.speechSynthesis.getVoices(); };
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
+  }
+
+  function speakAutoPlayEntry(text) {
+    if (!('speechSynthesis' in window) || !text) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    // Cantonese voice selection
+    const candidates = [
+      { name: 'Sin-Ji',          lang: 'zh-HK', score: 12 },
+      { name: 'Microsoft Tracy', lang: 'zh-HK', score: 11 },
+      { name: 'Tracy',           lang: 'zh-HK', score: 10 },
+      { name: 'Microsoft Danny', lang: 'zh-HK', score:  9 },
+      { contains: 'Cantonese',   lang: 'zh',    score:  8 },
+      { contains: 'Hong Kong',   lang: 'zh',    score:  7 },
+      { lang: 'zh-HK',                          score:  6 }
+    ];
+    let selected = null, best = 0;
+    const voices = autoplayTtsVoices.length ? autoplayTtsVoices : window.speechSynthesis.getVoices();
+    candidates.forEach(c => {
+      voices.forEach(v => {
+        let s = 0;
+        if (c.name    && v.name.includes(c.name))    s = c.score;
+        else if (c.contains && v.name.includes(c.contains)) s = c.score - 1;
+        if (c.lang && v.lang.includes(c.lang))       s += 1;
+        if (s > best) { best = s; selected = v; }
+      });
+    });
+    if (!selected) selected = voices.find(v => v.lang.includes('zh-HK'));
+    if (!selected) selected = voices.find(v => v.lang.includes('zh'));
+    if (selected)  utterance.voice = selected;
+    utterance.lang   = 'zh-HK';
+    utterance.rate   = 0.9;  // slightly slower for tonal clarity
+    utterance.pitch  = 1.15; // slightly higher for expressive Cantonese tones
+    utterance.volume = 1.0;
+    window.speechSynthesis.speak(utterance);
+  }
+
+  function stopAutoPlayTts() {
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+  }
+
+  autoplayTtsBtn.addEventListener('click', () => {
+    autoplayTtsEnabled = !autoplayTtsEnabled;
+    autoplayTtsBtn.classList.toggle('active', autoplayTtsEnabled);
+    autoplayTtsBtn.setAttribute('aria-label', autoplayTtsEnabled ? '關閉朗讀' : '粵語朗讀');
+    if (!autoplayTtsEnabled) stopAutoPlayTts();
+  });
+
   // Button bindings
   autoplayBtn.addEventListener('click', openAutoPlay);
-  autoplayCloseBtn.addEventListener('click', closeAutoPlay);
+  autoplayCloseBtn.addEventListener('click', () => { stopAutoPlayTts(); closeAutoPlay(); });
 
   autoplayPrevBtn.addEventListener('click', () => {
+    stopAutoPlayTts();
     stopAutoPlayTimer();
     showAutoPlayEntry(autoplayCurrent - 1);
     if (!autoplayPaused) startAutoPlayTimer();
   });
 
   autoplayNextBtn.addEventListener('click', () => {
+    stopAutoPlayTts();
     stopAutoPlayTimer();
     showAutoPlayEntry(autoplayCurrent + 1);
     if (!autoplayPaused) startAutoPlayTimer();
