@@ -1,0 +1,1726 @@
+
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>慢讀</title>
+    <script src="https://unpkg.com/opencc-js@1.0.5/dist/umd/full.js"></script>
+    <!-- 引入 Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --background-color: #f4f1ea;
+            --card-bg-color: #FAF8F5;
+            --text-color: #3a3a3a;
+            --placeholder-color: #b0a89f;
+            --subtle-text-color: #8a7968; 
+            --border-color: #dcd6c8;
+            --accent-color: #4a7c85; 
+            --accent-color-hover: #3e6870;
+            --accent-text-color: #f4f1ea; 
+            --danger-color: #b95c5c;
+        }
+        * {
+            /* 移除移動端點擊時的藍色高亮閃爍 */
+            -webkit-tap-highlight-color: transparent;
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            font-family: 'Noto Serif TC', serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+            padding: 1rem;
+            transition: background-color 0.8s ease;
+            /* 禁止頁面選取文字 */
+            user-select: none; 
+            -webkit-user-select: none;
+            /* 防止長按時的系統菜單呼叫 (iOS/Android) */
+            -webkit-touch-callout: none; 
+        }
+        /* 進度條容器 */
+        #progress-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 100;
+            visibility: hidden;
+            opacity: 0;
+            transition: opacity 0.8s ease-in-out;
+        }
+        #progress-bar {
+            height: 6px;
+            background-color: var(--accent-color);
+            width: 0%;
+            transition: width 0.6s ease-out;
+        }
+        /* 進度百分比文字 */
+        #progress-percentage {
+            position: absolute;
+            top: 12px;
+            right: 15px;
+            font-size: 14px;
+            font-weight: bold;
+            color: var(--accent-color);
+            font-family: 'Helvetica Neue', sans-serif;
+            pointer-events: none;
+        }
+        /* 主容器 */
+        .container {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 3vh 0;
+            position: relative;
+        }
+        /* --- TTS 控制元素 --- */
+        .tts-controls {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            margin-bottom: 1rem;
+            justify-content: center;
+        }
+        .tts-toggle {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+        .tts-toggle-label {
+            font-size: 0.85rem;
+            color: var(--subtle-text-color);
+            margin-right: 0.5rem;
+        }
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 42px;
+            height: 24px;
+        }
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: var(--border-color);
+            transition: .4s;
+            border-radius: 24px;
+        }
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+        }
+        input:checked + .slider {
+            background-color: var(--accent-color);
+        }
+        input:checked + .slider:before {
+            transform: translateX(18px);
+        }
+        .lang-btn {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: var(--card-bg-color);
+            border: 1px solid var(--border-color);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            color: var(--subtle-text-color);
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+        .lang-btn.selected {
+            background-color: var(--accent-color);
+            color: var(--accent-text-color);
+            border-color: var(--accent-color);
+        }
+        /* --- 設定頁面 (主頁) --- */
+        #settings-view {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+            width: 100%;
+            max-width: 600px;
+            align-items: center;
+            opacity: 1;
+            transition: opacity 0.8s ease-in-out;
+        }
+        #main-input-area {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+        #text-input-wrapper {
+            width: 100%;
+            height: 250px;
+            background-color: var(--card-bg-color);
+            border-radius: 8px;
+            padding: 1.2rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05), inset 0 1px 3px rgba(0, 0, 0, 0.08);
+            transition: box-shadow 0.3s ease;
+            display: flex;
+            position: relative;
+        }
+        #text-input-wrapper:focus-within {
+            box-shadow: 0 4px 16px rgba(74, 124, 133, 0.2), inset 0 1px 3px rgba(0, 0, 0, 0.08);
+        }
+        #text-input {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            border: none;
+            outline: none;
+            background-color: transparent;
+            font-size: 1rem;
+            line-height: 1.7;
+            resize: none;
+            color: var(--text-color);
+            font-family: 'Noto Serif TC', serif;
+            /* 輸入框例外：允許選取與輸入 */
+            user-select: text; 
+            -webkit-user-select: text;
+        }
+        #text-input::placeholder {
+            color: var(--placeholder-color);
+            font-style: italic;
+        }
+        .settings-controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+        }
+        .timer-control {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+        .timer-label {
+            display: block;
+            font-size: 0.9rem;
+            color: var(--subtle-text-color);
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .timer-adjuster {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #timer-display {
+            font-family: 'Playfair Display', serif;
+            font-size: 4rem;
+            font-weight: 700;
+            color: var(--text-color);
+            width: 110px;
+            text-align: center;
+        }
+        .timer-button {
+            background: none;
+            border: 1px solid var(--border-color);
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: var(--subtle-text-color);
+        }
+        .timer-button:hover {
+            background-color: var(--accent-color);
+            color: var(--accent-text-color);
+            border-color: var(--accent-color);
+        }
+        .timer-button svg {
+            width: 18px;
+            height: 18px;
+            stroke: currentColor;
+            stroke-width: 2;
+        }
+        #start-button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.75rem;
+            width: 220px;
+            padding: 0.9rem 1.5rem;
+            background-color: var(--accent-color);
+            border: none;
+            color: var(--accent-text-color);
+            border-radius: 8px;
+            font-family: 'Playfair Display', serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        #start-button:hover {
+            background-color: var(--accent-color-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        #start-button svg {
+            width: 20px;
+            height: 20px;
+            fill: currentColor;
+            transition: transform 0.3s ease;
+        }
+        #start-button:hover svg {
+            transform: translateX(4px);
+        }
+        .secondary-actions {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            align-self: flex-end;
+        }
+        .action-icon-button {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            border-radius: 50%;
+            width: 44px;
+            height: 44px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            color: var(--subtle-text-color);
+            transition: all 0.3s ease;
+        }
+        .action-icon-button:hover {
+            background-color: var(--card-bg-color);
+            color: var(--accent-color);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+        .action-icon-button svg {
+            width: 22px;
+            height: 22px;
+            fill: currentColor;
+        }
+        /* 載入中動畫 */
+        .action-icon-button.loading svg {
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        /* --- 閱讀介面 (全屏覆蓋) --- */
+        #reader-view {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: var(--background-color);
+            z-index: 50;
+            display: none;
+            flex-direction: column;
+            align-items: center; 
+            justify-content: flex-start; 
+            cursor: pointer;
+            /* 禁止瀏覽器處理觸控動作 */
+            touch-action: none;
+        }
+        #display-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            width: 80%;
+            max-width: 800px;
+            margin-top: 25vh; 
+            opacity: 1;
+            transition: opacity 0.8s ease-in-out;
+            pointer-events: none; 
+        }
+        #display-wrapper.fade-out {
+            opacity: 0;
+        }
+        #paragraph-number {
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: var(--subtle-text-color); 
+            margin-bottom: 1.5rem;
+            opacity: 0.6;
+        }
+        #text-display {
+            font-size: 1.8rem;
+            line-height: 1.8;
+            text-align: left;
+            width: 100%;
+        }
+        /* 暫停提示 */
+        #pause-indicator {
+            position: absolute;
+            top: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.9rem;
+            color: var(--accent-color);
+            border: 1px solid var(--accent-color);
+            padding: 4px 12px;
+            border-radius: 20px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+            background-color: var(--background-color);
+            z-index: 150;
+        }
+        /* --- 完成介面 --- */
+        #completion-view {
+            display: none;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 2rem;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            /* 保持背景，但允許點擊穿透 */
+            background-color: var(--background-color);
+            z-index: 60; 
+            opacity: 0;
+            transition: opacity 0.8s ease; 
+            /* 關鍵：允許點擊穿透到下層的 reader-view，除非點擊到按鈕 */
+            pointer-events: none; 
+        }
+        #completion-view.visible {
+            opacity: 1;
+        }
+        .completion-actions {
+            display: flex;
+            gap: 3rem;
+            align-items: center;
+            /* 關鍵：按鈕區域恢復可點擊 */
+            pointer-events: auto; 
+        }
+        .completion-btn-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .completion-btn {
+            background: transparent;
+            border: 2px solid var(--border-color);
+            border-radius: 50%;
+            width: 70px;
+            height: 70px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            color: var(--subtle-text-color);
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .completion-btn:hover {
+            border-color: var(--accent-color);
+            color: var(--accent-color);
+            transform: scale(1.1);
+            background-color: var(--card-bg-color);
+        }
+        .completion-btn svg {
+            width: 28px;
+            height: 28px;
+            fill: currentColor;
+        }
+        .completion-label {
+            font-size: 0.9rem;
+            color: var(--subtle-text-color);
+            opacity: 0;
+            transform: translateY(-5px);
+            transition: all 0.3s ease;
+        }
+        .completion-btn-wrapper:hover .completion-label {
+            opacity: 1;
+            transform: translateY(0);
+        }
+        /* --- 頁尾 --- */
+        .copyright-footer {
+            bottom: 0;
+            padding: 2rem 0;
+            text-align: center;
+            width: 100%;
+        }
+        .copyright-footer p {
+            margin: 0;
+            font-size: 0.8rem;
+            color: var(--subtle-text-color);
+        }
+        /* --- 彈出視窗 (Modal) --- */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 200;
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.6s ease, visibility 0.6s ease;
+            padding: 1rem;
+        }
+        .modal-overlay.visible {
+            opacity: 1;
+            visibility: visible;
+        }
+        .modal-content {
+            background-color: var(--background-color);
+            padding: 2rem;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 500px;
+            max-height: 80vh;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .modal-header h2 {
+            margin: 0;
+            font-family: 'Playfair Display', serif;
+            color: var(--text-color);
+        }
+        .close-button {
+            background: none;
+            border: none;
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--subtle-text-color);
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+        .close-button:hover { color: var(--text-color); }
+        #history-list { list-style: none; padding: 0; margin: 0; overflow-y: auto; }
+        .history-item { display: flex; justify-content: space-between; align-items: center; padding: 1rem; border-bottom: 1px solid var(--border-color); transition: background-color 0.3s ease; }
+        .history-item:last-child { border-bottom: none; }
+        .history-item-title { cursor: pointer; flex-grow: 1; margin-right: 1rem; font-weight: bold; color: var(--text-color); }
+        .history-item-title:hover { color: var(--accent-color); }
+        .delete-history-button { background: none; border: none; cursor: pointer; color: var(--subtle-text-color); padding: 0.5rem; }
+        .delete-history-button:hover { color: var(--danger-color); }
+        .delete-history-button svg { width: 20px; height: 20px; fill: currentColor; }
+        #no-history-message { text-align: center; color: var(--placeholder-color); padding: 2rem; }
+        #save-title-input { width: 100%; padding: 0.8rem; font-size: 1rem; border: 1px solid var(--border-color); border-radius: 6px; background-color: var(--card-bg-color); color: var(--text-color); margin-bottom: 1.5rem; }
+        #save-title-input:focus { outline: none; border-color: var(--accent-color); box-shadow: 0 0 0 3px rgba(74, 124, 133, 0.2); }
+        .modal-actions { display: flex; justify-content: flex-end; gap: 1rem; }
+        .modal-button { padding: 0.6rem 1.2rem; border: none; border-radius: 6px; font-size: 0.9rem; font-family: 'Noto Serif TC', serif; cursor: pointer; transition: all 0.3s ease; }
+        #confirm-save-button { background-color: var(--accent-color); color: var(--accent-text-color); }
+        #confirm-save-button:hover { background-color: var(--accent-color-hover); }
+        #cancel-save-button { background-color: transparent; color: var(--subtle-text-color); border: 1px solid var(--border-color); }
+        #cancel-save-button:hover { background-color: var(--card-bg-color); }
+        /* 響應式設計 */
+        @media (min-width: 800px) {
+            #settings-view { display: grid; grid-template-columns: 2fr 1fr; gap: 3rem; max-width: 900px; }
+            #text-input-wrapper { height: 400px; }
+            .settings-controls { height: 100%; }
+            #timer-display { font-size: 4.5rem; }
+            #start-button { width: 100%; }
+            #display-wrapper { margin-top: 30vh; } 
+        }
+        /* 手機版特別微調 */
+        @media (max-width: 799px) {
+             #display-wrapper { 
+                 margin-top: 20vh; 
+             }
+        }
+    </style>
+</head>
+<body>
+    <div id="progress-container">
+        <div id="progress-bar"></div>
+        <span id="progress-percentage">0%</span>
+    </div>
+    <div class="container">
+        <!-- 設定頁面 -->
+        <div id="settings-view">
+            <div id="main-input-area">
+                <div class="secondary-actions">
+                    <!-- 隨機文章按鈕 -->
+                    <button id="random-article-button" class="action-icon-button" title="隨機文章">
+                        <svg viewBox="0 0 24 24"><path d="M10.59 9.17L5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41l-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"/></svg>
+                    </button>
+                    <button id="history-button" class="action-icon-button" title="閱讀紀錄">
+                        <svg viewBox="0 0 24 24"><path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/></svg>
+                    </button>
+                </div>
+                <div id="text-input-wrapper">
+                     <textarea id="text-input" placeholder="請在此貼上文章，或點擊上方「隨機」按鈕..."></textarea>
+                </div>
+            </div>
+            <div class="settings-controls">
+                <!-- TTS 控制區 -->
+                <div class="tts-controls">
+                    <div class="tts-toggle">
+                        <span class="tts-toggle-label">TTS</span>
+                        <label class="toggle-switch">
+                            <input type="checkbox" id="tts-toggle">
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+                    <button class="lang-btn selected" id="lang-mandarin" title="普通話">普</button>
+                    <button class="lang-btn" id="lang-cantonese" title="粵語">粵</button>
+                </div>
+                <div class="timer-control">
+                    <span class="timer-label">翻頁秒數</span>
+                    <div class="timer-adjuster">
+                        <button class="timer-button" id="decrement-timer" title="減少秒數">
+                            <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                        </button>
+                        <span id="timer-display">7</span>
+                        <button class="timer-button" id="increment-timer" title="增加秒數">
+                            <svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                        </button>
+                    </div>
+                </div>
+                <button id="start-button" title="開始閱讀">
+                    <span>慢讀</span>
+                    <svg viewBox="0 0 24 24"><path d="M16.01 11H4v2h12.01v3L20 12l-3.99-4z"></path></svg>
+                </button>
+            </div>
+            <footer class="copyright-footer">
+                <p>Copyright © 2025 陳冠健. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+    <!-- 閱讀介面 (全屏) -->
+    <div id="reader-view">
+        <div id="pause-indicator">暫停</div>
+        <div id="display-wrapper">
+            <div id="paragraph-number"></div>
+            <div id="text-display"></div>
+        </div>
+    </div>
+    <!-- 完成介面 (覆蓋在閱讀介面上) -->
+    <div id="completion-view">
+        <div class="completion-actions">
+            <div class="completion-btn-wrapper">
+                <button id="end-save-button" class="completion-btn" title="儲存文章">
+                    <svg viewBox="0 0 24 24"><path d="M17 3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V7l-4-4zm-5 16c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm3-10H5V5h10v4z"/></svg>
+                </button>
+                <span class="completion-label">儲存</span>
+            </div>
+            <div class="completion-btn-wrapper">
+                <button id="end-home-button" class="completion-btn" title="返回主頁">
+                    <svg viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+                </button>
+                <span class="completion-label">主頁</span>
+            </div>
+        </div>
+    </div>
+    <!-- 歷史紀錄 Modal -->
+    <div id="history-view" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>閱讀紀錄</h2>
+                <button id="close-history-button" class="close-button" title="關閉">&times;</button>
+            </div>
+            <ul id="history-list"></ul>
+        </div>
+    </div>
+    <!-- 儲存 Modal -->
+    <div id="save-modal" class="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>儲存文章</h2>
+                <button id="close-save-modal-button" class="close-button" title="關閉">&times;</button>
+            </div>
+            <input type="text" id="save-title-input" placeholder="請輸入篇名...">
+            <div class="modal-actions">
+                <button id="cancel-save-button" class="modal-button">取消</button>
+                <button id="confirm-save-button" class="modal-button">儲存</button>
+            </div>
+        </div>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // --- DOM 元素參考 ---
+            const settingsView = document.getElementById('settings-view');
+            const readerView = document.getElementById('reader-view');
+            const completionView = document.getElementById('completion-view');
+            const textInput = document.getElementById('text-input');
+            const startButton = document.getElementById('start-button');
+            const historyButton = document.getElementById('history-button');
+            const randomArticleButton = document.getElementById('random-article-button'); 
+            const timerDisplay = document.getElementById('timer-display');
+            const incrementTimerBtn = document.getElementById('increment-timer');
+            const decrementTimerBtn = document.getElementById('decrement-timer');
+            const displayWrapper = document.getElementById('display-wrapper');
+            const paragraphNumberDisplay = document.getElementById('paragraph-number');
+            const textDisplay = document.getElementById('text-display');
+            const pauseIndicator = document.getElementById('pause-indicator');
+            const endSaveButton = document.getElementById('end-save-button');
+            const endHomeButton = document.getElementById('end-home-button');
+            const progressContainer = document.getElementById('progress-container');
+            const progressBar = document.getElementById('progress-bar');
+            const progressPercentage = document.getElementById('progress-percentage');
+            // TTS 元素
+            const ttsToggle = document.getElementById('tts-toggle');
+            const langMandarinBtn = document.getElementById('lang-mandarin');
+            const langCantoneseBtn = document.getElementById('lang-cantonese');
+            // Modal 元素
+            const historyView = document.getElementById('history-view');
+            const closeHistoryButton = document.getElementById('close-history-button');
+            const historyList = document.getElementById('history-list');
+            const saveModal = document.getElementById('save-modal');
+            const closeSaveModalButton = document.getElementById('close-save-modal-button');
+            const confirmSaveButton = document.getElementById('confirm-save-button');
+            const cancelSaveButton = document.getElementById('cancel-save-button');
+            const saveTitleInput = document.getElementById('save-title-input');
+            // --- 狀態變數 ---
+            let textSegments = [];
+            let currentIndex = 0;
+            let autoPageTimeout = null; // 用於TTS模式下的setTimeout
+            let autoPageInterval = null; // 用於非TTS模式下的setInterval
+            let currentSeconds = 7;
+            let isReading = false;
+            let inCompletionMode = false;
+            let isTTSEnabled = false;
+            let currentLanguage = 'mandarin'; // 'mandarin' or 'cantonese'
+            let speechUtterance = null;
+            let isSpeaking = false;
+            let voices = [];
+            // 觸控邏輯變數
+            let pressTimer = null;
+            let visualPauseTimer = null;
+            let lastTouchTime = 0; 
+            const LONG_PRESS_THRESHOLD = 250; 
+            // 暫存變數：用於存放隨機文章的標題，以便儲存時自動填入
+            let currentRandomTitle = ""; 
+            const toTraditional = OpenCC.Converter({ from: 'cn', to: 'tw' });
+            const STORAGE_KEY = 'slowReaderHistory';
+            // --- TTS 功能初始化 ---
+            const initTTS = () => {
+                if ('speechSynthesis' in window) {
+                    voices = window.speechSynthesis.getVoices();
+                    window.speechSynthesis.onvoiceschanged = () => {
+                        voices = window.speechSynthesis.getVoices();
+                    };
+                } else {
+                    // 不支援 TTS
+                    ttsToggle.checked = false;
+                    ttsToggle.disabled = true;
+                    isTTSEnabled = false;
+                }
+            };
+            // 初始化 TTS
+            initTTS();
+            // 切換語言
+            const setLanguage = (lang) => {
+                currentLanguage = lang;
+                if (lang === 'mandarin') {
+                    langMandarinBtn.classList.add('selected');
+                    langCantoneseBtn.classList.remove('selected');
+                } else {
+                    langMandarinBtn.classList.remove('selected');
+                    langCantoneseBtn.classList.add('selected');
+                }
+            };
+            // --- 核心功能 ---
+            // 輔助函數：生成隨機日期 (格式：YYYY-MM-DD)
+            const getRandomDate = () => {
+                const start = new Date(2013, 0, 1);
+                const end = new Date(); 
+                const randomTime = start.getTime() + Math.random() * (end.getTime() - start.getTime());
+                const d = new Date(randomTime);
+                const year = d.getFullYear();
+                const month = String(d.getMonth() + 1).padStart(2, '0');
+                const day = String(d.getDate()).padStart(2, '0');
+                return `${year}-${month}-${day}`;
+            };
+            // 1. 抓取每日一文 (隨機日期版 - 修訂：全篇轉繁體 + 移除特定文字)
+            const fetchRandomArticle = async () => {
+                // UI 狀態：載入中
+                randomArticleButton.classList.add('loading');
+                textInput.placeholder = "正在時光機中尋找文章...";
+                const randomDate = getRandomDate();
+                const API_URL = `https://v2.alapi.cn/api/one?token=LwExDtUWhF3rH5ib&date=${randomDate}`;
+                try {
+                    const response = await fetch(API_URL);
+                    const result = await response.json();
+                    if (result.code === 200) {
+                        const data = result.data;
+                        // 立即進行繁體轉換
+                        const titleTC = toTraditional(data.title);
+                        const authorTC = toTraditional(data.subtitle || '未知');
+                        // 保存繁體標題供儲存使用
+                        currentRandomTitle = titleTC; 
+                        // 處理內容 HTML
+                        let rawContent = data.content.replace(/<\/p>/gi, '\n');
+                        rawContent = rawContent.replace(/<br\s*\/?>/gi, '\n');
+                        rawContent = rawContent.replace(/<[^>]+>/g, '');
+                        const tempDiv = document.createElement("div");
+                        tempDiv.innerHTML = rawContent;
+                        let cleanContent = tempDiv.textContent || tempDiv.innerText || "";
+                        // --- 修訂點 1：移除特定廣告文字 ---
+                        cleanContent = cleanContent.replace(/這裡藏著一張圖片，前往應用商店，下載「一個」最新版本查看！/g, '');
+                        // 內文轉繁體
+                        const contentTC = toTraditional(cleanContent);
+                        // 組合完整內容
+                        const fullContent = `【${titleTC}】
+作者/來源：${authorTC}
+日期：${randomDate}
+${contentTC}`;
+                        textInput.value = fullContent;
+                        // 視覺回饋
+                        textInput.scrollTop = 0;
+                        document.getElementById('text-input-wrapper').style.boxShadow = "0 0 15px rgba(74, 124, 133, 0.5)";
+                        setTimeout(() => {
+                            document.getElementById('text-input-wrapper').style.boxShadow = "";
+                        }, 500);
+                    } else {
+                        alert(`時光機故障 (${randomDate})：${result.msg}，請再試一次！`);
+                        textInput.placeholder = "請在此貼上文章...";
+                    }
+                } catch (error) {
+                    console.error('Error fetching article:', error);
+                    alert('連線發生錯誤，請檢查網路或稍後再試。');
+                    textInput.placeholder = "請在此貼上文章...";
+                } finally {
+                    randomArticleButton.classList.remove('loading');
+                }
+            };
+            // 2. 開始閱讀流程
+            const startReadingProcess = (rawText) => {
+                closeAllModals();
+                // 再次轉換確保萬一（如果是用戶貼上的簡體字）
+                const traditionalText = toTraditional(rawText);
+                // 統一引號格式
+                const correctedText = traditionalText.replace(/“/g, '「').replace(/”/g, '」');
+                // 加入段落標記
+                const textWithMarkers = '__NEW_PARA__' + correctedText.replace(/\n\s*/g, '__NEW_PARA__');
+                segmentText(textWithMarkers);
+                if (textSegments.length === 0) return;
+                // 切換 UI
+                settingsView.style.opacity = '0';
+                setTimeout(() => {
+                    settingsView.style.display = 'none';
+                    readerView.style.display = 'flex'; 
+                    progressContainer.style.visibility = 'visible';
+                    progressContainer.style.opacity = '1';
+                    completionView.style.display = 'none';
+                    completionView.classList.remove('visible');
+                    displayWrapper.style.display = 'flex';
+                    displayWrapper.classList.remove('fade-out');
+                    currentIndex = 0;
+                    isReading = true;
+                    inCompletionMode = false;
+                    isTTSEnabled = ttsToggle.checked;
+                    displaySegment(currentIndex);
+                    startAutoPageTurn();
+                }, 500);
+            };
+           // 3. 文字切分邏輯 (修訂點：加入每頁最多五個逗號的限制)
+const segmentText = (text) => {
+    const segments = [];
+    // 步驟 A: 先依據段落標記切分
+    const paragraphs = text.split('__NEW_PARA__');
+    let pCounter = 1;
+    paragraphs.forEach(para => {
+        if (!para) return; // 略過空字串
+        // 步驟 B: 在段落內，將「句號/問號/驚嘆號」替換為「標點+分隔符」
+        let temp = para.replace(/([。？！\.])/g, "$1|SPLIT|");
+        let sentences = temp.split('|SPLIT|');
+        let currentParaSentences = [];
+        for (let i = 0; i < sentences.length; i++) {
+            let s = sentences[i];
+            if (!s || s.trim() === '') continue;
+            // 步驟 C: 關鍵合併邏輯 - 處理孤兒引號
+            const badStartRegex = /^(["”'』」\)。？！\.]+)(.*)/s;
+            const match = s.match(badStartRegex);
+            if (match && currentParaSentences.length > 0) {
+                currentParaSentences[currentParaSentences.length - 1] += match[1];
+                if (match[2] && match[2].trim()) {
+                    currentParaSentences.push(match[2]);
+                }
+            } else {
+                currentParaSentences.push(s);
+            }
+        }
+        // --- 新增：處理每頁最多五個逗號的限制 ---
+        let tempSegmentsForPara = [];
+        currentParaSentences.forEach((sentence, idx) => {
+            // 計算逗號數量
+            const commaCount = (sentence.match(/[，,]/g) || []).length;
+            if (commaCount <= 5) {
+                // 如果逗號數量不超過5，直接加入
+                tempSegmentsForPara.push({
+                    text: sentence,
+                    paraNumber: idx === 0 ? pCounter++ : null
+                });
+            } else {
+                // 如果超過5個逗號，需要分割
+                const parts = splitSentenceByCommas(sentence, 5);
+                parts.forEach((part, partIdx) => {
+                    tempSegmentsForPara.push({
+                        text: part,
+                        // 只有第一部分才顯示段落編號
+                        paraNumber: (idx === 0 && partIdx === 0) ? pCounter++ : null
+                    });
+                });
+            }
+        });
+        // 將處理好的段落句子加入最終列表
+        segments.push(...tempSegmentsForPara);
+    });
+    textSegments = segments;
+};
+// --- 新增：根據逗號數量分割句子的輔助函數 ---
+const splitSentenceByCommas = (sentence, maxCommasPerPage) => {
+    const result = [];
+    let currentPart = '';
+    let commaCount = 0;
+    let inQuotes = false; // 追蹤是否在引號內
+    let quoteStack = []; // 追蹤引號類型
+    for (let i = 0; i < sentence.length; i++) {
+        const char = sentence[i];
+        currentPart += char;
+        // 處理引號
+        if (char === '「' || char === '『' || char === '（' || char === '[' || char === '{') {
+            quoteStack.push(char);
+            inQuotes = quoteStack.length > 0;
+        } else if (char === '」' || char === '』' || char === '）' || char === ']' || char === '}') {
+            quoteStack.pop();
+            inQuotes = quoteStack.length > 0;
+        } else if (char === '、') {
+            // 頓號不計入逗號限制
+            continue;
+        } else if (char === '，' || char === ',') {
+            // 只有不在引號內時才計數
+            if (!inQuotes) {
+                commaCount++;
+                // 如果達到限制，且不在引號內，則在此逗號後分割
+                if (commaCount >= maxCommasPerPage) {
+                    // 確保不在引號內
+                    if (quoteStack.length === 0) {
+                        result.push(currentPart);
+                        currentPart = '';
+                        commaCount = 0;
+                    }
+                }
+            }
+        }
+    }
+    // 加入最後一部分
+    if (currentPart.trim()) {
+        result.push(currentPart);
+    }
+    return result;
+};
+            // 4. 顯示內容
+            const displaySegment = (index) => {
+                if (index >= 0 && index < textSegments.length) {
+                    const segObj = textSegments[index];
+                    stopSpeaking(); // 先停止任何正在進行的TTS
+                    displayWrapper.classList.add('fade-out');
+                    setTimeout(() => {
+                        paragraphNumberDisplay.textContent = segObj.paraNumber !== null ? segObj.paraNumber : '';
+                        textDisplay.textContent = segObj.text;
+                        displayWrapper.classList.remove('fade-out');
+                        updateProgressBar();
+                        // TTS 朗讀 - 立即開始，而非等待
+                        if (isTTSEnabled) {
+                            speakText(segObj.text);
+                        }
+                    }, 600);
+                }
+            };
+            // 5. 完成頁面
+            const showCompletionView = () => {
+                stopAutoPageTurn();
+                inCompletionMode = true;
+                isReading = false;
+                progressBar.style.width = `100%`;
+                progressPercentage.textContent = `100%`;
+                displayWrapper.classList.add('fade-out');
+                setTimeout(() => {
+                    displayWrapper.style.display = 'none';
+                    completionView.style.display = 'flex';
+                    void completionView.offsetWidth;
+                    completionView.classList.add('visible');
+                }, 600);
+            };
+            // 5.1 從完成頁面返回閱讀
+            const hideCompletionAndResume = () => {
+                inCompletionMode = false;
+                completionView.classList.remove('visible');
+                setTimeout(() => {
+                    completionView.style.display = 'none';
+                    displayWrapper.style.display = 'flex';
+                    requestAnimationFrame(() => {
+                        displayWrapper.classList.remove('fade-out');
+                    });
+                    isReading = true;
+                    updateProgressBar();
+                    startAutoPageTurn();
+                }, 600);
+            };
+            // 6. 返回主頁
+            const returnToHome = () => {
+                stopAutoPageTurn();
+                stopSpeaking();
+                isReading = false;
+                inCompletionMode = false;
+                completionView.style.opacity = '0';
+                progressContainer.style.opacity = '0';
+                setTimeout(() => {
+                    completionView.style.display = 'none';
+                    completionView.classList.remove('visible');
+                    progressContainer.style.visibility = 'hidden';
+                    progressBar.style.width = '0%';
+                    progressPercentage.textContent = '0%';
+                    readerView.style.display = 'none';
+                    if (window.innerWidth >= 800) {
+                        settingsView.style.display = 'grid';
+                    } else {
+                        settingsView.style.display = 'flex';
+                    }
+                    settingsView.style.opacity = '0';
+                    requestAnimationFrame(() => {
+                        settingsView.style.opacity = '1';
+                    });
+                }, 800);
+            };
+            // 7. 進度條更新
+            const updateProgressBar = () => {
+                const perc = textSegments.length > 0 ? ((currentIndex + 1) / textSegments.length) * 100 : 0;
+                progressBar.style.width = `${perc}%`;
+                progressPercentage.textContent = `${Math.round(perc)}%`;
+            };
+            // 8. TTS 功能 - 全面優化
+            const speakText = (text) => {
+                if (!('speechSynthesis' in window) || !text || isSpeaking) return;
+                stopSpeaking();
+                // 嘗試初始化TTS（在某些瀏覽器需要）
+                try {
+                    speechSynthesis.getVoices();
+                } catch(e) {
+                    console.log("TTS initialization needed, voices may not be available yet");
+                }
+                const utterance = new SpeechSynthesisUtterance(text);
+                // 優化語音參數 - 讓聲音更自然
+                utterance.rate = 0.5; // 語速更慢
+                utterance.pitch = 1.1; // 音調略高，避免低沉
+                utterance.volume = 0.9;
+                // 設置語音
+                let selectedVoice = null;
+                let bestMatchScore = 0;
+                // 確保voices數組已正確初始化
+                if (voices.length === 0) {
+                    // 嘗試延遲初始化或重新獲取
+                    setTimeout(() => {
+                        voices = window.speechSynthesis.getVoices() || [];
+                        speakText(text); // 重試
+                    }, 100);
+                    return;
+                }
+                if (currentLanguage === 'mandarin') {
+                    // 嘗試找普通話語音，優先選擇更自然的
+                    const mandarinVoices = [
+                        { name: 'Ting-Ting', lang: 'zh-CN', score: 10 },
+                        { name: 'TingTing', lang: 'zh-CN', score: 10 },
+                        { name: 'Hanhan', lang: 'zh-CN', score: 9 },
+                        { name: 'Microsoft Huihui', lang: 'zh-CN', score: 8 },
+                        { name: 'Microsoft Lili', lang: 'zh-CN', score: 7 },
+                        { contains: 'Mandarin', lang: 'zh', score: 6 },
+                        { contains: 'Chinese', lang: 'zh', score: 5 }
+                    ];
+                    mandarinVoices.forEach(voiceOption => {
+                        voices.forEach(voice => {
+                            let matchScore = 0;
+                            if (voiceOption.name && voice.name.includes(voiceOption.name)) {
+                                matchScore = voiceOption.score;
+                            } else if (voiceOption.contains && voice.name.includes(voiceOption.contains)) {
+                                matchScore = voiceOption.score - 2;
+                            }
+                            if (voiceOption.lang && voice.lang.includes(voiceOption.lang)) {
+                                matchScore += 1;
+                            }
+                            if (matchScore > bestMatchScore) {
+                                bestMatchScore = matchScore;
+                                selectedVoice = voice;
+                            }
+                        });
+                    });
+                } else {
+                    // 嘗試找粵語語音
+                    const cantoneseVoices = [
+                        { name: 'Sin-Ji', lang: 'zh-HK', score: 12 },
+                        { name: 'Microsoft Tracy', lang: 'zh-HK', score: 11 },
+                        { name: 'Tracy', lang: 'zh-HK', score: 10 },
+                        { name: 'Microsoft Danny', lang: 'zh-HK', score: 9 },
+                        { contains: 'Cantonese', lang: 'zh', score: 8 },
+                        { contains: 'Hong Kong', lang: 'zh', score: 7 },
+                        { lang: 'zh-HK', score: 6 }
+                    ];
+                    cantoneseVoices.forEach(voiceOption => {
+                        voices.forEach(voice => {
+                            let matchScore = 0;
+                            if (voiceOption.name && voice.name.includes(voiceOption.name)) {
+                                matchScore = voiceOption.score;
+                            } else if (voiceOption.contains && voice.name.includes(voiceOption.contains)) {
+                                matchScore = voiceOption.score - 2;
+                            }
+                            if (voiceOption.lang && voice.lang.includes(voiceOption.lang)) {
+                                matchScore += 1;
+                            }
+                            if (matchScore > bestMatchScore) {
+                                bestMatchScore = matchScore;
+                                selectedVoice = voice;
+                            }
+                        });
+                    });
+                }
+                // 如果找不到特定語音，使用默認的中文語音
+                if (!selectedVoice) {
+                    if (currentLanguage === 'cantonese') {
+                        // 嘗試找任何香港語音
+                        selectedVoice = voices.find(voice => voice.lang.includes('zh-HK'));
+                    }
+                    if (!selectedVoice) {
+                        // 嘗試找任何中文語音
+                        selectedVoice = voices.find(voice => voice.lang.includes('zh'));
+                    }
+                }
+                // 如果還是找不到，使用第一個可用的語音
+                if (!selectedVoice && voices.length > 0) {
+                    selectedVoice = voices[0];
+                }
+                if (selectedVoice) {
+                    utterance.voice = selectedVoice;
+                    console.log('選擇的語音:', selectedVoice.name, '語言:', selectedVoice.lang);
+                } else {
+                    console.log('沒有找到合適的語音，使用默認語音');
+                }
+                utterance.onstart = () => {
+                    isSpeaking = true;
+                    // 停止自動翻頁定時器，因為我們在TTS結束後再設置它
+                    stopAutoPageTurn();
+                };
+                utterance.onend = () => {
+                    isSpeaking = false;
+                    // 在TTS結束後，設置自動翻頁定時器
+                    if (isReading && !inCompletionMode) {
+                        if (!isTTSEnabled) {
+                            startAutoPageTurn();
+                        } else {
+                            // TTS模式下，在TTS結束後等待設定秒數再翻頁
+                            autoPageTimeout = setTimeout(() => {
+                                if (isReading && !inCompletionMode) {
+                                    goToNextSegment();
+                                }
+                            }, currentSeconds * 1000);
+                        }
+                    }
+                };
+                utterance.onerror = (event) => {
+                    console.error('TTS Error:', event);
+                    isSpeaking = false;
+                    if (isReading && !inCompletionMode) {
+                        if (!isTTSEnabled) {
+                            startAutoPageTurn();
+                        } else {
+                            autoPageTimeout = setTimeout(() => {
+                                if (isReading && !inCompletionMode) {
+                                    goToNextSegment();
+                                }
+                            }, currentSeconds * 1000);
+                        }
+                    }
+                };
+                speechUtterance = utterance;
+                window.speechSynthesis.speak(utterance);
+            };
+            const stopSpeaking = () => {
+                if (window.speechSynthesis) {
+                    window.speechSynthesis.cancel();
+                }
+                isSpeaking = false;
+                speechUtterance = null;
+            };
+            // 9. 計時器控制
+            const stopAutoPageTurn = () => {
+                if (autoPageTimeout) {
+                    clearTimeout(autoPageTimeout);
+                    autoPageTimeout = null;
+                }
+                if (autoPageInterval) {
+                    clearInterval(autoPageInterval);
+                    autoPageInterval = null;
+                }
+            };
+            const startAutoPageTurn = () => {
+                stopAutoPageTurn();
+                if (isSpeaking) {
+                    // 如果正在TTS朗讀，不啟動自動翻頁
+                    return;
+                }
+                if (!isTTSEnabled) {
+                    // 非TTS模式，使用定時器自動翻頁
+                    autoPageInterval = setInterval(() => {
+                        if (isReading && !inCompletionMode) {
+                            goToNextSegment();
+                        }
+                    }, currentSeconds * 1000);
+                }
+                // TTS模式下，翻頁邏輯在TTS的onend事件中處理
+            };
+            // 10. 翻頁邏輯 - 修訂關鍵部分
+            const goToNextSegment = () => {
+                stopSpeaking(); // 停止當前TTS
+                stopAutoPageTurn(); // 停止自動翻頁定時器
+                
+                if (currentIndex < textSegments.length - 1) {
+                    currentIndex++;
+                    displaySegment(currentIndex);
+                } else {
+                    showCompletionView();
+                }
+            };
+            const goToPrevSegment = () => {
+                stopSpeaking(); // 停止當前TTS
+                stopAutoPageTurn(); // 停止自動翻頁定時器
+                
+                if (currentIndex > 0) {
+                    currentIndex--;
+                    displaySegment(currentIndex);
+                }
+            };
+            // --- 觸控與點擊互動邏輯 ---
+            const handleInteractStart = (e) => {
+                if (e.target.closest('button')) return;
+                if (!isReading && !inCompletionMode) return;
+                if (e.type === 'touchstart') {
+                    e.preventDefault();
+                }
+                if (e.type.startsWith('mouse') && (Date.now() - lastTouchTime < 800)) {
+                    return;
+                }
+                if (isReading) {
+                    stopAutoPageTurn();
+                    stopSpeaking(); // 停止TTS
+                    pressTimer = Date.now();
+                    visualPauseTimer = setTimeout(() => {
+                        pauseIndicator.style.opacity = '1';
+                    }, LONG_PRESS_THRESHOLD);
+                }
+            };
+            const handleInteractEnd = (e) => {
+                if (e.target.closest('button')) return;
+                if (e.type.startsWith('mouse') && (Date.now() - lastTouchTime < 800)) {
+                    return;
+                }
+                if (e.type === 'touchend') {
+                    lastTouchTime = Date.now();
+                    e.preventDefault(); 
+                }
+                const screenWidth = window.innerWidth;
+                const clientX = e.changedTouches ? e.changedTouches[0].clientX : e.clientX;
+                if (inCompletionMode) {
+                    if (clientX < screenWidth / 2) {
+                        hideCompletionAndResume();
+                    }
+                    return;
+                }
+                if (!isReading) return;
+                if (!pressTimer) return;
+                if (visualPauseTimer) {
+                    clearTimeout(visualPauseTimer);
+                    visualPauseTimer = null;
+                }
+                pauseIndicator.style.opacity = '0';
+                const duration = Date.now() - pressTimer;
+                pressTimer = null;
+                if (duration < LONG_PRESS_THRESHOLD) {
+                    if (clientX < screenWidth / 2) {
+                        goToPrevSegment(); // 這會自動停止TTS並開始新的TTS
+                    } else {
+                        goToNextSegment(); // 這會自動停止TTS並開始新的TTS
+                    }
+                    // 重新啟動自動翻頁
+                    if (isReading && !inCompletionMode && !isSpeaking) {
+                        startAutoPageTurn();
+                    }
+                } else {
+                    // 長按處理
+                }
+            };
+            readerView.addEventListener('mousedown', handleInteractStart);
+            readerView.addEventListener('mouseup', handleInteractEnd);
+            readerView.addEventListener('mouseleave', () => {
+                if (visualPauseTimer) clearTimeout(visualPauseTimer);
+                pauseIndicator.style.opacity = '0';
+                if (isReading && !inCompletionMode && !isSpeaking) {
+                    startAutoPageTurn();
+                }
+            });
+            readerView.addEventListener('contextmenu', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                return false;
+            });
+            readerView.addEventListener('touchstart', handleInteractStart, {passive: false});
+            readerView.addEventListener('touchend', handleInteractEnd, {passive: false});
+            document.addEventListener('visibilitychange', () => {
+                if (document.hidden) {
+                    stopAutoPageTurn();
+                    stopSpeaking();
+                } else {
+                    if (isReading && !inCompletionMode && !isSpeaking) {
+                        startAutoPageTurn();
+                    }
+                }
+            });
+            // --- 歷史紀錄與儲存功能 ---
+            const getHistory = () => JSON.parse(localStorage.getItem(STORAGE_KEY)) || [];
+            const saveHistoryToStorage = (history) => localStorage.setItem(STORAGE_KEY, JSON.stringify(history));
+            const renderHistoryList = () => {
+                const history = getHistory();
+                historyList.innerHTML = ''; 
+                if (history.length === 0) {
+                    historyList.innerHTML = `<p id="no-history-message">還沒有任何閱讀紀錄。</p>`;
+                    return;
+                }
+                history.forEach(item => {
+                    const li = document.createElement('li');
+                    li.className = 'history-item';
+                    li.innerHTML = `
+                        <span class="history-item-title">${item.title}</span>
+                        <button class="delete-history-button" data-id="${item.id}" title="刪除紀錄">
+                            <svg viewBox="0 0 24 24"><path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/></svg>
+                        </button>`;
+                    li.querySelector('.history-item-title').addEventListener('click', () => {
+                        textInput.value = item.content; 
+                        currentRandomTitle = ""; // 載入歷史時清空隨機標題
+                        startReadingProcess(item.content);
+                    });
+                    li.querySelector('.delete-history-button').addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const id = Number(e.currentTarget.dataset.id);
+                        const newHistory = getHistory().filter(h => h.id !== id);
+                        saveHistoryToStorage(newHistory);
+                        renderHistoryList();
+                    });
+                    historyList.appendChild(li);
+                });
+            };
+            const showModal = (modal) => modal.classList.add('visible');
+            const hideModal = (modal) => modal.classList.remove('visible');
+            const closeAllModals = () => [historyView, saveModal].forEach(hideModal);
+            // --- 事件監聽綁定 ---
+            randomArticleButton.addEventListener('click', fetchRandomArticle);
+            incrementTimerBtn.addEventListener('click', () => timerDisplay.textContent = ++currentSeconds);
+            decrementTimerBtn.addEventListener('click', () => { if (currentSeconds > 4) timerDisplay.textContent = --currentSeconds; });
+            startButton.addEventListener('click', () => {
+                if(textInput.value.trim()) {
+                    startReadingProcess(textInput.value);
+                } else {
+                    alert('請輸入文字內容或點擊「隨機」按鈕');
+                }
+            });
+            historyButton.addEventListener('click', () => { renderHistoryList(); showModal(historyView); });
+            endHomeButton.addEventListener('click', returnToHome);
+            endSaveButton.addEventListener('click', () => {
+                // 使用已保存的繁體標題（如果有）
+                saveTitleInput.value = currentRandomTitle || '未命名文章';
+                showModal(saveModal);
+                saveTitleInput.focus();
+            });
+            confirmSaveButton.addEventListener('click', () => {
+                const title = saveTitleInput.value.trim();
+                const content = textInput.value.trim(); 
+                if (title && content) {
+                    let history = getHistory();
+                    history.unshift({ id: Date.now(), title, content });
+                    saveHistoryToStorage(history);
+                    hideModal(saveModal);
+                    alert('儲存成功！');
+                } else {
+                    alert('篇名或內容不能為空！');
+                }
+            });
+            [closeHistoryButton, closeSaveModalButton, cancelSaveButton].forEach(btn => btn.addEventListener('click', closeAllModals));
+            [historyView, saveModal].forEach(modal => modal.addEventListener('click', (e) => { if (e.target === modal) closeAllModals(); }));
+            // TTS 事件監聽
+            ttsToggle.addEventListener('change', function() {
+                isTTSEnabled = this.checked;
+                // 切換TTS時，重新設置自動翻頁
+                if (isReading && !inCompletionMode) {
+                    stopAutoPageTurn();
+                    if (!isSpeaking) {
+                        startAutoPageTurn();
+                    }
+                }
+            });
+            langMandarinBtn.addEventListener('click', () => setLanguage('mandarin'));
+            langCantoneseBtn.addEventListener('click', () => setLanguage('cantonese'));
+            // 初始語言設定
+            setLanguage('mandarin');
+            // 獲取語音列表 - 需要延遲執行
+            setTimeout(() => {
+                if ('speechSynthesis' in window) {
+                    voices = window.speechSynthesis.getVoices() || [];
+                    console.log('可用語音:', voices);
+                }
+            }, 300);
+        });
+    </script>
+
+<!-- === 1. Firebase SDK 引入 === -->
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+
+<!-- === 2. Firebase 初始化與配置 (這裡修復了您漏掉的啟動碼) === -->
+<script>
+  const firebaseConfig = {
+    apiKey: "AIzaSyBgwrgn2m343mRJb0WjzUhteiospegXhvI",
+    authDomain: "sansidata.firebaseapp.com",
+    projectId: "sansidata",
+    storageBucket: "sansidata.firebasestorage.app",
+    messagingSenderId: "580288358575",
+    appId: "1:580288358575:web:35dcf4e79bcef530de4c5a",
+    databaseURL: "https://sansidata-default-rtdb.firebaseio.com" 
+  };
+
+  // ★★★ 修正重點：補上初始化指令 ★★★
+  if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+  }
+  
+  // ★★★ 修正重點：定義 database 變數，下面的程式才抓得到 ★★★
+  var database = firebase.database();
+
+  // (選用) 啟用匿名驗證，確保連線權限更穩定
+  firebase.auth().signInAnonymously().catch((error) => {
+      console.error("Auth Error:", error);
+  });
+</script>
+
+
+<!-- === [還原版] 神思大數據收集模組 (30秒=1分鐘邏輯) === -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    let totalSeconds = 0;
+    let timerInterval = null;
+
+    // 1. 獲取日期路徑
+    function getDateParts() {
+        const now = new Date();
+        const y = String(now.getFullYear());
+        const m = String(now.getMonth() + 1).padStart(2, '0');
+        const d = String(now.getDate()).padStart(2, '0');
+        return { y, m, d };
+    }
+
+    // 2. 獲取身份
+    function getIdentity() {
+        const rawProfile = localStorage.getItem('studentProfile');
+        let s = null;
+        try { if(rawProfile) s = JSON.parse(rawProfile); } catch (e) {}
+
+        if (s && s.grade && s.class) {
+            const safeName = s.name.replace(/[.#$/[\]]/g, '_'); 
+            return { type: 'student', id: s.uid || `stu_${s.grade}${s.class}_${safeName}`, grade: s.grade, class: s.class };
+        } else {
+            let guestID = localStorage.getItem('sansi_guest_uuid');
+            if (!guestID) {
+                guestID = 'guest_' + Math.random().toString(36).substr(2, 9);
+                localStorage.setItem('sansi_guest_uuid', guestID);
+            }
+            return { type: 'guest', id: guestID, grade: 'Guest', class: 'Visitor' };
+        }
+    }
+
+// === 3. 記錄訪問 (Log Visit) - 高效分流版 ===
+// === 3. 記錄訪問 (Log Visit) - 高效分流版 (含 stats_school 邏輯) ===
+async function logVisitOnce() {
+    if (typeof firebase === 'undefined' || !database) return;
+    
+    const { y, m, d } = getDateParts();
+    const identity = getIdentity();
+    const uid = identity.id;
+
+    // Session 鎖
+    const sessionKey = `sansi_visit_logged_${y}${m}${d}_${uid}`;
+    if (sessionStorage.getItem(sessionKey)) return; 
+
+    // 檢查 Tracking (判斷是否為今日首次)
+    const trackingRef = database.ref(`stats_tracking/${y}/${m}/${d}/unique_users/${uid}`);
+    
+    try {
+        const snap = await trackingRef.once('value');
+        const isFirstTimeToday = !snap.exists();
+
+        const updates = {};
+        const increment1 = firebase.database.ServerValue.increment(1);
+        
+        // 1. 全校總覽路徑 (含訪客) - stats_global
+        const globalPath = `stats_global/${y}/${m}/${d}`;
+        updates[`${globalPath}/visits`] = increment1;
+
+        // ★★★ 新增：純學校路徑 (僅學生) - stats_school ★★★
+        const schoolPath = `stats_school/${y}/${m}/${d}`;
+
+        if (identity.type === 'student') {
+            const classKey = `${identity.grade}${identity.class}`;
+            const studentKey = identity.id.split('_').pop(); // 名字
+
+            // 學生同時寫入 stats_school
+            updates[`${schoolPath}/visits`] = increment1;
+
+            // 2. 班級路徑 (stats_classes/6A/YYYY/MM/DD)
+            const classPath = `stats_classes/${classKey}/${y}/${m}/${d}`;
+            updates[`${classPath}/visits`] = increment1;
+
+            // 3. 學生路徑 (stats_students/6A/陳大文/YYYY/MM/DD)
+            const studentPath = `stats_students/${classKey}/${studentKey}/${y}/${m}/${d}`;
+            updates[`${studentPath}/visits`] = increment1;
+
+            if (isFirstTimeToday) {
+                updates[`stats_tracking/${y}/${m}/${d}/unique_users/${uid}`] = true;
+                
+                // 更新 global unique
+                updates[`${globalPath}/unique`] = increment1;
+                
+                // ★ 更新 school unique (僅學生)
+                updates[`${schoolPath}/unique`] = increment1;
+                
+                // 更新 class unique
+                updates[`${classPath}/unique`] = increment1;
+            }
+        } else {
+            // 訪客 (只寫入 global，不寫入 school)
+            if (isFirstTimeToday) {
+                updates[`stats_tracking/${y}/${m}/${d}/unique_users/${uid}`] = true;
+                updates[`${globalPath}/unique`] = increment1;
+            }
+        }
+
+        await database.ref().update(updates);
+        sessionStorage.setItem(sessionKey, 'true');
+        console.log("📍 [Stats] 訪問計數已分流上傳 (含 stats_school)");
+
+    } catch (e) {
+        console.error("Stats Error:", e);
+    }
+}
+
+// 4. 上傳 1 分鐘 (分流版 - 除錯模式)
+function uploadOneMinute() {
+    if (typeof firebase === 'undefined' || !database) return;
+    
+    logVisitOnce(); 
+
+    const { y, m, d } = getDateParts();
+    const identity = getIdentity();
+    
+    // 獲取學生名稱 Key (防呆)
+    const studentKey = identity.id.includes('_') ? identity.id.split('_').pop() : identity.name; 
+    
+    const updates = {};
+    const increment60 = firebase.database.ServerValue.increment(60);
+
+    // 1. 全域 (Global)
+    updates[`stats_global/${y}/${m}/${d}/duration`] = increment60;
+
+    // ★★★ 2. 學生身份判斷 ★★★
+    if (identity.type === 'student') {
+        const classKey = `${identity.grade}${identity.class}`;
+
+        // Path A: 全校 (這是您缺少的)
+        const pathSchool = `stats_school/${y}/${m}/${d}/duration`;
+        updates[pathSchool] = increment60;
+
+        // Path B: 班級
+        const pathClass = `stats_classes/${classKey}/${y}/${m}/${d}/duration`;
+        updates[pathClass] = increment60;
+        
+        // Path C: 個人
+        const pathStudent = `stats_students/${classKey}/${studentKey}/${y}/${m}/${d}/duration`;
+        updates[pathStudent] = increment60;
+
+        // ★ 除錯訊息：請在 F12 Console 查看是否出現此行 ★
+        console.log(`[Stats] 正在上傳時長... 目標包含: ${pathSchool}`);
+    } else {
+        console.log("[Stats] 當前為訪客身份，不寫入 stats_school");
+    }
+
+    database.ref().update(updates)
+        .then(() => console.log("✅ [Stats] 時長上傳成功"))
+        .catch(e => console.error("❌ [Stats] 上傳失敗 (請檢查 Rules):", e));
+}
+
+    // 5. 計時器啟動 (還原你的邏輯)
+    function startTimer() {
+        if (timerInterval) return;
+        console.log("▶️ [Stats] 計時器啟動");
+        
+        timerInterval = setInterval(() => {
+            totalSeconds++;
+            
+            // ★★★ 你的原始邏輯 ★★★
+            // 30秒 -> 傳送 (算1分鐘)
+            // 90秒 (1分30秒) -> 傳送 (算2分鐘)
+            // 150秒 (2分30秒) -> 傳送 (算3分鐘)
+            if (totalSeconds === 30 || (totalSeconds > 30 && (totalSeconds - 30) % 60 === 0)) {
+                uploadOneMinute();
+            }
+        }, 1000);
+    }
+
+    function pauseTimer() {
+        if (timerInterval) {
+            clearInterval(timerInterval);
+            timerInterval = null;
+            console.log("⏸️ [Stats] 暫停計時 (當前累計: " + totalSeconds + "s)");
+            // 注意：這裡不再有 uploadDuration(unsaved)，未滿的部分直接捨棄
+        }
+    }
+
+    // 延遲啟動
+    setTimeout(() => {
+        logVisitOnce();
+        startTimer();
+    }, 3000);
+
+    // 偵測頁面狀態
+    document.addEventListener('visibilitychange', function() {
+        if (document.visibilityState === 'hidden') pauseTimer();
+        else startTimer();
+    });
+    
+    window.forceLogVisit = logVisitOnce;
+});
+</script>
+
+
+
+
+    <script>
+
+
+
+// ★★★★★ 請將代碼貼在這裡 (原本的內容之下，script 結束標籤之上) ★★★★★
+
+    // =======================================================
+    // === [新增] 在線狀態自動報到系統 (Presence System) ===
+    // =======================================================
+    function initPresenceSystem() {
+        // 延遲執行，確保 Firebase 已初始化且本地存儲已讀取
+        setTimeout(() => {
+            if (typeof database === 'undefined') return;
+
+            // 1. 監聽連線狀態
+            const connectedRef = database.ref('.info/connected');
+
+            connectedRef.on('value', (snap) => {
+                if (snap.val() === true) {
+                    // === 連線成功，準備資料 ===
+                    
+                    // 獲取用戶資料
+                    const s = JSON.parse(localStorage.getItem('studentProfile'));
+                    let myUid = "";
+                    let userData = {};
+
+                    // A. 判斷身分
+                    if (s && s.name) {
+                        // --- 已登入用戶 (學生/老師/特許) ---
+                        const user = firebase.auth().currentUser;
+                        myUid = user ? user.uid : `stu_${s.grade}${s.class}_${s.name}`;
+                        
+                        // 準備寫入的資料
+                        userData = {
+                            name: s.name,
+                            grade: s.grade,
+                            class: s.class,
+                            timestamp: firebase.database.ServerValue.TIMESTAMP,
+                            device: /Mobile|Android/i.test(navigator.userAgent) ? 'Mobile' : 'Desktop'
+                        };
+                    } else {
+                        // --- 訪客 ---
+                        let guestId = localStorage.getItem('sansi_guest_uuid');
+                        if (!guestId) {
+                            guestId = 'guest_' + Math.random().toString(36).substr(2, 9);
+                            localStorage.setItem('sansi_guest_uuid', guestId);
+                        }
+                        myUid = guestId;
+
+                        userData = {
+                            name: "訪客",
+                            grade: "Guest",
+                            class: "Visitor",
+                            timestamp: firebase.database.ServerValue.TIMESTAMP
+                        };
+                    }
+
+                    // B. 執行 Firebase 動作
+                    const myPresenceRef = database.ref(`online_users/${myUid}`);
+
+                    // 關鍵指令：當客戶端斷線時，自動刪除這筆資料
+                    myPresenceRef.onDisconnect().remove().then(() => {
+                        // 斷線指令設定成功後，寫入當前狀態
+                        myPresenceRef.set(userData);
+                    });
+                }
+            });
+        }, 2000); // 延遲 2 秒啟動
+    }
+
+    // 啟動報到系統
+    document.addEventListener('DOMContentLoaded', initPresenceSystem);
+
+
+
+	
+</script>
+    
+
+    
+</body>
+</html>
+
